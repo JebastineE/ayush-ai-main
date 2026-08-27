@@ -33,7 +33,6 @@ _WHITE  = colors.white
 
 def generate_escalation_pdf(
     messages: List[Dict[str, Any]],
-    formulation_result: Optional[Dict] = None,
     citations: Optional[List[Dict]] = None,
     session_id: Optional[str] = None,
 ) -> bytes:
@@ -114,47 +113,7 @@ def generate_escalation_pdf(
         disc_s,
     ))
 
-    # ── Formulation Classification ─────────────────────────────────────────
-    if formulation_result:
-        story += [
-            Paragraph("Formulation Classification Result", section_s),
-            HRFlowable(width="100%", thickness=0.5, color=_LBLUE),
-            Spacer(1, 0.1*cm),
-        ]
-        cls_rows = [
-            ["Classification:",    formulation_result.get("classification", "N/A")],
-            ["Statutory Provision:", formulation_result.get("statutory_provision", "N/A")],
-            ["Approval Timeline:", formulation_result.get("approval_timeline", "N/A")],
-        ]
-        if formulation_result.get("ip_posture"):
-            cls_rows.append(["IP Posture:", formulation_result["ip_posture"]])
-        if formulation_result.get("abs_duties"):
-            cls_rows.append(["ABS Duties:", formulation_result["abs_duties"]])
 
-        ct = Table(cls_rows, colWidths=[4*cm, 12*cm])
-        ct.setStyle(TableStyle([
-            ("FONTNAME",  (0, 0), (0, -1), "Helvetica-Bold"),
-            ("FONTNAME",  (1, 0), (1, -1), "Helvetica"),
-            ("FONTSIZE",  (0, 0), (-1, -1), 9),
-            ("VALIGN",    (0, 0), (-1, -1), "TOP"),
-            ("TOPPADDING",    (0, 0), (-1, -1), 3),
-            ("BOTTOMPADDING", (0, 0), (-1, -1), 3),
-            ("ROWBACKGROUNDS", (0, 0), (-1, -1), [_STRIPE, _WHITE]),
-            ("GRID", (0, 0), (-1, -1), 0.25, _BORDER),
-            ("WORDWRAP", (1, 0), (1, -1), True),
-        ]))
-        story.append(ct)
-        story.append(Spacer(1, 0.2*cm))
-
-        if formulation_result.get("required_forms"):
-            story.append(Paragraph("Required Forms:", label_s))
-            for f in formulation_result["required_forms"]:
-                story.append(Paragraph(f"  \u2022 {f}", body_s))
-
-        if formulation_result.get("recommended_next_steps"):
-            story.append(Paragraph("Recommended Next Steps:", label_s))
-            for s in formulation_result["recommended_next_steps"]:
-                story.append(Paragraph(f"  \u2022 {s}", body_s))
 
     # ── Chat Transcript ────────────────────────────────────────────────────
     if messages:

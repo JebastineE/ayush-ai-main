@@ -8,6 +8,7 @@ pypdf
 pymupdf4llm
 qdrant-client
 google-genai
+google-cloud-bigquery
 python-dotenv
 rank-bm25
 httpx

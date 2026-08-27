@@ -1,0 +1,83 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.2 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.22.185:3000
+- Environments: .env.local
+✓ Ready in 643ms
+⚠ Warning: Next.js ignored package-lock.json in C:\Users\JEBASTINE E because it is outside the current Git repository (C:\Users\JEBASTINE E\Desktop\sih\ayush-ai-main copy).
+ To use this directory, set `turbopack.root` in your Next.js config.
+
+✓ Running next.config.ts took 41ms
+
+ GET / 200 in 510ms (next.js: 310ms, application-code: 199ms)
+ GET / 200 in 34ms (next.js: 5ms, application-code: 28ms)
+ GET / 200 in 68ms (next.js: 8ms, application-code: 60ms)
+ GET / 200 in 27ms (next.js: 12ms, application-code: 15ms)
+✓ Compiled in 98ms
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+✓ Compiled in 90ms
+⨯ ReferenceError: DEMO_CLAIM is not defined
+    at BiopiracyScanner (components\BiopiracyScanner.tsx:112:36)
+  110 |             value={claim}
+  111 |             onChange={e => setClaim(e.target.value)}
+> 112 |             placeholder={`e.g., "${DEMO_CLAIM}"`}
+      |                                    ^
+  113 |             className="w-full bg-surface-container-lowest border border-outline-variant/50 rounded-lg p-3 text-body-md resize-none focus:outline-none focus:ring-2 focus:ring-primary-container/30 focus:border-primary-container/50 ...
+  114 |           />
+  115 |           <p className="text-ui-label-sm text-secondary mt-1"> {
+  digest: '3565437101'
+}
+ GET / 500 in 181ms (next.js: 27ms, application-code: 154ms)
+⨯ ReferenceError: DEMO_CLAIM is not defined
+    at BiopiracyScanner (components\BiopiracyScanner.tsx:112:36)
+  110 |             value={claim}
+  111 |             onChange={e => setClaim(e.target.value)}
+> 112 |             placeholder={`e.g., "${DEMO_CLAIM}"`}
+      |                                    ^
+  113 |             className="w-full bg-surface-container-lowest border border-outline-variant/50 rounded-lg p-3 text-body-md resize-none focus:outline-none focus:ring-2 focus:ring-primary-container/30 focus:border-primary-container/50 ...
+  114 |           />
+  115 |           <p className="text-ui-label-sm text-secondary mt-1"> {
+  digest: '3565437101'
+}
+ GET / 500 in 56ms (next.js: 9ms, application-code: 47ms)
+ GET / 200 in 40ms (next.js: 9ms, application-code: 31ms)
+ GET / 200 in 24ms (next.js: 8ms, application-code: 16ms)
+✓ Compiled in 75ms
+ GET / 200 in 24ms (next.js: 9ms, application-code: 15ms)
+✓ Compiled in 31ms
+ GET / 200 in 27ms (next.js: 9ms, application-code: 17ms)
+✓ Compiled in 70ms
+ GET / 200 in 30ms (next.js: 5ms, application-code: 25ms)
+ GET / 200 in 53ms (next.js: 9ms, application-code: 44ms)
+ GET / 200 in 60ms (next.js: 10ms, application-code: 50ms)
+ GET / 200 in 56ms (next.js: 8ms, application-code: 48ms)
+[browser] Received NaN for the `children` attribute. If this is expected, cast the value to a string. 
+✓ Compiled in 192ms
+ GET / 200 in 68ms (next.js: 37ms, application-code: 31ms)
+ GET / 200 in 38ms (next.js: 17ms, application-code: 20ms)
+✓ Compiled in 71ms
+ GET / 200 in 23ms (next.js: 8ms, application-code: 15ms)
+✓ Compiled in 43ms
+✓ Compiled in 62ms
+ GET / 200 in 41ms (next.js: 15ms, application-code: 26ms)
+ GET / 200 in 23ms (next.js: 8ms, application-code: 15ms)
+✓ Compiled in 32ms
+ GET / 200 in 30ms (next.js: 14ms, application-code: 16ms)
+✓ Compiled in 34ms
+ GET / 200 in 28ms (next.js: 4ms, application-code: 24ms)
+ GET / 200 in 66ms (next.js: 16ms, application-code: 50ms)
+[browser] Received NaN for the `children` attribute. If this is expected, cast the value to a string. 
+ GET / 200 in 25ms (next.js: 10ms, application-code: 14ms)
+✓ Compiled in 44ms
+ GET / 200 in 22ms (next.js: 8ms, application-code: 15ms)
+✓ Compiled in 41ms
+ GET / 200 in 27ms (next.js: 4ms, application-code: 24ms)
+ GET / 200 in 57ms (next.js: 9ms, application-code: 47ms)
+ GET / 200 in 52ms (next.js: 9ms, application-code: 42ms)
+ GET / 200 in 42ms (next.js: 8ms, application-code: 33ms)
+ GET / 200 in 49ms (next.js: 7ms, application-code: 42ms)
+ GET / 200 in 58ms (next.js: 9ms, application-code: 49ms)
+ GET / 200 in 72ms (next.js: 19ms, application-code: 53ms)

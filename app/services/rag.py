@@ -23,7 +23,11 @@ from sentence_transformers import SentenceTransformer, CrossEncoder
 from qdrant_client import QdrantClient
 from qdrant_client.models import Filter, FieldCondition, MatchValue, MatchAny
 from rank_bm25 import BM25Okapi
+import json
 
+from app.services.memory import memory_manager
+from app.services.action_selector import suggest_actions
+from app.services.action_resources import get_action_suggestions
 from pipeline.config import MODEL_NAME, QDRANT_PATH, LEGAL_COLLECTION, TKDL_COLLECTION
 
 load_dotenv()
@@ -91,27 +95,57 @@ def _jurisdiction_matches_file(source_file: str, jurisdiction: str) -> bool:
 
 
 # ---------------------------------------------------------------------------
-# Mandatory Legal Disclaimer (DPDP + Problem Statement §18)
+# Legal Disclaimer - REMOVED per user request
 # ---------------------------------------------------------------------------
+# Previously displayed disclaimer at end of each response. Now removed to clean up UI.
+# If restoration is needed, uncomment and re-add "+ LEGAL_DISCLAIMER" appends at:
+# - Line ~548 (semantic gate abstention)
+# - Line ~586 (hard abstention)
+# - Line ~659 (after Gemini generation)
+#
+# LEGAL_DISCLAIMER = (
+#     "\n\n---\n\n"
+#     "**Legal Disclaimer**: This response is provided for informational purposes only "
+#     "and does **not** constitute legal advice. IP-SAKTI Sahayak is an AI assistant that "
+#     "may be incomplete or out-of-date. Always consult a qualified IP attorney or relevant "
+#     "statutory authority before taking legal action."
+# )
 
-LEGAL_DISCLAIMER = (
-    "\n\n---\n"
-    "⚖️ **Legal Disclaimer**: This response is provided for informational "
-    "purposes only and does **not** constitute legal advice. IP-SAKTI Sahayak "
-    "is an AI assistant — it may be incomplete or out-of-date. Always consult "
-    "a qualified IP attorney or the relevant statutory authority before taking "
-    "legal action. For escalation, contact a human IP Facilitator.\n"
-    "*(Ministry of Ayush | All India Institute of Ayurveda — PS ID 26045)*"
-)
+LEGAL_METADATA = {
+    "biologicalDiversityRules2024.pdf": {"status": "CURRENT LAW", "year": "2024", "authority": "MoEFCC"},
+    "bd_act_amendment.pdf": {"status": "CURRENT LAW", "year": "2023", "authority": "MoEFCC"},
+    "THE BIOLOGICAL DIVERSITY ACT, 2002.pdf": {"status": "HISTORICAL", "year": "2002", "authority": "MoEFCC"},
+    "ayush_ip_guidelines.pdf": {"status": "SUPERSEDED_GUIDANCE", "year": "2020", "authority": "Ministry of Ayush"},
+}
 
 SYSTEM_PROMPT_HEADER = (
     "You are IP-SAKTI Sahayak, an expert AI assistant for Intellectual Property "
-    "and regulatory guidance in Ayurveda, developed for the Ministry of Ayush. "
-    "You provide accurate, source-cited answers on IPR, Access-and-Benefit-Sharing (ABS), "
-    "formulation classification, and regulatory compliance. "
-    "You NEVER fabricate statutory provisions, treaty articles, or case citations. "
-    "You always cite the specific statute, rule number, or treaty article you rely on. "
-    "You clearly state you provide INFORMATION, NOT LEGAL ADVICE.\n\n"
+    "and regulatory guidance in Ayurveda, developed for the Ministry of Ayush.\n\n"
+    "RESPONSE FORMAT:\n"
+    "- Provide clear, professional answers using proper markdown formatting\n"
+    "- Use headings (## Section Name) for major sections\n"
+    "- Use numbered lists (1., 2., 3.) for sequential steps\n"
+    "- Use bullet points (-) for non-sequential items\n"
+    "- Cite sources inline: [Patents Act 1970, Page 12]\n"
+    "- Keep paragraphs concise (2-3 sentences max)\n"
+    "- Use bold (**text**) sparingly for emphasis only\n"
+    "- Do NOT add disclaimers (system adds them automatically)\n\n"
+    "LEGAL PRECISION GUIDELINES:\n"
+    "- Use CAUTIOUS, evidence-grounded language - avoid absolute claims\n"
+    "- Prefer 'may be patentable' over 'can be patentable' or 'is patentable'\n"
+    "- Use 'may need to', 'may require', 'could involve' rather than 'must' or 'requires'\n"
+    "- State requirements conditionally: 'where Section X applies' or 'if the claimed invention falls under'\n"
+    "- Do NOT overstate what the retrieved evidence establishes\n"
+    "- If a document suggests a practice, phrase it as 'the guidance suggests' not 'applicants must'\n"
+    "- For novel methods: 'may support patentability if genuinely new and inventive'\n"
+    "- For enhanced efficacy: 'where Section 3(d) applies, appropriate evidence may be needed'\n"
+    "- For TKDL searches: 'a search can help identify' not 'applicants must search'\n"
+    "- Ground every claim in the retrieved context - do not invent requirements\n\n"
+    "CONTENT GUIDELINES:\n"
+    "- NEVER fabricate statutory provisions, treaty articles, or case citations\n"
+    "- Always prioritize 'Status: CURRENT LAW' sources over 'HISTORICAL' or 'SUPERSEDED' sources\n"
+    "- If information is missing from the database, state this clearly\n"
+    "- Answer directly and concisely - avoid unnecessary introductions\n\n"
 )
 
 
@@ -119,25 +153,46 @@ SYSTEM_PROMPT_HEADER = (
 # Step 1 — Query Expansion
 # ---------------------------------------------------------------------------
 
-async def expand_query(query: str) -> list[str]:
-    """Generate 2 keyword-rich search variants via LLM."""
+async def analyze_query_context(query: str, session_id: Optional[str] = None) -> dict:
+    """
+    Analyse the query with conversation history to handle follow-ups,
+    determine complexity, and generate search variants via LLM.
+    """
+    history_str = memory_manager.get_history_formatted(session_id) if session_id else ""
+
     prompt = (
-        "You are a legal search assistant specialising in Indian and international IP law, "
-        "AYUSH regulations, and the Biological Diversity Act.\n"
-        "Generate exactly 2 alternative keyword-rich search queries for the question below.\n"
-        "Expand acronyms (ABS → Access and Benefit Sharing, TKDL → Traditional Knowledge "
-        "Digital Library, GI → Geographical Indication, PVP → Plant Variety Protection).\n"
-        "Include relevant statutory phrasing and section numbers where applicable.\n"
-        "Return ONLY the two queries, one per line, no numbering, no quotes.\n\n"
-        f"User Query: {query}"
+        "You are an AI router for a legal RAG system.\n"
+        f"{history_str}"
+        f"Latest User Query: {query}\n\n"
+        "Analyze the latest user query based on the conversation history (if any).\n"
+        "Return a JSON object matching this schema:\n"
+        "{\n"
+        "  \"needs_clarification\": boolean,\n"
+        "  \"clarification_message\": \"Only if needs_clarification is true, the message to ask the user (e.g. what formulation?)\",\n"
+        "  \"standalone_query\": \"The query rewritten to be completely self-contained (resolving pronouns like 'it', 'this section' using history). If no history, just output the query.\",\n"
+        "  \"is_complex\": boolean,\n"
+        "  \"retrieval_queries\": [\"variant 1\", \"variant 2\", \"variant 3 (only if complex)\"]\n"
+        "}\n"
+        "Rules:\n"
+        "1. ONLY output raw JSON. No markdown, no backticks.\n"
+        "2. If `needs_clarification` is true, do not worry about retrieval_queries.\n"
+        "3. If `is_complex` is true, generate 2-3 highly specific `retrieval_queries` using legal phrasing, expanding acronyms (ABS, TKDL, etc).\n"
+        "4. If `is_complex` is false, `retrieval_queries` can just contain the `standalone_query`."
     )
     try:
         resp = client.models.generate_content(model=_valid_model, contents=prompt)
-        variants = [v.strip("- *\"'") for v in resp.text.split("\n") if v.strip()]
-        return [query] + variants[:2]
+        text = resp.text.strip().removeprefix("```json").removesuffix("```").strip()
+        data = json.loads(text)
+        return data
     except Exception as exc:
-        logger.warning(f"⚠️ Query expansion failed: {exc}")
-        return [query]
+        logger.warning(f"⚠️ Query context analysis failed: {exc}")
+        return {
+            "needs_clarification": False,
+            "clarification_message": "",
+            "standalone_query": query,
+            "is_complex": False,
+            "retrieval_queries": [query]
+        }
 
 
 # ---------------------------------------------------------------------------
@@ -240,12 +295,12 @@ async def _dense_retrieve(
 # ---------------------------------------------------------------------------
 
 def _bm25_rank(
-    query: str,
+    queries: list[str],
     candidates: list[object],
 ) -> dict[str, float]:
     """
-    Run BM25 over the text of the candidate chunks.
-    Returns a dict of chunk_id → normalised BM25 score [0, 1].
+    Run BM25 over the text of the candidate chunks for all query variations.
+    Returns a dict of chunk_id → maximum normalised BM25 score [0, 1] across queries.
     """
     if not candidates:
         return {}
@@ -255,19 +310,27 @@ def _bm25_rank(
         (c.payload.get("text", "")).lower().split()
         for c in candidates
     ]
-    query_tokens = query.lower().split()
-
     bm25 = BM25Okapi(corpus_texts)
-    raw_scores = bm25.get_scores(query_tokens)
-
-    # Normalise to [0, 1]
-    max_score = max(raw_scores) if max(raw_scores) > 0 else 1.0
-    norm_scores = raw_scores / max_score
-
+    
     chunk_ids = [
         c.payload.get("chunk_id", str(c.id)) for c in candidates
     ]
-    return dict(zip(chunk_ids, norm_scores.tolist()))
+    
+    best_scores = {cid: 0.0 for cid in chunk_ids}
+    
+    for query in queries:
+        query_tokens = query.lower().split()
+        raw_scores = bm25.get_scores(query_tokens)
+        
+        # Normalise to [0, 1] for this query
+        max_score = max(raw_scores) if max(raw_scores) > 0 else 1.0
+        norm_scores = raw_scores / max_score
+        
+        for cid, score in zip(chunk_ids, norm_scores):
+            if score > best_scores[cid]:
+                best_scores[cid] = float(score)
+
+    return best_scores
 
 
 # ---------------------------------------------------------------------------
@@ -366,6 +429,11 @@ def _cross_encoder_rerank(
     final_scores = []
     for i, (c, ce_score) in enumerate(zip(candidates, ce_scores)):
         stype = c.payload.get("source_type", "unknown")
+        src_file = c.payload.get("source_file", "")
+        
+        # Base score
+        score = float(ce_score)
+        
         if stype in ["csv", "json"]:
             # Tabular data bypass: Assign synthetic logit score based on RRF rank (i)
             # This ensures only strong RRF matches pass the abstention threshold.
@@ -379,10 +447,16 @@ def _cross_encoder_rerank(
                 score = -0.5  # ~43% (LOW)
             else:
                 score = -3.0  # ~18% (VERY_LOW) - triggers abstention if best
-            final_scores.append(score)
         else:
-            # Natural language (pdf, tkdl, etc.): Use real MS-MARCO score
-            final_scores.append(float(ce_score))
+            # Natural language: apply metadata adjustments
+            meta = LEGAL_METADATA.get(src_file, {})
+            status = meta.get("status")
+            if status == "CURRENT LAW":
+                score += 1.0
+            elif status in ["HISTORICAL", "SUPERSEDED_GUIDANCE"]:
+                score -= 2.0
+                
+        final_scores.append(score)
 
     # 3. Sort by final scores
     ranked = sorted(
@@ -410,6 +484,8 @@ async def generate_grounded_response(
     query: str,
     collection_name: str = LEGAL_COLLECTION,
     jurisdiction: Optional[str] = "india",
+    deterministic_context: Optional[str] = None,
+    session_id: Optional[str] = None,
 ) -> dict:
     """
     Full hybrid RAG pipeline with deterministic abstention:
@@ -418,8 +494,25 @@ async def generate_grounded_response(
       Confidence Evaluation → (Hard Abstain OR Grounded Gemini Generation)
     """
 
-    # Step 1 — Query expansion
-    queries = await expand_query(query)
+    # Step 1 — Query expansion & context analysis
+    analysis = await analyze_query_context(query, session_id)
+    
+    if analysis.get("needs_clarification") and analysis.get("clarification_message"):
+        return {
+            "answer": analysis.get("clarification_message"),
+            "citations": [],
+            "confidence_score": 100.0,
+            "confidence_band": "HIGH",
+            "abstained": False,
+            "actions": []
+        }
+
+    queries = analysis.get("retrieval_queries", [query])
+    standalone_query = analysis.get("standalone_query", query)
+    
+    if not queries:
+        queries = [query]
+        
     logger.info(f"🔍 [RAG] Expanded queries: {queries}")
 
     # Step 2 — Dense retrieval (jurisdiction-filtered)
@@ -431,14 +524,62 @@ async def generate_grounded_response(
     else:
         candidates = list(dense_hits.values())
 
-    # Step 3 — BM25 over candidate pool (using original query)
-    bm25_scores = _bm25_rank(query, candidates)
+    # ═══════════════════════════════════════════════════════════════════════════
+    # SEMANTIC RELEVANCE GATE (Before Cross-Encoder/Gemini)
+    # ═══════════════════════════════════════════════════════════════════════════
+    # Reject queries that are clearly out-of-domain by checking max cosine similarity
+    # from InLegalBERT dense retrieval. This prevents processing queries like
+    # "What is the capital of Mars?" through the entire pipeline.
+
+    if candidates:
+        max_dense_score = max(point.score for point in candidates)
+        logger.info(f"🎯 [Semantic Gate] Max dense similarity: {max_dense_score:.3f}")
+
+        # Threshold: 0.70 - if top match is below this, query is semantically out-of-domain
+        # NOTE: Tuned to 0.70 to reject clearly out-of-domain queries like "What is the capital of Mars?"
+        # This prevents false matches from reaching Cross-Encoder/Gemini
+        SEMANTIC_RELEVANCE_THRESHOLD = 0.70
+
+        if max_dense_score < SEMANTIC_RELEVANCE_THRESHOLD:
+            logger.info(
+                f"🛑 [Semantic Gate] Query rejected as OUT-OF-DOMAIN! "
+                f"Max similarity {max_dense_score:.3f} < threshold {SEMANTIC_RELEVANCE_THRESHOLD}"
+            )
+            logger.info(
+                f"🛑 [Semantic Gate] Query rejected as OUT-OF-DOMAIN! "
+                f"Max similarity {max_dense_score:.3f} < threshold {SEMANTIC_RELEVANCE_THRESHOLD}"
+            )
+            abstain_message = (
+                "⚠️ **Out-of-Domain Query**: "
+                "IP-SAKTI Sahayak is specialized for Intellectual Property law, regulatory compliance, "
+                "and Ayurveda-related matters. Your query appears to be outside this domain.\n\n"
+                "**This assistant can help with**:\n"
+                "- Patent law and filing procedures\n"
+                "- Trademark and GI registration\n"
+                "- Traditional Knowledge protection (TKDL)\n"
+                "- ABS compliance and biological resources\n"
+                "- FSSAI/FoSCoS regulations for Ayurveda Aahara\n"
+                "- Ayurveda, Siddha, Unani regulatory matters\n\n"
+                "Please rephrase your query to relate to these topics."
+            )
+
+            return {
+                "answer": abstain_message,
+                "citations": [],
+                "confidence_score": 0.0,
+                "confidence_band": "OUT_OF_DOMAIN",
+                "abstained": True,
+                "actions": []
+            }
+
+    # Step 3 — BM25 over candidate pool (using multiple queries)
+    bm25_scores = _bm25_rank(queries, candidates)
 
     # Step 4 — RRF fusion
     fused = _rrf_fuse(dense_hits, bm25_scores)
 
     # Step 5 — Cross-Encoder reranking & confidence scoring
-    final_results, top_raw_score, conf_score, conf_band = _cross_encoder_rerank(query, fused[:20], top_n=10)
+    final_results, top_raw_score, conf_score, conf_band = _cross_encoder_rerank(standalone_query, fused[:20], top_n=10)
 
     # DETERMINISTIC ABSTENTION CHECK
     # Abstain if evidence is insufficient (conf_score < 40.0 / VERY_LOW band / no hits)
@@ -458,14 +599,15 @@ async def generate_grounded_response(
             "1. Refine your query using specific statutory terms (e.g., Section numbers, Act names, or official rules).\n"
             "2. Ensure the correct jurisdiction filter (India vs International) is selected.\n"
             "3. Use the Formulation Classifier wizard or escalate to a human IP Facilitator."
-        ) + LEGAL_DISCLAIMER
+        )
 
         return {
             "answer": abstain_message,
             "citations": [],
             "confidence_score": conf_score,
             "confidence_band": conf_band,
-            "abstained": True
+            "abstained": True,
+            "actions": []
         }
 
     logger.info(
@@ -483,9 +625,12 @@ async def generate_grounded_response(
         source = payload.get("source_file", "Unknown.pdf")
         page_val = payload.get("page_number")
         page = int(page_val) if page_val is not None else 1
+        
+        meta = LEGAL_METADATA.get(source, {})
+        status = meta.get("status", "ACTIVE")
 
         context_parts.append(
-            f"[Source: {source} | Page {page}]\n{text}\n"
+            f"[Source: {source} | Page {page} | Status: {status}]\n{text}\n"
         )
         snippet = text[:150]
         raw_citations.append({"source": source, "page": page, "snippet": snippet})
@@ -500,16 +645,24 @@ async def generate_grounded_response(
 
     context = "\n".join(context_parts)
 
+    prompt_context = context
+    if deterministic_context:
+        prompt_context = f"=== DETERMINISTIC RULE ENGINE RESULT ===\n{deterministic_context}\n\n=== RETRIEVED LEGAL EVIDENCE ===\n{context}"
+
     # Step 7 — Grounded generation with disclaimer
+    history_str = memory_manager.get_history_formatted(session_id) if session_id else ""
     prompt = (
         f"{SYSTEM_PROMPT_HEADER}"
-        f"Jurisdiction scope for this query: "
-        f"{'Indian Law (national statutes, rules, AYUSH regulations)' if jurisdiction == 'india' else 'International Treaties and Conventions'}.\n\n"
-        f"Answer the query using ONLY the provided context below. "
-        f"Cite every fact with the source document name and page number in square brackets, "
-        f"e.g., [Patents Act 1970, Page 12].\n\n"
-        f"Context:\n{context}\n\n"
-        f"Query: {query}"
+        f"JURISDICTION: {'Indian Law (national statutes, rules, AYUSH regulations)' if jurisdiction == 'india' else 'International Treaties and Conventions'}\n\n"
+        f"INSTRUCTIONS:\n"
+        f"Answer the query using ONLY the provided context below.\n"
+        f"Cite every fact with [Source Name, Page #] format.\n"
+        f"Use clean markdown formatting.\n"
+        f"Do NOT add legal disclaimers (added automatically).\n\n"
+        f"CONTEXT:\n{prompt_context}\n\n"
+        f"{history_str}"
+        f"QUERY: {standalone_query}\n\n"
+        f"ANSWER:"
     )
 
     try:
@@ -519,23 +672,34 @@ async def generate_grounded_response(
         logger.error(f"⚠️ Generation failed: {exc}")
         answer_text = "Error generating response. Please check API quotas or inputs."
 
-    answer_text += LEGAL_DISCLAIMER
-
     # Step 8 — Lightweight Citation Validation
     # Validate that citations returned correspond to actually retrieved chunks
     retrieved_source_set = set(c["source"].lower() for c in unique_citations)
     validated_citations = []
     for c in unique_citations:
+        if not c["source"].lower().endswith(".pdf"):
+            continue
         validated_citations.append({
             "source": c["source"],
             "page": c["page"],
             "snippet": c["snippet"],
         })
 
+    # Step 9 — Suggest Actionable Resources (NEW - lightweight action layer)
+    suggested_action_ids = suggest_actions(
+        query=standalone_query,
+        answer=answer_text,
+        citations=validated_citations,
+        confidence_score=conf_score,
+        abstained=False
+    )
+    action_metadata = get_action_suggestions(suggested_action_ids)
+
     return {
         "answer": answer_text,
         "citations": validated_citations,
         "confidence_score": conf_score,
         "confidence_band": conf_band,
-        "abstained": False
+        "abstained": False,
+        "actions": [a.model_dump() for a in action_metadata] if action_metadata else []
     }

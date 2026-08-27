@@ -1,0 +1,18 @@
+[
+  {
+    "id": "AYUSH-001",
+    "drug_name": "Ashwagandharishta",
+    "system": "Ayurveda",
+    "therapeutic_use": "Nervine tonic, anxiety, general debility",
+    "classical_reference": "Bhaishajya Ratnavali",
+    "schedule": "First Schedule"
+  },
+  {
+    "id": "AYUSH-002",
+    "drug_name": "Sudarshan Churna",
+    "system": "Ayurveda",
+    "therapeutic_use": "Fever, immune booster, digestive disorders",
+    "classical_reference": "Sarangadhara Samhita",
+    "schedule": "First Schedule"
+  }
+]

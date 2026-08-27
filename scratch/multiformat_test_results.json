@@ -1,0 +1,7 @@
+{
+  "pdf_chunks_count": 4,
+  "json_chunks_count": 2,
+  "csv_chunks_count": 3,
+  "embedding_dimension": 768,
+  "status": "PASSED_VERIFIED"
+}

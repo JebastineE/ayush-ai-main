@@ -29,4 +29,4 @@ if os.path.exists(DOCS_DIR):
 async def health_check():
     return {"status": "ok"}
 
-app.include_router(api_router)
+app.include_router(api_router, prefix="/api/v1")

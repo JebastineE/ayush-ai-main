@@ -10,6 +10,8 @@ async def process_chat_with_cache(
     query: str,
     response: Response,
     jurisdiction: str = "india",
+    deterministic_context: str = None,
+    session_id: str = None,
 ):
     """
     Cache wrapper around the hybrid RAG pipeline.
@@ -17,6 +19,10 @@ async def process_chat_with_cache(
     """
     # Include jurisdiction in hash to prevent cross-jurisdiction cache hits
     salted = f"{jurisdiction}::{query}::{CACHE_VERSION}"
+    if deterministic_context:
+        salted += f"::{deterministic_context}"
+    if session_id:
+        salted += f"::{session_id}"
     hash_id = hashlib.sha256(salted.encode("utf-8")).hexdigest()
 
     # Check cache
@@ -30,6 +36,8 @@ async def process_chat_with_cache(
     rag_result = await generate_grounded_response(
         query=query,
         jurisdiction=jurisdiction,
+        deterministic_context=deterministic_context,
+        session_id=session_id,
     )
 
     # Never cache actionable fallbacks or error responses

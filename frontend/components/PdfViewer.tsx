@@ -1,11 +1,12 @@
-import { ZoomIn, ZoomOut, Maximize, Download } from "lucide-react";
+import { ZoomIn, ZoomOut, Maximize, Download, X } from "lucide-react";
 
 interface PdfViewerProps {
   pdfUrl: string | null;
   pageNumber: number | null;
+  onClose?: () => void;
 }
 
-export function PdfViewer({ pdfUrl, pageNumber }: PdfViewerProps) {
+export function PdfViewer({ pdfUrl, pageNumber, onClose }: PdfViewerProps) {
   if (!pdfUrl) {
     return (
       <div className="flex-1 flex items-center justify-center bg-surface-container-low/30 p-8">
@@ -48,6 +49,18 @@ export function PdfViewer({ pdfUrl, pageNumber }: PdfViewerProps) {
           <button className="text-secondary hover:text-primary-container transition-colors p-1.5 hover:bg-surface-container-low/50 rounded-md border border-transparent hover:border-outline-variant/40 flex items-center" title="Download">
             <Download className="w-4 h-4 font-light" />
           </button>
+          {onClose && (
+            <>
+              <div className="h-4 w-px bg-outline-variant/50 mx-1"></div>
+              <button 
+                onClick={onClose} 
+                className="text-secondary hover:text-red-500 transition-colors p-1.5 hover:bg-red-500/10 rounded-md border border-transparent hover:border-red-500/30 flex items-center" 
+                title="Close Viewer"
+              >
+                <X className="w-4 h-4 font-light" />
+              </button>
+            </>
+          )}
         </div>
       </div>
       

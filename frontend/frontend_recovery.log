@@ -1,0 +1,29 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.2 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.22.185:3000
+- Environments: .env.local
+✓ Ready in 650ms
+⚠ Warning: Next.js ignored package-lock.json in C:\Users\JEBASTINE E because it is outside the current Git repository (C:\Users\JEBASTINE E\Desktop\sih\ayush-ai-main copy).
+ To use this directory, set `turbopack.root` in your Next.js config.
+
+✓ Running next.config.ts took 45ms
+
+ GET / 200 in 369ms (next.js: 183ms, application-code: 185ms)
+ GET / 200 in 33ms (next.js: 5ms, application-code: 27ms)
+ GET / 200 in 62ms (next.js: 11ms, application-code: 51ms)
+✓ Compiled in 91ms
+ GET / 200 in 58ms (next.js: 26ms, application-code: 32ms)
+ GET / 200 in 30ms (next.js: 5ms, application-code: 25ms)
+ GET / 200 in 57ms (next.js: 4ms, application-code: 52ms)
+ GET / 200 in 56ms (next.js: 7ms, application-code: 49ms)
+ GET /docs/ayush_ip_guidelines.pdf 404 in 467ms (next.js: 408ms, application-code: 59ms)
+  Reload env: .env.local
+✓ Compiled in 44ms
+ GET / 200 in 147ms (next.js: 88ms, application-code: 58ms)
+ GET / 200 in 34ms (next.js: 8ms, application-code: 27ms)
+✓ Compiled in 59ms
+ GET / 200 in 39ms (next.js: 15ms, application-code: 24ms)

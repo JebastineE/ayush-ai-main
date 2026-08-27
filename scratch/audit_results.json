@@ -1,0 +1,45 @@
+{
+  "1_dataset": {
+    "counts": {
+      "pdf": 57,
+      "json": 98,
+      "csv": 45,
+      "other": 16
+    },
+    "sizes_bytes": {
+      "pdf": 54392284,
+      "json": 3566927,
+      "csv": 489705,
+      "other": 111440
+    }
+  },
+  "2_chunks": {
+    "legal_chunks.jsonl": {
+      "count": 7511,
+      "sample_source_type": "unknown",
+      "sample_text_len": 279
+    },
+    "json_chunks.jsonl": {
+      "count": 6099,
+      "sample_source_type": "json",
+      "sample_text_len": 1714
+    },
+    "csv_chunks.jsonl": {
+      "count": 3026,
+      "sample_source_type": "csv",
+      "sample_text_len": 186
+    },
+    "tkdl_chunks.jsonl": {
+      "count": 1731,
+      "sample_source_type": "unknown",
+      "sample_text_len": 512
+    }
+  },
+  "3_embeddings": {},
+  "4_qdrant": {},
+  "5_consistency": {},
+  "retrieval": {},
+  "rag": {},
+  "rules": {},
+  "performance": {}
+}

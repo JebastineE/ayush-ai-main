@@ -4,8 +4,6 @@ import { useState, useRef, useEffect, useCallback } from "react";
 import { Navbar }                from "@/components/Navbar";
 import { ToolTabs }              from "@/components/ToolTabs";
 import { ChatInterface }         from "@/components/ChatInterface";
-import { ABSNavigator }          from "@/components/ABSNavigator";
-import { FormulationClassifier } from "@/components/FormulationClassifier";
 import { PdfViewer }             from "@/components/PdfViewer";
 import { BiopiracyScanner }      from "@/components/BiopiracyScanner";
 import { ChevronDown, Zap }      from "lucide-react";
@@ -25,28 +23,10 @@ interface DemoScenario {
   tab:         string;
   // Payload fields set when button is clicked
   chatQuery?:        string;
-  absEntityType?:    "Indian" | "Foreign";
-  absResourceSource?: "Cultivated" | "Wild";
   biopiracyClaim?:   string;
 }
 
 const DEMO_SCENARIOS: DemoScenario[] = [
-  {
-    id:          "classification",
-    emoji:       "📋",
-    label:       "Classification",
-    description: "Polyherbal: Ashwagandha + Guduchi",
-    tab:         "formulation",
-  },
-  {
-    id:               "abs",
-    emoji:            "🌿",
-    label:            "ABS Check",
-    description:      "Foreign entity, Curcuma longa (wild)",
-    tab:              "abs",
-    absEntityType:    "Foreign",
-    absResourceSource: "Wild",
-  },
   {
     id:              "biopiracy",
     emoji:           "🔬",
@@ -83,8 +63,6 @@ export default function Dashboard() {
   const [demoOpen,          setDemoOpen]          = useState(false);
   const [demoQuery,         setDemoQuery]         = useState<string | null>(null);
   const [demoClaim,         setDemoClaim]         = useState<string | null>(null);
-  const [demoAbsEntity,     setDemoAbsEntity]     = useState<"Indian" | "Foreign" | null>(null);
-  const [demoAbsResource,   setDemoAbsResource]   = useState<"Cultivated" | "Wild" | null>(null);
 
   // ── Resizer ────────────────────────────────────────────────────────────
   const resizerRef = useRef<HTMLDivElement>(null);
@@ -116,6 +94,10 @@ export default function Dashboard() {
     setPageNumber(page);
   };
 
+  const handleOpenTKDLScanner = () => {
+    setActiveTab("biopiracy");
+  };
+
   const handleEscalate = useCallback(async (messages: { role: string; content: string }[]) => {
     try {
       const body: EscalationRequest = {
@@ -145,8 +127,6 @@ export default function Dashboard() {
     // Reset all demo state so repeated clicks re-fire effects
     setDemoQuery(null);
     setDemoClaim(null);
-    setDemoAbsEntity(null);
-    setDemoAbsResource(null);
 
     setActiveTab(scenario.tab);
 
@@ -154,8 +134,6 @@ export default function Dashboard() {
     setTimeout(() => {
       if (scenario.chatQuery)        setDemoQuery(scenario.chatQuery);
       if (scenario.biopiracyClaim)   setDemoClaim(scenario.biopiracyClaim);
-      if (scenario.absEntityType)    setDemoAbsEntity(scenario.absEntityType);
-      if (scenario.absResourceSource) setDemoAbsResource(scenario.absResourceSource);
     }, 80);
   };
 
@@ -216,25 +194,20 @@ export default function Dashboard() {
 
           {/* ── Tab Content ───────────────────────────────────────────── */}
           <div className="flex-1 overflow-hidden flex flex-col">
-            {activeTab === "chat" && (
+            {/* Keep both components mounted to preserve state across tab switches */}
+            <div className={cn("flex-1 overflow-hidden flex flex-col", activeTab !== "chat" && "hidden")}>
               <ChatInterface
                 onCitationClick={handleCitationClick}
                 jurisdiction={jurisdiction}
                 language={language}
                 onEscalate={handleEscalate}
+                onOpenTKDLScanner={handleOpenTKDLScanner}
                 demoQuery={demoQuery}
               />
-            )}
-            {activeTab === "abs" && (
-              <ABSNavigator
-                demoEntityType={demoAbsEntity}
-                demoResourceSource={demoAbsResource}
-              />
-            )}
-            {activeTab === "formulation" && <FormulationClassifier />}
-            {activeTab === "biopiracy"   && (
+            </div>
+            <div className={cn("flex-1 overflow-hidden flex flex-col", activeTab !== "biopiracy" && "hidden")}>
               <BiopiracyScanner demoClaim={demoClaim} />
-            )}
+            </div>
           </div>
         </section>
 
@@ -249,7 +222,14 @@ export default function Dashboard() {
 
         {/* ── Right Pane (PDF Viewer) ───────────────────────────────── */}
         <section className="flex flex-col bg-surface-container/30 backdrop-blur-sm flex-1 h-full">
-          <PdfViewer pdfUrl={pdfUrl} pageNumber={pageNumber} />
+          <PdfViewer 
+            pdfUrl={pdfUrl} 
+            pageNumber={pageNumber} 
+            onClose={() => {
+              setPdfUrl(null);
+              setPageNumber(null);
+            }} 
+          />
         </section>
       </main>
     </div>

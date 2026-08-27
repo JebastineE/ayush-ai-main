@@ -1,0 +1,24 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.2 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.22.185:3000
+- Environments: .env.local
+✓ Ready in 657ms
+⚠ Warning: Next.js ignored package-lock.json in C:\Users\JEBASTINE E because it is outside the current Git repository (C:\Users\JEBASTINE E\Desktop\sih\ayush-ai-main copy).
+ To use this directory, set `turbopack.root` in your Next.js config.
+
+✓ Running next.config.ts took 45ms
+
+ GET / 200 in 443ms (next.js: 237ms, application-code: 206ms)
+ GET / 200 in 32ms (next.js: 5ms, application-code: 28ms)
+ GET / 200 in 57ms (next.js: 8ms, application-code: 49ms)
+ GET / 200 in 31ms (next.js: 14ms, application-code: 17ms)
+✓ Compiled in 45ms
+ GET / 200 in 23ms (next.js: 9ms, application-code: 14ms)
+✓ Compiled in 60ms
+ GET / 200 in 27ms (next.js: 9ms, application-code: 18ms)
+✓ Compiled in 263ms
+[?25h

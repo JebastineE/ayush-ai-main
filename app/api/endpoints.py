@@ -1,68 +1,33 @@
-from fastapi import APIRouter, Response
+from fastapi import APIRouter, HTTPException, Response
 from fastapi.responses import StreamingResponse
 import io
 from app.schemas.payloads import (
-    ABSRequest,
-    FormulationRequest,
-    ComplianceResponse,
     ChatRequest,
     ChatResponse,
-    WizardState,
-    WizardResponse,
     TKDLScanRequest,
     TKDLScanResult,
+    PatentSearchRequest,
+    PatentSearchResult,
     EscalationRequest,
-)
-from app.services.rules_engine import (
-    evaluate_abs_compliance,
-    classify_formulation,
-    run_wizard_step,
-    WIZARD_STEPS,
+    ActionItem,
 )
 from app.middleware.cache import process_chat_with_cache
 from app.middleware.dpdp import scrub_pii
 from app.services.translation import translate_to_english, translate_to_source_lang
 from app.services.biopiracy_scanner import scan_patent_claim
+from app.services.patent_search_bigquery import search_patents_bigquery
 from app.services.escalation import generate_escalation_pdf
 from app.db.sqlite_cache import get_cache_stats
+from app.services.memory import memory_manager
+from app.services.action_selector import suggest_actions
+from app.services.action_resources import get_action_suggestions
 
 router = APIRouter()
 
 
-# ── ABS Compliance Check ─────────────────────────────────────────────────
-
-@router.post("/api/v1/abs-check", response_model=ComplianceResponse)
-async def abs_check(request: ABSRequest):
-    return evaluate_abs_compliance(request)
-
-
-# ── Legacy Single-Shot Classifier ────────────────────────────────────────
-
-@router.post("/api/v1/classify", response_model=ComplianceResponse)
-async def classify(request: FormulationRequest):
-    return classify_formulation(request)
-
-
-# ── Multi-Step Wizard ─────────────────────────────────────────────────────
-
-@router.post("/api/v1/classify/wizard", response_model=WizardResponse)
-async def classify_wizard(state: WizardState):
-    """
-    Interactive multi-step formulation diagnostic wizard.
-    POST the current WizardState; receive the next question or final result.
-    """
-    return run_wizard_step(state)
-
-
-@router.get("/api/v1/classify/wizard/steps")
-async def get_wizard_steps():
-    """Return all wizard step definitions for frontend pre-loading."""
-    return {"steps": WIZARD_STEPS, "total": len(WIZARD_STEPS)}
-
-
 # ── Chat (RAG + DPDP + Translation) ──────────────────────────────────────
 
-@router.post("/api/v1/chat", response_model=ChatResponse)
+@router.post("/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest, response: Response):
     """
     Full RAG chat endpoint with:
@@ -85,6 +50,8 @@ async def chat(request: ChatRequest, response: Response):
         query=english_query,
         response=response,
         jurisdiction=request.jurisdiction or "india",
+        deterministic_context=None,
+        session_id=request.session_id,
     )
 
     # 4. Scrub PII from outgoing answer
@@ -98,6 +65,41 @@ async def chat(request: ChatRequest, response: Response):
         target_lang=source_lang,
     )
 
+    # 6. Suggest relevant actions based on RAG result
+    action_ids = suggest_actions(
+        query=english_query,
+        answer=clean_answer,
+        citations=rag_result.get("citations", []),
+        confidence_score=rag_result.get("confidence_score", 0.0),
+        abstained=rag_result.get("abstained", False)
+    )
+    action_metadata = get_action_suggestions(action_ids)
+    # Convert ActionMetadata to ActionItem for response
+    actions = [
+        ActionItem(
+            id=a.id,
+            label=a.label,
+            type=a.type,
+            url=a.url,
+            description=a.description
+        )
+        for a in action_metadata
+    ]
+
+    # 7. Save turn to memory
+    if request.session_id:
+        memory_manager.add_turn(
+            session_id=request.session_id,
+            role="user",
+            content=request.query,
+            normalized_content=english_query
+        )
+        memory_manager.add_turn(
+            session_id=request.session_id,
+            role="assistant",
+            content=final_answer
+        )
+
     return ChatResponse(
         answer=final_answer,
         citations=rag_result.get("citations", []),
@@ -107,12 +109,13 @@ async def chat(request: ChatRequest, response: Response):
         confidence_score=rag_result.get("confidence_score", 0.0),
         confidence_band=rag_result.get("confidence_band", "VERY_LOW"),
         abstained=rag_result.get("abstained", False),
+        actions=actions,
     )
 
 
 # ── TKDL Biopiracy Scanner ────────────────────────────────────────────────
 
-@router.post("/api/v1/tkdl-scan", response_model=TKDLScanResult)
+@router.post("/tkdl-scan", response_model=TKDLScanResult)
 async def tkdl_scan(request: TKDLScanRequest):
     """
     Scan a patent claim against the TKDL vector database.
@@ -125,13 +128,30 @@ async def tkdl_scan(request: TKDLScanRequest):
     return TKDLScanResult(**result)
 
 
+# ── BigQuery Patent Search ────────────────────────────────────────────
+
+@router.post("/patent-search", response_model=PatentSearchResult)
+async def patent_search(request: PatentSearchRequest):
+    """
+    Search Google Patents Public Dataset via BigQuery for related patent records.
+    This endpoint is ONLY used by the Biopiracy Scanner.
+    Returns potentially related patent records based on the submitted formulation.
+
+    IMPORTANT: Results are for review purposes only and do not constitute
+    a determination of biopiracy, patent infringement, or legal validity.
+    """
+    clean_claim, _ = scrub_pii(request.claim_text)
+    result = search_patents_bigquery(clean_claim)
+    return PatentSearchResult(**result)
+
+
 # ── Human IP Facilitator Escalation ───────────────────────────────────
 
-@router.post("/api/v1/escalate")
+@router.post("/escalate")
 async def escalate(request: EscalationRequest):
     """
     Generate and return a PDF dossier for Human IP Facilitator review.
-    Includes: formulation classification, full chat transcript, citations.
+    Includes: chat transcript and citations.
     Uses DPDP PII scrubbing on all message content before PDF generation.
     """
     # Scrub PII from all message content before embedding in the PDF
@@ -139,16 +159,12 @@ async def escalate(request: EscalationRequest):
         {"role": m.role, "content": scrub_pii(m.content)[0]}
         for m in request.messages
     ]
-    formulation_dict = (
-        request.formulation_result.model_dump() if request.formulation_result else None
-    )
     citations_list = (
         [c.model_dump() for c in request.citations] if request.citations else None
     )
 
     pdf_bytes = generate_escalation_pdf(
         messages=scrubbed_messages,
-        formulation_result=formulation_dict,
         citations=citations_list,
         session_id=request.session_id,
     )
@@ -165,7 +181,7 @@ async def escalate(request: EscalationRequest):
 
 # ── Cache Diagnostics ──────────────────────────────────────────────────────
 
-@router.get("/api/v1/cache/stats")
+@router.get("/cache/stats")
 async def cache_stats():
     """Return shadow-cache statistics. Used for pre-warm verification."""
     return get_cache_stats()

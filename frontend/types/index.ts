@@ -8,7 +8,15 @@ export interface ChatRequest {
   query: string;
   jurisdiction?: string;
   language?: string;
-  formulation_context?: string;
+  session_id?: string;
+}
+
+export interface ActionItem {
+  id: string;
+  label: string;
+  type: "external" | "internal";
+  url?: string;
+  description?: string;
 }
 
 export interface ChatResponse {
@@ -17,55 +25,10 @@ export interface ChatResponse {
   pii_redacted?: boolean;
   language?: string;
   translation_active?: boolean;
-}
-
-export interface FormulationRequest {
-  ingredients: string[];
-  source_text?: string;
-  intended_use: string;
-}
-
-export interface ABSRequest {
-  entity_type: "Indian" | "Foreign";
-  resource_source: "Cultivated" | "Wild";
-}
-
-export interface ComplianceResponse {
-  classification: string;
-  statutory_provision: string;
-  ip_posture?: string;
-  abs_duties?: string;
-  required_forms: string[];
-  approval_timeline: string;
-  recommended_next_steps?: string[];
-}
-
-// ── Wizard Types ─────────────────────────────────────────────────────────
-
-export interface WizardStepOption {
-  value: string;
-  label: string;
-}
-
-export interface WizardStepDefinition {
-  step: number;
-  question: string;
-  field: string;
-  options: WizardStepOption[];
-  hint?: string;
-}
-
-export interface WizardState {
-  current_step: number;
-  answers: Record<string, string>;
-}
-
-export interface WizardResponse {
-  is_complete: boolean;
-  total_steps: number;
-  current_step?: number;
-  next_step?: WizardStepDefinition;
-  result?: ComplianceResponse;
+  confidence_score?: number;
+  confidence_band?: string;
+  abstained?: boolean;
+  actions?: ActionItem[];
 }
 
 // ── TKDL Biopiracy Scanner Types ─────────────────────────────────────────
@@ -94,6 +57,31 @@ export interface TKDLScanResult {
   claim_analyzed:        string;
 }
 
+// ── BigQuery Patent Search Types ──────────────────────────────────────────
+
+export interface PatentSearchRequest {
+  claim_text: string;
+}
+
+export interface PatentRecord {
+  publication_number: string;
+  title: string;
+  abstract: string;
+  assignee: string;
+  country_code: string;
+  publication_date: string;
+  cpc_code: string;
+  source_url: string;
+}
+
+export interface PatentSearchResult {
+  query: string;
+  search_terms: string[];
+  results: PatentRecord[];
+  total_found: number;
+  error?: string | null;
+}
+
 // ── Escalation Types ──────────────────────────────────────────────────────
 
 export interface MessageItem {
@@ -103,8 +91,6 @@ export interface MessageItem {
 
 export interface EscalationRequest {
   messages:           MessageItem[];
-  formulation_result?: ComplianceResponse;
   citations?:          CitationItem[];
   session_id?:         string;
 }
-

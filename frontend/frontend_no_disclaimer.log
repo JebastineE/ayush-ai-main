@@ -1,0 +1,36 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.2 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.22.185:3000
+- Environments: .env.local
+✓ Ready in 635ms
+⚠ Warning: Next.js ignored package-lock.json in C:\Users\JEBASTINE E because it is outside the current Git repository (C:\Users\JEBASTINE E\Desktop\sih\ayush-ai-main copy).
+ To use this directory, set `turbopack.root` in your Next.js config.
+
+✓ Running next.config.ts took 48ms
+
+ GET / 200 in 391ms (next.js: 180ms, application-code: 211ms)
+ HEAD / 200 in 30ms (next.js: 5ms, application-code: 25ms)
+ GET / 200 in 45ms (next.js: 9ms, application-code: 36ms)
+✓ Compiled in 429ms
+ GET / 200 in 61ms (next.js: 26ms, application-code: 35ms)
+✓ Compiled in 69ms
+ GET / 200 in 40ms (next.js: 12ms, application-code: 28ms)
+✓ Compiled in 65ms
+ GET / 200 in 43ms (next.js: 16ms, application-code: 27ms)
+✓ Compiled in 63ms
+ GET / 200 in 46ms (next.js: 13ms, application-code: 33ms)
+✓ Compiled in 59ms
+ GET / 200 in 35ms (next.js: 13ms, application-code: 22ms)
+✓ Compiled in 97ms
+✓ Compiled in 60ms
+ GET / 200 in 51ms (next.js: 16ms, application-code: 35ms)
+✓ Compiled in 36ms
+ GET / 200 in 49ms (next.js: 14ms, application-code: 34ms)
+✓ Compiled in 123ms
+ GET / 200 in 42ms (next.js: 11ms, application-code: 31ms)
+✓ Compiled in 66ms
+ GET / 200 in 54ms (next.js: 21ms, application-code: 33ms)

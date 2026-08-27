@@ -4,48 +4,26 @@ from enum import Enum
 from datetime import datetime
 
 
-class EntityType(str, Enum):
-    INDIAN = "Indian"
-    FOREIGN = "Foreign"
-
-
-class ResourceSource(str, Enum):
-    CULTIVATED = "Cultivated"
-    WILD = "Wild"
-
-
-class FormulationRequest(BaseModel):
-    ingredients: List[str]
-    source_text: Optional[str] = None
-    intended_use: str
-
-
-class ABSRequest(BaseModel):
-    entity_type: EntityType
-    resource_source: ResourceSource
-
-
-class ComplianceResponse(BaseModel):
-    classification: str
-    statutory_provision: str
-    ip_posture: Optional[str] = None
-    abs_duties: Optional[str] = None
-    required_forms: List[str] = Field(default_factory=list)
-    approval_timeline: str
-    recommended_next_steps: List[str] = Field(default_factory=list)
-
-
 class ChatRequest(BaseModel):
     query: str
     jurisdiction: Optional[str] = "india"
     language: Optional[str] = "en"
-    formulation_context: Optional[str] = None
+    session_id: Optional[str] = None
 
 
 class CitationItem(BaseModel):
     source: str
     page: int
     snippet: str
+
+
+class ActionItem(BaseModel):
+    """Actionable resource suggestion"""
+    id: str
+    label: str
+    type: str  # "external" or "internal"
+    url: Optional[str] = None  # Only for external actions
+    description: Optional[str] = None
 
 
 class ChatResponse(BaseModel):
@@ -57,39 +35,7 @@ class ChatResponse(BaseModel):
     confidence_score: float = 0.0
     confidence_band: str = "VERY_LOW"
     abstained: bool = False
-
-
-# ── Wizard Schemas ────────────────────────────────────────────────────────
-
-class WizardState(BaseModel):
-    """Current state of the multi-step formulation diagnostic wizard."""
-    current_step: int = Field(1, ge=1, description="1-indexed current step number")
-    answers: Optional[Dict[str, str]] = Field(
-        default_factory=dict,
-        description="Map of field_name → answer_value collected so far"
-    )
-
-
-class WizardStepOption(BaseModel):
-    value: str
-    label: str
-
-
-class WizardStepDefinition(BaseModel):
-    step: int
-    question: str
-    field: str
-    options: List[WizardStepOption]
-    hint: Optional[str] = None
-
-
-class WizardResponse(BaseModel):
-    """Response from the wizard engine for a given state."""
-    is_complete: bool
-    total_steps: int
-    current_step: Optional[int] = None
-    next_step: Optional[Any] = None   # WizardStepDefinition dict when not complete
-    result: Optional[ComplianceResponse] = None
+    actions: List[ActionItem] = Field(default_factory=list)  # NEW: Actionable resources
 
 
 # ── TKDL Biopiracy Scanner Schemas ───────────────────────────────────────
@@ -126,6 +72,38 @@ class TKDLScanResult(BaseModel):
     claim_analyzed:        str
 
 
+# ── BigQuery Patent Search Schemas ───────────────────────────────────────
+
+class PatentSearchRequest(BaseModel):
+    """Request payload for BigQuery patent search."""
+    claim_text: str = Field(
+        ...,
+        min_length=10,
+        description="The formulation or patent claim text to search for related patents.",
+    )
+
+
+class PatentRecord(BaseModel):
+    """A single patent record from Google Patents Public Dataset."""
+    publication_number: str
+    title: str
+    abstract: str
+    assignee: str
+    country_code: str
+    publication_date: str
+    cpc_code: str
+    source_url: str
+
+
+class PatentSearchResult(BaseModel):
+    """BigQuery patent search results."""
+    query: str
+    search_terms: List[str] = Field(default_factory=list)
+    results: List[PatentRecord] = Field(default_factory=list)
+    total_found: int = 0
+    error: Optional[str] = None
+
+
 # ── Escalation Dossier Schemas ────────────────────────────────────────────
 
 class MessageItem(BaseModel):
@@ -137,6 +115,5 @@ class MessageItem(BaseModel):
 class EscalationRequest(BaseModel):
     """Request payload for the Human IP Facilitator escalation PDF."""
     messages:           List[MessageItem]
-    formulation_result: Optional[ComplianceResponse] = None
     citations:          Optional[List[CitationItem]]  = None
     session_id:         Optional[str]                 = None

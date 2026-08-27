@@ -1,0 +1,107 @@
+
+================================================================================
+IP-SAKTI SAHAYAK - RAG-ONLY LEGAL ASSISTANT TESTS
+================================================================================
+
+
+TEST 1: Section 3(p) - Traditional Knowledge Patentability
+
+================================================================================
+QUERY: Can traditional knowledge about a medicinal plant be patented in India?
+================================================================================
+Confidence: 96.4% (HIGH)
+Abstained: False
+Citations: 4
+
+ANSWER:
+*Disclaimer: I provide information, not legal advice.*
+
+Based on the provided sources, traditional knowledge about a medicinal plant **cannot** be patented in India. 
+
+The legal provisions and principles governing this are as follows:
+
+* **Statutory Bar:** Under **Section 3(p) of the Patents Act, 1970**, an invention which, in effect, is traditional knowledge or an aggregation or duplication of known properties of a traditionally known component or components is explicitly not considered an inve...
+
+CITATIONS:
+  1. Landmark_Ayush_IP_Cases.pdf (p. 5)
+  2. ayush_ip_guidelines.pdf (p. 6)
+  3. Landmark_Ayush_IP_Cases.pdf (p. 3)
+
+
+TEST 2: Three-Turn Conversation (Context Maintenance)
+
+================================================================================
+QUERY: Can I patent an Ashwagandha formulation?
+================================================================================
+Confidence: 92.7% (HIGH)
+Abstained: False
+Citations: 2
+
+ANSWER:
+*Disclaimer: The following response is provided for informational purposes only and does not constitute legal advice.*
+
+Based on the provided guidelines and sources, whether you can patent an Ashwagandha formulation depends on whether it meets specific statutory requirements under the Patents Act, 1970 [ayush_ip_guidelines.pdf, Page 2]:
+
+### **Statutory Bars and Requirements**
+* **Traditional Knowledge Bar:** Under **Section 3(p) of the Patents Act, 1970**, an invention which in effect is tradit...
+
+CITATIONS:
+  1. ayush_ip_guidelines.pdf (p. 2)
+  2. ayush_ip_guidelines.pdf (p. 3)
+
+================================================================================
+QUERY: What if I use a novel extraction method?
+================================================================================
+Confidence: 81.2% (HIGH)
+Abstained: False
+Citations: 2
+
+ANSWER:
+*Disclaimer: The following response is provided for informational purposes only and does not constitute legal advice.*
+
+Based on the provided guidelines, yes, a polyherbal formulation containing Ashwagandha can be patentable if it uses a novel extraction method, a novel bioavailability enhancement technique (such as nano-encapsulation or phytosome technology), or a novel delivery system that is not part of traditional knowledge [ayush_ip_guidelines.pdf, Page 2]. 
+
+Additionally, you must ensure i...
+
+CITATIONS:
+  1. ayush_ip_guidelines.pdf (p. 2)
+  2. ayush_ip_guidelines.pdf (p. 3)
+
+================================================================================
+QUERY: What section of the Patents Act applies?
+================================================================================
+Confidence: 91.3% (HIGH)
+Abstained: False
+Citations: 4
+
+ANSWER:
+*Disclaimer: The following response is provided for informational purposes only and does not constitute legal advice.*
+
+Based on the provided sources, the guidelines do not cite a specific section of the Patents Act, 1970 dedicated exclusively to a "novel extraction method." However, the guidelines state that using a novel extraction method, novel bioavailability enhancement technique (such as nano-encapsulation or phytosome technology), or a novel delivery system not part of traditional knowled...
+
+CITATIONS:
+  1. ayush_ip_guidelines.pdf (p. 3)
+  2. ayush_ip_guidelines.pdf (p. 2)
+  3. Landmark_Ayush_IP_Cases.pdf (p. 5)
+
+
+TEST 3: TKDL Medicinal Plant Information
+
+================================================================================
+QUERY: What medicinal plant information is available for Withania somnifera?
+================================================================================
+Confidence: 18.2% (VERY_LOW)
+Abstained: True
+Citations: 0
+
+ANSWER:
+Traceback (most recent call last):
+  File "C:\Users\JEBASTINE E\Desktop\sih\ayush-ai-main copy\test_rag_cleanup.py", line 74, in <module>
+    main()
+  File "C:\Users\JEBASTINE E\Desktop\sih\ayush-ai-main copy\test_rag_cleanup.py", line 55, in main
+    test_query("What medicinal plant information is available for Withania somnifera?")
+  File "C:\Users\JEBASTINE E\Desktop\sih\ayush-ai-main copy\test_rag_cleanup.py", line 30, in test_query
+    print(answer[:500] + ("..." if len(answer) > 500 else ""))
+  File "C:\Users\JEBASTINE E\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>

@@ -1,75 +1,112 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
-import { Shield, Search, AlertTriangle, CheckCircle, Info, ChevronDown, ChevronUp, Loader2, FileSearch } from "lucide-react";
+import { useState } from "react";
+import { Shield, ChevronDown, ChevronUp, Loader2, FileSearch, ExternalLink, Database } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { API_BASE_URL } from "@/lib/config";
-import type { TKDLScanResult, MatchedRecord } from "@/types";
+import type { TKDLScanResult, MatchedRecord, PatentSearchResult, PatentRecord } from "@/types";
 
 interface BiopiraсyScannerProps {
-  /** When provided, auto-fills and triggers the scan (demo quick-fill). */
+  /** Reserved for future use */
   demoClaim?: string | null;
 }
-
-const ALERT_COLORS: Record<string, { bg: string; text: string; border: string; bar: string }> = {
-  HIGH:   { bg: "bg-red-50",    text: "text-red-700",    border: "border-red-300",    bar: "bg-red-500"    },
-  MEDIUM: { bg: "bg-amber-50",  text: "text-amber-700",  border: "border-amber-300",  bar: "bg-amber-500"  },
-  LOW:    { bg: "bg-blue-50",   text: "text-blue-700",   border: "border-blue-300",   bar: "bg-blue-400"   },
-  NONE:   { bg: "bg-green-50",  text: "text-green-700",  border: "border-green-300",  bar: "bg-green-500"  },
-};
-
-const ALERT_ICONS: Record<string, React.ElementType> = {
-  HIGH: AlertTriangle, MEDIUM: AlertTriangle, LOW: Info, NONE: CheckCircle,
-};
-
-const DEMO_CLAIM =
-  "Topical therapeutic formulation comprising 15% Curcuma longa extract for accelerating dermal wound repair in human subjects.";
 
 export function BiopiracyScanner({ demoClaim }: BiopiraсyScannerProps) {
   const [claim, setClaim]       = useState("");
   const [result, setResult]     = useState<TKDLScanResult | null>(null);
+  const [patentResults, setPatentResults] = useState<PatentSearchResult | null>(null);
   const [loading, setLoading]   = useState(false);
   const [error, setError]       = useState<string | null>(null);
   const [expanded, setExpanded] = useState<string | null>(null);
-  const autoFiredRef = useRef<string | null>(null);
+  const [expandedPatent, setExpandedPatent] = useState<string | null>(null);
 
-  // Demo auto-fill: fire once per unique demoClaim value
-  useEffect(() => {
-    if (demoClaim && demoClaim !== autoFiredRef.current) {
-      autoFiredRef.current = demoClaim;
-      setClaim(demoClaim);
-      handleScan(demoClaim);
+  // Safe date formatter for BigQuery YYYYMMDD format (e.g., "20260410")
+  const formatPatentDate = (dateValue: string | null | undefined): string => {
+    if (!dateValue || typeof dateValue !== 'string') {
+      return "Date unavailable";
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [demoClaim]);
+
+    // BigQuery returns dates as YYYYMMDD (e.g., "20260410")
+    // Extract year (first 4 characters)
+    if (dateValue.length >= 4) {
+      const year = dateValue.substring(0, 4);
+      // Validate it's a number
+      if (/^\d{4}$/.test(year)) {
+        return year;
+      }
+    }
+
+    // Fallback: try to parse as ISO date
+    const date = new Date(dateValue);
+    if (!Number.isNaN(date.getTime())) {
+      return date.getFullYear().toString();
+    }
+
+    return "Date unavailable";
+  };
 
   const handleScan = async (claimText?: string) => {
     const text = (claimText ?? claim).trim();
-    if (!text || text.length < 20) {
-      setError("Please enter a patent claim of at least 20 characters.");
+    if (!text || text.length < 10) {
+      setError("Please enter a plant name or formulation (at least 10 characters).");
       return;
     }
     setLoading(true);
     setError(null);
     setResult(null);
+    setPatentResults(null);
+
     try {
-      const res = await fetch(`${API_BASE_URL}/api/v1/tkdl-scan`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ claim_text: text }),
-      });
-      if (!res.ok) throw new Error(`Server error: ${res.status}`);
-      const data: TKDLScanResult = await res.json();
-      setResult(data);
+      // Call both TKDL scan and BigQuery patent search in parallel
+      const [tkdlRes, patentRes] = await Promise.all([
+        fetch(`${API_BASE_URL}/api/v1/tkdl-scan`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ claim_text: text }),
+        }),
+        fetch(`${API_BASE_URL}/api/v1/patent-search`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ claim_text: text }),
+        })
+      ]);
+
+      // Process TKDL results
+      if (tkdlRes.ok) {
+        const tkdlData: TKDLScanResult = await tkdlRes.json();
+        setResult(tkdlData);
+      } else {
+        console.error("TKDL scan failed:", tkdlRes.status);
+        setResult({
+          alert_score: 0,
+          alert_level: "NONE",
+          section_3p_applicable: false,
+          matched_records: [],
+          recommended_action: "",
+          claim_analyzed: text
+        });
+      }
+
+      // Process BigQuery patent results (non-blocking)
+      if (patentRes.ok) {
+        const patentData: PatentSearchResult = await patentRes.json();
+        setPatentResults(patentData);
+      } else {
+        console.error("Patent search failed:", patentRes.status);
+        setPatentResults({
+          query: text,
+          search_terms: [],
+          results: [],
+          total_found: 0,
+          error: "Patent search temporarily unavailable"
+        });
+      }
     } catch (e: unknown) {
-      setError(e instanceof Error ? e.message : "Scan failed. Is the backend running?");
+      setError(e instanceof Error ? e.message : "Search failed. Please check if the backend is running.");
     } finally {
       setLoading(false);
     }
   };
-
-  const c = result ? (ALERT_COLORS[result.alert_level] ?? ALERT_COLORS.NONE) : null;
-  const AlertIcon = result ? (ALERT_ICONS[result.alert_level] ?? Info) : null;
 
   return (
     <div className="flex-1 overflow-y-auto p-6 space-y-6">
@@ -79,9 +116,9 @@ export function BiopiracyScanner({ demoClaim }: BiopiraсyScannerProps) {
           <Shield className="w-5 h-5 text-primary-container" />
         </div>
         <div>
-          <h2 className="font-headline-sm text-headline-sm text-on-surface">TKDL Biopiracy Scanner</h2>
+          <h2 className="font-headline-sm text-headline-sm text-on-surface">Biopiracy Scanner</h2>
           <p className="text-ui-label-sm text-secondary">
-            Detects prior art in the Traditional Knowledge Digital Library (TKDL) to assess Section 3(p) patent risk.
+            Search for related patent records using the Google Patents Public Dataset.
           </p>
         </div>
       </div>
@@ -90,40 +127,32 @@ export function BiopiracyScanner({ demoClaim }: BiopiraсyScannerProps) {
       <div className="bg-surface p-5 rounded-xl border border-outline-variant/30 space-y-4 shadow-sm">
         <div>
           <label className="block text-ui-label-bold text-secondary mb-2">
-            Patent Claim Text
+            Formulation or Plant Name
           </label>
           <textarea
             id="biopiracy-claim-input"
             rows={5}
             value={claim}
             onChange={e => setClaim(e.target.value)}
-            placeholder={`e.g., "${DEMO_CLAIM}"`}
+            placeholder="e.g., Ashwagandha formulation for stress relief"
             className="w-full bg-surface-container-lowest border border-outline-variant/50 rounded-lg p-3 text-body-md resize-none focus:outline-none focus:ring-2 focus:ring-primary-container/30 focus:border-primary-container/50 transition-all"
           />
           <p className="text-ui-label-sm text-secondary mt-1">
-            Paste the full independent claim from a patent application for analysis.
+            Enter a plant name or formulation to search for related patent records.
           </p>
         </div>
-        <div className="flex gap-3">
-          <button
-            id="biopiracy-scan-btn"
-            onClick={() => handleScan()}
-            disabled={loading || claim.trim().length < 20}
-            className="flex items-center gap-2 px-5 py-2.5 bg-primary-container text-white rounded-lg font-ui-label-bold hover:bg-primary transition-colors disabled:opacity-50 disabled:cursor-not-allowed shadow-sm"
-          >
-            {loading ? (
-              <><Loader2 className="w-4 h-4 animate-spin" /> Scanning TKDL…</>
-            ) : (
-              <><FileSearch className="w-4 h-4" /> Scan for Prior Art</>
-            )}
-          </button>
-          <button
-            onClick={() => { setClaim(DEMO_CLAIM); }}
-            className="px-4 py-2.5 rounded-lg border border-outline-variant/50 text-secondary hover:text-primary-container hover:border-primary-container/30 transition-all text-sm font-ui-label-bold"
-          >
-            Use Demo Claim
-          </button>
-        </div>
+        <button
+          id="biopiracy-scan-btn"
+          onClick={() => handleScan()}
+          disabled={loading || claim.trim().length < 10}
+          className="flex items-center gap-2 px-5 py-2.5 bg-primary-container text-white rounded-lg font-ui-label-bold hover:bg-primary transition-colors disabled:opacity-50 disabled:cursor-not-allowed shadow-sm"
+        >
+          {loading ? (
+            <><Loader2 className="w-4 h-4 animate-spin" /> Searching…</>
+          ) : (
+            <><FileSearch className="w-4 h-4" /> Search Related Patents</>
+          )}
+        </button>
       </div>
 
       {/* Error */}
@@ -133,114 +162,188 @@ export function BiopiracyScanner({ demoClaim }: BiopiraсyScannerProps) {
         </div>
       )}
 
-      {/* Results */}
-      {result && c && AlertIcon && (
-        <div className={cn("rounded-xl border p-5 space-y-5 animate-in fade-in zoom-in duration-200", c.bg, c.border)}>
-
-          {/* Alert Level Badge + Score Meter */}
-          <div className="flex items-start justify-between gap-4 flex-wrap">
-            <div className="flex items-center gap-3">
-              <AlertIcon className={cn("w-6 h-6", c.text)} />
-              <div>
-                <p className={cn("font-ui-label-bold text-lg", c.text)}>
-                  {result.alert_level} RISK
-                </p>
-                <p className="text-ui-label-sm text-secondary">
-                  {result.alert_level === "HIGH"   && "Strong prior art — Section 3(p) bar likely"}
-                  {result.alert_level === "MEDIUM" && "Partial overlap — expert review required"}
-                  {result.alert_level === "LOW"    && "Weak similarity — conduct full FTO analysis"}
-                  {result.alert_level === "NONE"   && "No significant TKDL prior art found"}
-                </p>
-              </div>
-            </div>
-            {/* Score Meter */}
-            <div className="flex flex-col items-end gap-1 min-w-[140px]">
-              <p className="text-ui-label-sm text-secondary">Biopiracy Alert Score</p>
-              <p className={cn("font-headline-md text-headline-md", c.text)}>
-                {result.alert_score.toFixed(1)}<span className="text-sm font-normal text-secondary"> / 100</span>
-              </p>
-              <div className="w-36 h-2.5 bg-surface-container-highest rounded-full overflow-hidden">
-                <div
-                  className={cn("h-full rounded-full transition-all duration-700", c.bar)}
-                  style={{ width: `${result.alert_score}%` }}
-                />
-              </div>
-            </div>
-          </div>
-
-          {/* Recommended Action */}
-          <div className={cn("rounded-lg p-4 border", c.border, "bg-white/60")}>
-            <p className="text-ui-label-bold text-secondary mb-1 text-sm">Recommended Action</p>
-            <p className="text-body-md">{result.recommended_action}</p>
-          </div>
-
-          {/* Section 3(p) Precedent */}
-          {result.section_3p_applicable && result.section_3p_precedent && (
-            <div className="bg-red-100/60 border border-red-200 rounded-lg p-4 space-y-1">
-              <p className="font-ui-label-bold text-red-800 text-sm flex items-center gap-1.5">
-                <AlertTriangle className="w-4 h-4" /> Section 3(p) — Patents Act Precedent
-              </p>
-              <p className="text-sm text-red-900 leading-relaxed">{result.section_3p_precedent}</p>
-            </div>
-          )}
-
-          {/* Matched Prior Art Records */}
-          {result.matched_records.length > 0 && (
+      {/* TKDL Results */}
+      {result && result.matched_records.length > 0 && (
+        <div className="bg-surface rounded-xl border border-outline-variant/30 p-5 space-y-4 shadow-sm">
+          <div className="flex items-center gap-3 border-b border-outline-variant/20 pb-3">
+            <Shield className="w-5 h-5 text-primary-container" />
             <div>
-              <p className="font-ui-label-bold text-secondary mb-3 text-sm">
-                Matched TKDL Prior Art ({result.matched_records.length} records)
+              <h3 className="font-ui-label-bold text-on-surface">Related TKDL Records</h3>
+              <p className="text-ui-label-sm text-secondary">
+                {result.matched_records.length} potentially relevant traditional knowledge records
               </p>
-              <div className="space-y-2">
-                {result.matched_records.map((rec: MatchedRecord, i: number) => (
-                  <div
-                    key={rec.chunk_id || i}
-                    className="bg-white/70 border border-outline-variant/30 rounded-lg overflow-hidden"
-                  >
-                    <button
-                      onClick={() => setExpanded(expanded === (rec.chunk_id || String(i)) ? null : (rec.chunk_id || String(i)))}
-                      className="w-full flex items-center justify-between p-3 text-left hover:bg-surface-container-low/50 transition-colors"
-                    >
-                      <div className="flex items-center gap-3">
-                        <span className={cn(
-                          "shrink-0 text-xs font-mono px-2 py-0.5 rounded font-bold",
-                          rec.similarity >= 70 ? "bg-red-100 text-red-700" :
-                          rec.similarity >= 55 ? "bg-amber-100 text-amber-700" :
-                          "bg-blue-100 text-blue-700"
-                        )}>
-                          {rec.similarity.toFixed(1)}%
-                        </span>
-                        <div>
-                          <p className="font-ui-label-bold text-sm text-on-surface">{rec.formulation}</p>
-                          <p className="text-ui-label-sm text-secondary">{rec.source_file}</p>
-                        </div>
-                      </div>
-                      <div className="flex items-center gap-2 shrink-0">
-                        {rec.ipc_code && (
-                          <span className="text-xs px-2 py-0.5 rounded bg-primary-container/10 text-primary-container font-mono">
-                            {rec.ipc_code}
-                          </span>
-                        )}
-                        {expanded === (rec.chunk_id || String(i))
-                          ? <ChevronUp className="w-4 h-4 text-secondary" />
-                          : <ChevronDown className="w-4 h-4 text-secondary" />
-                        }
-                      </div>
-                    </button>
-                    {expanded === (rec.chunk_id || String(i)) && (
-                      <div className="px-3 pb-3 border-t border-outline-variant/20">
-                        <p className="text-sm text-secondary leading-relaxed mt-2 font-mono bg-surface-container-lowest rounded p-2">
-                          {rec.snippet}
-                        </p>
-                        {rec.tkrc_code && (
-                          <p className="text-ui-label-sm text-secondary mt-1">TKRC Code: <span className="font-mono">{rec.tkrc_code}</span></p>
-                        )}
-                      </div>
+            </div>
+          </div>
+
+          <div className="space-y-2">
+            {result.matched_records.map((rec: MatchedRecord, i: number) => (
+              <div
+                key={rec.chunk_id || i}
+                className="bg-white border border-outline-variant/30 rounded-lg overflow-hidden"
+              >
+                <button
+                  onClick={() => setExpanded(expanded === (rec.chunk_id || String(i)) ? null : (rec.chunk_id || String(i)))}
+                  className="w-full flex items-center justify-between p-3 text-left hover:bg-surface-container-low/50 transition-colors gap-3"
+                >
+                  <div className="flex-1 min-w-0">
+                    <p className="font-ui-label-bold text-sm text-on-surface">{rec.formulation}</p>
+                    <p className="text-ui-label-sm text-secondary mt-0.5">{rec.source_file}</p>
+                  </div>
+                  <div className="flex items-center gap-2 shrink-0">
+                    {rec.ipc_code && (
+                      <span className="text-xs px-2 py-0.5 rounded bg-blue-100 text-blue-700 font-mono">
+                        {rec.ipc_code}
+                      </span>
+                    )}
+                    {expanded === (rec.chunk_id || String(i))
+                      ? <ChevronUp className="w-4 h-4 text-secondary" />
+                      : <ChevronDown className="w-4 h-4 text-secondary" />
+                    }
+                  </div>
+                </button>
+                {expanded === (rec.chunk_id || String(i)) && (
+                  <div className="px-3 pb-3 border-t border-outline-variant/20 space-y-2">
+                    <div className="mt-2">
+                      <p className="text-xs font-ui-label-bold text-secondary mb-1">Description</p>
+                      <p className="text-sm text-secondary leading-relaxed bg-surface-container-lowest rounded p-2">
+                        {rec.snippet}
+                      </p>
+                    </div>
+                    {rec.tkrc_code && (
+                      <p className="text-ui-label-sm text-secondary">
+                        TKRC Code: <span className="font-mono">{rec.tkrc_code}</span>
+                      </p>
                     )}
                   </div>
-                ))}
+                )}
               </div>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* BigQuery Patent Search Results */}
+      {patentResults && patentResults.total_found > 0 && (
+        <div className="bg-surface rounded-xl border border-outline-variant/30 p-5 space-y-4 shadow-sm">
+          <div className="flex items-center gap-3 border-b border-outline-variant/20 pb-3">
+            <Database className="w-5 h-5 text-blue-600" />
+            <div>
+              <h3 className="font-ui-label-bold text-on-surface">Related Patent Records</h3>
+              <p className="text-ui-label-sm text-secondary">
+                {patentResults.total_found} potentially relevant patents from Google Patents Public Dataset
+              </p>
+            </div>
+          </div>
+
+          {/* Patent Records */}
+          <div className="space-y-2">
+            {patentResults.results.map((patent: PatentRecord, i: number) => (
+              <div
+                key={patent.publication_number || i}
+                className="bg-white border border-outline-variant/30 rounded-lg overflow-hidden"
+              >
+                <button
+                  onClick={() => setExpandedPatent(expandedPatent === patent.publication_number ? null : patent.publication_number)}
+                  className="w-full flex items-start justify-between p-3 text-left hover:bg-surface-container-low/50 transition-colors gap-3"
+                >
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-start gap-2 flex-wrap">
+                      <span className="shrink-0 text-xs font-mono px-2 py-0.5 rounded bg-blue-100 text-blue-700 font-bold">
+                        {patent.country_code}
+                      </span>
+                      <p className="font-ui-label-bold text-sm text-on-surface flex-1">
+                        {patent.title || "Untitled Patent"}
+                      </p>
+                    </div>
+                    <div className="flex items-center gap-2 mt-1 text-ui-label-sm text-secondary flex-wrap">
+                      <span className="font-mono">{patent.publication_number}</span>
+                      {patent.publication_date && (
+                        <>
+                          <span>•</span>
+                          <span>{formatPatentDate(patent.publication_date)}</span>
+                        </>
+                      )}
+                      {patent.assignee && patent.assignee !== "Unknown" && (
+                        <>
+                          <span>•</span>
+                          <span className="truncate max-w-[200px]">{patent.assignee}</span>
+                        </>
+                      )}
+                    </div>
+                  </div>
+                  <div className="flex items-center gap-2 shrink-0">
+                    {patent.cpc_code && (
+                      <span className="text-xs px-2 py-0.5 rounded bg-purple-100 text-purple-700 font-mono">
+                        {patent.cpc_code.split(',')[0]}
+                      </span>
+                    )}
+                    {expandedPatent === patent.publication_number
+                      ? <ChevronUp className="w-4 h-4 text-secondary" />
+                      : <ChevronDown className="w-4 h-4 text-secondary" />
+                    }
+                  </div>
+                </button>
+                {expandedPatent === patent.publication_number && (
+                  <div className="px-3 pb-3 border-t border-outline-variant/20 space-y-3">
+                    {patent.abstract && (
+                      <div className="mt-2">
+                        <p className="text-xs font-ui-label-bold text-secondary mb-1">Abstract</p>
+                        <p className="text-sm text-secondary leading-relaxed bg-surface-container-lowest rounded p-2">
+                          {patent.abstract}
+                        </p>
+                      </div>
+                    )}
+                    {patent.source_url && (
+                      <a
+                        href={patent.source_url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1.5 text-sm text-blue-600 hover:text-blue-700 font-ui-label-bold"
+                      >
+                        <ExternalLink className="w-3.5 h-3.5" />
+                        View on Google Patents
+                      </a>
+                    )}
+                  </div>
+                )}
+              </div>
+            ))}
+          </div>
+
+          {/* Search Terms */}
+          {patentResults.search_terms.length > 0 && (
+            <div className="text-xs text-secondary border-t border-outline-variant/20 pt-3">
+              <span className="font-ui-label-bold">Search terms used:</span> {patentResults.search_terms.slice(0, 10).join(', ')}
             </div>
           )}
+        </div>
+      )}
+
+      {/* No TKDL Results */}
+      {result && result.matched_records.length === 0 && (
+        <div className="bg-surface rounded-xl border border-outline-variant/30 p-5 text-center text-secondary">
+          <p className="text-sm">No related TKDL records were found.</p>
+        </div>
+      )}
+
+      {/* No Patent Results */}
+      {patentResults && patentResults.total_found === 0 && !patentResults.error && (
+        <div className="bg-surface rounded-xl border border-outline-variant/30 p-5 text-center text-secondary">
+          <p className="text-sm">No related patent records were found.</p>
+        </div>
+      )}
+
+      {/* BigQuery Patent Search Error */}
+      {patentResults && patentResults.error && (
+        <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 text-amber-800 text-sm">
+          ℹ️ Patent search is temporarily unavailable. Please try again.
+        </div>
+      )}
+
+      {/* Disclaimer */}
+      {(result || patentResults) && (
+        <div className="bg-blue-50/50 border border-blue-200/50 rounded-lg p-4 text-xs text-blue-900 leading-relaxed">
+          <strong>Disclaimer:</strong> Search results are informational and are not a legal determination. Patent records should be independently reviewed by a qualified professional.
         </div>
       )}
     </div>
