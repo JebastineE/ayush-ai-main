@@ -1,0 +1,23 @@
+[
+  {
+    "claim_id": "PAT-US-2026-001",
+    "applicant": "Global Pharma Inc.",
+    "jurisdiction": "International",
+    "title": "Novel Topical Ointment for Wound Healing",
+    "description": "A novel formulation comprising extracts of Curcuma longa (Turmeric) suspended in a clarified butter base, demonstrating exceptional antimicrobial and wound healing properties."
+  },
+  {
+    "claim_id": "PAT-IND-2026-002",
+    "applicant": "SynthBio Labs",
+    "jurisdiction": "India",
+    "title": "Synthetic Polymer for Joint Relief",
+    "description": "A completely synthetic, lab-generated polymer chain designed to reduce joint inflammation. Contains no biological or botanical resources."
+  },
+  {
+    "claim_id": "PAT-EU-2026-003",
+    "applicant": "EuroCosmetics Ltd",
+    "jurisdiction": "International",
+    "title": "Anti-Fungal Skin Treatment",
+    "description": "An anti-fungal cream utilizing cold-pressed Azadirachta indica (Neem) oil combined with modern stabilizers for treating dermatological disorders."
+  }
+]

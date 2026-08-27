@@ -1,0 +1,14 @@
+[
+  {
+    "user_id": "USR-001",
+    "entity_type": "Indian Academic Researcher",
+    "citizenship": "India",
+    "intent": "Non-commercial academic research on Withania somnifera."
+  },
+  {
+    "user_id": "USR-002",
+    "entity_type": "Foreign Corporation",
+    "citizenship": "Germany",
+    "intent": "Commercial extraction and patenting of active compounds from Indian botanical sources."
+  }
+]

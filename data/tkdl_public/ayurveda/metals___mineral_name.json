@@ -1,0 +1,587 @@
+{
+  "source": "TKDL",
+  "system": "Ayurveda",
+  "category": "Metals / Mineral Name",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Metal.asp",
+  "retrieved_at": "2026-08-27T10:33:49.022676",
+  "total_records": 32,
+  "records": [
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 1,
+      "columns": [
+        "A gummy exudate collected from rocks",
+        "iljta/iljatu",
+        "",
+        "Korpoora Silasathu/ Koomothira Sitayathu",
+        "Black betumin/Mineral Pitch"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "A gummy exudate collected from rocks",
+      "ayurveda_name": "iljta/iljatu",
+      "unani_name": "",
+      "siddha_name": "Korpoora Silasathu/ Koomothira Sitayathu",
+      "common_name": "Black betumin/Mineral Pitch"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 2,
+      "columns": [
+        "amber",
+        "Kaharuva / Trnakanta mani",
+        "",
+        "Amber",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "amber",
+      "ayurveda_name": "Kaharuva / Trnakanta mani",
+      "unani_name": "",
+      "siddha_name": "Amber",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 3,
+      "columns": [
+        "Ammonium chloride",
+        "via lavaa",
+        "",
+        "Navacharam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Ammonium chloride",
+      "ayurveda_name": "via lavaa",
+      "unani_name": "",
+      "siddha_name": "Navacharam",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 4,
+      "columns": [
+        "Arsenic oxide",
+        "malla",
+        "Samm-al-Faar/Sankhya/ Zirneekh/ Hartal",
+        "Arithaaram",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Arsenic oxide",
+      "ayurveda_name": "malla",
+      "unani_name": "Samm-al-Faar/Sankhya/ Zirneekh/ Hartal",
+      "siddha_name": "Arithaaram",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 5,
+      "columns": [
+        "arsenic sulphide",
+        "manail",
+        "Mansal/Manrakt/Zirneekh-e-Surkh",
+        "Manosilai,Silai,Kunadi,Vil,Naan mugan,Saraswathi,Vaani Vellachi,Thaamarai vaasini",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "arsenic sulphide",
+      "ayurveda_name": "manail",
+      "unani_name": "Mansal/Manrakt/Zirneekh-e-Surkh",
+      "siddha_name": "Manosilai,Silai,Kunadi,Vil,Naan mugan,Saraswathi,Vaani Vellachi,Thaamarai vaasini",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 6,
+      "columns": [
+        "Black oxide of manganese",
+        "vaikrnta",
+        "",
+        "Kakkaccilai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Black oxide of manganese",
+      "ayurveda_name": "vaikrnta",
+      "unani_name": "",
+      "siddha_name": "Kakkaccilai",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 7,
+      "columns": [
+        "blue vitriol",
+        "tuttha",
+        "Aaboos//Tootiya-e-Sabz/Heera Kasees / Tootia/Sang-e-Surmah/Hajar-al-Kohl",
+        "Thutham,Thurusu,Mayil thutham,Kandar,Narpachai,",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "blue vitriol",
+      "ayurveda_name": "tuttha",
+      "unani_name": "Aaboos//Tootiya-e-Sabz/Heera Kasees / Tootia/Sang-e-Surmah/Hajar-al-Kohl",
+      "siddha_name": "Thutham,Thurusu,Mayil thutham,Kandar,Narpachai,",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 8,
+      "columns": [
+        "bronze",
+        "ksya",
+        "Kaansa",
+        "Venkalam,Urai,Kanjam,Thaaram",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "bronze",
+      "ayurveda_name": "ksya",
+      "unani_name": "Kaansa",
+      "siddha_name": "Venkalam,Urai,Kanjam,Thaaram",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 9,
+      "columns": [
+        "calamite",
+        "kharpara",
+        "Hajar-e-Basri/Sang-e-Basri/Khaparia",
+        "Pal thutham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "calamite",
+      "ayurveda_name": "kharpara",
+      "unani_name": "Hajar-e-Basri/Sang-e-Basri/Khaparia",
+      "siddha_name": "Pal thutham",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 10,
+      "columns": [
+        "Cinnabar",
+        "higula",
+        "Shanjraf/Shangraf/ Zanjafar",
+        "lingam,Aanguri,Vannikarpam,Kalikkam,Kaanjanam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Cinnabar",
+      "ayurveda_name": "higula",
+      "unani_name": "Shanjraf/Shangraf/ Zanjafar",
+      "siddha_name": "lingam,Aanguri,Vannikarpam,Kalikkam,Kaanjanam",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 11,
+      "columns": [
+        "copper pyrite",
+        "mkika",
+        "",
+        "Sembunimilai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "copper pyrite",
+      "ayurveda_name": "mkika",
+      "unani_name": "",
+      "siddha_name": "Sembunimilai",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 12,
+      "columns": [
+        "Dried smoke of burnt wood",
+        "ghadhma",
+        "",
+        "Pugai saambal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Dried smoke of burnt wood",
+      "ayurveda_name": "ghadhma",
+      "unani_name": "",
+      "siddha_name": "Pugai saambal",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 13,
+      "columns": [
+        "Galena",
+        "ajana",
+        "",
+        "Anjanakal,Karunimilai,Karu maakkal,Neelanjam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Galena",
+      "ayurveda_name": "ajana",
+      "unani_name": "",
+      "siddha_name": "Anjanakal,Karunimilai,Karu maakkal,Neelanjam",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 14,
+      "columns": [
+        "Gold",
+        "svara",
+        "Ibreez/Tilaa-e-Khaalis/Sona/Zahab",
+        "Thangam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Gold",
+      "ayurveda_name": "svara",
+      "unani_name": "Ibreez/Tilaa-e-Khaalis/Sona/Zahab",
+      "siddha_name": "Thangam",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 15,
+      "columns": [
+        "Impure sodium bicarbonate",
+        "svarjikkra",
+        "",
+        "Appalakkaaram,Uzhaman",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Impure sodium bicarbonate",
+      "ayurveda_name": "svarjikkra",
+      "unani_name": "",
+      "siddha_name": "Appalakkaaram,Uzhaman",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 16,
+      "columns": [
+        "iron rust",
+        "mara",
+        "Chattem/Reem-e-Aahan/Khabas-al-Hadeed",
+        "mandooram,kittam,Chittam,Ayomalam,Loga mandooram,Aya chittam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "iron rust",
+      "ayurveda_name": "mara",
+      "unani_name": "Chattem/Reem-e-Aahan/Khabas-al-Hadeed",
+      "siddha_name": "mandooram,kittam,Chittam,Ayomalam,Loga mandooram,Aya chittam",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 17,
+      "columns": [
+        "Iron sulphate",
+        "kssa",
+        "",
+        "Annabedhi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Iron sulphate",
+      "ayurveda_name": "kssa",
+      "unani_name": "",
+      "siddha_name": "Annabedhi",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 18,
+      "columns": [
+        "Lime",
+        "cra",
+        "Aahak/ Choona / Norah / Kils",
+        "Chunnaambukkal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Lime",
+      "ayurveda_name": "cra",
+      "unani_name": "Aahak/ Choona / Norah / Kils",
+      "siddha_name": "Chunnaambukkal",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 19,
+      "columns": [
+        "Magnatite",
+        "knta pa/lauha",
+        "",
+        "Kaantham,Murugan puraanam,Siva loga sevagan,Tharanikku naadham,Kaya sitthikku paakiyavaan",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Magnatite",
+      "ayurveda_name": "knta pa/lauha",
+      "unani_name": "",
+      "siddha_name": "Kaantham,Murugan puraanam,Siva loga sevagan,Tharanikku naadham,Kaya sitthikku paakiyavaan",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 20,
+      "columns": [
+        "orpiment",
+        "haritla",
+        "Zirneekh-e-Zard/Hartaal Tabqi/Hartaal Warqi",
+        "Thalakam,ArIthaaram,Ponvarni,Maaldevi,Kothandham,Peethagi,Aalambi,Kaal puthi,Paluppu,Manjal varni",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "orpiment",
+      "ayurveda_name": "haritla",
+      "unani_name": "Zirneekh-e-Zard/Hartaal Tabqi/Hartaal Warqi",
+      "siddha_name": "Thalakam,ArIthaaram,Ponvarni,Maaldevi,Kothandham,Peethagi,Aalambi,Kaal puthi,Paluppu,Manjal varni",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 21,
+      "columns": [
+        "Perchloride of mercury",
+        "rasakarpra",
+        "Daar Shikna/Daar Chikna",
+        "Veeram",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Perchloride of mercury",
+      "ayurveda_name": "rasakarpra",
+      "unani_name": "Daar Shikna/Daar Chikna",
+      "siddha_name": "Veeram",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 22,
+      "columns": [
+        "Potash Alum",
+        "Saurastri / Sphatika",
+        "Zaaj-e-Safaid/Zaaj-e-Abyaz/Phitkari/Shibb",
+        "Padikaaram,Cheenam,Padiki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Potash Alum",
+      "ayurveda_name": "Saurastri / Sphatika",
+      "unani_name": "Zaaj-e-Safaid/Zaaj-e-Abyaz/Phitkari/Shibb",
+      "siddha_name": "Padikaaram,Cheenam,Padiki",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 23,
+      "columns": [
+        "Potassium nitrate",
+        "soraka",
+        "",
+        "Vediuppu,Pottiluppu,Inangan,Padai raasan,Poomi koormai,Navachaara mithuru, Attuppu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Potassium nitrate",
+      "ayurveda_name": "soraka",
+      "unani_name": "",
+      "siddha_name": "Vediuppu,Pottiluppu,Inangan,Padai raasan,Poomi koormai,Navachaara mithuru, Attuppu",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 24,
+      "columns": [
+        "Processed HgS",
+        "Rasa sindura",
+        "",
+        "Suddhitha rasa Chenduram",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Processed HgS",
+      "ayurveda_name": "Rasa sindura",
+      "unani_name": "",
+      "siddha_name": "Suddhitha rasa Chenduram",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 25,
+      "columns": [
+        "Red Ochre",
+        "gairika",
+        "Geru/ Barteeqoon/Teen-e-Ahmar/ Maghrah/Gil-e-Surkh",
+        "Poongkaavi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Red Ochre",
+      "ayurveda_name": "gairika",
+      "unani_name": "Geru/ Barteeqoon/Teen-e-Ahmar/ Maghrah/Gil-e-Surkh",
+      "siddha_name": "Poongkaavi",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 26,
+      "columns": [
+        "Red oxide of mercury",
+        "girisindra",
+        "",
+        "Rasa Chendooram",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Red oxide of mercury",
+      "ayurveda_name": "girisindra",
+      "unani_name": "",
+      "siddha_name": "Rasa Chendooram",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 27,
+      "columns": [
+        "rock salt",
+        "Saindhava lavana",
+        "Namak-e-Sang / Saindha lon/Saindha Namak/Namak-e-Hindi/Namak-e-Lahori",
+        "Indhuppu,mathiuppu ,saindhalavanam,mathi koormai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "rock salt",
+      "ayurveda_name": "Saindhava lavana",
+      "unani_name": "Namak-e-Sang / Saindha lon/Saindha Namak/Namak-e-Hindi/Namak-e-Lahori",
+      "siddha_name": "Indhuppu,mathiuppu ,saindhalavanam,mathi koormai",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 28,
+      "columns": [
+        "Sand stone",
+        "sphaika",
+        "",
+        "Spadikam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Sand stone",
+      "ayurveda_name": "sphaika",
+      "unani_name": "",
+      "siddha_name": "Spadikam",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 29,
+      "columns": [
+        "Sea salt",
+        "smudra lavaa",
+        "Milh-hudd-Dabbaagheen / Oudbhidlon/Paangalon/Namak Daryaiee/Samandar lon",
+        "Kadal Uppu,Kadal kuruvi, Kalluppu, Paaraiuppu, Thiruppullaniuppu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Sea salt",
+      "ayurveda_name": "smudra lavaa",
+      "unani_name": "Milh-hudd-Dabbaagheen / Oudbhidlon/Paangalon/Namak Daryaiee/Samandar lon",
+      "siddha_name": "Kadal Uppu,Kadal kuruvi, Kalluppu, Paaraiuppu, Thiruppullaniuppu",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 30,
+      "columns": [
+        "Silver",
+        "rajata",
+        "Nuqrah/ Chaandi/Guwaarna",
+        "Velli,Sukkiran,Madurai podhu,Ven thaadhu,Ven pon,Rasidha mani,Kala thoudham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Silver",
+      "ayurveda_name": "rajata",
+      "unani_name": "Nuqrah/ Chaandi/Guwaarna",
+      "siddha_name": "Velli,Sukkiran,Madurai podhu,Ven thaadhu,Ven pon,Rasidha mani,Kala thoudham",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 31,
+      "columns": [
+        "Sulphur",
+        "Gandhaka",
+        "Kibreet/ Gandhak",
+        "Gandhakam,Kandhi,Kaarilaiyin naadham,Devi uram,Sendhoorathaadhi,Parai naadham,Atheetha pirakasam,Sakthi peejam,Rasa suronitham,Selvi vindhu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "Sulphur",
+      "ayurveda_name": "Gandhaka",
+      "unani_name": "Kibreet/ Gandhak",
+      "siddha_name": "Gandhakam,Kandhi,Kaarilaiyin naadham,Devi uram,Sendhoorathaadhi,Parai naadham,Atheetha pirakasam,Sakthi peejam,Rasa suronitham,Selvi vindhu",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Metals / Mineral Name",
+      "row_index": 32,
+      "columns": [
+        "tin",
+        "vaga",
+        "Qalai/Raang",
+        "Velvangam,Ven naagam,Kudilam,Thavala vangam,Svetha vangam,Paandi,Maarasam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+      "scientific_or_english_name": "tin",
+      "ayurveda_name": "vaga",
+      "unani_name": "Qalai/Raang",
+      "siddha_name": "Velvangam,Ven naagam,Kudilam,Thavala vangam,Svetha vangam,Paandi,Maarasam",
+      "common_name": ""
+    }
+  ]
+}

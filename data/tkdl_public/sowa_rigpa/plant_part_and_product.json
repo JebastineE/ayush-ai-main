@@ -1,0 +1,857 @@
+{
+  "source": "TKDL",
+  "system": "Sowa Rigpa",
+  "category": "Plant Part & Product",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Plant-Part.asp",
+  "retrieved_at": "2026-08-27T10:34:21.165982",
+  "total_records": 47,
+  "records": [
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 1,
+      "columns": [
+        "Androecium",
+        "Pumkesara",
+        "Tajammu' Tukhmdaan/Narkot",
+        "Makarandham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Androecium",
+      "ayurveda_name": "Pumkesara",
+      "unani_name": "Tajammu' Tukhmdaan/Narkot",
+      "siddha_name": "Makarandham",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 2,
+      "columns": [
+        "Anther",
+        "pargakoa",
+        "Zardaan",
+        "Magarantha thool",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Anther",
+      "ayurveda_name": "pargakoa",
+      "unani_name": "Zardaan",
+      "siddha_name": "Magarantha thool",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 3,
+      "columns": [
+        "Aril",
+        "koapatra",
+        "Qishr-e-Zaayed",
+        "Vithai mel padar narrambu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Aril",
+      "ayurveda_name": "koapatra",
+      "unani_name": "Qishr-e-Zaayed",
+      "siddha_name": "Vithai mel padar narrambu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 4,
+      "columns": [
+        "Bamboo manna",
+        "vaalocana",
+        "",
+        "Moongiluppu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Bamboo manna",
+      "ayurveda_name": "vaalocana",
+      "unani_name": "",
+      "siddha_name": "Moongiluppu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 5,
+      "columns": [
+        "Branches",
+        "kh",
+        "Shaakh",
+        "Kizhaikal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Branches",
+      "ayurveda_name": "kh",
+      "unani_name": "Shaakh",
+      "siddha_name": "Kizhaikal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 6,
+      "columns": [
+        "Coconut water",
+        "Narikela jala",
+        "Maajoz-e-Narjeel",
+        "Tenkai Paal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Coconut water",
+      "ayurveda_name": "Narikela jala",
+      "unani_name": "Maajoz-e-Narjeel",
+      "siddha_name": "Tenkai Paal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 7,
+      "columns": [
+        "Cold infusion",
+        "tata/hima",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Cold infusion",
+      "ayurveda_name": "tata/hima",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 8,
+      "columns": [
+        "Endosperm",
+        "bjamajj",
+        "Daroon-e-Tukhm",
+        "Vithai Paruppu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Endosperm",
+      "ayurveda_name": "bjamajj",
+      "unani_name": "Daroon-e-Tukhm",
+      "siddha_name": "Vithai Paruppu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 9,
+      "columns": [
+        "Expressed juice",
+        "Svarasa",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Expressed juice",
+      "ayurveda_name": "Svarasa",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 10,
+      "columns": [
+        "Fermented alcoholic product of crude drugs",
+        "sava",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Fermented alcoholic product of crude drugs",
+      "ayurveda_name": "sava",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 11,
+      "columns": [
+        "Fire/ Heat",
+        "agni",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Fire/ Heat",
+      "ayurveda_name": "agni",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 12,
+      "columns": [
+        "Flower",
+        "pupa",
+        "Gul",
+        "Poo ,malar,Malar ethazh",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Flower",
+      "ayurveda_name": "pupa",
+      "unani_name": "Gul",
+      "siddha_name": "Poo ,malar,Malar ethazh",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 13,
+      "columns": [
+        "Flower Bud",
+        "mukula",
+        "Shagoofah-e-Gul",
+        "Poo Mokku",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Flower Bud",
+      "ayurveda_name": "mukula",
+      "unani_name": "Shagoofah-e-Gul",
+      "siddha_name": "Poo Mokku",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 14,
+      "columns": [
+        "Fresh rhizome / tuber",
+        "Ardra kanda",
+        "Jazar-e-taazah",
+        "Elam Verkombu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Fresh rhizome / tuber",
+      "ayurveda_name": "Ardra kanda",
+      "unani_name": "Jazar-e-taazah",
+      "siddha_name": "Elam Verkombu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 15,
+      "columns": [
+        "Fruit",
+        "phala",
+        "Samar/Fawakeh",
+        "Pazham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Fruit",
+      "ayurveda_name": "phala",
+      "unani_name": "Samar/Fawakeh",
+      "siddha_name": "Pazham",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 16,
+      "columns": [
+        "Fruit exudate",
+        "phalanirysa",
+        "Taraavush-e-Samar",
+        "Vithai,Pazha Kasivu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Fruit exudate",
+      "ayurveda_name": "phalanirysa",
+      "unani_name": "Taraavush-e-Samar",
+      "siddha_name": "Vithai,Pazha Kasivu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 17,
+      "columns": [
+        "Fruit indumentum",
+        "phalaraja",
+        "Ghilaaf-e-Samar",
+        "Pazha Thozh Melpodi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Fruit indumentum",
+      "ayurveda_name": "phalaraja",
+      "unani_name": "Ghilaaf-e-Samar",
+      "siddha_name": "Pazha Thozh Melpodi",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 18,
+      "columns": [
+        "Fruit pulp",
+        "phalamajj",
+        "Goodah-e-Samar",
+        "Pazha Sathai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Fruit pulp",
+      "ayurveda_name": "phalamajj",
+      "unani_name": "Goodah-e-Samar",
+      "siddha_name": "Pazha Sathai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 19,
+      "columns": [
+        "Fruit rind",
+        "phalatvak",
+        "Post-e-Samar",
+        "Pazha odu,Pazha thol",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Fruit rind",
+      "ayurveda_name": "phalatvak",
+      "unani_name": "Post-e-Samar",
+      "siddha_name": "Pazha odu,Pazha thol",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 20,
+      "columns": [
+        "Gall",
+        "kagha",
+        "Maazu",
+        "Puzhukkoodu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Gall",
+      "ayurveda_name": "kagha",
+      "unani_name": "Maazu",
+      "siddha_name": "Puzhukkoodu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 21,
+      "columns": [
+        "Gruel",
+        "yavgu",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Gruel",
+      "ayurveda_name": "yavgu",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 22,
+      "columns": [
+        "Heart wood",
+        "khamajj",
+        "Qalb chob / Iedaan/Khashab",
+        "Ulthandu,Kattai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Heart wood",
+      "ayurveda_name": "khamajj",
+      "unani_name": "Qalb chob / Iedaan/Khashab",
+      "siddha_name": "Ulthandu,Kattai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 23,
+      "columns": [
+        "Irregular patches of dark wood highly charged with oleoresin",
+        "kmijagdhakha",
+        "Samagh Roghni/Roghni Raal",
+        "Pisin Purani,Pisin pattai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Irregular patches of dark wood highly charged with oleoresin",
+      "ayurveda_name": "kmijagdhakha",
+      "unani_name": "Samagh Roghni/Roghni Raal",
+      "siddha_name": "Pisin Purani,Pisin pattai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 24,
+      "columns": [
+        "Juice sacs",
+        "phalakesara",
+        "Kesah-e-Arq",
+        "Saatru Koodu,Saatru pai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Juice sacs",
+      "ayurveda_name": "phalakesara",
+      "unani_name": "Kesah-e-Arq",
+      "siddha_name": "Saatru Koodu,Saatru pai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 25,
+      "columns": [
+        "Latex",
+        "kra",
+        "Sheer-e-Shajari",
+        "Moolikai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Latex",
+      "ayurveda_name": "kra",
+      "unani_name": "Sheer-e-Shajari",
+      "siddha_name": "Moolikai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 26,
+      "columns": [
+        "Leaf",
+        "patra",
+        "Barg/Patti",
+        "Ilai,Thazhai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Leaf",
+      "ayurveda_name": "patra",
+      "unani_name": "Barg/Patti",
+      "siddha_name": "Ilai,Thazhai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 27,
+      "columns": [
+        "Leaf pulp",
+        "patramajj",
+        "Maghz-e-barg",
+        "Ilai Soru",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Leaf pulp",
+      "ayurveda_name": "patramajj",
+      "unani_name": "Maghz-e-barg",
+      "siddha_name": "Ilai Soru",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 28,
+      "columns": [
+        "Parched rice",
+        "lj/lv",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Parched rice",
+      "ayurveda_name": "lj/lv",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 29,
+      "columns": [
+        "Rhizome",
+        "prakanda",
+        "Jazr/Zameen Saaq",
+        "Ver Kombu,Matta nila thandu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Rhizome",
+      "ayurveda_name": "prakanda",
+      "unani_name": "Jazr/Zameen Saaq",
+      "siddha_name": "Ver Kombu,Matta nila thandu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 30,
+      "columns": [
+        "Root",
+        "mla",
+        "Beekh/Asl/Usool",
+        "Ver",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Root",
+      "ayurveda_name": "mla",
+      "unani_name": "Beekh/Asl/Usool",
+      "siddha_name": "Ver",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 31,
+      "columns": [
+        "Root bark",
+        "mlatvak",
+        "Post-e-Asl",
+        "Ver Pattai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Root bark",
+      "ayurveda_name": "mlatvak",
+      "unani_name": "Post-e-Asl",
+      "siddha_name": "Ver Pattai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 32,
+      "columns": [
+        "Root tuber",
+        "mlakanda",
+        "",
+        "Verkizhangu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Root tuber",
+      "ayurveda_name": "mlakanda",
+      "unani_name": "",
+      "siddha_name": "Verkizhangu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 33,
+      "columns": [
+        "Seed",
+        "bja/ phalsthi",
+        "Tukhm/Bazr/Buzoor",
+        "Vidhai,Vithu,Kottai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Seed",
+      "ayurveda_name": "bja/ phalsthi",
+      "unani_name": "Tukhm/Bazr/Buzoor",
+      "siddha_name": "Vidhai,Vithu,Kottai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 34,
+      "columns": [
+        "Semiliquid formulation",
+        "leha",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Semiliquid formulation",
+      "ayurveda_name": "leha",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 35,
+      "columns": [
+        "Shoot",
+        "praroha",
+        "Insha'ab-e-Ghunchah",
+        "Kuruthu,Mulai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Shoot",
+      "ayurveda_name": "praroha",
+      "unani_name": "Insha'ab-e-Ghunchah",
+      "siddha_name": "Kuruthu,Mulai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 36,
+      "columns": [
+        "St.Bark,Leaf,Flower,Fruit&Root",
+        "Pancanga",
+        "Nabat Musallam",
+        "Samoolam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "St.Bark,Leaf,Flower,Fruit&Root",
+      "ayurveda_name": "Pancanga",
+      "unani_name": "Nabat Musallam",
+      "siddha_name": "Samoolam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 37,
+      "columns": [
+        "Stalk",
+        "nla",
+        "Saaqah/Danthal",
+        "Valayam / Ilam Thandu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Stalk",
+      "ayurveda_name": "nla",
+      "unani_name": "Saaqah/Danthal",
+      "siddha_name": "Valayam / Ilam Thandu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 38,
+      "columns": [
+        "Stem",
+        "ka",
+        "Tana",
+        "Thandu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Stem",
+      "ayurveda_name": "ka",
+      "unani_name": "Tana",
+      "siddha_name": "Thandu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 39,
+      "columns": [
+        "Stem bark",
+        "knatvak",
+        "Post-e-Saaq / Chhaal",
+        "Thandu Pattai, Mara pattai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Stem bark",
+      "ayurveda_name": "knatvak",
+      "unani_name": "Post-e-Saaq / Chhaal",
+      "siddha_name": "Thandu Pattai, Mara pattai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 40,
+      "columns": [
+        "Stem tuber",
+        "kakanda",
+        "",
+        "Thandu Kizhangu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Stem tuber",
+      "ayurveda_name": "kakanda",
+      "unani_name": "",
+      "siddha_name": "Thandu Kizhangu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 41,
+      "columns": [
+        "Stigma",
+        "vartikgra",
+        "Zeerah geer",
+        "Magarantha pye",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Stigma",
+      "ayurveda_name": "vartikgra",
+      "unani_name": "Zeerah geer",
+      "siddha_name": "Magarantha pye",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 42,
+      "columns": [
+        "Tender leaves",
+        "pallava",
+        "Barg-e-Naazuk",
+        "Thazir Illai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Tender leaves",
+      "ayurveda_name": "pallava",
+      "unani_name": "Barg-e-Naazuk",
+      "siddha_name": "Thazir Illai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 43,
+      "columns": [
+        "Terminal tender twig",
+        "pravla",
+        "Shaakh-e Naazuk Intehaai",
+        "Nuni Kurutthu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Terminal tender twig",
+      "ayurveda_name": "pravla",
+      "unani_name": "Shaakh-e Naazuk Intehaai",
+      "siddha_name": "Nuni Kurutthu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 44,
+      "columns": [
+        "Tuber/bulb/corm",
+        "kanda",
+        "Baslah",
+        "Kizhangu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Tuber/bulb/corm",
+      "ayurveda_name": "kanda",
+      "unani_name": "Baslah",
+      "siddha_name": "Kizhangu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 45,
+      "columns": [
+        "Unripe fruit",
+        "apakvaphala",
+        "Samar-e-khaam",
+        "Pazhakkaai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Unripe fruit",
+      "ayurveda_name": "apakvaphala",
+      "unani_name": "Samar-e-khaam",
+      "siddha_name": "Pazhakkaai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 46,
+      "columns": [
+        "Vegetable",
+        "ka",
+        "Baqlaat",
+        "Kaaikari",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Vegetable",
+      "ayurveda_name": "ka",
+      "unani_name": "Baqlaat",
+      "siddha_name": "Kaaikari",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Plant Part & Product",
+      "row_index": 47,
+      "columns": [
+        "Vegetative buds / Young bud",
+        "uga",
+        "Shagoofah/Ghunchah",
+        "Ilanthazhir",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+      "scientific_or_english_name": "Vegetative buds / Young bud",
+      "ayurveda_name": "uga",
+      "unani_name": "Shagoofah/Ghunchah",
+      "siddha_name": "Ilanthazhir",
+      "common_name": ""
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+[
+  {
+    "id": "TKDL-IND-0001",
+    "formulation_name": "Curcuma longa Taila (Oil)",
+    "ingredients": [
+      "Curcuma longa (Turmeric)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Wound healing, antimicrobial, anti-inflammatory",
+    "ipc_code": "A61K 36/9066",
+    "tkrc_code": "A01D-1/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0002",
+    "formulation_name": "Azadirachta indica Taila (Oil)",
+    "ingredients": [
+      "Azadirachta indica (Neem)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Antifungal, pest control, dermatological disorders",
+    "ipc_code": "A61K 36/58",
+    "tkrc_code": "A01D-2/04",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0003",
+    "formulation_name": "Withania somnifera Taila (Oil)",
+    "ingredients": [
+      "Withania somnifera (Ashwagandha)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Neuroprotection, anti-stress, immunomodulation",
+    "ipc_code": "A61K 36/81",
+    "tkrc_code": "A01D-4/05",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0004",
+    "formulation_name": "Ocimum tenuiflorum Taila (Oil)",
+    "ingredients": [
+      "Ocimum tenuiflorum (Tulsi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Respiratory tract disorders, antiviral protection",
+    "ipc_code": "A61K 36/53",
+    "tkrc_code": "A01D-3/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0005",
+    "formulation_name": "Tinospora cordifolia Taila (Oil)",
+    "ingredients": [
+      "Tinospora cordifolia (Guduchi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Immunomodulator, antipyretic, metabolic support",
+    "ipc_code": "A61K 36/59",
+    "tkrc_code": "A01D-5/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0006",
+    "formulation_name": "Emblica officinalis Taila (Oil)",
+    "ingredients": [
+      "Emblica officinalis (Amalaki)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Antioxidant, digestive tonic, ophthalmic disorders",
+    "ipc_code": "A61K 36/47",
+    "tkrc_code": "A01D-6/03",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0007",
+    "formulation_name": "Boswellia serrata Taila (Oil)",
+    "ingredients": [
+      "Boswellia serrata (Shallaki)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Arthritis, joint inflammation, analgesic",
+    "ipc_code": "A61K 36/324",
+    "tkrc_code": "A01D-7/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0008",
+    "formulation_name": "Commiphora wightii Taila (Oil)",
+    "ingredients": [
+      "Commiphora wightii (Guggul)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Hyperlipidemia, lipid metabolism, anti-inflammatory",
+    "ipc_code": "A61K 36/328",
+    "tkrc_code": "A01D-8/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0009",
+    "formulation_name": "Bacopa monnieri Taila (Oil)",
+    "ingredients": [
+      "Bacopa monnieri (Brahmi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Cognitive enhancement, memory retention, anxiety",
+    "ipc_code": "A61K 36/68",
+    "tkrc_code": "A01D-9/05",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0010",
+    "formulation_name": "Andrographis paniculata Taila (Oil)",
+    "ingredients": [
+      "Andrographis paniculata (Kalmegh)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Hepatoprotective, antimalarial, fever reduction",
+    "ipc_code": "A61K 36/19",
+    "tkrc_code": "A01D-10/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0011",
+    "formulation_name": "Curcuma longa Ghrta (Ghee)",
+    "ingredients": [
+      "Curcuma longa (Turmeric)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Wound healing, antimicrobial, anti-inflammatory",
+    "ipc_code": "A61K 36/9066",
+    "tkrc_code": "A01D-1/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0012",
+    "formulation_name": "Azadirachta indica Ghrta (Ghee)",
+    "ingredients": [
+      "Azadirachta indica (Neem)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Antifungal, pest control, dermatological disorders",
+    "ipc_code": "A61K 36/58",
+    "tkrc_code": "A01D-2/04",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0013",
+    "formulation_name": "Withania somnifera Ghrta (Ghee)",
+    "ingredients": [
+      "Withania somnifera (Ashwagandha)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Neuroprotection, anti-stress, immunomodulation",
+    "ipc_code": "A61K 36/81",
+    "tkrc_code": "A01D-4/05",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0014",
+    "formulation_name": "Ocimum tenuiflorum Ghrta (Ghee)",
+    "ingredients": [
+      "Ocimum tenuiflorum (Tulsi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Respiratory tract disorders, antiviral protection",
+    "ipc_code": "A61K 36/53",
+    "tkrc_code": "A01D-3/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0015",
+    "formulation_name": "Tinospora cordifolia Ghrta (Ghee)",
+    "ingredients": [
+      "Tinospora cordifolia (Guduchi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Immunomodulator, antipyretic, metabolic support",
+    "ipc_code": "A61K 36/59",
+    "tkrc_code": "A01D-5/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0016",
+    "formulation_name": "Emblica officinalis Ghrta (Ghee)",
+    "ingredients": [
+      "Emblica officinalis (Amalaki)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Antioxidant, digestive tonic, ophthalmic disorders",
+    "ipc_code": "A61K 36/47",
+    "tkrc_code": "A01D-6/03",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0017",
+    "formulation_name": "Boswellia serrata Ghrta (Ghee)",
+    "ingredients": [
+      "Boswellia serrata (Shallaki)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Arthritis, joint inflammation, analgesic",
+    "ipc_code": "A61K 36/324",
+    "tkrc_code": "A01D-7/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0018",
+    "formulation_name": "Commiphora wightii Ghrta (Ghee)",
+    "ingredients": [
+      "Commiphora wightii (Guggul)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Hyperlipidemia, lipid metabolism, anti-inflammatory",
+    "ipc_code": "A61K 36/328",
+    "tkrc_code": "A01D-8/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0019",
+    "formulation_name": "Bacopa monnieri Ghrta (Ghee)",
+    "ingredients": [
+      "Bacopa monnieri (Brahmi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Cognitive enhancement, memory retention, anxiety",
+    "ipc_code": "A61K 36/68",
+    "tkrc_code": "A01D-9/05",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0020",
+    "formulation_name": "Andrographis paniculata Ghrta (Ghee)",
+    "ingredients": [
+      "Andrographis paniculata (Kalmegh)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Hepatoprotective, antimalarial, fever reduction",
+    "ipc_code": "A61K 36/19",
+    "tkrc_code": "A01D-10/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0021",
+    "formulation_name": "Curcuma longa Curna (Powder)",
+    "ingredients": [
+      "Curcuma longa (Turmeric)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Wound healing, antimicrobial, anti-inflammatory",
+    "ipc_code": "A61K 36/9066",
+    "tkrc_code": "A01D-1/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0022",
+    "formulation_name": "Azadirachta indica Curna (Powder)",
+    "ingredients": [
+      "Azadirachta indica (Neem)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Antifungal, pest control, dermatological disorders",
+    "ipc_code": "A61K 36/58",
+    "tkrc_code": "A01D-2/04",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0023",
+    "formulation_name": "Withania somnifera Curna (Powder)",
+    "ingredients": [
+      "Withania somnifera (Ashwagandha)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Neuroprotection, anti-stress, immunomodulation",
+    "ipc_code": "A61K 36/81",
+    "tkrc_code": "A01D-4/05",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0024",
+    "formulation_name": "Ocimum tenuiflorum Curna (Powder)",
+    "ingredients": [
+      "Ocimum tenuiflorum (Tulsi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Respiratory tract disorders, antiviral protection",
+    "ipc_code": "A61K 36/53",
+    "tkrc_code": "A01D-3/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0025",
+    "formulation_name": "Tinospora cordifolia Curna (Powder)",
+    "ingredients": [
+      "Tinospora cordifolia (Guduchi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Immunomodulator, antipyretic, metabolic support",
+    "ipc_code": "A61K 36/59",
+    "tkrc_code": "A01D-5/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0026",
+    "formulation_name": "Emblica officinalis Curna (Powder)",
+    "ingredients": [
+      "Emblica officinalis (Amalaki)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Antioxidant, digestive tonic, ophthalmic disorders",
+    "ipc_code": "A61K 36/47",
+    "tkrc_code": "A01D-6/03",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0027",
+    "formulation_name": "Boswellia serrata Curna (Powder)",
+    "ingredients": [
+      "Boswellia serrata (Shallaki)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Arthritis, joint inflammation, analgesic",
+    "ipc_code": "A61K 36/324",
+    "tkrc_code": "A01D-7/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0028",
+    "formulation_name": "Commiphora wightii Curna (Powder)",
+    "ingredients": [
+      "Commiphora wightii (Guggul)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Hyperlipidemia, lipid metabolism, anti-inflammatory",
+    "ipc_code": "A61K 36/328",
+    "tkrc_code": "A01D-8/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0029",
+    "formulation_name": "Bacopa monnieri Curna (Powder)",
+    "ingredients": [
+      "Bacopa monnieri (Brahmi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Cognitive enhancement, memory retention, anxiety",
+    "ipc_code": "A61K 36/68",
+    "tkrc_code": "A01D-9/05",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0030",
+    "formulation_name": "Andrographis paniculata Curna (Powder)",
+    "ingredients": [
+      "Andrographis paniculata (Kalmegh)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Hepatoprotective, antimalarial, fever reduction",
+    "ipc_code": "A61K 36/19",
+    "tkrc_code": "A01D-10/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0031",
+    "formulation_name": "Curcuma longa Arka (Distillate)",
+    "ingredients": [
+      "Curcuma longa (Turmeric)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Wound healing, antimicrobial, anti-inflammatory",
+    "ipc_code": "A61K 36/9066",
+    "tkrc_code": "A01D-1/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0032",
+    "formulation_name": "Azadirachta indica Arka (Distillate)",
+    "ingredients": [
+      "Azadirachta indica (Neem)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Antifungal, pest control, dermatological disorders",
+    "ipc_code": "A61K 36/58",
+    "tkrc_code": "A01D-2/04",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0033",
+    "formulation_name": "Withania somnifera Arka (Distillate)",
+    "ingredients": [
+      "Withania somnifera (Ashwagandha)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Neuroprotection, anti-stress, immunomodulation",
+    "ipc_code": "A61K 36/81",
+    "tkrc_code": "A01D-4/05",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0034",
+    "formulation_name": "Ocimum tenuiflorum Arka (Distillate)",
+    "ingredients": [
+      "Ocimum tenuiflorum (Tulsi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Respiratory tract disorders, antiviral protection",
+    "ipc_code": "A61K 36/53",
+    "tkrc_code": "A01D-3/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0035",
+    "formulation_name": "Tinospora cordifolia Arka (Distillate)",
+    "ingredients": [
+      "Tinospora cordifolia (Guduchi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Immunomodulator, antipyretic, metabolic support",
+    "ipc_code": "A61K 36/59",
+    "tkrc_code": "A01D-5/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0036",
+    "formulation_name": "Emblica officinalis Arka (Distillate)",
+    "ingredients": [
+      "Emblica officinalis (Amalaki)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Antioxidant, digestive tonic, ophthalmic disorders",
+    "ipc_code": "A61K 36/47",
+    "tkrc_code": "A01D-6/03",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0037",
+    "formulation_name": "Boswellia serrata Arka (Distillate)",
+    "ingredients": [
+      "Boswellia serrata (Shallaki)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Arthritis, joint inflammation, analgesic",
+    "ipc_code": "A61K 36/324",
+    "tkrc_code": "A01D-7/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0038",
+    "formulation_name": "Commiphora wightii Arka (Distillate)",
+    "ingredients": [
+      "Commiphora wightii (Guggul)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Hyperlipidemia, lipid metabolism, anti-inflammatory",
+    "ipc_code": "A61K 36/328",
+    "tkrc_code": "A01D-8/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0039",
+    "formulation_name": "Bacopa monnieri Arka (Distillate)",
+    "ingredients": [
+      "Bacopa monnieri (Brahmi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Cognitive enhancement, memory retention, anxiety",
+    "ipc_code": "A61K 36/68",
+    "tkrc_code": "A01D-9/05",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0040",
+    "formulation_name": "Andrographis paniculata Arka (Distillate)",
+    "ingredients": [
+      "Andrographis paniculata (Kalmegh)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Hepatoprotective, antimalarial, fever reduction",
+    "ipc_code": "A61K 36/19",
+    "tkrc_code": "A01D-10/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0041",
+    "formulation_name": "Curcuma longa Kashaya (Decoction)",
+    "ingredients": [
+      "Curcuma longa (Turmeric)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Wound healing, antimicrobial, anti-inflammatory",
+    "ipc_code": "A61K 36/9066",
+    "tkrc_code": "A01D-1/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0042",
+    "formulation_name": "Azadirachta indica Kashaya (Decoction)",
+    "ingredients": [
+      "Azadirachta indica (Neem)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Antifungal, pest control, dermatological disorders",
+    "ipc_code": "A61K 36/58",
+    "tkrc_code": "A01D-2/04",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0043",
+    "formulation_name": "Withania somnifera Kashaya (Decoction)",
+    "ingredients": [
+      "Withania somnifera (Ashwagandha)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Neuroprotection, anti-stress, immunomodulation",
+    "ipc_code": "A61K 36/81",
+    "tkrc_code": "A01D-4/05",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0044",
+    "formulation_name": "Ocimum tenuiflorum Kashaya (Decoction)",
+    "ingredients": [
+      "Ocimum tenuiflorum (Tulsi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Respiratory tract disorders, antiviral protection",
+    "ipc_code": "A61K 36/53",
+    "tkrc_code": "A01D-3/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0045",
+    "formulation_name": "Tinospora cordifolia Kashaya (Decoction)",
+    "ingredients": [
+      "Tinospora cordifolia (Guduchi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Immunomodulator, antipyretic, metabolic support",
+    "ipc_code": "A61K 36/59",
+    "tkrc_code": "A01D-5/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0046",
+    "formulation_name": "Emblica officinalis Kashaya (Decoction)",
+    "ingredients": [
+      "Emblica officinalis (Amalaki)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Antioxidant, digestive tonic, ophthalmic disorders",
+    "ipc_code": "A61K 36/47",
+    "tkrc_code": "A01D-6/03",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0047",
+    "formulation_name": "Boswellia serrata Kashaya (Decoction)",
+    "ingredients": [
+      "Boswellia serrata (Shallaki)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Arthritis, joint inflammation, analgesic",
+    "ipc_code": "A61K 36/324",
+    "tkrc_code": "A01D-7/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0048",
+    "formulation_name": "Commiphora wightii Kashaya (Decoction)",
+    "ingredients": [
+      "Commiphora wightii (Guggul)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Hyperlipidemia, lipid metabolism, anti-inflammatory",
+    "ipc_code": "A61K 36/328",
+    "tkrc_code": "A01D-8/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0049",
+    "formulation_name": "Bacopa monnieri Kashaya (Decoction)",
+    "ingredients": [
+      "Bacopa monnieri (Brahmi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Cognitive enhancement, memory retention, anxiety",
+    "ipc_code": "A61K 36/68",
+    "tkrc_code": "A01D-9/05",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0050",
+    "formulation_name": "Andrographis paniculata Kashaya (Decoction)",
+    "ingredients": [
+      "Andrographis paniculata (Kalmegh)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Hepatoprotective, antimalarial, fever reduction",
+    "ipc_code": "A61K 36/19",
+    "tkrc_code": "A01D-10/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0051",
+    "formulation_name": "Curcuma longa Vati (Tablet)",
+    "ingredients": [
+      "Curcuma longa (Turmeric)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Wound healing, antimicrobial, anti-inflammatory",
+    "ipc_code": "A61K 36/9066",
+    "tkrc_code": "A01D-1/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0052",
+    "formulation_name": "Azadirachta indica Vati (Tablet)",
+    "ingredients": [
+      "Azadirachta indica (Neem)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Antifungal, pest control, dermatological disorders",
+    "ipc_code": "A61K 36/58",
+    "tkrc_code": "A01D-2/04",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0053",
+    "formulation_name": "Withania somnifera Vati (Tablet)",
+    "ingredients": [
+      "Withania somnifera (Ashwagandha)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Neuroprotection, anti-stress, immunomodulation",
+    "ipc_code": "A61K 36/81",
+    "tkrc_code": "A01D-4/05",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0054",
+    "formulation_name": "Ocimum tenuiflorum Vati (Tablet)",
+    "ingredients": [
+      "Ocimum tenuiflorum (Tulsi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Respiratory tract disorders, antiviral protection",
+    "ipc_code": "A61K 36/53",
+    "tkrc_code": "A01D-3/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0055",
+    "formulation_name": "Tinospora cordifolia Vati (Tablet)",
+    "ingredients": [
+      "Tinospora cordifolia (Guduchi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Immunomodulator, antipyretic, metabolic support",
+    "ipc_code": "A61K 36/59",
+    "tkrc_code": "A01D-5/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0056",
+    "formulation_name": "Emblica officinalis Vati (Tablet)",
+    "ingredients": [
+      "Emblica officinalis (Amalaki)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Antioxidant, digestive tonic, ophthalmic disorders",
+    "ipc_code": "A61K 36/47",
+    "tkrc_code": "A01D-6/03",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0057",
+    "formulation_name": "Boswellia serrata Vati (Tablet)",
+    "ingredients": [
+      "Boswellia serrata (Shallaki)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Arthritis, joint inflammation, analgesic",
+    "ipc_code": "A61K 36/324",
+    "tkrc_code": "A01D-7/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0058",
+    "formulation_name": "Commiphora wightii Vati (Tablet)",
+    "ingredients": [
+      "Commiphora wightii (Guggul)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Hyperlipidemia, lipid metabolism, anti-inflammatory",
+    "ipc_code": "A61K 36/328",
+    "tkrc_code": "A01D-8/02",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0059",
+    "formulation_name": "Bacopa monnieri Vati (Tablet)",
+    "ingredients": [
+      "Bacopa monnieri (Brahmi)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Cognitive enhancement, memory retention, anxiety",
+    "ipc_code": "A61K 36/68",
+    "tkrc_code": "A01D-9/05",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  },
+  {
+    "id": "TKDL-IND-0060",
+    "formulation_name": "Andrographis paniculata Vati (Tablet)",
+    "ingredients": [
+      "Andrographis paniculata (Kalmegh)",
+      "Clarified Base / Sesame Carrier / Honey"
+    ],
+    "therapeutic_use": "Hepatoprotective, antimalarial, fever reduction",
+    "ipc_code": "A61K 36/19",
+    "tkrc_code": "A01D-10/01",
+    "system": "Ayurveda/Siddha Traditional Medicine"
+  }
+]

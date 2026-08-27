@@ -1,0 +1,449 @@
+[
+  {
+    "id": "BM-01",
+    "category": "india_legal",
+    "question": "What does Section 3(p) of the Indian Patents Act 1970 state regarding traditional knowledge?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "Patents_Act_1970.pdf"
+    ],
+    "expected_answer_points": [
+      "traditional knowledge",
+      "not an invention"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-02",
+    "category": "india_legal",
+    "question": "What are the ABS requirements for foreign entities under Section 3 of the Biological Diversity Act 2002?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "THE BIOLOGICAL DIVERSITY ACT, 2002.pdf"
+    ],
+    "expected_answer_points": [
+      "National Biodiversity Authority",
+      "prior approval"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-03",
+    "category": "india_legal",
+    "question": "What is the regulatory pathway for Phytopharmaceutical drugs under CDSCO GSR 918(E) 2015?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "DrugsandCosmeticsAct1940Rules1945.pdf"
+    ],
+    "expected_answer_points": [
+      "Phytopharmaceutical",
+      "GSR 918"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-04",
+    "category": "india_legal",
+    "question": "What are the FSSAI 2022 regulations for Ayurveda-Aahar and Health Supplements?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "FSSAI_Act_2006.pdf"
+    ],
+    "expected_answer_points": [
+      "FSSAI",
+      "Ayurveda-Aahar"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-05",
+    "category": "india_legal",
+    "question": "What constitutes a Geographical Indication under the GI of Goods Act 1999?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "Geographical Indications of Goods Act, 1999.pdf"
+    ],
+    "expected_answer_points": [
+      "geographical indication",
+      "origin"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-06",
+    "category": "india_legal",
+    "question": "What are the requirements for Form 24-D ASU drug manufacturing licence under Drugs & Cosmetics Rules 1945?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "DrugsandCosmeticsAct1940Rules1945.pdf"
+    ],
+    "expected_answer_points": [
+      "Form 24-D",
+      "ASU"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-07",
+    "category": "india_legal",
+    "question": "What protection does the Protection of Plant Varieties and Farmers' Rights Act 2001 provide to Indian farmers?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "Protection of Plant Varieties and Farmers' Rights.pdf"
+    ],
+    "expected_answer_points": [
+      "farmer rights"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-08",
+    "category": "india_legal",
+    "question": "What are the key grounds for trademark registration under Section 9 of the Trade Marks Act 1999?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "Trade Marks Act, 1999.pdf"
+    ],
+    "expected_answer_points": [
+      "Section 9"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-09",
+    "category": "india_legal",
+    "question": "What are the copyright protections for traditional artistic works under Copyright Act 1957?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "Copyright Act, 1957.pdf"
+    ],
+    "expected_answer_points": [
+      "copyright"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-10",
+    "category": "india_legal",
+    "question": "What is the procedure for prior intimation to State Biodiversity Board for cultivated resources under Rule 7 of BD Rules 2024?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "biologicalDiversityRules2024.pdf"
+    ],
+    "expected_answer_points": [
+      "prior intimation",
+      "Rule 7"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-11",
+    "category": "international_legal",
+    "question": "What are the key provisions of Article 27 of the TRIPS Agreement?",
+    "expected_jurisdiction": "international",
+    "expected_sources": [
+      "TRIPS_Agreement_full_text.pdf"
+    ],
+    "expected_answer_points": [
+      "Article 27"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-12",
+    "category": "international_legal",
+    "question": "What disclosure requirement is mandated by the WIPO GRATK Treaty 2024 for genetic resources?",
+    "expected_jurisdiction": "international",
+    "expected_sources": [
+      "WIPO Treaty on IP, Genetic Resources and Associated TK (GRATK, 2024).pdf"
+    ],
+    "expected_answer_points": [
+      "WIPO GRATK"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-13",
+    "category": "international_legal",
+    "question": "What are the core objectives of the Convention on Biological Diversity (CBD) regarding benefit sharing?",
+    "expected_jurisdiction": "international",
+    "expected_sources": [
+      "conventionOnBiodiversity.pdf"
+    ],
+    "expected_answer_points": [
+      "CBD"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-14",
+    "category": "international_legal",
+    "question": "What mechanism does the Nagoya Protocol establish for Access and Benefit Sharing (ABS)?",
+    "expected_jurisdiction": "international",
+    "expected_sources": [
+      "nagoya-protocol-en.pdf"
+    ],
+    "expected_answer_points": [
+      "Nagoya Protocol"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-15",
+    "category": "international_legal",
+    "question": "What is the international patent filing procedure under the Patent Cooperation Treaty (PCT)?",
+    "expected_jurisdiction": "international",
+    "expected_sources": [
+      "Patent_Cooperation_Treaty.pdf"
+    ],
+    "expected_answer_points": [
+      "PCT"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-16",
+    "category": "international_legal",
+    "question": "What is the procedure for international trademark registration under the Madrid Protocol?",
+    "expected_jurisdiction": "international",
+    "expected_sources": [
+      "Madrid_Protocol.pdf"
+    ],
+    "expected_answer_points": [
+      "Madrid Protocol"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-17",
+    "category": "international_legal",
+    "question": "What system does the Hague Agreement establish for international registration of industrial designs?",
+    "expected_jurisdiction": "international",
+    "expected_sources": [
+      "Hague Agreement.pdf"
+    ],
+    "expected_answer_points": [
+      "Hague Agreement"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-18",
+    "category": "international_legal",
+    "question": "What is the requirement for deposit of microorganisms under the Budapest Treaty?",
+    "expected_jurisdiction": "international",
+    "expected_sources": [
+      "Budapest Treaty (microorganism deposit).pdf"
+    ],
+    "expected_answer_points": [
+      "Budapest Treaty"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-19",
+    "category": "international_legal",
+    "question": "What are the European Union directives governing Traditional Herbal Medicinal Products?",
+    "expected_jurisdiction": "international",
+    "expected_sources": [
+      "European Union Traditional Herbal Medicinal Products Directive.pdf"
+    ],
+    "expected_answer_points": [
+      "EU Directive"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-20",
+    "category": "international_legal",
+    "question": "What are the US FDA guidance requirements for Botanical Drug Development?",
+    "expected_jurisdiction": "international",
+    "expected_sources": [
+      "Botanical-Drug-Development--Guidance-for-Industry.pdf"
+    ],
+    "expected_answer_points": [
+      "FDA Guidance"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-21",
+    "category": "jurisdiction_trap",
+    "question": "What does the law mandate regarding genetic resource disclosure requirements?",
+    "expected_jurisdiction": "international",
+    "expected_sources": [
+      "WIPO Treaty on IP, Genetic Resources and Associated TK (GRATK, 2024).pdf"
+    ],
+    "expected_answer_points": [
+      "WIPO GRATK"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-22",
+    "category": "jurisdiction_trap",
+    "question": "What does the law mandate regarding genetic resource disclosure requirements?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "THE BIOLOGICAL DIVERSITY ACT, 2002.pdf"
+    ],
+    "expected_answer_points": [
+      "Patents Act Section 10(4)(d)"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-23",
+    "category": "jurisdiction_trap",
+    "question": "What are the international rules for patenting biological inventions under TRIPS?",
+    "expected_jurisdiction": "international",
+    "expected_sources": [
+      "TRIPS_Agreement_full_text.pdf"
+    ],
+    "expected_answer_points": [
+      "TRIPS Article 27.3(b)"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-24",
+    "category": "jurisdiction_trap",
+    "question": "What are the Indian rules for patenting biological inventions under Section 3(p)?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "Patents_Act_1970.pdf"
+    ],
+    "expected_answer_points": [
+      "Section 3(p)"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-25",
+    "category": "jurisdiction_trap",
+    "question": "What are the legal requirements for Access and Benefit Sharing under national vs international frameworks?",
+    "expected_jurisdiction": "india",
+    "expected_sources": [
+      "THE BIOLOGICAL DIVERSITY ACT, 2002.pdf"
+    ],
+    "expected_answer_points": [
+      "Biological Diversity Act 2002"
+    ],
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-26",
+    "category": "classification",
+    "question": "Classical Ayurvedic hair oil (Bhringamalakadi Taila) from Sahasrayogam",
+    "expected_classification": "Classical Ayurvedic Medicine",
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-27",
+    "category": "classification",
+    "question": "Proprietary herbal cough syrup formula",
+    "expected_classification": "Proprietary Ayurvedic Medicine",
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-28",
+    "category": "classification",
+    "question": "Novel standardized botanical extract with new mechanism of action",
+    "expected_classification": "New / Non-Classical Ayurvedic Drug",
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-29",
+    "category": "classification",
+    "question": "Standardized plant active fraction purified extract",
+    "expected_classification": "Phytopharmaceutical Drug",
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-30",
+    "category": "classification",
+    "question": "Dietary herbal health supplement product",
+    "expected_classification": "Ayurveda-Aahar / Nutraceutical",
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-31",
+    "category": "abs_compliance",
+    "question": "Foreign company accessing Indian neem leaves for commercial R&D",
+    "expected_provision": "BD Act Section 3 & NBA Form 11",
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-32",
+    "category": "abs_compliance",
+    "question": "Indian company using cultivated Tulsi under 2024 BD Rules",
+    "expected_provision": "Rule 7 Exemption & BMC Form 1",
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-33",
+    "category": "abs_compliance",
+    "question": "Indian company collecting wild Ashwagandha from Himalayan forests",
+    "expected_provision": "BD Act Section 7 & SBB Form I",
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-34",
+    "category": "abs_compliance",
+    "question": "Foreign-owned joint venture accessing wild-sourced medicinal plants",
+    "expected_provision": "NBA Form 11 Prior Approval",
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-35",
+    "category": "abs_compliance",
+    "question": "Indian researcher accessing cultivated turmeric for academic non-commercial research",
+    "expected_provision": "Exempt under 2023 Amendment",
+    "acceptable_abstention": false
+  },
+  {
+    "id": "BM-36",
+    "category": "out_of_scope",
+    "question": "What is the weather forecast for New Delhi next week?",
+    "expected_jurisdiction": "all",
+    "expected_sources": [],
+    "expected_answer_points": [],
+    "acceptable_abstention": true
+  },
+  {
+    "id": "BM-37",
+    "category": "out_of_scope",
+    "question": "How do you diagnose acute appendicitis from abdominal CT scans?",
+    "expected_jurisdiction": "all",
+    "expected_sources": [],
+    "expected_answer_points": [],
+    "acceptable_abstention": true
+  },
+  {
+    "id": "BM-38",
+    "category": "out_of_scope",
+    "question": "What is the penalty for robbery under Section 392 of the Indian Penal Code 1860?",
+    "expected_jurisdiction": "all",
+    "expected_sources": [],
+    "expected_answer_points": [],
+    "acceptable_abstention": true
+  },
+  {
+    "id": "BM-39",
+    "category": "out_of_scope",
+    "question": "How do you write a recursive binary search tree algorithm in C++?",
+    "expected_jurisdiction": "all",
+    "expected_sources": [],
+    "expected_answer_points": [],
+    "acceptable_abstention": true
+  },
+  {
+    "id": "BM-40",
+    "category": "out_of_scope",
+    "question": "What are the constitutional requirements for impeaching a US Supreme Court Justice?",
+    "expected_jurisdiction": "all",
+    "expected_sources": [],
+    "expected_answer_points": [],
+    "acceptable_abstention": true
+  }
+]

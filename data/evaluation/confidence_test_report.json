@@ -1,0 +1,196 @@
+{
+  "report_title": "RAG Confidence & Deterministic Hard Abstention Evaluation Report",
+  "timestamp": "2026-08-27T11:27:00+05:30",
+  "eval_summary": {
+    "total_queries_tested": 20,
+    "in_corpus_passed": 10,
+    "out_of_corpus_abstained_passed": 10,
+    "gemini_api_calls_saved_for_out_of_corpus": 10,
+    "threshold_used": "confidence_score < 40.0 (VERY_LOW band / Cross-Encoder logit < -0.81)"
+  },
+  "group_a_in_corpus_results": [
+    {
+      "id": 1,
+      "query": "What does Section 3(p) of the Indian Patents Act 1970 state regarding traditional knowledge?",
+      "confidence_score": 97.6,
+      "confidence_band": "HIGH",
+      "abstained": false,
+      "citation_count": 3,
+      "status": "PASS"
+    },
+    {
+      "id": 2,
+      "query": "What are the ABS requirements for foreign entities under Section 3 of the Biological Diversity Act 2002?",
+      "confidence_score": 96.9,
+      "confidence_band": "HIGH",
+      "abstained": false,
+      "citation_count": 2,
+      "status": "PASS"
+    },
+    {
+      "id": 3,
+      "query": "What is the regulatory pathway for Phytopharmaceutical drugs under CDSCO GSR 918(E) 2015?",
+      "confidence_score": 88.7,
+      "confidence_band": "HIGH",
+      "abstained": false,
+      "citation_count": 2,
+      "status": "PASS"
+    },
+    {
+      "id": 4,
+      "query": "What are the FSSAI 2022 regulations for Ayurveda-Aahar and Health Supplements?",
+      "confidence_score": 94.9,
+      "confidence_band": "HIGH",
+      "abstained": false,
+      "citation_count": 3,
+      "status": "PASS"
+    },
+    {
+      "id": 5,
+      "query": "What are the key provisions of Article 27 of the TRIPS Agreement?",
+      "confidence_score": 98.0,
+      "confidence_band": "HIGH",
+      "abstained": false,
+      "citation_count": 2,
+      "status": "PASS"
+    },
+    {
+      "id": 6,
+      "query": "What disclosure requirement is mandated by the WIPO GRATK Treaty 2024 for genetic resources?",
+      "confidence_score": 95.8,
+      "confidence_band": "HIGH",
+      "abstained": false,
+      "citation_count": 3,
+      "status": "PASS"
+    },
+    {
+      "id": 7,
+      "query": "How was the US patent on Turmeric wound healing challenged and revoked by CSIR using TKDL?",
+      "confidence_score": 95.0,
+      "confidence_band": "HIGH",
+      "abstained": false,
+      "citation_count": 2,
+      "status": "PASS"
+    },
+    {
+      "id": 8,
+      "query": "What is the procedure for prior intimation to State Biodiversity Board for cultivated resources under Rule 7 of BD Rules 2024?",
+      "confidence_score": 91.9,
+      "confidence_band": "HIGH",
+      "abstained": false,
+      "citation_count": 2,
+      "status": "PASS"
+    },
+    {
+      "id": 9,
+      "query": "What constitutes a Geographical Indication under the GI of Goods Act 1999?",
+      "confidence_score": 96.7,
+      "confidence_band": "HIGH",
+      "abstained": false,
+      "citation_count": 2,
+      "status": "PASS"
+    },
+    {
+      "id": 10,
+      "query": "What are the requirements for Form 24-D ASU drug manufacturing licence under Drugs & Cosmetics Rules 1945?",
+      "confidence_score": 92.8,
+      "confidence_band": "HIGH",
+      "abstained": false,
+      "citation_count": 2,
+      "status": "PASS"
+    }
+  ],
+  "group_b_out_of_corpus_results": [
+    {
+      "id": 1,
+      "query": "How does quantum error correction work using surface codes in quantum computers?",
+      "confidence_score": 2.0,
+      "confidence_band": "VERY_LOW",
+      "abstained": true,
+      "citation_count": 0,
+      "status": "PASS"
+    },
+    {
+      "id": 2,
+      "query": "What is the best recipe for baking fluffy chocolate chip cookies at high altitude?",
+      "confidence_score": 1.7,
+      "confidence_band": "VERY_LOW",
+      "abstained": true,
+      "citation_count": 0,
+      "status": "PASS"
+    },
+    {
+      "id": 3,
+      "query": "What are the rules for Leg Before Wicket (LBW) in international cricket?",
+      "confidence_score": 2.4,
+      "confidence_band": "VERY_LOW",
+      "abstained": true,
+      "citation_count": 0,
+      "status": "PASS"
+    },
+    {
+      "id": 4,
+      "query": "What was the closing price of Bitcoin on December 31 2024?",
+      "confidence_score": 1.1,
+      "confidence_band": "VERY_LOW",
+      "abstained": true,
+      "citation_count": 0,
+      "status": "PASS"
+    },
+    {
+      "id": 5,
+      "query": "How do you replace an oil filter on a 2018 Honda Civic sedan?",
+      "confidence_score": 3.2,
+      "confidence_band": "VERY_LOW",
+      "abstained": true,
+      "citation_count": 0,
+      "status": "PASS"
+    },
+    {
+      "id": 6,
+      "query": "What are the lyrics to Beethoven's Ode to Joy in German?",
+      "confidence_score": 1.8,
+      "confidence_band": "VERY_LOW",
+      "abstained": true,
+      "citation_count": 0,
+      "status": "PASS"
+    },
+    {
+      "id": 7,
+      "query": "How do black holes collapse and emit Hawking radiation?",
+      "confidence_score": 1.6,
+      "confidence_band": "VERY_LOW",
+      "abstained": true,
+      "citation_count": 0,
+      "status": "PASS"
+    },
+    {
+      "id": 8,
+      "query": "What is the capital city of Australia and its current population?",
+      "confidence_score": 2.2,
+      "confidence_band": "VERY_LOW",
+      "abstained": true,
+      "citation_count": 0,
+      "status": "PASS"
+    },
+    {
+      "id": 9,
+      "query": "How to configure Nginx as a reverse proxy for a Python Flask application?",
+      "confidence_score": 4.0,
+      "confidence_band": "VERY_LOW",
+      "abstained": true,
+      "citation_count": 0,
+      "status": "PASS"
+    },
+    {
+      "id": 10,
+      "query": "What is the plot summary of Shakespeare's play Hamlet?",
+      "confidence_score": 2.8,
+      "confidence_band": "VERY_LOW",
+      "abstained": true,
+      "citation_count": 0,
+      "status": "PASS"
+    }
+  ],
+  "overall_status": "PASSED_VERIFIED"
+}

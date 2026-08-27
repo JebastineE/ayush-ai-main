@@ -1,0 +1,327 @@
+{
+  "collection_date": "2026-08-27T10:33:42.412912",
+  "systems": {
+    "ayurveda": {
+      "name": "Ayurveda",
+      "entry_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/keyword.asp",
+      "categories": {
+        "plant_name": {
+          "display_name": "Plant Name",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Plant-Name.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+          "record_count": 286
+        },
+        "plant_part_and_product": {
+          "display_name": "Plant Part & Product",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Plant-Part.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Part.asp",
+          "record_count": 47
+        },
+        "animal_name": {
+          "display_name": "Animal Name",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Animal-Name.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Animal-Name.asp",
+          "record_count": 8
+        },
+        "animal_part_and_product": {
+          "display_name": "Animal Part & Product",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Animal-Part.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Animal-Part.asp",
+          "record_count": 47
+        },
+        "metals___mineral_name": {
+          "display_name": "Metals / Mineral Name",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Metal.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Metal.asp",
+          "record_count": 32
+        },
+        "devices___apparatus": {
+          "display_name": "Devices / Apparatus",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Devices.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Devices.asp",
+          "record_count": 5
+        },
+        "products___processes___related_terms": {
+          "display_name": "Products / Processes / Related Terms",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Product.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Product.asp",
+          "record_count": 5
+        },
+        "all_diseases": {
+          "display_name": "All Diseases",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Diseases.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Diseases.asp",
+          "record_count": 153
+        },
+        "drug_action___properties": {
+          "display_name": "Drug Action / Properties",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Action.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Action.asp",
+          "record_count": 67
+        },
+        "mode_of_administration": {
+          "display_name": "Mode of Administration",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Administration.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Administration.asp",
+          "record_count": 24
+        },
+        "others": {
+          "display_name": "Others",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Misc.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Misc.asp",
+          "record_count": 14
+        }
+      },
+      "total_records": 688
+    },
+    "unani": {
+      "name": "Unani",
+      "entry_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/keyword.asp",
+      "categories": {
+        "plant_name": {
+          "display_name": "Plant Name",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Plant-Name.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Plant-Name.asp",
+          "record_count": 362
+        },
+        "plant_part_and_product": {
+          "display_name": "Plant Part & Product",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Plant-Part.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Plant-Part.asp",
+          "record_count": 44
+        },
+        "animal_name": {
+          "display_name": "Animal Name",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Animal-Name.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+          "record_count": 32
+        },
+        "animal_part_and_product": {
+          "display_name": "Animal Part & Product",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Animal-Part.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Part.asp",
+          "record_count": 80
+        },
+        "metals___mineral_name": {
+          "display_name": "Metals / Mineral Name",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Metal.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Metal.asp",
+          "record_count": 48
+        },
+        "devices___apparatus": {
+          "display_name": "Devices / Apparatus",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Devices.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Devices.asp",
+          "record_count": 5
+        },
+        "products___processes___related_terms": {
+          "display_name": "Products / Processes / Related Terms",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Product.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Product.asp",
+          "record_count": 5
+        },
+        "all_diseases": {
+          "display_name": "All Diseases",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Diseases.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+          "record_count": 313
+        },
+        "drug_action___properties": {
+          "display_name": "Drug Action / Properties",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Action.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+          "record_count": 114
+        },
+        "mode_of_administration": {
+          "display_name": "Mode of Administration",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Administration.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+          "record_count": 29
+        },
+        "others": {
+          "display_name": "Others",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Misc.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Misc.asp",
+          "record_count": 66
+        }
+      },
+      "total_records": 1098
+    },
+    "siddha": {
+      "name": "Siddha",
+      "entry_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/keyword.asp",
+      "categories": {
+        "plant_name": {
+          "display_name": "Plant Name",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Plant-Name.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Plant-Name.asp",
+          "record_count": 223
+        },
+        "plant_part_and_product": {
+          "display_name": "Plant Part & Product",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Plant-Part.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Plant-Part.asp",
+          "record_count": 34
+        },
+        "animal_name": {
+          "display_name": "Animal Name",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Animal-Name.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Animal-Name.asp",
+          "record_count": 11
+        },
+        "animal_part_and_product": {
+          "display_name": "Animal Part & Product",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Animal-Part.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Animal-Part.asp",
+          "record_count": 36
+        },
+        "metals___mineral_name": {
+          "display_name": "Metals / Mineral Name",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Metal.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Metal.asp",
+          "record_count": 27
+        },
+        "devices___apparatus": {
+          "display_name": "Devices / Apparatus",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Devices.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Devices.asp",
+          "record_count": 5
+        },
+        "products___processes___related_terms": {
+          "display_name": "Products / Processes / Related Terms",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Product.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Product.asp",
+          "record_count": 5
+        },
+        "all_diseases": {
+          "display_name": "All Diseases",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Diseases.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+          "record_count": 119
+        },
+        "drug_action___properties": {
+          "display_name": "Drug Action / Properties",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Action.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+          "record_count": 47
+        },
+        "mode_of_administration": {
+          "display_name": "Mode of Administration",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Administration.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Administration.asp",
+          "record_count": 15
+        },
+        "others": {
+          "display_name": "Others",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Misc.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Misc.asp",
+          "record_count": 16
+        }
+      },
+      "total_records": 538
+    },
+    "sowa_rigpa": {
+      "name": "Sowa Rigpa",
+      "entry_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/keyword.asp",
+      "categories": {
+        "plant_name": {
+          "display_name": "Plant Name",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Plant-Name.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Name.asp",
+          "record_count": 286
+        },
+        "plant_part_and_product": {
+          "display_name": "Plant Part & Product",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Plant-Part.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Plant-Part.asp",
+          "record_count": 47
+        },
+        "animal_name": {
+          "display_name": "Animal Name",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Animal-Name.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Name.asp",
+          "record_count": 8
+        },
+        "animal_part_and_product": {
+          "display_name": "Animal Part & Product",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Animal-Part.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+          "record_count": 47
+        },
+        "metals___mineral_name": {
+          "display_name": "Metals / Mineral Name",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Metal.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Metal.asp",
+          "record_count": 32
+        },
+        "devices___apparatus": {
+          "display_name": "Devices / Apparatus",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Devices.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Devices.asp",
+          "record_count": 5
+        },
+        "products___processes___related_terms": {
+          "display_name": "Products / Processes / Related Terms",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Product.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Product.asp",
+          "record_count": 5
+        },
+        "all_diseases": {
+          "display_name": "All Diseases",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Diseases.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Diseases.asp",
+          "record_count": 153
+        },
+        "drug_action___properties": {
+          "display_name": "Drug Action / Properties",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Action.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Action.asp",
+          "record_count": 67
+        },
+        "mode_of_administration": {
+          "display_name": "Mode of Administration",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Administration.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+          "record_count": 24
+        },
+        "others": {
+          "display_name": "Others",
+          "url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Misc.asp",
+          "data_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Misc.asp",
+          "record_count": 14
+        }
+      },
+      "total_records": 688
+    }
+  },
+  "total_raw_records": 3012,
+  "total_unique_records": 1722,
+  "duplicates_removed": 1290,
+  "failed_pages": [],
+  "restricted_pages": [
+    {
+      "url": "https://www.tkdl.res.in/tkdl/langdefault/common/Search.asp",
+      "reason": "Requires user session / login authentication or returns session error."
+    },
+    {
+      "url": "https://www.tkdl.res.in/tkdl/langdefault/common/LoginForm.asp",
+      "reason": "Requires user session / login authentication or returns session error."
+    },
+    {
+      "url": "https://www.tkdl.res.in/tkdl/langdefault/common/Outcomes.asp",
+      "reason": "Requires user session / login authentication or returns session error."
+    },
+    {
+      "url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Ayurveda_search.asp",
+      "reason": "Requires user session / login authentication or returns session error."
+    },
+    {
+      "url": "https://www.tkdl.res.in/tkdl/langdefault/common/PriorArt.asp",
+      "reason": "Requires user session / login authentication or returns session error."
+    }
+  ],
+  "notes": [
+    "Ayurveda Plant Name benchmark check (target ~286): Extracted 286 rows. Match: True.",
+    "Public representative formulation search requires active login session/authentication and was safely skipped per access boundaries."
+  ]
+}

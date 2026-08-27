@@ -1,0 +1,2153 @@
+{
+  "source": "TKDL",
+  "system": "Siddha",
+  "category": "All Diseases",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Diseases.asp",
+  "retrieved_at": "2026-08-27T10:34:15.713795",
+  "total_records": 119,
+  "records": [
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 1,
+      "columns": [
+        "Ama",
+        "ma",
+        "",
+        "Seetham,Aamam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ama",
+      "ayurveda_name": "ma",
+      "unani_name": "",
+      "siddha_name": "Seetham,Aamam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 2,
+      "columns": [
+        "Anasarca",
+        "",
+        "",
+        "Sogai, Sobai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Anasarca",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Sogai, Sobai",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 3,
+      "columns": [
+        "Anorexia",
+        "arocaka",
+        "Nuqsaan -ul- Shahvath / Zof-e-Ishteha",
+        "Rusi inmai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Anorexia",
+      "ayurveda_name": "arocaka",
+      "unani_name": "Nuqsaan -ul- Shahvath / Zof-e-Ishteha",
+      "siddha_name": "Rusi inmai",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 4,
+      "columns": [
+        "Biliuria",
+        "hridrameha",
+        "",
+        "Pitha Neer",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Biliuria",
+      "ayurveda_name": "hridrameha",
+      "unani_name": "",
+      "siddha_name": "Pitha Neer",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 5,
+      "columns": [
+        "Blood dysentery",
+        "rakttisra",
+        "",
+        "Rattha Kazhichal ,Kuruthi kazhichal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Blood dysentery",
+      "ayurveda_name": "rakttisra",
+      "unani_name": "",
+      "siddha_name": "Rattha Kazhichal ,Kuruthi kazhichal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 6,
+      "columns": [
+        "Bodyache",
+        "vtajala",
+        "Dard-e-Badan",
+        "Udal Vali",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Bodyache",
+      "ayurveda_name": "vtajala",
+      "unani_name": "Dard-e-Badan",
+      "siddha_name": "Udal Vali",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 7,
+      "columns": [
+        "Bronchial asthma",
+        "tamaka vsa",
+        "Zeeq-al-Nafas Shubi/Zeeq-al-Nafas/ Rabw",
+        "Eraippu Erunal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Bronchial asthma",
+      "ayurveda_name": "tamaka vsa",
+      "unani_name": "Zeeq-al-Nafas Shubi/Zeeq-al-Nafas/ Rabw",
+      "siddha_name": "Eraippu Erunal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 8,
+      "columns": [
+        "Bubo",
+        "",
+        "",
+        "Araiyappu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Bubo",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Araiyappu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 9,
+      "columns": [
+        "Burning micturition",
+        "Mutradaha",
+        "Hurqat-al-Baul",
+        "Neer erichal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Burning micturition",
+      "ayurveda_name": "Mutradaha",
+      "unani_name": "Hurqat-al-Baul",
+      "siddha_name": "Neer erichal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 10,
+      "columns": [
+        "Cachexia",
+        "oa",
+        "Huzaal",
+        "Udal Ilaippu Noi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cachexia",
+      "ayurveda_name": "oa",
+      "unani_name": "Huzaal",
+      "siddha_name": "Udal Ilaippu Noi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 11,
+      "columns": [
+        "Calculus",
+        "Mutrasmari",
+        "",
+        "Kalladaippu,Achamari",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Calculus",
+      "ayurveda_name": "Mutrasmari",
+      "unani_name": "",
+      "siddha_name": "Kalladaippu,Achamari",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 12,
+      "columns": [
+        "Cancer/ Carcinoma",
+        "",
+        "",
+        "Putru noi, Vipuruthi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cancer/ Carcinoma",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Putru noi, Vipuruthi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 13,
+      "columns": [
+        "Carbuncle/Furuncle",
+        "",
+        "",
+        "Pilavai, Vipuruthi, Pudai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Carbuncle/Furuncle",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Pilavai, Vipuruthi, Pudai",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 14,
+      "columns": [
+        "Cataract",
+        "timira",
+        "",
+        "Thimiram, Pithakkaasam, Kan poo",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cataract",
+      "ayurveda_name": "timira",
+      "unani_name": "",
+      "siddha_name": "Thimiram, Pithakkaasam, Kan poo",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 15,
+      "columns": [
+        "Chill and rigors",
+        "vepathu",
+        "Larzah-wa-Qasha'reerah",
+        "Kulir/Nalir",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Chill and rigors",
+      "ayurveda_name": "vepathu",
+      "unani_name": "Larzah-wa-Qasha'reerah",
+      "siddha_name": "Kulir/Nalir",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 16,
+      "columns": [
+        "Chronic & severe condition of any disease",
+        "sannipta",
+        "",
+        "Mukkutra Noigal/Theevira Noikal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Chronic & severe condition of any disease",
+      "ayurveda_name": "sannipta",
+      "unani_name": "",
+      "siddha_name": "Mukkutra Noigal/Theevira Noikal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 17,
+      "columns": [
+        "Chronic diarrhoea",
+        "",
+        "",
+        "Vidaakazhichal, Sosikaa kiraani",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Chronic diarrhoea",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Vidaakazhichal, Sosikaa kiraani",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 18,
+      "columns": [
+        "Convulsions",
+        "kepaka",
+        "",
+        "Valippu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Convulsions",
+      "ayurveda_name": "kepaka",
+      "unani_name": "",
+      "siddha_name": "Valippu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 19,
+      "columns": [
+        "Cough with expectoration",
+        "rdraksa",
+        "",
+        "Sali Irumal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cough with expectoration",
+      "ayurveda_name": "rdraksa",
+      "unani_name": "",
+      "siddha_name": "Sali Irumal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 20,
+      "columns": [
+        "Cramp/Contraction/Spasam",
+        "",
+        "",
+        "Pidippu, Izhuppu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cramp/Contraction/Spasam",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Pidippu, Izhuppu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 21,
+      "columns": [
+        "Cyst of Zeis gland",
+        "kubhkapdik",
+        "",
+        "Kanneer pyi kazhalai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cyst of Zeis gland",
+      "ayurveda_name": "kubhkapdik",
+      "unani_name": "",
+      "siddha_name": "Kanneer pyi kazhalai",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 22,
+      "columns": [
+        "Dental diseases",
+        "dantagataroga",
+        "Amraaz-e-dandaan",
+        "Pal Noikal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dental diseases",
+      "ayurveda_name": "dantagataroga",
+      "unani_name": "Amraaz-e-dandaan",
+      "siddha_name": "Pal Noikal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 23,
+      "columns": [
+        "Diarrhoea",
+        "",
+        "",
+        "Perumkazhichal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diarrhoea",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Perumkazhichal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 24,
+      "columns": [
+        "diarrhoea with fever",
+        "bla jvartisra",
+        "",
+        "Sura Kazhichal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "diarrhoea with fever",
+      "ayurveda_name": "bla jvartisra",
+      "unani_name": "",
+      "siddha_name": "Sura Kazhichal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 25,
+      "columns": [
+        "Digestive disorders",
+        "",
+        "",
+        "Maantham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Digestive disorders",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Maantham",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 26,
+      "columns": [
+        "Disease",
+        "roga/ vydhi",
+        "",
+        "Noi,Viyaadhi,Pini",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Disease",
+      "ayurveda_name": "roga/ vydhi",
+      "unani_name": "",
+      "siddha_name": "Noi,Viyaadhi,Pini",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 27,
+      "columns": [
+        "Disease of gums and toothroots",
+        "dantamlagataroga",
+        "",
+        "Pal Eeru, Pal adinoigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Disease of gums and toothroots",
+      "ayurveda_name": "dantamlagataroga",
+      "unani_name": "",
+      "siddha_name": "Pal Eeru, Pal adinoigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 28,
+      "columns": [
+        "Disease of male genital organs",
+        "Pura prajanana tantra vydhi",
+        "",
+        "Aan pirapuruppu noikal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Disease of male genital organs",
+      "ayurveda_name": "Pura prajanana tantra vydhi",
+      "unani_name": "",
+      "siddha_name": "Aan pirapuruppu noikal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 29,
+      "columns": [
+        "Disease with Kapha predominance",
+        "kaphavikra",
+        "",
+        "Iyya Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Disease with Kapha predominance",
+      "ayurveda_name": "kaphavikra",
+      "unani_name": "",
+      "siddha_name": "Iyya Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 30,
+      "columns": [
+        "Disease with Pitta predominance",
+        "pittavikra",
+        "",
+        "AzhalNoigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Disease with Pitta predominance",
+      "ayurveda_name": "pittavikra",
+      "unani_name": "",
+      "siddha_name": "AzhalNoigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 31,
+      "columns": [
+        "Disease with Vata predominance",
+        "vtavikra",
+        "",
+        "Vali Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Disease with Vata predominance",
+      "ayurveda_name": "vtavikra",
+      "unani_name": "",
+      "siddha_name": "Vali Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 32,
+      "columns": [
+        "Diseases of abdomen",
+        "udararoga",
+        "Amraaz-e-batn",
+        "Vayitru noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of abdomen",
+      "ayurveda_name": "udararoga",
+      "unani_name": "Amraaz-e-batn",
+      "siddha_name": "Vayitru noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 33,
+      "columns": [
+        "Diseases of eyelids",
+        "vartma roga",
+        "",
+        "Imai noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of eyelids",
+      "ayurveda_name": "vartma roga",
+      "unani_name": "",
+      "siddha_name": "Imai noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 34,
+      "columns": [
+        "Diseases of female genital ograns",
+        "strroga",
+        "Amraaz-e-niswaan",
+        "Pen Pirappuruppu Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of female genital ograns",
+      "ayurveda_name": "strroga",
+      "unani_name": "Amraaz-e-niswaan",
+      "siddha_name": "Pen Pirappuruppu Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 35,
+      "columns": [
+        "Diseases of head",
+        "iroroga",
+        "",
+        "Thalai/Mandai Noi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of head",
+      "ayurveda_name": "iroroga",
+      "unani_name": "",
+      "siddha_name": "Thalai/Mandai Noi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 36,
+      "columns": [
+        "Diseases of head and neck",
+        "urdhvajatrugataroga",
+        "Amraaz-e-raas wa unuq",
+        "Kazhutthu/Thalai Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of head and neck",
+      "ayurveda_name": "urdhvajatrugataroga",
+      "unani_name": "Amraaz-e-raas wa unuq",
+      "siddha_name": "Kazhutthu/Thalai Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 37,
+      "columns": [
+        "Diseases of skin",
+        "carmaroga",
+        "Amraaz-e-jild",
+        "Thol noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of skin",
+      "ayurveda_name": "carmaroga",
+      "unani_name": "Amraaz-e-jild",
+      "siddha_name": "Thol noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 38,
+      "columns": [
+        "Diseases of spleen",
+        "plhvikra",
+        "Amraaz-e-tehaal",
+        "Peeliga Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of spleen",
+      "ayurveda_name": "plhvikra",
+      "unani_name": "Amraaz-e-tehaal",
+      "siddha_name": "Peeliga Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 39,
+      "columns": [
+        "Diseases of the eye",
+        "netra roga",
+        "Amraaz-e-A'in",
+        "Kan Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of the eye",
+      "ayurveda_name": "netra roga",
+      "unani_name": "Amraaz-e-A'in",
+      "siddha_name": "Kan Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 40,
+      "columns": [
+        "Diseases of the urinary system",
+        "mtraroga",
+        "Amraaz-e-Nizaam-e-Bauliyah",
+        "Siriuneeraga  Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of the urinary system",
+      "ayurveda_name": "mtraroga",
+      "unani_name": "Amraaz-e-Nizaam-e-Bauliyah",
+      "siddha_name": "Siriuneeraga  Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 41,
+      "columns": [
+        "Disorders of menstruation",
+        "Rajodoa",
+        "",
+        "Soothagak kolaaru, Maathavidayil aerpadum noikal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Disorders of menstruation",
+      "ayurveda_name": "Rajodoa",
+      "unani_name": "",
+      "siddha_name": "Soothagak kolaaru, Maathavidayil aerpadum noikal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 42,
+      "columns": [
+        "Distension of abdomen",
+        "opa",
+        "",
+        "Vayiru Porumal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Distension of abdomen",
+      "ayurveda_name": "opa",
+      "unani_name": "",
+      "siddha_name": "Vayiru Porumal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 43,
+      "columns": [
+        "Dryness",
+        "",
+        "",
+        "Varatchi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dryness",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Varatchi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 44,
+      "columns": [
+        "Dryness of mouth",
+        "mukhaoa",
+        "",
+        "Vaai Varatchi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dryness of mouth",
+      "ayurveda_name": "mukhaoa",
+      "unani_name": "",
+      "siddha_name": "Vaai Varatchi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 45,
+      "columns": [
+        "Dysarthria",
+        "gadgdsvrat",
+        "",
+        "Thikku vaai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dysarthria",
+      "ayurveda_name": "gadgdsvrat",
+      "unani_name": "",
+      "siddha_name": "Thikku vaai",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 46,
+      "columns": [
+        "Dysentery",
+        "pravhik",
+        "Zaheer",
+        "Nina kazhichal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dysentery",
+      "ayurveda_name": "pravhik",
+      "unani_name": "Zaheer",
+      "siddha_name": "Nina kazhichal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 47,
+      "columns": [
+        "Dysfunctional uterine bleeding",
+        "asj / raktayoni",
+        "",
+        "Perumpaadu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dysfunctional uterine bleeding",
+      "ayurveda_name": "asj / raktayoni",
+      "unani_name": "",
+      "siddha_name": "Perumpaadu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 48,
+      "columns": [
+        "Dyspepsia",
+        "agnimndya",
+        "Su-e-Hazm/Badhazmi/Nuqsan e shahwat",
+        "Pasi inmai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dyspepsia",
+      "ayurveda_name": "agnimndya",
+      "unani_name": "Su-e-Hazm/Badhazmi/Nuqsan e shahwat",
+      "siddha_name": "Pasi inmai",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 49,
+      "columns": [
+        "Dysuria",
+        "mtrakcchra",
+        "Usr-e- Baul",
+        "Neer erichal,Neer kaduppu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dysuria",
+      "ayurveda_name": "mtrakcchra",
+      "unani_name": "Usr-e- Baul",
+      "siddha_name": "Neer erichal,Neer kaduppu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 50,
+      "columns": [
+        "Ear diseases",
+        "kararoga",
+        "Amraaz-e-uzn",
+        "Sevi Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ear diseases",
+      "ayurveda_name": "kararoga",
+      "unani_name": "Amraaz-e-uzn",
+      "siddha_name": "Sevi Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 51,
+      "columns": [
+        "Emaciating disease",
+        "kaya",
+        "",
+        "Ilaippu noi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Emaciating disease",
+      "ayurveda_name": "kaya",
+      "unani_name": "",
+      "siddha_name": "Ilaippu noi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 52,
+      "columns": [
+        "Enlargement of spleen",
+        "plhodara",
+        "",
+        "Peeliga Veekkam, Edappaatteeral veekkam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Enlargement of spleen",
+      "ayurveda_name": "plhodara",
+      "unani_name": "",
+      "siddha_name": "Peeliga Veekkam, Edappaatteeral veekkam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 53,
+      "columns": [
+        "excessive hunger",
+        "bhasmaka",
+        "",
+        "Adhipasi,Migupasi,Athethappasi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "excessive hunger",
+      "ayurveda_name": "bhasmaka",
+      "unani_name": "",
+      "siddha_name": "Adhipasi,Migupasi,Athethappasi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 54,
+      "columns": [
+        "Excessive moistening of eye",
+        "Netra kleda",
+        "",
+        "Kanneer Ozhugal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Excessive moistening of eye",
+      "ayurveda_name": "Netra kleda",
+      "unani_name": "",
+      "siddha_name": "Kanneer Ozhugal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 55,
+      "columns": [
+        "Excessive salivation",
+        "kaphapraseka/ llpraseka",
+        "",
+        "Adi umizh Neer suratthal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Excessive salivation",
+      "ayurveda_name": "kaphapraseka/ llpraseka",
+      "unani_name": "",
+      "siddha_name": "Adi umizh Neer suratthal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 56,
+      "columns": [
+        "Facial Paralysis",
+        "ardita",
+        "",
+        "Muga Vaatham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Facial Paralysis",
+      "ayurveda_name": "ardita",
+      "unani_name": "",
+      "siddha_name": "Muga Vaatham",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 57,
+      "columns": [
+        "Fainting",
+        "mrcch",
+        "Ghashi",
+        "Mayakka noi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Fainting",
+      "ayurveda_name": "mrcch",
+      "unani_name": "Ghashi",
+      "siddha_name": "Mayakka noi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 58,
+      "columns": [
+        "Flatus of piles",
+        "",
+        "",
+        "Moola vaayu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Flatus of piles",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Moola vaayu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 59,
+      "columns": [
+        "Freckle",
+        "vyaga",
+        "Kalaf",
+        "Karun Themal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Freckle",
+      "ayurveda_name": "vyaga",
+      "unani_name": "Kalaf",
+      "siddha_name": "Karun Themal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 60,
+      "columns": [
+        "Gaseous/Flatulence",
+        "",
+        "",
+        "Vaayu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gaseous/Flatulence",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Vaayu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 61,
+      "columns": [
+        "Gastric tympanitis",
+        "pratydhmna",
+        "",
+        "Vayiru Uppisam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gastric tympanitis",
+      "ayurveda_name": "pratydhmna",
+      "unani_name": "",
+      "siddha_name": "Vayiru Uppisam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 62,
+      "columns": [
+        "Glandular swelling in the form of an abscess occuring chiefly in such parts of the body",
+        "",
+        "",
+        "Kiranthi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Glandular swelling in the form of an abscess occuring chiefly in such parts of the body",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Kiranthi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 63,
+      "columns": [
+        "Gonorrhoea",
+        "upadaa",
+        "Suzaak",
+        "Seezh Megam,Vellai noi,Mega noi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gonorrhoea",
+      "ayurveda_name": "upadaa",
+      "unani_name": "Suzaak",
+      "siddha_name": "Seezh Megam,Vellai noi,Mega noi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 64,
+      "columns": [
+        "Haemoptysis",
+        "rakta nihvana",
+        "Nafs-ud-dam",
+        "Rattha Irumal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Haemoptysis",
+      "ayurveda_name": "rakta nihvana",
+      "unani_name": "Nafs-ud-dam",
+      "siddha_name": "Rattha Irumal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 65,
+      "columns": [
+        "Heart disease",
+        "vtika  hdayaroga",
+        "",
+        "Vali Thamaraga Noi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Heart disease",
+      "ayurveda_name": "vtika  hdayaroga",
+      "unani_name": "",
+      "siddha_name": "Vali Thamaraga Noi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 66,
+      "columns": [
+        "Heat",
+        "",
+        "",
+        "Soodu, Vaeppam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Heat",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Soodu, Vaeppam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 67,
+      "columns": [
+        "heaviness",
+        "gaurava",
+        "Siql",
+        "Paruman",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "heaviness",
+      "ayurveda_name": "gaurava",
+      "unani_name": "Siql",
+      "siddha_name": "Paruman",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 68,
+      "columns": [
+        "Hydrocele",
+        "",
+        "",
+        "Viraivaatham, Andavaatham, Peesavaatham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hydrocele",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Viraivaatham, Andavaatham, Peesavaatham",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 69,
+      "columns": [
+        "Infections due to handling and zoophilic",
+        "",
+        "",
+        "Thodam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Infections due to handling and zoophilic",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Thodam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 70,
+      "columns": [
+        "Infertility",
+        "vandhyatva",
+        "",
+        "Maladu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Infertility",
+      "ayurveda_name": "vandhyatva",
+      "unani_name": "",
+      "siddha_name": "Maladu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 71,
+      "columns": [
+        "Inflammation of the eye",
+        "",
+        "",
+        "Kansivappu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Inflammation of the eye",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Kansivappu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 72,
+      "columns": [
+        "Inflammatory condition of the eye lid",
+        "yva vartma",
+        "",
+        "Imai Thadippu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Inflammatory condition of the eye lid",
+      "ayurveda_name": "yva vartma",
+      "unani_name": "",
+      "siddha_name": "Imai Thadippu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 73,
+      "columns": [
+        "influenza",
+        "raktajapratiyya",
+        "",
+        "Kuruthi Neer Paaichal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "influenza",
+      "ayurveda_name": "raktajapratiyya",
+      "unani_name": "",
+      "siddha_name": "Kuruthi Neer Paaichal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 74,
+      "columns": [
+        "Iris prolapse",
+        "ajakjta",
+        "",
+        "Kundham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Iris prolapse",
+      "ayurveda_name": "ajakjta",
+      "unani_name": "",
+      "siddha_name": "Kundham",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 75,
+      "columns": [
+        "Kaphaja",
+        "kaphaja",
+        "",
+        "Iyyam,Kabam,Siletthumam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Kaphaja",
+      "ayurveda_name": "kaphaja",
+      "unani_name": "",
+      "siddha_name": "Iyyam,Kabam,Siletthumam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 76,
+      "columns": [
+        "Leprosy",
+        "",
+        "",
+        "Thozhunoi, Kuttam, Perunoi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Leprosy",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Thozhunoi, Kuttam, Perunoi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 77,
+      "columns": [
+        "Leucorrhoea",
+        "vetapradara",
+        "Sailaane-Rehm",
+        "Vellai noi,Vettai noi,Megam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Leucorrhoea",
+      "ayurveda_name": "vetapradara",
+      "unani_name": "Sailaane-Rehm",
+      "siddha_name": "Vellai noi,Vettai noi,Megam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 78,
+      "columns": [
+        "Lithiasis conjunctivae",
+        "vartma arkar",
+        "",
+        "Amara pillam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Lithiasis conjunctivae",
+      "ayurveda_name": "vartma arkar",
+      "unani_name": "",
+      "siddha_name": "Amara pillam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 79,
+      "columns": [
+        "Lunacy",
+        "",
+        "",
+        "Unmaatham, Unmatham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Lunacy",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Unmaatham, Unmatham",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 80,
+      "columns": [
+        "Madarosis",
+        "pakmata",
+        "",
+        "Puruva Mayir Puzhuvettu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Madarosis",
+      "ayurveda_name": "pakmata",
+      "unani_name": "",
+      "siddha_name": "Puruva Mayir Puzhuvettu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 81,
+      "columns": [
+        "Malaria",
+        "viamajvara",
+        "Humma-e- Ajaamiya",
+        "Vida/Nanju Suram",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Malaria",
+      "ayurveda_name": "viamajvara",
+      "unani_name": "Humma-e- Ajaamiya",
+      "siddha_name": "Vida/Nanju Suram",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 82,
+      "columns": [
+        "Menorrhagia / Metrorrhagia",
+        "rakta pradara / asgdara",
+        "Kasrat-e-tams/ Istehaaza",
+        "Kuruthi ozhukku noikal,Perumpaadu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Menorrhagia / Metrorrhagia",
+      "ayurveda_name": "rakta pradara / asgdara",
+      "unani_name": "Kasrat-e-tams/ Istehaaza",
+      "siddha_name": "Kuruthi ozhukku noikal,Perumpaadu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 83,
+      "columns": [
+        "Nausea",
+        "hllsa",
+        "Ghasayaan",
+        "Ookkaalam,Vaikumattal,",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Nausea",
+      "ayurveda_name": "hllsa",
+      "unani_name": "Ghasayaan",
+      "siddha_name": "Ookkaalam,Vaikumattal,",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 84,
+      "columns": [
+        "Non-healing ulcer",
+        "duavraa",
+        "",
+        "Aaaraa Pun, Silanthi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Non-healing ulcer",
+      "ayurveda_name": "duavraa",
+      "unani_name": "",
+      "siddha_name": "Aaaraa Pun, Silanthi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 85,
+      "columns": [
+        "Orchitis",
+        "",
+        "",
+        "Viraiveekam, Vidhaiveekam, Anda vaayu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Orchitis",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Viraiveekam, Vidhaiveekam, Anda vaayu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 86,
+      "columns": [
+        "OsteoArthritis",
+        "kroukara",
+        "",
+        "Moottu Enpuvaatham,Azhal keel vaayu-muzhankaal moottu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "OsteoArthritis",
+      "ayurveda_name": "kroukara",
+      "unani_name": "",
+      "siddha_name": "Moottu Enpuvaatham,Azhal keel vaayu-muzhankaal moottu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 87,
+      "columns": [
+        "Paediatric abdominal pain",
+        "bla udarala",
+        "",
+        "Kuzhanthai vayitru vali",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Paediatric abdominal pain",
+      "ayurveda_name": "bla udarala",
+      "unani_name": "",
+      "siddha_name": "Kuzhanthai vayitru vali",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 88,
+      "columns": [
+        "Paediatric pneumonia",
+        "utphullik",
+        "",
+        "Iyya Suram",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Paediatric pneumonia",
+      "ayurveda_name": "utphullik",
+      "unani_name": "",
+      "siddha_name": "Iyya Suram",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 89,
+      "columns": [
+        "Pain",
+        "rj/vedan",
+        "Waja",
+        "Vali",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pain",
+      "ayurveda_name": "rj/vedan",
+      "unani_name": "Waja",
+      "siddha_name": "Vali",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 90,
+      "columns": [
+        "Peripheral neuritis",
+        "tvakgtavta",
+        "",
+        "Eripitham,Kara paadha soolai,Kai kaal erivu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Peripheral neuritis",
+      "ayurveda_name": "tvakgtavta",
+      "unani_name": "",
+      "siddha_name": "Eripitham,Kara paadha soolai,Kai kaal erivu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 91,
+      "columns": [
+        "Pittaja",
+        "pittaja",
+        "",
+        "Azhal,Pittham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pittaja",
+      "ayurveda_name": "pittaja",
+      "unani_name": "",
+      "siddha_name": "Azhal,Pittham",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 92,
+      "columns": [
+        "Pricking pain",
+        "Toda",
+        "",
+        "Kuthuthal pondra vali",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pricking pain",
+      "ayurveda_name": "Toda",
+      "unani_name": "",
+      "siddha_name": "Kuthuthal pondra vali",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 93,
+      "columns": [
+        "Puerperal diseases",
+        "stikroga",
+        "Amraaz-e-nifaas/parsoot",
+        "Pirasa Kala Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Puerperal diseases",
+      "ayurveda_name": "stikroga",
+      "unani_name": "Amraaz-e-nifaas/parsoot",
+      "siddha_name": "Pirasa Kala Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 94,
+      "columns": [
+        "Raktaja",
+        "raktaja",
+        "",
+        "Kuruthikaedu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Raktaja",
+      "ayurveda_name": "raktaja",
+      "unani_name": "",
+      "siddha_name": "Kuruthikaedu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 95,
+      "columns": [
+        "Rhagades",
+        "vipdik",
+        "",
+        "Sen Kuttam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Rhagades",
+      "ayurveda_name": "vipdik",
+      "unani_name": "",
+      "siddha_name": "Sen Kuttam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 96,
+      "columns": [
+        "Rickets",
+        "phakkaroga",
+        "Kusaah",
+        "Kanai, Elumburukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Rickets",
+      "ayurveda_name": "phakkaroga",
+      "unani_name": "Kusaah",
+      "siddha_name": "Kanai, Elumburukki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 97,
+      "columns": [
+        "Sannipataja / Tridosaja",
+        "sanniptaja / tridoaja",
+        "",
+        "Mukkutra Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Sannipataja / Tridosaja",
+      "ayurveda_name": "sanniptaja / tridoaja",
+      "unani_name": "",
+      "siddha_name": "Mukkutra Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 98,
+      "columns": [
+        "Scabies",
+        "kacch",
+        "Jarab-wa-Hikka",
+        "Sori sirangu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Scabies",
+      "ayurveda_name": "kacch",
+      "unani_name": "Jarab-wa-Hikka",
+      "siddha_name": "Sori sirangu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 99,
+      "columns": [
+        "Seminal disorders",
+        "ukra roga",
+        "",
+        "Vindhu Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Seminal disorders",
+      "ayurveda_name": "ukra roga",
+      "unani_name": "",
+      "siddha_name": "Vindhu Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 100,
+      "columns": [
+        "Smoky vision",
+        "dhmadar",
+        "",
+        "Kan Pugaichal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Smoky vision",
+      "ayurveda_name": "dhmadar",
+      "unani_name": "",
+      "siddha_name": "Kan Pugaichal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 101,
+      "columns": [
+        "Snake bite",
+        "sarpadaa",
+        "Ladghat-ul-Haiya",
+        "Paampukkadi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Snake bite",
+      "ayurveda_name": "sarpadaa",
+      "unani_name": "Ladghat-ul-Haiya",
+      "siddha_name": "Paampukkadi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 102,
+      "columns": [
+        "Sphenoidal sinusitis",
+        "anyatovta",
+        "",
+        "Azhal Mookkadaipu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Sphenoidal sinusitis",
+      "ayurveda_name": "anyatovta",
+      "unani_name": "",
+      "siddha_name": "Azhal Mookkadaipu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 103,
+      "columns": [
+        "Stiffness",
+        "jya/ graha",
+        "",
+        "Viraippu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Stiffness",
+      "ayurveda_name": "jya/ graha",
+      "unani_name": "",
+      "siddha_name": "Viraippu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 104,
+      "columns": [
+        "Symptoms due to supression of natural urge of micturition",
+        "Mtranigrahaja Udvarta",
+        "",
+        "Siruneerai thadai saeivathal undagum kurigunam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Symptoms due to supression of natural urge of micturition",
+      "ayurveda_name": "Mtranigrahaja Udvarta",
+      "unani_name": "",
+      "siddha_name": "Siruneerai thadai saeivathal undagum kurigunam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 105,
+      "columns": [
+        "Syncope",
+        "mrcch",
+        "",
+        "Mayakka noi,Sanniyaasam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Syncope",
+      "ayurveda_name": "mrcch",
+      "unani_name": "",
+      "siddha_name": "Mayakka noi,Sanniyaasam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 106,
+      "columns": [
+        "Syphilis",
+        "phiraga",
+        "Aatashak",
+        "Korukku Noi,Parangi noi, Aankurip pun",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Syphilis",
+      "ayurveda_name": "phiraga",
+      "unani_name": "Aatashak",
+      "siddha_name": "Korukku Noi,Parangi noi, Aankurip pun",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 107,
+      "columns": [
+        "Tastelessness",
+        "mukhavairasya",
+        "",
+        "Suvai Inmai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Tastelessness",
+      "ayurveda_name": "mukhavairasya",
+      "unani_name": "",
+      "siddha_name": "Suvai Inmai",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 108,
+      "columns": [
+        "Tenesmus",
+        "",
+        "",
+        "Mukkal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Tenesmus",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Mukkal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 109,
+      "columns": [
+        "Toothache",
+        "dantala",
+        "Waja-ul- Asnaan",
+        "Pal Vali",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Toothache",
+      "ayurveda_name": "dantala",
+      "unani_name": "Waja-ul- Asnaan",
+      "siddha_name": "Pal Vali",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 110,
+      "columns": [
+        "Tubercular cough",
+        "kayaja ksa",
+        "",
+        "Elaippu erumal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Tubercular cough",
+      "ayurveda_name": "kayaja ksa",
+      "unani_name": "",
+      "siddha_name": "Elaippu erumal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 111,
+      "columns": [
+        "Ulcer",
+        "vraa",
+        "",
+        "Pun",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ulcer",
+      "ayurveda_name": "vraa",
+      "unani_name": "",
+      "siddha_name": "Pun",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 112,
+      "columns": [
+        "Unconsciousness",
+        "acaitanya / acetana",
+        "Faqd-ul-Waii",
+        "Moorchai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Unconsciousness",
+      "ayurveda_name": "acaitanya / acetana",
+      "unani_name": "Faqd-ul-Waii",
+      "siddha_name": "Moorchai",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 113,
+      "columns": [
+        "Uterine tumour",
+        "rakta gulma",
+        "",
+        "Karuppai Katti",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Uterine tumour",
+      "ayurveda_name": "rakta gulma",
+      "unani_name": "",
+      "siddha_name": "Karuppai Katti",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 114,
+      "columns": [
+        "Vata-kaphaja",
+        "vtakaphaja",
+        "",
+        "Vali Iyyam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Vata-kaphaja",
+      "ayurveda_name": "vtakaphaja",
+      "unani_name": "",
+      "siddha_name": "Vali Iyyam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 115,
+      "columns": [
+        "Vataja",
+        "Vataja",
+        "",
+        "Vali,Vaatham,Vaayu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Vataja",
+      "ayurveda_name": "Vataja",
+      "unani_name": "",
+      "siddha_name": "Vali,Vaatham,Vaayu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 116,
+      "columns": [
+        "Venereal disease",
+        "Sujka Aupasargika Meha",
+        "",
+        "Maega noi, Vettai noi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Venereal disease",
+      "ayurveda_name": "Sujka Aupasargika Meha",
+      "unani_name": "",
+      "siddha_name": "Maega noi, Vettai noi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 117,
+      "columns": [
+        "Venereal heat",
+        "",
+        "",
+        "Maegak kaangai, Vettaich choodu, Vettai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Venereal heat",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Maegak kaangai, Vettaich choodu, Vettai",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 118,
+      "columns": [
+        "Vitiligo",
+        "vitra",
+        "Baras",
+        "Ven Padai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Vitiligo",
+      "ayurveda_name": "vitra",
+      "unani_name": "Baras",
+      "siddha_name": "Ven Padai",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "All Diseases",
+      "row_index": 119,
+      "columns": [
+        "Vomiting",
+        "chardi",
+        "Qai",
+        "Vaanthi ,Sarthi,Vamanam,Vaayaalaedutthal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Vomiting",
+      "ayurveda_name": "chardi",
+      "unani_name": "Qai",
+      "siddha_name": "Vaanthi ,Sarthi,Vamanam,Vaayaalaedutthal",
+      "common_name": ""
+    }
+  ]
+}

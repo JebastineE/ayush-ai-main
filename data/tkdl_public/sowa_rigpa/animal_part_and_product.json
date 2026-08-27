@@ -1,0 +1,857 @@
+{
+  "source": "TKDL",
+  "system": "Sowa Rigpa",
+  "category": "Animal Part & Product",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Animal-Part.asp",
+  "retrieved_at": "2026-08-27T10:34:23.422914",
+  "total_records": 47,
+  "records": [
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 1,
+      "columns": [
+        "Abdomen",
+        "udara",
+        "",
+        "Utharam, Vayitrarai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Abdomen",
+      "ayurveda_name": "udara",
+      "unani_name": "",
+      "siddha_name": "Utharam, Vayitrarai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 2,
+      "columns": [
+        "Acromial region",
+        "asa",
+        "",
+        "Tholpattai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Acromial region",
+      "ayurveda_name": "asa",
+      "unani_name": "",
+      "siddha_name": "Tholpattai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 3,
+      "columns": [
+        "Aged",
+        "vddha",
+        "Sin raseeda /Shuyookh",
+        "Mudhiya,Vayadhu mudhirntha",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Aged",
+      "ayurveda_name": "vddha",
+      "unani_name": "Sin raseeda /Shuyookh",
+      "siddha_name": "Mudhiya,Vayadhu mudhirntha",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 4,
+      "columns": [
+        "Anus",
+        "gud",
+        "Maqa'd/ Dubr",
+        "Asanam,Moola vaai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Anus",
+      "ayurveda_name": "gud",
+      "unani_name": "Maqa'd/ Dubr",
+      "siddha_name": "Asanam,Moola vaai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 5,
+      "columns": [
+        "Axilla/e",
+        "Kaksa",
+        "Ibt/ Baghal",
+        "Akkul,Vaaku moolam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Axilla/e",
+      "ayurveda_name": "Kaksa",
+      "unani_name": "Ibt/ Baghal",
+      "siddha_name": "Akkul,Vaaku moolam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 6,
+      "columns": [
+        "Belly / Pelvic region",
+        "kuki/roi",
+        "",
+        "Keezhvayeru,,Adi vayiru",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Belly / Pelvic region",
+      "ayurveda_name": "kuki/roi",
+      "unani_name": "",
+      "siddha_name": "Keezhvayeru,,Adi vayiru",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 7,
+      "columns": [
+        "Blood",
+        "oita",
+        "Dam/Khoon",
+        "Kuruthi,Irattham,Sen thadhu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Blood",
+      "ayurveda_name": "oita",
+      "unani_name": "Dam/Khoon",
+      "siddha_name": "Kuruthi,Irattham,Sen thadhu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 8,
+      "columns": [
+        "Blood vessel",
+        "sir",
+        "Urooq-e-Damviyah",
+        "Kuruthi kuzhal, rattha thanthugi, Senneer kuzhal,Naadi,Naalam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Blood vessel",
+      "ayurveda_name": "sir",
+      "unani_name": "Urooq-e-Damviyah",
+      "siddha_name": "Kuruthi kuzhal, rattha thanthugi, Senneer kuzhal,Naadi,Naalam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 9,
+      "columns": [
+        "Bone/s",
+        "Asthi",
+        "I'zaam/Azm",
+        "Enbu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Bone/s",
+      "ayurveda_name": "Asthi",
+      "unani_name": "I'zaam/Azm",
+      "siddha_name": "Enbu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 10,
+      "columns": [
+        "Bowels",
+        "koha",
+        "",
+        "Mala kudal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Bowels",
+      "ayurveda_name": "koha",
+      "unani_name": "",
+      "siddha_name": "Mala kudal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 11,
+      "columns": [
+        "Butter",
+        "navanta",
+        "Makkhan/ Zabad/ Maska",
+        "Vennai,Navaneedham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Butter",
+      "ayurveda_name": "navanta",
+      "unani_name": "Makkhan/ Zabad/ Maska",
+      "siddha_name": "Vennai,Navaneedham",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 12,
+      "columns": [
+        "Butter milk",
+        "takra",
+        "Chhaachh/ Dogh/ Iran",
+        "Mor",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Butter milk",
+      "ayurveda_name": "takra",
+      "unani_name": "Chhaachh/ Dogh/ Iran",
+      "siddha_name": "Mor",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 13,
+      "columns": [
+        "Child",
+        "blaka",
+        "",
+        "Kuzhandhi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Child",
+      "ayurveda_name": "blaka",
+      "unani_name": "",
+      "siddha_name": "Kuzhandhi",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 14,
+      "columns": [
+        "Clarified butter",
+        "ghta/sarpi",
+        "Roghan-e-Zard/Ghee",
+        "Nei",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Clarified butter",
+      "ayurveda_name": "ghta/sarpi",
+      "unani_name": "Roghan-e-Zard/Ghee",
+      "siddha_name": "Nei",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 15,
+      "columns": [
+        "Coral / Corallium rubrum",
+        "pravla/vidruma",
+        "Marjaan/Hajar-e-Shajari/Busud/Kharoomak",
+        "Pavazham,Pravaalam,Thukir,Thuppu,Vaarithi thandu,Senthandu maalai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Coral / Corallium rubrum",
+      "ayurveda_name": "pravla/vidruma",
+      "unani_name": "Marjaan/Hajar-e-Shajari/Busud/Kharoomak",
+      "siddha_name": "Pavazham,Pravaalam,Thukir,Thuppu,Vaarithi thandu,Senthandu maalai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 16,
+      "columns": [
+        "cowrie",
+        "varik",
+        "",
+        "Palagarai,Sogi,Varaadi,Kavadi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "cowrie",
+      "ayurveda_name": "varik",
+      "unani_name": "",
+      "siddha_name": "Palagarai,Sogi,Varaadi,Kavadi",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 17,
+      "columns": [
+        "Curd",
+        "dadhi",
+        "Jaghraat/ Maast/ Dahi",
+        "Thayir",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Curd",
+      "ayurveda_name": "dadhi",
+      "unani_name": "Jaghraat/ Maast/ Dahi",
+      "siddha_name": "Thayir",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 18,
+      "columns": [
+        "Cuttle fish",
+        "samudraphena",
+        "",
+        "Kanavay odu,Samuthira penam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Cuttle fish",
+      "ayurveda_name": "samudraphena",
+      "unani_name": "",
+      "siddha_name": "Kanavay odu,Samuthira penam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 19,
+      "columns": [
+        "Dung",
+        "Karisa / Purisa /Sakrta",
+        "Sargeen/ Gobar",
+        "Saanam,Eru,Latthi,Vittai,Puzhukkai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Dung",
+      "ayurveda_name": "Karisa / Purisa /Sakrta",
+      "unani_name": "Sargeen/ Gobar",
+      "siddha_name": "Saanam,Eru,Latthi,Vittai,Puzhukkai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 20,
+      "columns": [
+        "Ear",
+        "Karna",
+        "Uzn",
+        "Kaadhu,Chevi,Karnam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Ear",
+      "ayurveda_name": "Karna",
+      "unani_name": "Uzn",
+      "siddha_name": "Kaadhu,Chevi,Karnam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 21,
+      "columns": [
+        "elemental tissue",
+        "dhtu",
+        "",
+        "Udal aadhaara thisu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "elemental tissue",
+      "ayurveda_name": "dhtu",
+      "unani_name": "",
+      "siddha_name": "Udal aadhaara thisu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 22,
+      "columns": [
+        "Elephant ichor",
+        "hastimada",
+        "",
+        "Yanai Thandham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Elephant ichor",
+      "ayurveda_name": "hastimada",
+      "unani_name": "",
+      "siddha_name": "Yanai Thandham",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 23,
+      "columns": [
+        "Eye",
+        "Aksi / Netra",
+        "Ain",
+        "Kann,Vizhi,Nethiram,Nayanam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Eye",
+      "ayurveda_name": "Aksi / Netra",
+      "unani_name": "Ain",
+      "siddha_name": "Kann,Vizhi,Nethiram,Nayanam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 24,
+      "columns": [
+        "Eyebrow",
+        "Bhru",
+        "Haajib/ Abru",
+        "Kanpuruvam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Eyebrow",
+      "ayurveda_name": "Bhru",
+      "unani_name": "Haajib/ Abru",
+      "siddha_name": "Kanpuruvam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 25,
+      "columns": [
+        "Face",
+        "nana",
+        "Wajh/ Chehra",
+        "Mugam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Face",
+      "ayurveda_name": "nana",
+      "unani_name": "Wajh/ Chehra",
+      "siddha_name": "Mugam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 26,
+      "columns": [
+        "Flesh",
+        "msa/mia",
+        "Lahm/ Gosht",
+        "Maamisam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Flesh",
+      "ayurveda_name": "msa/mia",
+      "unani_name": "Lahm/ Gosht",
+      "siddha_name": "Maamisam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 27,
+      "columns": [
+        "Foot",
+        "pda",
+        "Rijl",
+        "Padam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Foot",
+      "ayurveda_name": "pda",
+      "unani_name": "Rijl",
+      "siddha_name": "Padam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 28,
+      "columns": [
+        "Hand",
+        "Pani / Hasta",
+        "Dast/Yad",
+        "Kai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Hand",
+      "ayurveda_name": "Pani / Hasta",
+      "unani_name": "Dast/Yad",
+      "siddha_name": "Kai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 29,
+      "columns": [
+        "Heart",
+        "hdaya",
+        "Qalb",
+        "Irudhayam,Thamarakam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Heart",
+      "ayurveda_name": "hdaya",
+      "unani_name": "Qalb",
+      "siddha_name": "Irudhayam,Thamarakam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 30,
+      "columns": [
+        "Human milk",
+        "stanya",
+        "Sheer-e-Zanaan",
+        "Thaai Paal,Mulai paal,Amudhu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Human milk",
+      "ayurveda_name": "stanya",
+      "unani_name": "Sheer-e-Zanaan",
+      "siddha_name": "Thaai Paal,Mulai paal,Amudhu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 31,
+      "columns": [
+        "Jaw",
+        "hanu",
+        "Fakk/ Jabda",
+        "Thaadai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Jaw",
+      "ayurveda_name": "hanu",
+      "unani_name": "Fakk/ Jabda",
+      "siddha_name": "Thaadai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 32,
+      "columns": [
+        "Knee",
+        "Janu",
+        "Rukbah/ Zaanoo/Ghutna",
+        "Muzhankaal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Knee",
+      "ayurveda_name": "Janu",
+      "unani_name": "Rukbah/ Zaanoo/Ghutna",
+      "siddha_name": "Muzhankaal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 33,
+      "columns": [
+        "Lacifer lacca",
+        "lk",
+        "",
+        "Kombarakku",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Lacifer lacca",
+      "ayurveda_name": "lk",
+      "unani_name": "",
+      "siddha_name": "Kombarakku",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 34,
+      "columns": [
+        "Ligament",
+        "Snayu",
+        "Ribaat",
+        "Thasainaar",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Ligament",
+      "ayurveda_name": "Snayu",
+      "unani_name": "Ribaat",
+      "siddha_name": "Thasainaar",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 35,
+      "columns": [
+        "Liver",
+        "yakta",
+        "Kabid",
+        "Eeral,Kalleeral,Valappaatu eeral",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Liver",
+      "ayurveda_name": "yakta",
+      "unani_name": "Kabid",
+      "siddha_name": "Eeral,Kalleeral,Valappaatu eeral",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 36,
+      "columns": [
+        "Mouth",
+        "mukha",
+        "Fam/Dahan",
+        "Vaai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Mouth",
+      "ayurveda_name": "mukha",
+      "unani_name": "Fam/Dahan",
+      "siddha_name": "Vaai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 37,
+      "columns": [
+        "Musk",
+        "kastr",
+        "Misk/Mushk",
+        "Maan madham,kasthoori",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Musk",
+      "ayurveda_name": "kastr",
+      "unani_name": "Misk/Mushk",
+      "siddha_name": "Maan madham,kasthoori",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 38,
+      "columns": [
+        "Nose",
+        "ns",
+        "Anf",
+        "Mookku, Naasi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Nose",
+      "ayurveda_name": "ns",
+      "unani_name": "Anf",
+      "siddha_name": "Mookku, Naasi",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 39,
+      "columns": [
+        "Penis",
+        "mehra/ liga",
+        "Qazeeb/ Zakar",
+        "Aan Kuri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Penis",
+      "ayurveda_name": "mehra/ liga",
+      "unani_name": "Qazeeb/ Zakar",
+      "siddha_name": "Aan Kuri",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 40,
+      "columns": [
+        "Sacrum",
+        "trik",
+        "",
+        "Peedikai,Pin iduppu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Sacrum",
+      "ayurveda_name": "trik",
+      "unani_name": "",
+      "siddha_name": "Peedikai,Pin iduppu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 41,
+      "columns": [
+        "shell",
+        "Jalaukti",
+        "Sadfah / Sadaf / Farfeer / Feruqas",
+        "Kilinjal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "shell",
+      "ayurveda_name": "Jalaukti",
+      "unani_name": "Sadfah / Sadaf / Farfeer / Feruqas",
+      "siddha_name": "Kilinjal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 42,
+      "columns": [
+        "Shoulder",
+        "Skandha",
+        "Katif/ Shaanah",
+        "Thol poruthu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Shoulder",
+      "ayurveda_name": "Skandha",
+      "unani_name": "Katif/ Shaanah",
+      "siddha_name": "Thol poruthu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 43,
+      "columns": [
+        "Skin",
+        "carma",
+        "Jild/ Post",
+        "Thol,Sarumam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Skin",
+      "ayurveda_name": "carma",
+      "unani_name": "Jild/ Post",
+      "siddha_name": "Thol,Sarumam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 44,
+      "columns": [
+        "Thigh/s",
+        "Uru",
+        "Fakhiz/ Raan",
+        "Thodai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Thigh/s",
+      "ayurveda_name": "Uru",
+      "unani_name": "Fakhiz/ Raan",
+      "siddha_name": "Thodai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 45,
+      "columns": [
+        "Tooth / Teeth",
+        "Danta",
+        "",
+        "Pal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Tooth / Teeth",
+      "ayurveda_name": "Danta",
+      "unani_name": "",
+      "siddha_name": "Pal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 46,
+      "columns": [
+        "Umblicus",
+        "nbhi",
+        "Naaf",
+        "Thoppool, Naabi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Umblicus",
+      "ayurveda_name": "nbhi",
+      "unani_name": "Naaf",
+      "siddha_name": "Thoppool, Naabi",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Animal Part & Product",
+      "row_index": 47,
+      "columns": [
+        "Vagina",
+        "apatyapatha/yoni",
+        "Mahbil",
+        "Yoni",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Animal-Part.asp",
+      "scientific_or_english_name": "Vagina",
+      "ayurveda_name": "apatyapatha/yoni",
+      "unani_name": "Mahbil",
+      "siddha_name": "Yoni",
+      "common_name": ""
+    }
+  ]
+}

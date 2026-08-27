@@ -1,0 +1,5645 @@
+{
+  "source": "TKDL",
+  "system": "Unani",
+  "category": "All Diseases",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Diseases.asp",
+  "retrieved_at": "2026-08-27T10:34:03.740051",
+  "total_records": 313,
+  "records": [
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 1,
+      "columns": [
+        "Abortion / Miscarriage",
+        "garbhapta",
+        "Isqaat-e-Haml",
+        "Karu Sathaivu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Abortion / Miscarriage",
+      "ayurveda_name": "garbhapta",
+      "unani_name": "Isqaat-e-Haml",
+      "siddha_name": "Karu Sathaivu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 2,
+      "columns": [
+        "Abscess",
+        "",
+        "Dubaila",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Abscess",
+      "ayurveda_name": "",
+      "unani_name": "Dubaila",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 3,
+      "columns": [
+        "Acne vulgaris",
+        "yuvnapiik",
+        "Busoor-e-Labaniyah/busoor-e-duhniyah/Muhaase",
+        "Muga paru",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Acne vulgaris",
+      "ayurveda_name": "yuvnapiik",
+      "unani_name": "Busoor-e-Labaniyah/busoor-e-duhniyah/Muhaase",
+      "siddha_name": "Muga paru",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 4,
+      "columns": [
+        "Acute Abscess",
+        "",
+        "Khuraaj",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Acute Abscess",
+      "ayurveda_name": "",
+      "unani_name": "Khuraaj",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 5,
+      "columns": [
+        "Ageusia",
+        "",
+        "Butlaan-e-Zauq",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ageusia",
+      "ayurveda_name": "",
+      "unani_name": "Butlaan-e-Zauq",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 6,
+      "columns": [
+        "Allergic headache",
+        "",
+        "Suda-e-Hissi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Allergic headache",
+      "ayurveda_name": "",
+      "unani_name": "Suda-e-Hissi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 7,
+      "columns": [
+        "Alopecia",
+        "khlitya",
+        "Daa-al-Salab",
+        "Puzhuvettu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Alopecia",
+      "ayurveda_name": "khlitya",
+      "unani_name": "Daa-al-Salab",
+      "siddha_name": "Puzhuvettu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 8,
+      "columns": [
+        "Alopecia areata",
+        "",
+        "Baalkhora",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Alopecia areata",
+      "ayurveda_name": "",
+      "unani_name": "Baalkhora",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 9,
+      "columns": [
+        "Alopecia Furfuracea",
+        "",
+        "Daa-al-Hayyah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Alopecia Furfuracea",
+      "ayurveda_name": "",
+      "unani_name": "Daa-al-Hayyah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 10,
+      "columns": [
+        "Amblyopia",
+        "",
+        "Zof-e-basar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Amblyopia",
+      "ayurveda_name": "",
+      "unani_name": "Zof-e-basar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 11,
+      "columns": [
+        "Amnesia",
+        "",
+        "Nisyaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Amnesia",
+      "ayurveda_name": "",
+      "unani_name": "Nisyaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 12,
+      "columns": [
+        "Amoebic dysentery",
+        "",
+        "Zoosantaaria",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Amoebic dysentery",
+      "ayurveda_name": "",
+      "unani_name": "Zoosantaaria",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 13,
+      "columns": [
+        "Anaemia",
+        "",
+        "Faqr-ud-dam/Su-ul-Qinya",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Anaemia",
+      "ayurveda_name": "",
+      "unani_name": "Faqr-ud-dam/Su-ul-Qinya",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 14,
+      "columns": [
+        "Anal Fissure",
+        "",
+        "Shiqaaq -e- Maq'ad",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Anal Fissure",
+      "ayurveda_name": "",
+      "unani_name": "Shiqaaq -e- Maq'ad",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 15,
+      "columns": [
+        "Anal Fistula",
+        "",
+        "Nawaaseer",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Anal Fistula",
+      "ayurveda_name": "",
+      "unani_name": "Nawaaseer",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 16,
+      "columns": [
+        "Anal Ulcers",
+        "",
+        "Qurooh -e- Maq'ad",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Anal Ulcers",
+      "ayurveda_name": "",
+      "unani_name": "Qurooh -e- Maq'ad",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 17,
+      "columns": [
+        "Anorexia",
+        "",
+        "Zof-e-Ishteha",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Anorexia",
+      "ayurveda_name": "",
+      "unani_name": "Zof-e-Ishteha",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 18,
+      "columns": [
+        "Anorexia",
+        "arocaka",
+        "Nuqsaan -ul- Shahvath / Zof-e-Ishteha",
+        "Rusi inmai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Anorexia",
+      "ayurveda_name": "arocaka",
+      "unani_name": "Nuqsaan -ul- Shahvath / Zof-e-Ishteha",
+      "siddha_name": "Rusi inmai",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 19,
+      "columns": [
+        "Anthrax",
+        "",
+        "Jamrah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Anthrax",
+      "ayurveda_name": "",
+      "unani_name": "Jamrah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 20,
+      "columns": [
+        "Anuria",
+        "mtrakaya",
+        "Ihtibaas-e-Baul",
+        "Neer Churukku",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Anuria",
+      "ayurveda_name": "mtrakaya",
+      "unani_name": "Ihtibaas-e-Baul",
+      "siddha_name": "Neer Churukku",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 21,
+      "columns": [
+        "Anxiety",
+        "Ciittodvega",
+        "Tashweesh/ Tawahhush / Wahshat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Anxiety",
+      "ayurveda_name": "Ciittodvega",
+      "unani_name": "Tashweesh/ Tawahhush / Wahshat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 22,
+      "columns": [
+        "Apoplexy",
+        "",
+        "Sakta",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Apoplexy",
+      "ayurveda_name": "",
+      "unani_name": "Sakta",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 23,
+      "columns": [
+        "Arthralgia",
+        "Sandhirj",
+        "Waja'-al-Mafaasil",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Arthralgia",
+      "ayurveda_name": "Sandhirj",
+      "unani_name": "Waja'-al-Mafaasil",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 24,
+      "columns": [
+        "Ascites",
+        "",
+        "Istisqaa",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ascites",
+      "ayurveda_name": "",
+      "unani_name": "Istisqaa",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 25,
+      "columns": [
+        "Ascitis Succatous",
+        "",
+        "Istisqaa -e- Tabli",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ascitis Succatous",
+      "ayurveda_name": "",
+      "unani_name": "Istisqaa -e- Tabli",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 26,
+      "columns": [
+        "Astigmatism",
+        "",
+        "Sadaad Nazri",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Astigmatism",
+      "ayurveda_name": "",
+      "unani_name": "Sadaad Nazri",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 27,
+      "columns": [
+        "Atony",
+        "",
+        "Istirkha",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Atony",
+      "ayurveda_name": "",
+      "unani_name": "Istirkha",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 28,
+      "columns": [
+        "Atony of Bladder",
+        "vastikuala",
+        "Zo'f-e-Masaanah",
+        "Neerpai Thalarchi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Atony of Bladder",
+      "ayurveda_name": "vastikuala",
+      "unani_name": "Zo'f-e-Masaanah",
+      "siddha_name": "Neerpai Thalarchi",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 29,
+      "columns": [
+        "Atresia of external os",
+        "",
+        "Insidaad-e-Fam-e-Rehm Khaariji",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Atresia of external os",
+      "ayurveda_name": "",
+      "unani_name": "Insidaad-e-Fam-e-Rehm Khaariji",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 30,
+      "columns": [
+        "Bacillary Dysentery",
+        "",
+        "Zaheer-e-Damvi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Bacillary Dysentery",
+      "ayurveda_name": "",
+      "unani_name": "Zaheer-e-Damvi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 31,
+      "columns": [
+        "Backache",
+        "",
+        "Waja-al-Zahr",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Backache",
+      "ayurveda_name": "",
+      "unani_name": "Waja-al-Zahr",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 32,
+      "columns": [
+        "Baldness",
+        "indralupta",
+        "Sala",
+        "Vazhukkai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Baldness",
+      "ayurveda_name": "indralupta",
+      "unani_name": "Sala",
+      "siddha_name": "Vazhukkai",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 33,
+      "columns": [
+        "Bedwetting",
+        "ayyamtra",
+        "Baul-fil-faraash",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Bedwetting",
+      "ayurveda_name": "ayyamtra",
+      "unani_name": "Baul-fil-faraash",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 34,
+      "columns": [
+        "Belching",
+        "udgra",
+        "Jashaa",
+        "Puliaeppum",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Belching",
+      "ayurveda_name": "udgra",
+      "unani_name": "Jashaa",
+      "siddha_name": "Puliaeppum",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 35,
+      "columns": [
+        "Bells palsy",
+        "",
+        "Laqwa",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Bells palsy",
+      "ayurveda_name": "",
+      "unani_name": "Laqwa",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 36,
+      "columns": [
+        "Biliary Colic",
+        "",
+        "Qoolanj-e-safrawi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Biliary Colic",
+      "ayurveda_name": "",
+      "unani_name": "Qoolanj-e-safrawi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 37,
+      "columns": [
+        "Bilious diarrhoea",
+        "",
+        "Ishaal-e-Safraawi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Bilious diarrhoea",
+      "ayurveda_name": "",
+      "unani_name": "Ishaal-e-Safraawi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 38,
+      "columns": [
+        "Billious fever",
+        "",
+        "Humma-e-Safravi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Billious fever",
+      "ayurveda_name": "",
+      "unani_name": "Humma-e-Safravi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 39,
+      "columns": [
+        "Bleeding",
+        "raktasrva",
+        "Jarayaan-al-Dam",
+        "Rattha ozhukku",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Bleeding",
+      "ayurveda_name": "raktasrva",
+      "unani_name": "Jarayaan-al-Dam",
+      "siddha_name": "Rattha ozhukku",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 40,
+      "columns": [
+        "Blindness",
+        "di hnat",
+        "Tareeki-e- Chashm/ Zulmat-e- Basar",
+        "Kan Kurudu, Azhikan",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Blindness",
+      "ayurveda_name": "di hnat",
+      "unani_name": "Tareeki-e- Chashm/ Zulmat-e- Basar",
+      "siddha_name": "Kan Kurudu, Azhikan",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 41,
+      "columns": [
+        "Blood coagulation",
+        "Grathita raktata",
+        "Jumood-al-Dam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Blood coagulation",
+      "ayurveda_name": "Grathita raktata",
+      "unani_name": "Jumood-al-Dam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 42,
+      "columns": [
+        "Blood Impurities",
+        "Raktadoa",
+        "Fasaad -ud- Dam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Blood Impurities",
+      "ayurveda_name": "Raktadoa",
+      "unani_name": "Fasaad -ud- Dam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 43,
+      "columns": [
+        "Blurring of vision",
+        "Aspaa dri",
+        "Kheeragee-e-Chashm",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Blurring of vision",
+      "ayurveda_name": "Aspaa dri",
+      "unani_name": "Kheeragee-e-Chashm",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 44,
+      "columns": [
+        "Bronchial asthma",
+        "tamaka vsa",
+        "Zeeq-al-Nafas Shubi/Zeeq-al-Nafas/ Rabw",
+        "Eraippu Erunal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Bronchial asthma",
+      "ayurveda_name": "tamaka vsa",
+      "unani_name": "Zeeq-al-Nafas Shubi/Zeeq-al-Nafas/ Rabw",
+      "siddha_name": "Eraippu Erunal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 45,
+      "columns": [
+        "Bruise",
+        "Aghta",
+        "Zarba-o-Saqta",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Bruise",
+      "ayurveda_name": "Aghta",
+      "unani_name": "Zarba-o-Saqta",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 46,
+      "columns": [
+        "Burn and Scald",
+        "Drvadagdha",
+        "Harq-o-Salq",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Burn and Scald",
+      "ayurveda_name": "Drvadagdha",
+      "unani_name": "Harq-o-Salq",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 47,
+      "columns": [
+        "Burning micturition",
+        "Mutradaha",
+        "Hurqat-al-Baul",
+        "Neer erichal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Burning micturition",
+      "ayurveda_name": "Mutradaha",
+      "unani_name": "Hurqat-al-Baul",
+      "siddha_name": "Neer erichal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 48,
+      "columns": [
+        "Cancer",
+        "Karkarbuda",
+        "Sarataan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cancer",
+      "ayurveda_name": "Karkarbuda",
+      "unani_name": "Sarataan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 49,
+      "columns": [
+        "Cancrum",
+        "",
+        "Aakilah/Gosht Khorah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cancrum",
+      "ayurveda_name": "",
+      "unani_name": "Aakilah/Gosht Khorah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 50,
+      "columns": [
+        "Cancrum oris",
+        "",
+        "Aakilat-ul-Fam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cancrum oris",
+      "ayurveda_name": "",
+      "unani_name": "Aakilat-ul-Fam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 51,
+      "columns": [
+        "Cardialgia",
+        "",
+        "Waja -ul- Fuwaad",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cardialgia",
+      "ayurveda_name": "",
+      "unani_name": "Waja -ul- Fuwaad",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 52,
+      "columns": [
+        "Cerebral Anaemia/Cerebrasthenia",
+        "",
+        "Zof-e-Dimaagh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cerebral Anaemia/Cerebrasthenia",
+      "ayurveda_name": "",
+      "unani_name": "Zof-e-Dimaagh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 53,
+      "columns": [
+        "Chill and rigors",
+        "vepathu",
+        "Larzah-wa-Qasha'reerah",
+        "Kulir/Nalir",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Chill and rigors",
+      "ayurveda_name": "vepathu",
+      "unani_name": "Larzah-wa-Qasha'reerah",
+      "siddha_name": "Kulir/Nalir",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 54,
+      "columns": [
+        "Chloasma",
+        "Nilika",
+        "Jhaeen",
+        "Karum Thol",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Chloasma",
+      "ayurveda_name": "Nilika",
+      "unani_name": "Jhaeen",
+      "siddha_name": "Karum Thol",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 55,
+      "columns": [
+        "Cholera",
+        "",
+        "Haiza",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cholera",
+      "ayurveda_name": "",
+      "unani_name": "Haiza",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 56,
+      "columns": [
+        "Chronic cough",
+        "jraksa",
+        "Su'aal-e-Muzmin",
+        "Naal Patta erumal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Chronic cough",
+      "ayurveda_name": "jraksa",
+      "unani_name": "Su'aal-e-Muzmin",
+      "siddha_name": "Naal Patta erumal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 57,
+      "columns": [
+        "Cissa,Pica",
+        "Mttik bhakana",
+        "Ukooni/Fasaad-e-Shahwat/Wahm",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cissa,Pica",
+      "ayurveda_name": "Mttik bhakana",
+      "unani_name": "Ukooni/Fasaad-e-Shahwat/Wahm",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 58,
+      "columns": [
+        "Coldness of the uterus and vulva",
+        "",
+        "Buroodat-e-Rehm wa Farj",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Coldness of the uterus and vulva",
+      "ayurveda_name": "",
+      "unani_name": "Buroodat-e-Rehm wa Farj",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 59,
+      "columns": [
+        "Compound fever",
+        "",
+        "Humma-e-Murakkab",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Compound fever",
+      "ayurveda_name": "",
+      "unani_name": "Humma-e-Murakkab",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 60,
+      "columns": [
+        "concussional headache",
+        "",
+        "Suda-e-Tazazu'I",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "concussional headache",
+      "ayurveda_name": "",
+      "unani_name": "Suda-e-Tazazu'I",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 61,
+      "columns": [
+        "Congestion",
+        "",
+        "Imtila",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Congestion",
+      "ayurveda_name": "",
+      "unani_name": "Imtila",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 62,
+      "columns": [
+        "Constipation",
+        "",
+        "Qabz",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Constipation",
+      "ayurveda_name": "",
+      "unani_name": "Qabz",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 63,
+      "columns": [
+        "Corneal Opacity",
+        "",
+        "Bayaaz-e-Chashm",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Corneal Opacity",
+      "ayurveda_name": "",
+      "unani_name": "Bayaaz-e-Chashm",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 64,
+      "columns": [
+        "Coryza and catarrh",
+        "",
+        "Nazla Zukaam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Coryza and catarrh",
+      "ayurveda_name": "",
+      "unani_name": "Nazla Zukaam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 65,
+      "columns": [
+        "Coxalgia",
+        "",
+        "Waja-ul-Warik",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Coxalgia",
+      "ayurveda_name": "",
+      "unani_name": "Waja-ul-Warik",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 66,
+      "columns": [
+        "Cracked Lips",
+        "oha sphuana",
+        "Shiqaaq-e-Shafatain",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cracked Lips",
+      "ayurveda_name": "oha sphuana",
+      "unani_name": "Shiqaaq-e-Shafatain",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 67,
+      "columns": [
+        "Cramp/Convulsion/Spasm",
+        "",
+        "Tashannuj",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cramp/Convulsion/Spasm",
+      "ayurveda_name": "",
+      "unani_name": "Tashannuj",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 68,
+      "columns": [
+        "Cyanosis of the eye",
+        "",
+        "Zurqah-ul-Ain",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cyanosis of the eye",
+      "ayurveda_name": "",
+      "unani_name": "Zurqah-ul-Ain",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 69,
+      "columns": [
+        "Cystalgia",
+        "",
+        "Waja-ul-Masaanah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cystalgia",
+      "ayurveda_name": "",
+      "unani_name": "Waja-ul-Masaanah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 70,
+      "columns": [
+        "Cystolith",
+        "",
+        "Hasaat-e-Masaanah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Cystolith",
+      "ayurveda_name": "",
+      "unani_name": "Hasaat-e-Masaanah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 71,
+      "columns": [
+        "Dandruff",
+        "druaka",
+        "ibriyah/Abriyyah/bafa",
+        "Podugu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dandruff",
+      "ayurveda_name": "druaka",
+      "unani_name": "ibriyah/Abriyyah/bafa",
+      "siddha_name": "Podugu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 72,
+      "columns": [
+        "Darkness",
+        "",
+        "Tareeki-e-Chashm/ Zulmat-e-Basar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Darkness",
+      "ayurveda_name": "",
+      "unani_name": "Tareeki-e-Chashm/ Zulmat-e-Basar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 73,
+      "columns": [
+        "deafness",
+        "",
+        "Samam/Samma",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "deafness",
+      "ayurveda_name": "",
+      "unani_name": "Samam/Samma",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 74,
+      "columns": [
+        "Delerium",
+        "",
+        "Hazayaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Delerium",
+      "ayurveda_name": "",
+      "unani_name": "Hazayaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 75,
+      "columns": [
+        "Dental Caries",
+        "",
+        "Taakkul-e-Asnaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dental Caries",
+      "ayurveda_name": "",
+      "unani_name": "Taakkul-e-Asnaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 76,
+      "columns": [
+        "Depression",
+        "sadana/ avasda",
+        "Gham/ sadma",
+        "Mana Azhuttham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Depression",
+      "ayurveda_name": "sadana/ avasda",
+      "unani_name": "Gham/ sadma",
+      "siddha_name": "Mana Azhuttham",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 77,
+      "columns": [
+        "Diabetes Mellitus",
+        "",
+        "Ziabetas Shakari",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diabetes Mellitus",
+      "ayurveda_name": "",
+      "unani_name": "Ziabetas Shakari",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 78,
+      "columns": [
+        "Diaphragmitis",
+        "mahpracra akipka",
+        "Barsaam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diaphragmitis",
+      "ayurveda_name": "mahpracra akipka",
+      "unani_name": "Barsaam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 79,
+      "columns": [
+        "Diphtheria",
+        "",
+        "Khunaaq-e-wabaai",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diphtheria",
+      "ayurveda_name": "",
+      "unani_name": "Khunaaq-e-wabaai",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 80,
+      "columns": [
+        "Diseases of head and neck",
+        "urdhvajatrugataroga",
+        "Amraaz-e-raas wa unuq",
+        "Kazhutthu/Thalai Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of head and neck",
+      "ayurveda_name": "urdhvajatrugataroga",
+      "unani_name": "Amraaz-e-raas wa unuq",
+      "siddha_name": "Kazhutthu/Thalai Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 81,
+      "columns": [
+        "Diseases of heart",
+        "hdayaroga",
+        "Amraaz-e-qalb",
+        "Eruthaya Noigal,Thamaraga noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of heart",
+      "ayurveda_name": "hdayaroga",
+      "unani_name": "Amraaz-e-qalb",
+      "siddha_name": "Eruthaya Noigal,Thamaraga noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 82,
+      "columns": [
+        "Diseases of spleen",
+        "plhvikra",
+        "Amraaz-e-tehaal",
+        "Peeliga Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of spleen",
+      "ayurveda_name": "plhvikra",
+      "unani_name": "Amraaz-e-tehaal",
+      "siddha_name": "Peeliga Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 83,
+      "columns": [
+        "Diseases of the eye",
+        "netra roga",
+        "Amraaz-e-A'in",
+        "Kan Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of the eye",
+      "ayurveda_name": "netra roga",
+      "unani_name": "Amraaz-e-A'in",
+      "siddha_name": "Kan Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 84,
+      "columns": [
+        "Diseases of the urinary system",
+        "mtraroga",
+        "Amraaz-e-Nizaam-e-Bauliyah",
+        "Siriuneeraga  Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Diseases of the urinary system",
+      "ayurveda_name": "mtraroga",
+      "unani_name": "Amraaz-e-Nizaam-e-Bauliyah",
+      "siddha_name": "Siriuneeraga  Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 85,
+      "columns": [
+        "Distension",
+        "",
+        "Tamaddud",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Distension",
+      "ayurveda_name": "",
+      "unani_name": "Tamaddud",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 86,
+      "columns": [
+        "Dog Bite",
+        "",
+        "Gazeedgee-e-Sag",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dog Bite",
+      "ayurveda_name": "",
+      "unani_name": "Gazeedgee-e-Sag",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 87,
+      "columns": [
+        "Dry cough",
+        "uka ksa",
+        "Su'aal-e-Yaabis",
+        "Varattu Erunal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dry cough",
+      "ayurveda_name": "uka ksa",
+      "unani_name": "Su'aal-e-Yaabis",
+      "siddha_name": "Varattu Erunal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 88,
+      "columns": [
+        "Dysentery",
+        "pravhik",
+        "Zaheer",
+        "Nina kazhichal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dysentery",
+      "ayurveda_name": "pravhik",
+      "unani_name": "Zaheer",
+      "siddha_name": "Nina kazhichal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 89,
+      "columns": [
+        "Dysgeusia",
+        "",
+        "Fasaad-e-Zauq",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dysgeusia",
+      "ayurveda_name": "",
+      "unani_name": "Fasaad-e-Zauq",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 90,
+      "columns": [
+        "Dyspepsia",
+        "agnimndya",
+        "Su-e-Hazm/Badhazmi/Nuqsan e shahwat",
+        "Pasi inmai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dyspepsia",
+      "ayurveda_name": "agnimndya",
+      "unani_name": "Su-e-Hazm/Badhazmi/Nuqsan e shahwat",
+      "siddha_name": "Pasi inmai",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 91,
+      "columns": [
+        "Dystocia",
+        "Kaaprasava",
+        "Usr-e-Wiladat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dystocia",
+      "ayurveda_name": "Kaaprasava",
+      "unani_name": "Usr-e-Wiladat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 92,
+      "columns": [
+        "Dysuria",
+        "mtrakcchra",
+        "Usr-e- Baul",
+        "Neer erichal,Neer kaduppu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Dysuria",
+      "ayurveda_name": "mtrakcchra",
+      "unani_name": "Usr-e- Baul",
+      "siddha_name": "Neer erichal,Neer kaduppu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 93,
+      "columns": [
+        "Ecchymosis",
+        "",
+        "Maut-al-Dam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ecchymosis",
+      "ayurveda_name": "",
+      "unani_name": "Maut-al-Dam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 94,
+      "columns": [
+        "Eczema",
+        "",
+        "Hikkat-al-Uzn",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Eczema",
+      "ayurveda_name": "",
+      "unani_name": "Hikkat-al-Uzn",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 95,
+      "columns": [
+        "Elephantiasis",
+        "lpada",
+        "Daa-ul-Feel",
+        "Yanaikkaal,Sili padham,Paadha vanmeegam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Elephantiasis",
+      "ayurveda_name": "lpada",
+      "unani_name": "Daa-ul-Feel",
+      "siddha_name": "Yanaikkaal,Sili padham,Paadha vanmeegam",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 96,
+      "columns": [
+        "epilepsy of extremities",
+        "",
+        "Sara-e-atraafi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "epilepsy of extremities",
+      "ayurveda_name": "",
+      "unani_name": "Sara-e-atraafi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 97,
+      "columns": [
+        "Epiphora",
+        "netra srva",
+        "Damah",
+        "NeerPaaychal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Epiphora",
+      "ayurveda_name": "netra srva",
+      "unani_name": "Damah",
+      "siddha_name": "NeerPaaychal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 98,
+      "columns": [
+        "Epistaxis",
+        "",
+        "Rua'af",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Epistaxis",
+      "ayurveda_name": "",
+      "unani_name": "Rua'af",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 99,
+      "columns": [
+        "erosion",
+        "",
+        "Ta'akkul",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "erosion",
+      "ayurveda_name": "",
+      "unani_name": "Ta'akkul",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 100,
+      "columns": [
+        "Execessive Sleeping/Coma",
+        "",
+        "Subaat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Execessive Sleeping/Coma",
+      "ayurveda_name": "",
+      "unani_name": "Subaat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 101,
+      "columns": [
+        "Exfoliation of teeth",
+        "",
+        "Suqoot-e-Asnaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Exfoliation of teeth",
+      "ayurveda_name": "",
+      "unani_name": "Suqoot-e-Asnaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 102,
+      "columns": [
+        "Exophthalmos",
+        "",
+        "Juhooz-ul-Ain",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Exophthalmos",
+      "ayurveda_name": "",
+      "unani_name": "Juhooz-ul-Ain",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 103,
+      "columns": [
+        "Facial erysipelas",
+        "",
+        "Maashraa",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Facial erysipelas",
+      "ayurveda_name": "",
+      "unani_name": "Maashraa",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 104,
+      "columns": [
+        "Fainting",
+        "mrcch",
+        "Ghashi",
+        "Mayakka noi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Fainting",
+      "ayurveda_name": "mrcch",
+      "unani_name": "Ghashi",
+      "siddha_name": "Mayakka noi",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 105,
+      "columns": [
+        "Falling of hair",
+        "Keapta",
+        "Intisaar-al-Sha'r",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Falling of hair",
+      "ayurveda_name": "Keapta",
+      "unani_name": "Intisaar-al-Sha'r",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 106,
+      "columns": [
+        "Favus",
+        "",
+        "Safah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Favus",
+      "ayurveda_name": "",
+      "unani_name": "Safah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 107,
+      "columns": [
+        "Fetid breath",
+        "",
+        "Bakhr-al-Fam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Fetid breath",
+      "ayurveda_name": "",
+      "unani_name": "Bakhr-al-Fam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 108,
+      "columns": [
+        "Filaria medinensis",
+        "",
+        "Naarwaa",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Filaria medinensis",
+      "ayurveda_name": "",
+      "unani_name": "Naarwaa",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 109,
+      "columns": [
+        "Fistula",
+        "",
+        "Naasoor",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Fistula",
+      "ayurveda_name": "",
+      "unani_name": "Naasoor",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 110,
+      "columns": [
+        "Fistula lacrimatis",
+        "",
+        "Gharb/Nasoor",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Fistula lacrimatis",
+      "ayurveda_name": "",
+      "unani_name": "Gharb/Nasoor",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 111,
+      "columns": [
+        "Flaccidity",
+        "",
+        "Istirkha",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Flaccidity",
+      "ayurveda_name": "",
+      "unani_name": "Istirkha",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 112,
+      "columns": [
+        "Flatulence",
+        "dhmna",
+        "Nafkh-e-Shikam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Flatulence",
+      "ayurveda_name": "dhmna",
+      "unani_name": "Nafkh-e-Shikam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 113,
+      "columns": [
+        "Fracture",
+        "asthibhagna",
+        "Kasr-e-Azm",
+        "Enbu Murivu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Fracture",
+      "ayurveda_name": "asthibhagna",
+      "unani_name": "Kasr-e-Azm",
+      "siddha_name": "Enbu Murivu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 114,
+      "columns": [
+        "Freckle",
+        "vyaga",
+        "Kalaf",
+        "Karun Themal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Freckle",
+      "ayurveda_name": "vyaga",
+      "unani_name": "Kalaf",
+      "siddha_name": "Karun Themal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 115,
+      "columns": [
+        "Freckles",
+        "",
+        "Barash",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Freckles",
+      "ayurveda_name": "",
+      "unani_name": "Barash",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 116,
+      "columns": [
+        "Furuncle/Boil",
+        "Yavaprakhya",
+        "Dunbal/Dummal",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Furuncle/Boil",
+      "ayurveda_name": "Yavaprakhya",
+      "unani_name": "Dunbal/Dummal",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 117,
+      "columns": [
+        "Gaseous headache",
+        "",
+        "Suda-e-Bukhaari",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gaseous headache",
+      "ayurveda_name": "",
+      "unani_name": "Suda-e-Bukhaari",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 118,
+      "columns": [
+        "Gastralgia",
+        "",
+        "Waja'-ul-Meda",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gastralgia",
+      "ayurveda_name": "",
+      "unani_name": "Waja'-ul-Meda",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 119,
+      "columns": [
+        "Gastric dyscrasia",
+        "",
+        "Sue Mizaaj -e- Me'dah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gastric dyscrasia",
+      "ayurveda_name": "",
+      "unani_name": "Sue Mizaaj -e- Me'dah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 120,
+      "columns": [
+        "Gastric ulcer",
+        "",
+        "Qurooh-e-Medah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gastric ulcer",
+      "ayurveda_name": "",
+      "unani_name": "Qurooh-e-Medah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 121,
+      "columns": [
+        "Gastritis",
+        "mayaotha",
+        "Waram -e- Medah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gastritis",
+      "ayurveda_name": "mayaotha",
+      "unani_name": "Waram -e- Medah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 122,
+      "columns": [
+        "Gastroptosis/Atony of the stomach",
+        "",
+        "Istirkha-e-Me'dah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gastroptosis/Atony of the stomach",
+      "ayurveda_name": "",
+      "unani_name": "Istirkha-e-Me'dah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 123,
+      "columns": [
+        "Giddiness",
+        "bhrama",
+        "Duwaar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Giddiness",
+      "ayurveda_name": "bhrama",
+      "unani_name": "Duwaar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 124,
+      "columns": [
+        "Gingival Atrophy",
+        "",
+        "Nuqsaan-al-Lesah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gingival Atrophy",
+      "ayurveda_name": "",
+      "unani_name": "Nuqsaan-al-Lesah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 125,
+      "columns": [
+        "Gingival Ulcers",
+        "",
+        "Qurooh-al-Lesah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gingival Ulcers",
+      "ayurveda_name": "",
+      "unani_name": "Qurooh-al-Lesah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 126,
+      "columns": [
+        "Gingivitis",
+        "",
+        "Waram-e-Lesah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gingivitis",
+      "ayurveda_name": "",
+      "unani_name": "Waram-e-Lesah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 127,
+      "columns": [
+        "Gleet/Chronic Gonorrhoea",
+        "",
+        "Zanqah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gleet/Chronic Gonorrhoea",
+      "ayurveda_name": "",
+      "unani_name": "Zanqah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 128,
+      "columns": [
+        "Globus hystericus",
+        "",
+        "Bao gola",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Globus hystericus",
+      "ayurveda_name": "",
+      "unani_name": "Bao gola",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 129,
+      "columns": [
+        "Gonorrhoea",
+        "upadaa",
+        "Suzaak",
+        "Seezh Megam,Vellai noi,Mega noi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Gonorrhoea",
+      "ayurveda_name": "upadaa",
+      "unani_name": "Suzaak",
+      "siddha_name": "Seezh Megam,Vellai noi,Mega noi",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 130,
+      "columns": [
+        "Haemoptysis",
+        "rakta nihvana",
+        "Nafs-ud-dam",
+        "Rattha Irumal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Haemoptysis",
+      "ayurveda_name": "rakta nihvana",
+      "unani_name": "Nafs-ud-dam",
+      "siddha_name": "Rattha Irumal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 131,
+      "columns": [
+        "Haemorrhage",
+        "",
+        "Infijaar-e-Dam Uzni",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Haemorrhage",
+      "ayurveda_name": "",
+      "unani_name": "Infijaar-e-Dam Uzni",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 132,
+      "columns": [
+        "Hallucinations",
+        "Cittavibhrama",
+        "Wasawis",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hallucinations",
+      "ayurveda_name": "Cittavibhrama",
+      "unani_name": "Wasawis",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 133,
+      "columns": [
+        "Heaviness of tongue",
+        "",
+        "Siql-ul-Lisaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Heaviness of tongue",
+      "ayurveda_name": "",
+      "unani_name": "Siql-ul-Lisaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 134,
+      "columns": [
+        "Hectic fever",
+        "pralepakajvara",
+        "Humma-e-Diqq",
+        "PerumSuram",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hectic fever",
+      "ayurveda_name": "pralepakajvara",
+      "unani_name": "Humma-e-Diqq",
+      "siddha_name": "PerumSuram",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 135,
+      "columns": [
+        "Helminthiasis",
+        "",
+        "Kirm-e-Shikam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Helminthiasis",
+      "ayurveda_name": "",
+      "unani_name": "Kirm-e-Shikam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 136,
+      "columns": [
+        "Hematemesis",
+        "",
+        "Qai-ud-dam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hematemesis",
+      "ayurveda_name": "",
+      "unani_name": "Qai-ud-dam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 137,
+      "columns": [
+        "Hematuria",
+        "",
+        "Baul-ud-dam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hematuria",
+      "ayurveda_name": "",
+      "unani_name": "Baul-ud-dam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 138,
+      "columns": [
+        "Hemorrhage",
+        "",
+        "Jarayaan-al-Dam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hemorrhage",
+      "ayurveda_name": "",
+      "unani_name": "Jarayaan-al-Dam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 139,
+      "columns": [
+        "Hepatalgia",
+        "",
+        "Waja-ul-Kabid",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hepatalgia",
+      "ayurveda_name": "",
+      "unani_name": "Waja-ul-Kabid",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 140,
+      "columns": [
+        "Hepatargia/Hepatosis",
+        "",
+        "Zo'f-e-Jigar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hepatargia/Hepatosis",
+      "ayurveda_name": "",
+      "unani_name": "Zo'f-e-Jigar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 141,
+      "columns": [
+        "Hepatic diarrhoea",
+        "",
+        "Ishaal-e-Kabidi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hepatic diarrhoea",
+      "ayurveda_name": "",
+      "unani_name": "Ishaal-e-Kabidi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 142,
+      "columns": [
+        "Hepatic Dyscrasia",
+        "",
+        "Su-e-Mizaaj-e-Jigar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hepatic Dyscrasia",
+      "ayurveda_name": "",
+      "unani_name": "Su-e-Mizaaj-e-Jigar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 143,
+      "columns": [
+        "Hepatic obstruction",
+        "",
+        "Sudad -ul- Kabid",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hepatic obstruction",
+      "ayurveda_name": "",
+      "unani_name": "Sudad -ul- Kabid",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 144,
+      "columns": [
+        "Hepatic sclerosis",
+        "",
+        "Salaabat -ul- Kabid",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hepatic sclerosis",
+      "ayurveda_name": "",
+      "unani_name": "Salaabat -ul- Kabid",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 145,
+      "columns": [
+        "Hepatitis",
+        "",
+        "Waram-e-Kabid",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hepatitis",
+      "ayurveda_name": "",
+      "unani_name": "Waram-e-Kabid",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 146,
+      "columns": [
+        "Herpes corneae",
+        "",
+        "Busoor-e-Qarnia",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Herpes corneae",
+      "ayurveda_name": "",
+      "unani_name": "Busoor-e-Qarnia",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 147,
+      "columns": [
+        "Herpetic Ulcer",
+        "",
+        "Qurooh-e-Saaeyah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Herpetic Ulcer",
+      "ayurveda_name": "",
+      "unani_name": "Qurooh-e-Saaeyah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 148,
+      "columns": [
+        "Hiccough",
+        "",
+        "Fuwaaq",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hiccough",
+      "ayurveda_name": "",
+      "unani_name": "Fuwaaq",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 149,
+      "columns": [
+        "Hoarseness",
+        "svarabheda",
+        "Buhat-us-Saut",
+        "Kural Kammal,Sura pangam,Thondai kattu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hoarseness",
+      "ayurveda_name": "svarabheda",
+      "unani_name": "Buhat-us-Saut",
+      "siddha_name": "Kural Kammal,Sura pangam,Thondai kattu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 150,
+      "columns": [
+        "Hoarseness of Voice",
+        "",
+        "Bohat-us-Saut",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hoarseness of Voice",
+      "ayurveda_name": "",
+      "unani_name": "Bohat-us-Saut",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 151,
+      "columns": [
+        "Hot headache",
+        "",
+        "Suda-e-Haar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hot headache",
+      "ayurveda_name": "",
+      "unani_name": "Suda-e-Haar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 152,
+      "columns": [
+        "Hyper acidity",
+        "",
+        "Hurqat -e- Medah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hyper acidity",
+      "ayurveda_name": "",
+      "unani_name": "Hurqat -e- Medah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 153,
+      "columns": [
+        "Hyperacidity",
+        "amlapitta",
+        "Humoozat-e-Medah",
+        "Eri gunmam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hyperacidity",
+      "ayurveda_name": "amlapitta",
+      "unani_name": "Humoozat-e-Medah",
+      "siddha_name": "Eri gunmam",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 154,
+      "columns": [
+        "Hyperpyrexia",
+        "",
+        "Humma-e-Haaddah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hyperpyrexia",
+      "ayurveda_name": "",
+      "unani_name": "Humma-e-Haaddah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 155,
+      "columns": [
+        "Hypopyon",
+        "",
+        "Middah Qarnia",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Hypopyon",
+      "ayurveda_name": "",
+      "unani_name": "Middah Qarnia",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 156,
+      "columns": [
+        "Ichthyosis",
+        "ekakutha",
+        "Taqashshur-e-Jild",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ichthyosis",
+      "ayurveda_name": "ekakutha",
+      "unani_name": "Taqashshur-e-Jild",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 157,
+      "columns": [
+        "Icterus/Jaundice",
+        "",
+        "Yaraqaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Icterus/Jaundice",
+      "ayurveda_name": "",
+      "unani_name": "Yaraqaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 158,
+      "columns": [
+        "Ileus",
+        "",
+        "Ieelaaus",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ileus",
+      "ayurveda_name": "",
+      "unani_name": "Ieelaaus",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 159,
+      "columns": [
+        "Ill Temperament",
+        "",
+        "Su-e-Mizaaj",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ill Temperament",
+      "ayurveda_name": "",
+      "unani_name": "Su-e-Mizaaj",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 160,
+      "columns": [
+        "Impurity",
+        "doa",
+        "Fasaad",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Impurity",
+      "ayurveda_name": "doa",
+      "unani_name": "Fasaad",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 161,
+      "columns": [
+        "indigestion",
+        "",
+        "Tukhma/Su-e-Hazm",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "indigestion",
+      "ayurveda_name": "",
+      "unani_name": "Tukhma/Su-e-Hazm",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 162,
+      "columns": [
+        "Induration of stomach",
+        "",
+        "Jusaat-e-Medah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Induration of stomach",
+      "ayurveda_name": "",
+      "unani_name": "Jusaat-e-Medah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 163,
+      "columns": [
+        "Induration of the Eyelids",
+        "",
+        "Jusaat -ul- Ajfaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Induration of the Eyelids",
+      "ayurveda_name": "",
+      "unani_name": "Jusaat -ul- Ajfaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 164,
+      "columns": [
+        "Injury of the intestine",
+        "",
+        "Sahj-e-Ama'a",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Injury of the intestine",
+      "ayurveda_name": "",
+      "unani_name": "Sahj-e-Ama'a",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 165,
+      "columns": [
+        "Insect bite",
+        "Kadant",
+        "Lasa't-al-Hasharaat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Insect bite",
+      "ayurveda_name": "Kadant",
+      "unani_name": "Lasa't-al-Hasharaat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 166,
+      "columns": [
+        "Insomnia",
+        "anidr",
+        "Sahar",
+        "Thookkaminmai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Insomnia",
+      "ayurveda_name": "anidr",
+      "unani_name": "Sahar",
+      "siddha_name": "Thookkaminmai",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 167,
+      "columns": [
+        "Intestinal Ulcer",
+        "",
+        "Qarha-e-Ama'a",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Intestinal Ulcer",
+      "ayurveda_name": "",
+      "unani_name": "Qarha-e-Ama'a",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 168,
+      "columns": [
+        "Intestinal worms/Worms infestation/Helminthiasis",
+        "",
+        "Deedaan-e-Amaa",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Intestinal worms/Worms infestation/Helminthiasis",
+      "ayurveda_name": "",
+      "unani_name": "Deedaan-e-Amaa",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 169,
+      "columns": [
+        "Ischialgia",
+        "",
+        "Waja'-al-Warik",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ischialgia",
+      "ayurveda_name": "",
+      "unani_name": "Waja'-al-Warik",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 170,
+      "columns": [
+        "Lacrimation",
+        "",
+        "Buwaalataiin",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Lacrimation",
+      "ayurveda_name": "",
+      "unani_name": "Buwaalataiin",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 171,
+      "columns": [
+        "Laryngitis",
+        "",
+        "Waram-e-Hanjarah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Laryngitis",
+      "ayurveda_name": "",
+      "unani_name": "Waram-e-Hanjarah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 172,
+      "columns": [
+        "Leucorrhoea",
+        "vetapradara",
+        "Sailaane-Rehm",
+        "Vellai noi,Vettai noi,Megam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Leucorrhoea",
+      "ayurveda_name": "vetapradara",
+      "unani_name": "Sailaane-Rehm",
+      "siddha_name": "Vellai noi,Vettai noi,Megam",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 173,
+      "columns": [
+        "Leukonychia",
+        "",
+        "Baras-al-Azfaar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Leukonychia",
+      "ayurveda_name": "",
+      "unani_name": "Baras-al-Azfaar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 174,
+      "columns": [
+        "Lichen",
+        "",
+        "Huzaaz",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Lichen",
+      "ayurveda_name": "",
+      "unani_name": "Huzaaz",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 175,
+      "columns": [
+        "Loose teeth",
+        "dantacala",
+        "Taharruk-e-Asnaan",
+        "Pallaattam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Loose teeth",
+      "ayurveda_name": "dantacala",
+      "unani_name": "Taharruk-e-Asnaan",
+      "siddha_name": "Pallaattam",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 176,
+      "columns": [
+        "Male Infertility",
+        "klaibya/klbat",
+        "Aqm/U'qm",
+        "Aan Maladu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Male Infertility",
+      "ayurveda_name": "klaibya/klbat",
+      "unani_name": "Aqm/U'qm",
+      "siddha_name": "Aan Maladu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 177,
+      "columns": [
+        "Malignant Ulcers",
+        "karkata Vraa",
+        "Qurooh-e-Khabeesah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Malignant Ulcers",
+      "ayurveda_name": "karkata Vraa",
+      "unani_name": "Qurooh-e-Khabeesah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 178,
+      "columns": [
+        "Mastitis",
+        "Stanaotha",
+        "Waram-us- Sadi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Mastitis",
+      "ayurveda_name": "Stanaotha",
+      "unani_name": "Waram-us- Sadi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 179,
+      "columns": [
+        "Melancholia",
+        "",
+        "Maali Kholia",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Melancholia",
+      "ayurveda_name": "",
+      "unani_name": "Maali Kholia",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 180,
+      "columns": [
+        "Melanic fever",
+        "",
+        "Humma-e-Saudavi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Melanic fever",
+      "ayurveda_name": "",
+      "unani_name": "Humma-e-Saudavi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 181,
+      "columns": [
+        "Meningitis",
+        "",
+        "Faraaneetas",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Meningitis",
+      "ayurveda_name": "",
+      "unani_name": "Faraaneetas",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 182,
+      "columns": [
+        "Menorrhagia / Metrorrhagia",
+        "rakta pradara / asgdara",
+        "Kasrat-e-tams/ Istehaaza",
+        "Kuruthi ozhukku noikal,Perumpaadu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Menorrhagia / Metrorrhagia",
+      "ayurveda_name": "rakta pradara / asgdara",
+      "unani_name": "Kasrat-e-tams/ Istehaaza",
+      "siddha_name": "Kuruthi ozhukku noikal,Perumpaadu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 183,
+      "columns": [
+        "Metralgia",
+        "",
+        "Waja'-al-Rehm",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Metralgia",
+      "ayurveda_name": "",
+      "unani_name": "Waja'-al-Rehm",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 184,
+      "columns": [
+        "Metritis",
+        "",
+        "Waram-e-Rehm",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Metritis",
+      "ayurveda_name": "",
+      "unani_name": "Waram-e-Rehm",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 185,
+      "columns": [
+        "Mole",
+        "",
+        "Kheelaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Mole",
+      "ayurveda_name": "",
+      "unani_name": "Kheelaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 186,
+      "columns": [
+        "Mothers mark/Naevus",
+        "",
+        "Namash",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Mothers mark/Naevus",
+      "ayurveda_name": "",
+      "unani_name": "Namash",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 187,
+      "columns": [
+        "Mumps",
+        "Karamlaotha",
+        "Iltehaab Ghudda-e-Nakaf",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Mumps",
+      "ayurveda_name": "Karamlaotha",
+      "unani_name": "Iltehaab Ghudda-e-Nakaf",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 188,
+      "columns": [
+        "Nausea",
+        "hllsa",
+        "Ghasayaan",
+        "Ookkaalam,Vaikumattal,",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Nausea",
+      "ayurveda_name": "hllsa",
+      "unani_name": "Ghasayaan",
+      "siddha_name": "Ookkaalam,Vaikumattal,",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 189,
+      "columns": [
+        "Neonatal Jaundice",
+        "",
+        "Yaraqaan-e-Nauzaayeedah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Neonatal Jaundice",
+      "ayurveda_name": "",
+      "unani_name": "Yaraqaan-e-Nauzaayeedah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 190,
+      "columns": [
+        "Nephralgia",
+        "",
+        "Waja-al-Kulyah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Nephralgia",
+      "ayurveda_name": "",
+      "unani_name": "Waja-al-Kulyah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 191,
+      "columns": [
+        "Neurological diseases",
+        "",
+        "Amraaz-e-raas",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Neurological diseases",
+      "ayurveda_name": "",
+      "unani_name": "Amraaz-e-raas",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 192,
+      "columns": [
+        "Nocturnal emission",
+        "Svapnameha",
+        "Kasrat-e-Ihtlaam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Nocturnal emission",
+      "ayurveda_name": "Svapnameha",
+      "unani_name": "Kasrat-e-Ihtlaam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 193,
+      "columns": [
+        "Numbness",
+        "prasupta",
+        "Khadar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Numbness",
+      "ayurveda_name": "prasupta",
+      "unani_name": "Khadar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 194,
+      "columns": [
+        "Obstructive jaundice",
+        "",
+        "Yaraqaan-e-Suddi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Obstructive jaundice",
+      "ayurveda_name": "",
+      "unani_name": "Yaraqaan-e-Suddi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 195,
+      "columns": [
+        "Oedema",
+        "",
+        "Waram-e-Rikhoo/Tahabbuj, Bhurbhuraahat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Oedema",
+      "ayurveda_name": "",
+      "unani_name": "Waram-e-Rikhoo/Tahabbuj, Bhurbhuraahat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 196,
+      "columns": [
+        "Oopheritis",
+        "",
+        "Waram-e-Unsayain",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Oopheritis",
+      "ayurveda_name": "",
+      "unani_name": "Waram-e-Unsayain",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 197,
+      "columns": [
+        "Ophthalmic jaundice",
+        "",
+        "Yaraqaan-al-Ain",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ophthalmic jaundice",
+      "ayurveda_name": "",
+      "unani_name": "Yaraqaan-al-Ain",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 198,
+      "columns": [
+        "Otalgia",
+        "",
+        "Waja'-al-Uzn",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Otalgia",
+      "ayurveda_name": "",
+      "unani_name": "Waja'-al-Uzn",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 199,
+      "columns": [
+        "Otitis externa",
+        "karapka",
+        "Iltehaab-e-Uzn",
+        "Sevi Neer Soolai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Otitis externa",
+      "ayurveda_name": "karapka",
+      "unani_name": "Iltehaab-e-Uzn",
+      "siddha_name": "Sevi Neer Soolai",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 200,
+      "columns": [
+        "Otitis media",
+        "",
+        "Waram-e-Wast-al-Uzn",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Otitis media",
+      "ayurveda_name": "",
+      "unani_name": "Waram-e-Wast-al-Uzn",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 201,
+      "columns": [
+        "Otorrhoea",
+        "Karnasrava / karnasamsrava",
+        "Sailaan -ul- Uzn",
+        "Sevi Seezh",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Otorrhoea",
+      "ayurveda_name": "Karnasrava / karnasamsrava",
+      "unani_name": "Sailaan -ul- Uzn",
+      "siddha_name": "Sevi Seezh",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 202,
+      "columns": [
+        "Pain",
+        "rj/vedan",
+        "Waja",
+        "Vali",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pain",
+      "ayurveda_name": "rj/vedan",
+      "unani_name": "Waja",
+      "siddha_name": "Vali",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 203,
+      "columns": [
+        "Pain in the heel",
+        "",
+        "Waja-al-Aqib",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pain in the heel",
+      "ayurveda_name": "",
+      "unani_name": "Waja-al-Aqib",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 204,
+      "columns": [
+        "Palatitis",
+        "",
+        "Waram-e-Hanak",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Palatitis",
+      "ayurveda_name": "",
+      "unani_name": "Waram-e-Hanak",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 205,
+      "columns": [
+        "Pannus",
+        "",
+        "Sabal",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pannus",
+      "ayurveda_name": "",
+      "unani_name": "Sabal",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 206,
+      "columns": [
+        "Paroxysmal fever/intermittent fever",
+        "",
+        "Humma-e-Naaeba/Humma-e-Daaerah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Paroxysmal fever/intermittent fever",
+      "ayurveda_name": "",
+      "unani_name": "Humma-e-Naaeba/Humma-e-Daaerah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 207,
+      "columns": [
+        "Pediculosis",
+        "",
+        "Lasat-al-Qaml",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pediculosis",
+      "ayurveda_name": "",
+      "unani_name": "Lasat-al-Qaml",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 208,
+      "columns": [
+        "Penile Ulcers",
+        "",
+        "Qurooh-e-Zakar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Penile Ulcers",
+      "ayurveda_name": "",
+      "unani_name": "Qurooh-e-Zakar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 209,
+      "columns": [
+        "Pharyngitis",
+        "",
+        "Iltehaab-e-Halaq",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pharyngitis",
+      "ayurveda_name": "",
+      "unani_name": "Iltehaab-e-Halaq",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 210,
+      "columns": [
+        "Phlegmatic diseases",
+        "",
+        "Amraaz-e-Balghamiyah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Phlegmatic diseases",
+      "ayurveda_name": "",
+      "unani_name": "Amraaz-e-Balghamiyah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 211,
+      "columns": [
+        "Phlegmatic fever",
+        "",
+        "Humma-e-Balghamiyah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Phlegmatic fever",
+      "ayurveda_name": "",
+      "unani_name": "Humma-e-Balghamiyah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 212,
+      "columns": [
+        "Phlegmetic Cough",
+        "",
+        "Sual-e- Balghami",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Phlegmetic Cough",
+      "ayurveda_name": "",
+      "unani_name": "Sual-e- Balghami",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 213,
+      "columns": [
+        "Phlegmon",
+        "",
+        "Phalghamooni",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Phlegmon",
+      "ayurveda_name": "",
+      "unani_name": "Phalghamooni",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 214,
+      "columns": [
+        "Phlyctenular conjunctivitis",
+        "parva",
+        "Ramad Busoori/Wadaqah",
+        "Paderthi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Phlyctenular conjunctivitis",
+      "ayurveda_name": "parva",
+      "unani_name": "Ramad Busoori/Wadaqah",
+      "siddha_name": "Paderthi",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 215,
+      "columns": [
+        "Phthisis",
+        "",
+        "Sill",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Phthisis",
+      "ayurveda_name": "",
+      "unani_name": "Sill",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 216,
+      "columns": [
+        "Physiometra",
+        "",
+        "Nafkh-e-Rehm",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Physiometra",
+      "ayurveda_name": "",
+      "unani_name": "Nafkh-e-Rehm",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 217,
+      "columns": [
+        "Piles",
+        "",
+        "Bawaseer-e-Baadi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Piles",
+      "ayurveda_name": "",
+      "unani_name": "Bawaseer-e-Baadi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 218,
+      "columns": [
+        "Pleurisy",
+        "",
+        "Zaat-ul-Janb",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pleurisy",
+      "ayurveda_name": "",
+      "unani_name": "Zaat-ul-Janb",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 219,
+      "columns": [
+        "Pleurodynia",
+        "prvala",
+        "Shosah",
+        "Pakkasoolai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pleurodynia",
+      "ayurveda_name": "prvala",
+      "unani_name": "Shosah",
+      "siddha_name": "Pakkasoolai",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 220,
+      "columns": [
+        "Pneumonia",
+        "",
+        "Zaat-ur-Riya",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pneumonia",
+      "ayurveda_name": "",
+      "unani_name": "Zaat-ur-Riya",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 221,
+      "columns": [
+        "Poisoning",
+        "vcikadaa via",
+        "Lasat -ul-Aqrab",
+        "Thael Kodukku Nanju",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Poisoning",
+      "ayurveda_name": "vcikadaa via",
+      "unani_name": "Lasat -ul-Aqrab",
+      "siddha_name": "Thael Kodukku Nanju",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 222,
+      "columns": [
+        "Poisoning from Animals and Animal Products",
+        "",
+        "Haiwaan wa Haiwaani murakkabaat ki sammiyat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Poisoning from Animals and Animal Products",
+      "ayurveda_name": "",
+      "unani_name": "Haiwaan wa Haiwaani murakkabaat ki sammiyat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 223,
+      "columns": [
+        "Polydipsia",
+        "",
+        "Shiddat-e-Atash/Utaash",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Polydipsia",
+      "ayurveda_name": "",
+      "unani_name": "Shiddat-e-Atash/Utaash",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 224,
+      "columns": [
+        "Polyuria",
+        "",
+        "Kasrat-e- Baul",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Polyuria",
+      "ayurveda_name": "",
+      "unani_name": "Kasrat-e- Baul",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 225,
+      "columns": [
+        "Premature Ejeculation",
+        "ghrapatana",
+        "Sura't-e-Inzaal",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Premature Ejeculation",
+      "ayurveda_name": "ghrapatana",
+      "unani_name": "Sura't-e-Inzaal",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 226,
+      "columns": [
+        "Proctalgia",
+        "",
+        "Waja-ul-Maq'ad",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Proctalgia",
+      "ayurveda_name": "",
+      "unani_name": "Waja-ul-Maq'ad",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 227,
+      "columns": [
+        "Prolapse of the uterus",
+        "garbhaya bhraa",
+        "Inzilaaq-e-Rehm",
+        "Soothaga Aditthallal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Prolapse of the uterus",
+      "ayurveda_name": "garbhaya bhraa",
+      "unani_name": "Inzilaaq-e-Rehm",
+      "siddha_name": "Soothaga Aditthallal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 228,
+      "columns": [
+        "Prurigo/Pruritus",
+        "",
+        "Hikka",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Prurigo/Pruritus",
+      "ayurveda_name": "",
+      "unani_name": "Hikka",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 229,
+      "columns": [
+        "Psoriasis",
+        "kiibha",
+        "Sudaaf / Sadfiyyah / Taqashshur-e-Jild",
+        "Kalanjaga Padai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Psoriasis",
+      "ayurveda_name": "kiibha",
+      "unani_name": "Sudaaf / Sadfiyyah / Taqashshur-e-Jild",
+      "siddha_name": "Kalanjaga Padai",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 230,
+      "columns": [
+        "Psychoneurosis",
+        "mada",
+        "Maalikholiya Miraaqi",
+        "Serukku",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Psychoneurosis",
+      "ayurveda_name": "mada",
+      "unani_name": "Maalikholiya Miraaqi",
+      "siddha_name": "Serukku",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 231,
+      "columns": [
+        "Psychosis",
+        "unmda",
+        "Mania/Junoon",
+        "Mana Sidhaivu noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Psychosis",
+      "ayurveda_name": "unmda",
+      "unani_name": "Mania/Junoon",
+      "siddha_name": "Mana Sidhaivu noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 232,
+      "columns": [
+        "Pterygium",
+        "arma",
+        "Zafrah",
+        "Naagapadalam, Padarthi, Athimangisam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pterygium",
+      "ayurveda_name": "arma",
+      "unani_name": "Zafrah",
+      "siddha_name": "Naagapadalam, Padarthi, Athimangisam",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 233,
+      "columns": [
+        "Ptylism",
+        "",
+        "Kasrat-e-Luaab",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ptylism",
+      "ayurveda_name": "",
+      "unani_name": "Kasrat-e-Luaab",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 234,
+      "columns": [
+        "Ptyriasis Alba",
+        "",
+        "Bahaq-e-Abyaz",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ptyriasis Alba",
+      "ayurveda_name": "",
+      "unani_name": "Bahaq-e-Abyaz",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 235,
+      "columns": [
+        "Ptyriasis Nigra",
+        "",
+        "Bahaq-e-Aswad",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ptyriasis Nigra",
+      "ayurveda_name": "",
+      "unani_name": "Bahaq-e-Aswad",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 236,
+      "columns": [
+        "Puerperal diseases",
+        "stikroga",
+        "Amraaz-e-nifaas/parsoot",
+        "Pirasa Kala Noigal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Puerperal diseases",
+      "ayurveda_name": "stikroga",
+      "unani_name": "Amraaz-e-nifaas/parsoot",
+      "siddha_name": "Pirasa Kala Noigal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 237,
+      "columns": [
+        "Pustules",
+        "",
+        "Busoor-e-Sighaar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pustules",
+      "ayurveda_name": "",
+      "unani_name": "Busoor-e-Sighaar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 238,
+      "columns": [
+        "Pustules of the ear",
+        "",
+        "Busoor-al-Uzn",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pustules of the ear",
+      "ayurveda_name": "",
+      "unani_name": "Busoor-al-Uzn",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 239,
+      "columns": [
+        "Pyoptysis",
+        "",
+        "Nafs-ul-Midda",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pyoptysis",
+      "ayurveda_name": "",
+      "unani_name": "Nafs-ul-Midda",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 240,
+      "columns": [
+        "Pyothorax",
+        "",
+        "Qeeh-al-Sadr",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pyothorax",
+      "ayurveda_name": "",
+      "unani_name": "Qeeh-al-Sadr",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 241,
+      "columns": [
+        "Pyouria",
+        "",
+        "Baul-e-Middah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Pyouria",
+      "ayurveda_name": "",
+      "unani_name": "Baul-e-Middah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 242,
+      "columns": [
+        "Quartan Fever",
+        "Caturthaka Jvara",
+        "Humma-e-Riba",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Quartan Fever",
+      "ayurveda_name": "Caturthaka Jvara",
+      "unani_name": "Humma-e-Riba",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 243,
+      "columns": [
+        "Redness of the eye",
+        "netrarga",
+        "Surkhi-e-Chashm/Humrat-al-A'in",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Redness of the eye",
+      "ayurveda_name": "netrarga",
+      "unani_name": "Surkhi-e-Chashm/Humrat-al-A'in",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 244,
+      "columns": [
+        "Renal colic",
+        "vkkala",
+        "Qoolanj-e- Kulvi",
+        "Pirukka Vali",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Renal colic",
+      "ayurveda_name": "vkkala",
+      "unani_name": "Qoolanj-e- Kulvi",
+      "siddha_name": "Pirukka Vali",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 245,
+      "columns": [
+        "Renal Stone",
+        "",
+        "Hasaat-e-Kulyah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Renal Stone",
+      "ayurveda_name": "",
+      "unani_name": "Hasaat-e-Kulyah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 246,
+      "columns": [
+        "Renal ulcers",
+        "",
+        "Qurooh-e-Kulyah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Renal ulcers",
+      "ayurveda_name": "",
+      "unani_name": "Qurooh-e-Kulyah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 247,
+      "columns": [
+        "Restlessness",
+        "",
+        "Karb/Bechaini",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Restlessness",
+      "ayurveda_name": "",
+      "unani_name": "Karb/Bechaini",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 248,
+      "columns": [
+        "Retention of placenta and foetus",
+        "Garbhasanga",
+        "Ihtibaas-e-Janeen-wa-Masheemah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Retention of placenta and foetus",
+      "ayurveda_name": "Garbhasanga",
+      "unani_name": "Ihtibaas-e-Janeen-wa-Masheemah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 249,
+      "columns": [
+        "Rheumatism",
+        "",
+        "Daa-ul-Mafaasil/Waja-ul-Mafasil",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Rheumatism",
+      "ayurveda_name": "",
+      "unani_name": "Daa-ul-Mafaasil/Waja-ul-Mafasil",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 250,
+      "columns": [
+        "Ring worm",
+        "dadru",
+        "Qoobaa",
+        "Thaddippu perunoi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ring worm",
+      "ayurveda_name": "dadru",
+      "unani_name": "Qoobaa",
+      "siddha_name": "Thaddippu perunoi",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 251,
+      "columns": [
+        "Rosacia",
+        "",
+        "Baadashnaam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Rosacia",
+      "ayurveda_name": "",
+      "unani_name": "Baadashnaam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 252,
+      "columns": [
+        "Roughness",
+        "",
+        "Khushoonat-e-Jafn",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Roughness",
+      "ayurveda_name": "",
+      "unani_name": "Khushoonat-e-Jafn",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 253,
+      "columns": [
+        "Scabies",
+        "kacch",
+        "Jarab-wa-Hikka",
+        "Sori sirangu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Scabies",
+      "ayurveda_name": "kacch",
+      "unani_name": "Jarab-wa-Hikka",
+      "siddha_name": "Sori sirangu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 254,
+      "columns": [
+        "Scabies Crustosa",
+        "",
+        "Jarab-e-busoori",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Scabies Crustosa",
+      "ayurveda_name": "",
+      "unani_name": "Jarab-e-busoori",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 255,
+      "columns": [
+        "scalling",
+        "",
+        "Salkh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "scalling",
+      "ayurveda_name": "",
+      "unani_name": "Salkh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 256,
+      "columns": [
+        "Scar",
+        "",
+        "Nadbah/Daagh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Scar",
+      "ayurveda_name": "",
+      "unani_name": "Nadbah/Daagh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 257,
+      "columns": [
+        "Scar marks",
+        "",
+        "Aasaar-e-Qurooh-e-Hasbah-wa-Judari",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Scar marks",
+      "ayurveda_name": "",
+      "unani_name": "Aasaar-e-Qurooh-e-Hasbah-wa-Judari",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 258,
+      "columns": [
+        "Sciatica",
+        "",
+        "Waja-ul-Khaasirah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Sciatica",
+      "ayurveda_name": "",
+      "unani_name": "Waja-ul-Khaasirah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 259,
+      "columns": [
+        "Sciatica",
+        "gdhras",
+        "Irqun Nasaa",
+        "Peraasana Narambu thaabitham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Sciatica",
+      "ayurveda_name": "gdhras",
+      "unani_name": "Irqun Nasaa",
+      "siddha_name": "Peraasana Narambu thaabitham",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 260,
+      "columns": [
+        "Sclerosis",
+        "",
+        "Tahajjur",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Sclerosis",
+      "ayurveda_name": "",
+      "unani_name": "Tahajjur",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 261,
+      "columns": [
+        "Sclerosis of the eyelids",
+        "",
+        "Salaabat-e-Ajfaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Sclerosis of the eyelids",
+      "ayurveda_name": "",
+      "unani_name": "Salaabat-e-Ajfaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 262,
+      "columns": [
+        "Sclerotitis",
+        "",
+        "Waram-e- Sulbiyya",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Sclerotitis",
+      "ayurveda_name": "",
+      "unani_name": "Waram-e- Sulbiyya",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 263,
+      "columns": [
+        "Scurvy/Scorbutus",
+        "",
+        "Lesa-e-Daamiyah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Scurvy/Scorbutus",
+      "ayurveda_name": "",
+      "unani_name": "Lesa-e-Daamiyah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 264,
+      "columns": [
+        "Serous diarrhoea",
+        "",
+        "Ishaal-e-Masli",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Serous diarrhoea",
+      "ayurveda_name": "",
+      "unani_name": "Ishaal-e-Masli",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 265,
+      "columns": [
+        "Sexual Debility",
+        "",
+        "Zof-e-Bah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Sexual Debility",
+      "ayurveda_name": "",
+      "unani_name": "Zof-e-Bah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 266,
+      "columns": [
+        "Simple fracture",
+        "",
+        "Kasr-e-baseet",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Simple fracture",
+      "ayurveda_name": "",
+      "unani_name": "Kasr-e-baseet",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 267,
+      "columns": [
+        "Skin Marks",
+        "",
+        "Jild ke daag dhabbe",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Skin Marks",
+      "ayurveda_name": "",
+      "unani_name": "Jild ke daag dhabbe",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 268,
+      "columns": [
+        "Smallpox",
+        "masrik",
+        "Judaree",
+        "Periyammai Noi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Smallpox",
+      "ayurveda_name": "masrik",
+      "unani_name": "Judaree",
+      "siddha_name": "Periyammai Noi",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 269,
+      "columns": [
+        "Snake bite",
+        "sarpadaa",
+        "Ladghat-ul-Haiya",
+        "Paampukkadi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Snake bite",
+      "ayurveda_name": "sarpadaa",
+      "unani_name": "Ladghat-ul-Haiya",
+      "siddha_name": "Paampukkadi",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 270,
+      "columns": [
+        "Spermatorrhoea",
+        "",
+        "Sailaan-e-Mani/Jarayaan-e-Mani",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Spermatorrhoea",
+      "ayurveda_name": "",
+      "unani_name": "Sailaan-e-Mani/Jarayaan-e-Mani",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 271,
+      "columns": [
+        "Spider bite",
+        "lt via",
+        "Lasat-ul- Ankaboot",
+        "Silanthikkadi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Spider bite",
+      "ayurveda_name": "lt via",
+      "unani_name": "Lasat-ul- Ankaboot",
+      "siddha_name": "Silanthikkadi",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 272,
+      "columns": [
+        "Spleenalgia",
+        "",
+        "Waja'-ul-Tehaal",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Spleenalgia",
+      "ayurveda_name": "",
+      "unani_name": "Waja'-ul-Tehaal",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 273,
+      "columns": [
+        "Spleenitis",
+        "",
+        "Waram-e-Tihaal",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Spleenitis",
+      "ayurveda_name": "",
+      "unani_name": "Waram-e-Tihaal",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 274,
+      "columns": [
+        "Splenic obstruction",
+        "",
+        "Sudda-e-Tehaal",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Splenic obstruction",
+      "ayurveda_name": "",
+      "unani_name": "Sudda-e-Tehaal",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 275,
+      "columns": [
+        "Splenic sclerosis",
+        "",
+        "Salaabat-e-Tehaal",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Splenic sclerosis",
+      "ayurveda_name": "",
+      "unani_name": "Salaabat-e-Tehaal",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 276,
+      "columns": [
+        "Splenomegaly",
+        "Plihvddhi",
+        "Izam-e-Tehaal",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Splenomegaly",
+      "ayurveda_name": "Plihvddhi",
+      "unani_name": "Izam-e-Tehaal",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 277,
+      "columns": [
+        "Sprain/Strain",
+        "Pana/udveana",
+        "Wasee",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Sprain/Strain",
+      "ayurveda_name": "Pana/udveana",
+      "unani_name": "Wasee",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 278,
+      "columns": [
+        "Sprue / Malabsorption Syndrome",
+        "graha",
+        "Zarab-wa-khilfah",
+        "Naal Patta Kazhichal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Sprue / Malabsorption Syndrome",
+      "ayurveda_name": "graha",
+      "unani_name": "Zarab-wa-khilfah",
+      "siddha_name": "Naal Patta Kazhichal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 279,
+      "columns": [
+        "Stammer",
+        "",
+        "Haklahat/Luknat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Stammer",
+      "ayurveda_name": "",
+      "unani_name": "Haklahat/Luknat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 280,
+      "columns": [
+        "Staphyloma corneae",
+        "",
+        "Nutoo-e-Qarnia",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Staphyloma corneae",
+      "ayurveda_name": "",
+      "unani_name": "Nutoo-e-Qarnia",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 281,
+      "columns": [
+        "Sterility",
+        "Vandhyatva",
+        "Uqr",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Sterility",
+      "ayurveda_name": "Vandhyatva",
+      "unani_name": "Uqr",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 282,
+      "columns": [
+        "Stiffness of Joint",
+        "",
+        "Ta'aqqud-e- Mafasil",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Stiffness of Joint",
+      "ayurveda_name": "",
+      "unani_name": "Ta'aqqud-e- Mafasil",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 283,
+      "columns": [
+        "Stomatitis",
+        "",
+        "Busoor-e-Dahan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Stomatitis",
+      "ayurveda_name": "",
+      "unani_name": "Busoor-e-Dahan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 284,
+      "columns": [
+        "Strabismus",
+        "",
+        "Hawal",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Strabismus",
+      "ayurveda_name": "",
+      "unani_name": "Hawal",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 285,
+      "columns": [
+        "Strangury/Dribbling of Urine",
+        "",
+        "Taqteer-al-Baul",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Strangury/Dribbling of Urine",
+      "ayurveda_name": "",
+      "unani_name": "Taqteer-al-Baul",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 286,
+      "columns": [
+        "Syphilis",
+        "phiraga",
+        "Aatashak",
+        "Korukku Noi,Parangi noi, Aankurip pun",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Syphilis",
+      "ayurveda_name": "phiraga",
+      "unani_name": "Aatashak",
+      "siddha_name": "Korukku Noi,Parangi noi, Aankurip pun",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 287,
+      "columns": [
+        "Tape Worm",
+        "",
+        "Habb-ul-Qara",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Tape Worm",
+      "ayurveda_name": "",
+      "unani_name": "Habb-ul-Qara",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 288,
+      "columns": [
+        "Tertian Fever",
+        "trtyaka jvara",
+        "Humma-e-Ghib",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Tertian Fever",
+      "ayurveda_name": "trtyaka jvara",
+      "unani_name": "Humma-e-Ghib",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 289,
+      "columns": [
+        "Tetanus",
+        "",
+        "Kuzaaz",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Tetanus",
+      "ayurveda_name": "",
+      "unani_name": "Kuzaaz",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 290,
+      "columns": [
+        "Throat Pain",
+        "",
+        "Waja'-al-Halq",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Throat Pain",
+      "ayurveda_name": "",
+      "unani_name": "Waja'-al-Halq",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 291,
+      "columns": [
+        "Tic douloreux",
+        "",
+        "Asaaba",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Tic douloreux",
+      "ayurveda_name": "",
+      "unani_name": "Asaaba",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 292,
+      "columns": [
+        "Tonsillitis",
+        "",
+        "Waram-e-Lauzatain",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Tonsillitis",
+      "ayurveda_name": "",
+      "unani_name": "Waram-e-Lauzatain",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 293,
+      "columns": [
+        "Toothache",
+        "dantala",
+        "Waja-ul- Asnaan",
+        "Pal Vali",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Toothache",
+      "ayurveda_name": "dantala",
+      "unani_name": "Waja-ul- Asnaan",
+      "siddha_name": "Pal Vali",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 294,
+      "columns": [
+        "Tremor",
+        "kampavta",
+        "Resha",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Tremor",
+      "ayurveda_name": "kampavta",
+      "unani_name": "Resha",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 295,
+      "columns": [
+        "twisting of nerves",
+        "",
+        "iltewa-e-asab",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "twisting of nerves",
+      "ayurveda_name": "",
+      "unani_name": "iltewa-e-asab",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 296,
+      "columns": [
+        "Ulcers of the eye",
+        "",
+        "Qurooh-ul-Ain",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Ulcers of the eye",
+      "ayurveda_name": "",
+      "unani_name": "Qurooh-ul-Ain",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 297,
+      "columns": [
+        "Umblical Hernia",
+        "",
+        "Nutu-us-Surrah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Umblical Hernia",
+      "ayurveda_name": "",
+      "unani_name": "Nutu-us-Surrah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 298,
+      "columns": [
+        "Unconsciousness",
+        "acaitanya / acetana",
+        "Faqd-ul-Waii",
+        "Moorchai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Unconsciousness",
+      "ayurveda_name": "acaitanya / acetana",
+      "unani_name": "Faqd-ul-Waii",
+      "siddha_name": "Moorchai",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 299,
+      "columns": [
+        "Urethral Ulcer",
+        "",
+        "Qurooh-e- Majraa-e- Qazeeb",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Urethral Ulcer",
+      "ayurveda_name": "",
+      "unani_name": "Qurooh-e- Majraa-e- Qazeeb",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 300,
+      "columns": [
+        "Urinary Incontinence",
+        "",
+        "Salas-al-Baul",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Urinary Incontinence",
+      "ayurveda_name": "",
+      "unani_name": "Salas-al-Baul",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 301,
+      "columns": [
+        "Uterine ulcer",
+        "",
+        "Qurooh-e-Rehm",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Uterine ulcer",
+      "ayurveda_name": "",
+      "unani_name": "Qurooh-e-Rehm",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 302,
+      "columns": [
+        "Uvulitis",
+        "",
+        "Iltehaab-e-Lahaat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Uvulitis",
+      "ayurveda_name": "",
+      "unani_name": "Iltehaab-e-Lahaat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 303,
+      "columns": [
+        "Vertigo",
+        "",
+        "Sadar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Vertigo",
+      "ayurveda_name": "",
+      "unani_name": "Sadar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 304,
+      "columns": [
+        "Vesical Irritability",
+        "",
+        "Jarab-e-Masaanah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Vesical Irritability",
+      "ayurveda_name": "",
+      "unani_name": "Jarab-e-Masaanah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 305,
+      "columns": [
+        "Vesicular ulcers",
+        "",
+        "Qurooh-e-Masaanah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Vesicular ulcers",
+      "ayurveda_name": "",
+      "unani_name": "Qurooh-e-Masaanah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 306,
+      "columns": [
+        "Vitiligo",
+        "vitra",
+        "Baras",
+        "Ven Padai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Vitiligo",
+      "ayurveda_name": "vitra",
+      "unani_name": "Baras",
+      "siddha_name": "Ven Padai",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 307,
+      "columns": [
+        "Volvulus",
+        "",
+        "Qoolanj-e- Iltiwaaee",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Volvulus",
+      "ayurveda_name": "",
+      "unani_name": "Qoolanj-e- Iltiwaaee",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 308,
+      "columns": [
+        "Vomiting",
+        "chardi",
+        "Qai",
+        "Vaanthi ,Sarthi,Vamanam,Vaayaalaedutthal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Vomiting",
+      "ayurveda_name": "chardi",
+      "unani_name": "Qai",
+      "siddha_name": "Vaanthi ,Sarthi,Vamanam,Vaayaalaedutthal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 309,
+      "columns": [
+        "weakness of heart",
+        "Hddaurbalya",
+        "Zo'f-e-qalb",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "weakness of heart",
+      "ayurveda_name": "Hddaurbalya",
+      "unani_name": "Zo'f-e-qalb",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 310,
+      "columns": [
+        "Weakness of intestine",
+        "Antradaurbalya",
+        "Zo'f-e-Ama",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Weakness of intestine",
+      "ayurveda_name": "Antradaurbalya",
+      "unani_name": "Zo'f-e-Ama",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 311,
+      "columns": [
+        "Weakness of Stomach",
+        "",
+        "Zo'f-e-Meda",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Weakness of Stomach",
+      "ayurveda_name": "",
+      "unani_name": "Zo'f-e-Meda",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 312,
+      "columns": [
+        "Weakness of the kidney",
+        "",
+        "Zo'f-e-Kulyah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Weakness of the kidney",
+      "ayurveda_name": "",
+      "unani_name": "Zo'f-e-Kulyah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "All Diseases",
+      "row_index": 313,
+      "columns": [
+        "Wound",
+        "Vraa",
+        "Zakhm/Jaraahat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Diseases.asp",
+      "scientific_or_english_name": "Wound",
+      "ayurveda_name": "Vraa",
+      "unani_name": "Zakhm/Jaraahat",
+      "siddha_name": "",
+      "common_name": ""
+    }
+  ]
+}

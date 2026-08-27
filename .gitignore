@@ -1,0 +1,15 @@
+.env
+.env.local
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/qdrant_store/
+data/processed/
+data/*_backup*/
+shadow_cache.db
+node_modules/
+.next/
+dist/
+build/
+.DS_Store

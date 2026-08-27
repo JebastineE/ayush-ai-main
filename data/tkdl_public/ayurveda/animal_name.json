@@ -1,0 +1,155 @@
+{
+  "source": "TKDL",
+  "system": "Ayurveda",
+  "category": "Animal Name",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Animal-Name.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Animal-Name.asp",
+  "retrieved_at": "2026-08-27T10:33:46.530518",
+  "total_records": 8,
+  "records": [
+    {
+      "system": "Ayurveda",
+      "category": "Animal Name",
+      "row_index": 1,
+      "columns": [
+        "Buffalo",
+        "mahia",
+        "Bhains/Jaamoos",
+        "Erumai,Mahisham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Buffalo",
+      "ayurveda_name": "mahia",
+      "unani_name": "Bhains/Jaamoos",
+      "siddha_name": "Erumai,Mahisham",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Animal Name",
+      "row_index": 2,
+      "columns": [
+        "Cow",
+        "gau",
+        "Eenak/ Mada Gao",
+        "Pasu,Komaadhaa",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Cow",
+      "ayurveda_name": "gau",
+      "unani_name": "Eenak/ Mada Gao",
+      "siddha_name": "Pasu,Komaadhaa",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Animal Name",
+      "row_index": 3,
+      "columns": [
+        "Elephant",
+        "gaja/kujara",
+        "Feel/Haathi",
+        "Yaaanai,Kaliru,Kajam,Piliru",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Elephant",
+      "ayurveda_name": "gaja/kujara",
+      "unani_name": "Feel/Haathi",
+      "siddha_name": "Yaaanai,Kaliru,Kajam,Piliru",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Animal Name",
+      "row_index": 4,
+      "columns": [
+        "Horse",
+        "ava",
+        "Aat / Asp / Fars / Ghoda",
+        "Kudhirai,Pari,Vaasi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Horse",
+      "ayurveda_name": "ava",
+      "unani_name": "Aat / Asp / Fars / Ghoda",
+      "siddha_name": "Kudhirai,Pari,Vaasi",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Animal Name",
+      "row_index": 5,
+      "columns": [
+        "She buffalo",
+        "mahi",
+        "bhains",
+        "Pen Erumai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "She buffalo",
+      "ayurveda_name": "mahi",
+      "unani_name": "bhains",
+      "siddha_name": "Pen Erumai",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Animal Name",
+      "row_index": 6,
+      "columns": [
+        "She goat",
+        "aj",
+        "",
+        "Pen Vellaadu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "She goat",
+      "ayurveda_name": "aj",
+      "unani_name": "",
+      "siddha_name": "Pen Vellaadu",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Animal Name",
+      "row_index": 7,
+      "columns": [
+        "sheep",
+        "mea/urabhra",
+        "Mendha",
+        "Aan aadu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "sheep",
+      "ayurveda_name": "mea/urabhra",
+      "unani_name": "Mendha",
+      "siddha_name": "Aan aadu",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Animal Name",
+      "row_index": 8,
+      "columns": [
+        "Woman",
+        "nr",
+        "Nisa/Aurat",
+        "Pen",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Woman",
+      "ayurveda_name": "nr",
+      "unani_name": "Nisa/Aurat",
+      "siddha_name": "Pen",
+      "common_name": ""
+    }
+  ]
+}

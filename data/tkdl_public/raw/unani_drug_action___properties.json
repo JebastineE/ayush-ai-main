@@ -1,0 +1,2063 @@
+{
+  "source": "TKDL",
+  "system": "Unani",
+  "category": "Drug Action / Properties",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Action.asp",
+  "retrieved_at": "2026-08-27T10:34:04.660595",
+  "total_records": 114,
+  "records": [
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 1,
+      "columns": [
+        "Abortifacient",
+        "Garbhapataka",
+        "Musqit-e- Janeen",
+        "Karu Chithaivu  undaaki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Abortifacient",
+      "ayurveda_name": "Garbhapataka",
+      "unani_name": "Musqit-e- Janeen",
+      "siddha_name": "Karu Chithaivu  undaaki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 2,
+      "columns": [
+        "Abscess maturative",
+        "",
+        "Mufajjr-e-Awraam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Abscess maturative",
+      "ayurveda_name": "",
+      "unani_name": "Mufajjr-e-Awraam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 3,
+      "columns": [
+        "Absorbent",
+        "",
+        "Jaazib",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Absorbent",
+      "ayurveda_name": "",
+      "unani_name": "Jaazib",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 4,
+      "columns": [
+        "Adipogenous",
+        "",
+        "Musammin-e-Badan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Adipogenous",
+      "ayurveda_name": "",
+      "unani_name": "Musammin-e-Badan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 5,
+      "columns": [
+        "Agglutinant / Lubricant",
+        "",
+        "Mugharri",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Agglutinant / Lubricant",
+      "ayurveda_name": "",
+      "unani_name": "Mugharri",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 6,
+      "columns": [
+        "Anaesthetic",
+        "sajhara",
+        "Mukhaddir",
+        "Moorchai Undakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Anaesthetic",
+      "ayurveda_name": "sajhara",
+      "unani_name": "Mukhaddir",
+      "siddha_name": "Moorchai Undakki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 7,
+      "columns": [
+        "Analgesic;restoring normal sensation",
+        "vedansthpana",
+        "Musakkin-e-Alam/ Dafi'-e-Alam",
+        "Thuyaradakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Analgesic;restoring normal sensation",
+      "ayurveda_name": "vedansthpana",
+      "unani_name": "Musakkin-e-Alam/ Dafi'-e-Alam",
+      "siddha_name": "Thuyaradakki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 8,
+      "columns": [
+        "Anaphrodisiac",
+        "",
+        "Qate-e-Bah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Anaphrodisiac",
+      "ayurveda_name": "",
+      "unani_name": "Qate-e-Bah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 9,
+      "columns": [
+        "Anthelminthic",
+        "Krmighna",
+        "Dafi'-e-Kirm-e- Shikam",
+        "Puzhukolli",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Anthelminthic",
+      "ayurveda_name": "Krmighna",
+      "unani_name": "Dafi'-e-Kirm-e- Shikam",
+      "siddha_name": "Puzhukolli",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 10,
+      "columns": [
+        "Anti-inflammatory",
+        "Sothahara",
+        "Mohallil-e-Waram",
+        "Thaabitham Agatri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Anti-inflammatory",
+      "ayurveda_name": "Sothahara",
+      "unani_name": "Mohallil-e-Waram",
+      "siddha_name": "Thaabitham Agatri",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 11,
+      "columns": [
+        "Anti-intoxicating",
+        "",
+        "Dafi'-e-Khumaar / Mani'-e- Khumaar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Anti-intoxicating",
+      "ayurveda_name": "",
+      "unani_name": "Dafi'-e-Khumaar / Mani'-e- Khumaar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 12,
+      "columns": [
+        "Antiagieng",
+        "",
+        "Mani'-e- Shaikhookhat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Antiagieng",
+      "ayurveda_name": "",
+      "unani_name": "Mani'-e- Shaikhookhat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 13,
+      "columns": [
+        "Anticatarrh",
+        "",
+        "Dafi'-e-Nazla",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Anticatarrh",
+      "ayurveda_name": "",
+      "unani_name": "Dafi'-e-Nazla",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 14,
+      "columns": [
+        "Antidiuretic",
+        "mtrasagrahaya",
+        "Habis-e-Baul",
+        "Siru Neer surukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Antidiuretic",
+      "ayurveda_name": "mtrasagrahaya",
+      "unani_name": "Habis-e-Baul",
+      "siddha_name": "Siru Neer surukki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 15,
+      "columns": [
+        "Antiemetic",
+        "chardinigrahaa",
+        "Dafi'-e-Qai/ Mani'-e- Qai",
+        "Vaanthi Adakki,Sarthi adakki,Vamanam adakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Antiemetic",
+      "ayurveda_name": "chardinigrahaa",
+      "unani_name": "Dafi'-e-Qai/ Mani'-e- Qai",
+      "siddha_name": "Vaanthi Adakki,Sarthi adakki,Vamanam adakki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 16,
+      "columns": [
+        "Antiobesity",
+        "",
+        "Muhazzil",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Antiobesity",
+      "ayurveda_name": "",
+      "unani_name": "Muhazzil",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 17,
+      "columns": [
+        "Antipyretic",
+        "jvarahara",
+        "Dafi'-e-Humma",
+        "Udal Veppam Pokki,Suramarti",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Antipyretic",
+      "ayurveda_name": "jvarahara",
+      "unani_name": "Dafi'-e-Humma",
+      "siddha_name": "Udal Veppam Pokki,Suramarti",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 18,
+      "columns": [
+        "Antiseptic",
+        "vraaodhana",
+        "Dafi'-e-ta'affun/ Munaqqi-e- Qurooh",
+        "Pun Azhugal Agatri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Antiseptic",
+      "ayurveda_name": "vraaodhana",
+      "unani_name": "Dafi'-e-ta'affun/ Munaqqi-e- Qurooh",
+      "siddha_name": "Pun Azhugal Agatri",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 19,
+      "columns": [
+        "Antispasmodic",
+        "",
+        "Dafi'-e-Tashannuj",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Antispasmodic",
+      "ayurveda_name": "",
+      "unani_name": "Dafi'-e-Tashannuj",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 20,
+      "columns": [
+        "Antitussive",
+        "ksahara",
+        "Musakkin-e-Sual",
+        "Kabam Pokki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Antitussive",
+      "ayurveda_name": "ksahara",
+      "unani_name": "Musakkin-e-Sual",
+      "siddha_name": "Kabam Pokki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 21,
+      "columns": [
+        "Anxiolytic",
+        "",
+        "Musakkin",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Anxiolytic",
+      "ayurveda_name": "",
+      "unani_name": "Musakkin",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 22,
+      "columns": [
+        "Aphrodisiac",
+        "vya / vjkaraa",
+        "Muqawwi-e-Baah/Mubahhi/Moharrik-e-Baah",
+        "Aanmai Perukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Aphrodisiac",
+      "ayurveda_name": "vya / vjkaraa",
+      "unani_name": "Muqawwi-e-Baah/Mubahhi/Moharrik-e-Baah",
+      "siddha_name": "Aanmai Perukki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 23,
+      "columns": [
+        "Appetizer",
+        "dpana",
+        "Mushtahi/Mushahhi",
+        "Pasi thee thoondi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Appetizer",
+      "ayurveda_name": "dpana",
+      "unani_name": "Mushtahi/Mushahhi",
+      "siddha_name": "Pasi thee thoondi",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 24,
+      "columns": [
+        "Bile producing agent",
+        "",
+        "Muwallid-e-Safra",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Bile producing agent",
+      "ayurveda_name": "",
+      "unani_name": "Muwallid-e-Safra",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 25,
+      "columns": [
+        "Bitter",
+        "tikta",
+        "Murr",
+        "Kaippu,Kasappu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Bitter",
+      "ayurveda_name": "tikta",
+      "unani_name": "Murr",
+      "siddha_name": "Kaippu,Kasappu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 26,
+      "columns": [
+        "Brain cleanser",
+        "Mastikaodhaka",
+        "Munaqqi-e-Dimaagh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Brain cleanser",
+      "ayurveda_name": "Mastikaodhaka",
+      "unani_name": "Munaqqi-e-Dimaagh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 27,
+      "columns": [
+        "Brain tonic",
+        "Medhya",
+        "Muqawwi-e-Dimaagh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Brain tonic",
+      "ayurveda_name": "Medhya",
+      "unani_name": "Muqawwi-e-Dimaagh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 28,
+      "columns": [
+        "Burning Agent",
+        "",
+        "Muharriq",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Burning Agent",
+      "ayurveda_name": "",
+      "unani_name": "Muharriq",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 29,
+      "columns": [
+        "bursting agent",
+        "",
+        "Mufajjir",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "bursting agent",
+      "ayurveda_name": "",
+      "unani_name": "Mufajjir",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 30,
+      "columns": [
+        "Cardio-tonic",
+        "hdya",
+        "Muqawwi-e-Qalb",
+        "Eruthaya palam Undaakkl",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Cardio-tonic",
+      "ayurveda_name": "hdya",
+      "unani_name": "Muqawwi-e-Qalb",
+      "siddha_name": "Eruthaya palam Undaakkl",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 31,
+      "columns": [
+        "Causing flatulence",
+        "dhmnakara",
+        "Munaffikh / Naffaakh",
+        "Porumal Undaakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Causing flatulence",
+      "ayurveda_name": "dhmnakara",
+      "unani_name": "Munaffikh / Naffaakh",
+      "siddha_name": "Porumal Undaakki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 32,
+      "columns": [
+        "Cephalalgic",
+        "",
+        "Musaddi'",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Cephalalgic",
+      "ayurveda_name": "",
+      "unani_name": "Musaddi'",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 33,
+      "columns": [
+        "Cholagogue",
+        "pittavirecana",
+        "Mushil-e-Safra/Mukhrij-e-Safra",
+        "Pitha Neer Perukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Cholagogue",
+      "ayurveda_name": "pittavirecana",
+      "unani_name": "Mushil-e-Safra/Mukhrij-e-Safra",
+      "siddha_name": "Pitha Neer Perukki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 34,
+      "columns": [
+        "Choleretic",
+        "",
+        "Muharrik-e-Kabid",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Choleretic",
+      "ayurveda_name": "",
+      "unani_name": "Muharrik-e-Kabid",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 35,
+      "columns": [
+        "Cicatrizant/ Healing agent",
+        "",
+        "Mudammil",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Cicatrizant/ Healing agent",
+      "ayurveda_name": "",
+      "unani_name": "Mudammil",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 36,
+      "columns": [
+        "Cleanser",
+        "odhaka",
+        "Munaqqi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Cleanser",
+      "ayurveda_name": "odhaka",
+      "unani_name": "Munaqqi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 37,
+      "columns": [
+        "complexion enhancer",
+        "",
+        "Musaffi-e- Laun/ Muhassin-e-laun",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "complexion enhancer",
+      "ayurveda_name": "",
+      "unani_name": "Musaffi-e- Laun/ Muhassin-e-laun",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 38,
+      "columns": [
+        "Concoctive",
+        "",
+        "Munzij",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Concoctive",
+      "ayurveda_name": "",
+      "unani_name": "Munzij",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 39,
+      "columns": [
+        "Constrictive of vessels",
+        "",
+        "Qaabiz-e- Urooq",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Constrictive of vessels",
+      "ayurveda_name": "",
+      "unani_name": "Qaabiz-e- Urooq",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 40,
+      "columns": [
+        "Constrictor",
+        "",
+        "Aasir",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Constrictor",
+      "ayurveda_name": "",
+      "unani_name": "Aasir",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 41,
+      "columns": [
+        "Contraceptive",
+        "garbhanirodhaka",
+        "Mane'-e-Haml",
+        "Karuthadai Undaakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Contraceptive",
+      "ayurveda_name": "garbhanirodhaka",
+      "unani_name": "Mane'-e-Haml",
+      "siddha_name": "Karuthadai Undaakki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 42,
+      "columns": [
+        "Corrigent",
+        "",
+        "Musleh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Corrigent",
+      "ayurveda_name": "",
+      "unani_name": "Musleh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 43,
+      "columns": [
+        "Corrosive",
+        "",
+        "Akkaal",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Corrosive",
+      "ayurveda_name": "",
+      "unani_name": "Akkaal",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 44,
+      "columns": [
+        "Demulscent",
+        "",
+        "Mulattif",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Demulscent",
+      "ayurveda_name": "",
+      "unani_name": "Mulattif",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 45,
+      "columns": [
+        "Deodorant",
+        "",
+        "Dafi'-e- Natn",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Deodorant",
+      "ayurveda_name": "",
+      "unani_name": "Dafi'-e- Natn",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 46,
+      "columns": [
+        "Desiccant",
+        "",
+        "Mujaffif",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Desiccant",
+      "ayurveda_name": "",
+      "unani_name": "Mujaffif",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 47,
+      "columns": [
+        "Digestive",
+        "Pcaka",
+        "Haazim",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Digestive",
+      "ayurveda_name": "Pcaka",
+      "unani_name": "Haazim",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 48,
+      "columns": [
+        "Dilator",
+        "",
+        "Mufatteh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Dilator",
+      "ayurveda_name": "",
+      "unani_name": "Mufatteh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 49,
+      "columns": [
+        "Diluent",
+        "",
+        "Muraqqiq",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Diluent",
+      "ayurveda_name": "",
+      "unani_name": "Muraqqiq",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 50,
+      "columns": [
+        "Dipsetic",
+        "",
+        "Mu'attish",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Dipsetic",
+      "ayurveda_name": "",
+      "unani_name": "Mu'attish",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 51,
+      "columns": [
+        "Diuretic",
+        "Mtravirecanya / Mtrala",
+        "Mudirr-e-Baul",
+        "Siruneer Perukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Diuretic",
+      "ayurveda_name": "Mtravirecanya / Mtrala",
+      "unani_name": "Mudirr-e-Baul",
+      "siddha_name": "Siruneer Perukki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 52,
+      "columns": [
+        "Douch",
+        "",
+        "Qabiz",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Douch",
+      "ayurveda_name": "",
+      "unani_name": "Qabiz",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 53,
+      "columns": [
+        "Ecbolic",
+        "",
+        "Qaabiz-e-A'zalaat-e-Rehm",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Ecbolic",
+      "ayurveda_name": "",
+      "unani_name": "Qaabiz-e-A'zalaat-e-Rehm",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 54,
+      "columns": [
+        "Emmenagogue",
+        "rtavajanana",
+        "Mudirr-e-Haiz/ Mudirr-e-Tams",
+        "Rudhu undaakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Emmenagogue",
+      "ayurveda_name": "rtavajanana",
+      "unani_name": "Mudirr-e-Haiz/ Mudirr-e-Tams",
+      "siddha_name": "Rudhu undaakki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 55,
+      "columns": [
+        "Exhilarant",
+        "",
+        "Mufarreh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Exhilarant",
+      "ayurveda_name": "",
+      "unani_name": "Mufarreh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 56,
+      "columns": [
+        "Expulsive",
+        "Nikrmaka",
+        "Mukhrij",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Expulsive",
+      "ayurveda_name": "Nikrmaka",
+      "unani_name": "Mukhrij",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 57,
+      "columns": [
+        "Extinguisher",
+        "",
+        "Mutfi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Extinguisher",
+      "ayurveda_name": "",
+      "unani_name": "Mutfi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 58,
+      "columns": [
+        "Fatal",
+        "Mtyukraka",
+        "Qaatil/Muhlik",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Fatal",
+      "ayurveda_name": "Mtyukraka",
+      "unani_name": "Qaatil/Muhlik",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 59,
+      "columns": [
+        "Flatulent",
+        "",
+        "Mubakhkhir/ Naffaakh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Flatulent",
+      "ayurveda_name": "",
+      "unani_name": "Mubakhkhir/ Naffaakh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 60,
+      "columns": [
+        "Frigorific",
+        "",
+        "Mubarrid",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Frigorific",
+      "ayurveda_name": "",
+      "unani_name": "Mubarrid",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 61,
+      "columns": [
+        "Galactagogue",
+        "stanyajanana",
+        "Muwallid-e-Sheer",
+        "Paal Perukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Galactagogue",
+      "ayurveda_name": "stanyajanana",
+      "unani_name": "Muwallid-e-Sheer",
+      "siddha_name": "Paal Perukki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 62,
+      "columns": [
+        "Gastric cleanser",
+        "msayaodhaka",
+        "Munaqqi-e-Me'dah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Gastric cleanser",
+      "ayurveda_name": "msayaodhaka",
+      "unani_name": "Munaqqi-e-Me'dah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 63,
+      "columns": [
+        "General tonic",
+        "",
+        "Muqawwi-e-Aam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "General tonic",
+      "ayurveda_name": "",
+      "unani_name": "Muqawwi-e-Aam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 64,
+      "columns": [
+        "Haemostyptic",
+        "",
+        "Haabis-e-Dam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Haemostyptic",
+      "ayurveda_name": "",
+      "unani_name": "Haabis-e-Dam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 65,
+      "columns": [
+        "Hair Blackener",
+        "kearajana",
+        "Musawwid-e-Sha'r",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Hair Blackener",
+      "ayurveda_name": "kearajana",
+      "unani_name": "Musawwid-e-Sha'r",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 66,
+      "columns": [
+        "Hair growing agent",
+        "",
+        "Munbit-e-Sha'r",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Hair growing agent",
+      "ayurveda_name": "",
+      "unani_name": "Munbit-e-Sha'r",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 67,
+      "columns": [
+        "Hair remover",
+        "lomatana",
+        "Haaliq",
+        "Mudi Neekki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Hair remover",
+      "ayurveda_name": "lomatana",
+      "unani_name": "Haaliq",
+      "siddha_name": "Mudi Neekki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 68,
+      "columns": [
+        "Hair thinner",
+        "",
+        "Muraqqiq-e-shar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Hair thinner",
+      "ayurveda_name": "",
+      "unani_name": "Muraqqiq-e-shar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 69,
+      "columns": [
+        "Hair tonic",
+        "Keya",
+        "Muqawwi-e-Sha'r",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Hair tonic",
+      "ayurveda_name": "Keya",
+      "unani_name": "Muqawwi-e-Sha'r",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 70,
+      "columns": [
+        "Hard",
+        "kahina",
+        "Sulb",
+        "Kadinathuvam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Hard",
+      "ayurveda_name": "kahina",
+      "unani_name": "Sulb",
+      "siddha_name": "Kadinathuvam",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 71,
+      "columns": [
+        "Healing agent",
+        "",
+        "Munbit-e-lahm",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Healing agent",
+      "ayurveda_name": "",
+      "unani_name": "Munbit-e-lahm",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 72,
+      "columns": [
+        "Heamatogenic",
+        "",
+        "Muwallid-e-Dam",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Heamatogenic",
+      "ayurveda_name": "",
+      "unani_name": "Muwallid-e-Dam",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 73,
+      "columns": [
+        "Heat Producing",
+        "",
+        "Musakhkhin",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Heat Producing",
+      "ayurveda_name": "",
+      "unani_name": "Musakhkhin",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 74,
+      "columns": [
+        "Heavy",
+        "gur",
+        "Saqeel",
+        "sumai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Heavy",
+      "ayurveda_name": "gur",
+      "unani_name": "Saqeel",
+      "siddha_name": "sumai",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 75,
+      "columns": [
+        "Hepatotonic",
+        "Yakta balya",
+        "Muqawwi-e-Kabid",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Hepatotonic",
+      "ayurveda_name": "Yakta balya",
+      "unani_name": "Muqawwi-e-Kabid",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 76,
+      "columns": [
+        "Humectant",
+        "",
+        "Murattib",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Humectant",
+      "ayurveda_name": "",
+      "unani_name": "Murattib",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 77,
+      "columns": [
+        "Insect repellent",
+        "",
+        "Dafi'-e-hashraat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Insect repellent",
+      "ayurveda_name": "",
+      "unani_name": "Dafi'-e-hashraat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 78,
+      "columns": [
+        "insecticidal",
+        "",
+        "qatil hashraat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "insecticidal",
+      "ayurveda_name": "",
+      "unani_name": "qatil hashraat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 79,
+      "columns": [
+        "Laxative",
+        "mduvirecana / sraka",
+        "Mulayyin",
+        "Malam Ezhakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Laxative",
+      "ayurveda_name": "mduvirecana / sraka",
+      "unani_name": "Mulayyin",
+      "siddha_name": "Malam Ezhakki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 80,
+      "columns": [
+        "Melanagogue",
+        "",
+        "Mukhrij-e-Sauda",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Melanagogue",
+      "ayurveda_name": "",
+      "unani_name": "Mukhrij-e-Sauda",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 81,
+      "columns": [
+        "Memory enhancer",
+        "smtivardhaka",
+        "Muqawwi-e-Haafizah",
+        "Gnapakam Perukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Memory enhancer",
+      "ayurveda_name": "smtivardhaka",
+      "unani_name": "Muqawwi-e-Haafizah",
+      "siddha_name": "Gnapakam Perukki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 82,
+      "columns": [
+        "Moist",
+        "rdra",
+        "Murattab/Ratb",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Moist",
+      "ayurveda_name": "rdra",
+      "unani_name": "Murattab/Ratb",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 83,
+      "columns": [
+        "Mouth Freshner",
+        "",
+        "Mutaiyib-e-Dahan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Mouth Freshner",
+      "ayurveda_name": "",
+      "unani_name": "Mutaiyib-e-Dahan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 84,
+      "columns": [
+        "Narcotic",
+        "Madakr",
+        "Muskir",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Narcotic",
+      "ayurveda_name": "Madakr",
+      "unani_name": "Muskir",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 85,
+      "columns": [
+        "Nerve Stimulant",
+        "",
+        "Muharrik-e-A'saab",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Nerve Stimulant",
+      "ayurveda_name": "",
+      "unani_name": "Muharrik-e-A'saab",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 86,
+      "columns": [
+        "Nervine tonic",
+        "Nbalya",
+        "Muqawwi-e-A'saab",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Nervine tonic",
+      "ayurveda_name": "Nbalya",
+      "unani_name": "Muqawwi-e-A'saab",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 87,
+      "columns": [
+        "Orgasmogenic",
+        "",
+        "Mulazziz",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Orgasmogenic",
+      "ayurveda_name": "",
+      "unani_name": "Mulazziz",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 88,
+      "columns": [
+        "Penile Fattener",
+        "",
+        "Mu'azzim-e-Qazeeb",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Penile Fattener",
+      "ayurveda_name": "",
+      "unani_name": "Mu'azzim-e-Qazeeb",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 89,
+      "columns": [
+        "Phlegmagogue",
+        "",
+        "Mushil-e-Balgham / Mukhrij-e- Balgham",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Phlegmagogue",
+      "ayurveda_name": "",
+      "unani_name": "Mushil-e-Balgham / Mukhrij-e- Balgham",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 90,
+      "columns": [
+        "Pro-conceptive",
+        "",
+        "Muee'n-e-Haml",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Pro-conceptive",
+      "ayurveda_name": "",
+      "unani_name": "Muee'n-e-Haml",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 91,
+      "columns": [
+        "Protective",
+        "Rakaka",
+        "Muhaafiz",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Protective",
+      "ayurveda_name": "Rakaka",
+      "unani_name": "Muhaafiz",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 92,
+      "columns": [
+        "Pruritic",
+        "",
+        "Mukharrish/Hakkaak",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Pruritic",
+      "ayurveda_name": "",
+      "unani_name": "Mukharrish/Hakkaak",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 93,
+      "columns": [
+        "Quenching Thirst",
+        "",
+        "Mutfi-e-Atash",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Quenching Thirst",
+      "ayurveda_name": "",
+      "unani_name": "Mutfi-e-Atash",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 94,
+      "columns": [
+        "Refrigerant",
+        "",
+        "Mubarrid",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Refrigerant",
+      "ayurveda_name": "",
+      "unani_name": "Mubarrid",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 95,
+      "columns": [
+        "Relaxant",
+        "",
+        "Murkhi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Relaxant",
+      "ayurveda_name": "",
+      "unani_name": "Murkhi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 96,
+      "columns": [
+        "Renal tonic",
+        "Vkka balya",
+        "Muqawwi-e-Kulya",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Renal tonic",
+      "ayurveda_name": "Vkka balya",
+      "unani_name": "Muqawwi-e-Kulya",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 97,
+      "columns": [
+        "Retentive",
+        "",
+        "Mumsik",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Retentive",
+      "ayurveda_name": "",
+      "unani_name": "Mumsik",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 98,
+      "columns": [
+        "Semen Inspissant",
+        "",
+        "Mughalliz-e-Mani",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Semen Inspissant",
+      "ayurveda_name": "",
+      "unani_name": "Mughalliz-e-Mani",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 99,
+      "columns": [
+        "Septic",
+        "",
+        "Mu'affin",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Septic",
+      "ayurveda_name": "",
+      "unani_name": "Mu'affin",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 100,
+      "columns": [
+        "Sour",
+        "amla",
+        "Haamiz/ Tursh",
+        "Pulippu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Sour",
+      "ayurveda_name": "amla",
+      "unani_name": "Haamiz/ Tursh",
+      "siddha_name": "Pulippu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 101,
+      "columns": [
+        "Sternutatory",
+        "",
+        "Mu'attis",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Sternutatory",
+      "ayurveda_name": "",
+      "unani_name": "Mu'attis",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 102,
+      "columns": [
+        "Stimulant of rooh",
+        "",
+        "Mun'ish-e- Arwaah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Stimulant of rooh",
+      "ayurveda_name": "",
+      "unani_name": "Mun'ish-e- Arwaah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 103,
+      "columns": [
+        "Teeth strengthening",
+        "dantadrhykara",
+        "Muqawwi-e-Asnaan-wa-Lesah",
+        "Pal Vanmaiyundaakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Teeth strengthening",
+      "ayurveda_name": "dantadrhykara",
+      "unani_name": "Muqawwi-e-Asnaan-wa-Lesah",
+      "siddha_name": "Pal Vanmaiyundaakki",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 104,
+      "columns": [
+        "thick",
+        "",
+        "Ghaleez/Gaarha",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "thick",
+      "ayurveda_name": "",
+      "unani_name": "Ghaleez/Gaarha",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 105,
+      "columns": [
+        "Tooth cleanser",
+        "Dantaodkaka",
+        "Mujalli-e- Dandaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Tooth cleanser",
+      "ayurveda_name": "Dantaodkaka",
+      "unani_name": "Mujalli-e- Dandaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 106,
+      "columns": [
+        "Tooth extractor",
+        "",
+        "Qaal'i-e- Asnaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Tooth extractor",
+      "ayurveda_name": "",
+      "unani_name": "Qaal'i-e- Asnaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 107,
+      "columns": [
+        "Ulcerative",
+        "",
+        "Muqarreh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Ulcerative",
+      "ayurveda_name": "",
+      "unani_name": "Muqarreh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 108,
+      "columns": [
+        "Vermicidal",
+        "",
+        "Qatil-e-Deedaan-e-Ama'a",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Vermicidal",
+      "ayurveda_name": "",
+      "unani_name": "Qatil-e-Deedaan-e-Ama'a",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 109,
+      "columns": [
+        "Vesicular tonic",
+        "",
+        "Muqawwi-e-Masaanah",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Vesicular tonic",
+      "ayurveda_name": "",
+      "unani_name": "Muqawwi-e-Masaanah",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 110,
+      "columns": [
+        "Viscous",
+        "",
+        "Lazij",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Viscous",
+      "ayurveda_name": "",
+      "unani_name": "Lazij",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 111,
+      "columns": [
+        "Vision diminishing agent",
+        "Dighna",
+        "Muzif-e- Basar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Vision diminishing agent",
+      "ayurveda_name": "Dighna",
+      "unani_name": "Muzif-e- Basar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 112,
+      "columns": [
+        "Vision improving drugs",
+        "Divardhaka",
+        "Muqawwi-e-Basar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Vision improving drugs",
+      "ayurveda_name": "Divardhaka",
+      "unani_name": "Muqawwi-e-Basar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 113,
+      "columns": [
+        "Voice Cleanser",
+        "",
+        "Munaqqi-e-Saut",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Voice Cleanser",
+      "ayurveda_name": "",
+      "unani_name": "Munaqqi-e-Saut",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Drug Action / Properties",
+      "row_index": 114,
+      "columns": [
+        "Yellow bile concoctive",
+        "",
+        "Munzij-e-Safra",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Yellow bile concoctive",
+      "ayurveda_name": "",
+      "unani_name": "Munzij-e-Safra",
+      "siddha_name": "",
+      "common_name": ""
+    }
+  ]
+}

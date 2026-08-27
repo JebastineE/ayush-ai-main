@@ -1,0 +1,443 @@
+{
+  "source": "TKDL",
+  "system": "Sowa Rigpa",
+  "category": "Mode of Administration",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/F-Administration.asp",
+  "retrieved_at": "2026-08-27T10:34:29.332823",
+  "total_records": 24,
+  "records": [
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 1,
+      "columns": [
+        "Afternoon",
+        "madhyhna kla",
+        "Seh Pehar",
+        "Mathiyam ,Pirpagal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Afternoon",
+      "ayurveda_name": "madhyhna kla",
+      "unani_name": "Seh Pehar",
+      "siddha_name": "Mathiyam ,Pirpagal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 2,
+      "columns": [
+        "At night / At bed time",
+        "Naisa / Ratri",
+        "Ba waqt-e-khuaab",
+        "Eravil Padukku poauthu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "At night / At bed time",
+      "ayurveda_name": "Naisa / Ratri",
+      "unani_name": "Ba waqt-e-khuaab",
+      "siddha_name": "Eravil Padukku poauthu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 3,
+      "columns": [
+        "Dusting",
+        "avacrana",
+        "",
+        "Podi Thimirthal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Dusting",
+      "ayurveda_name": "avacrana",
+      "unani_name": "",
+      "siddha_name": "Podi Thimirthal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 4,
+      "columns": [
+        "Ear drop",
+        "Karna purana",
+        "Qutoor-e-Uzn",
+        "Kadhilidal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Ear drop",
+      "ayurveda_name": "Karna purana",
+      "unani_name": "Qutoor-e-Uzn",
+      "siddha_name": "Kadhilidal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 5,
+      "columns": [
+        "early morning",
+        "prtakla",
+        "",
+        "Athi Kacai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "early morning",
+      "ayurveda_name": "prtakla",
+      "unani_name": "",
+      "siddha_name": "Athi Kacai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 6,
+      "columns": [
+        "Empty stomach",
+        "abhakta",
+        "Khuloo-e-Meda",
+        "Verum Vaitril",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Empty stomach",
+      "ayurveda_name": "abhakta",
+      "unani_name": "Khuloo-e-Meda",
+      "siddha_name": "Verum Vaitril",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 7,
+      "columns": [
+        "Enemata",
+        "vasti / basti",
+        "Huqnah",
+        "Malam Kalartal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Enemata",
+      "ayurveda_name": "vasti / basti",
+      "unani_name": "Huqnah",
+      "siddha_name": "Malam Kalartal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 8,
+      "columns": [
+        "Eye drop",
+        "Aksi ascyotana",
+        "Qutoor-e-chashm",
+        "Kalikam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Eye drop",
+      "ayurveda_name": "Aksi ascyotana",
+      "unani_name": "Qutoor-e-chashm",
+      "siddha_name": "Kalikam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 9,
+      "columns": [
+        "Gargles",
+        "kavala",
+        "Ghargharah",
+        "Koppalippu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Gargles",
+      "ayurveda_name": "kavala",
+      "unani_name": "Ghargharah",
+      "siddha_name": "Koppalippu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 10,
+      "columns": [
+        "Holding medicine in mouth",
+        "mukha dhraa",
+        "Mass",
+        "Vayil Adaithu Kollal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Holding medicine in mouth",
+      "ayurveda_name": "mukha dhraa",
+      "unani_name": "Mass",
+      "siddha_name": "Vayil Adaithu Kollal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 11,
+      "columns": [
+        "In the evening",
+        "sandhykla",
+        "Ba waqt-e-shaam",
+        "Maalai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "In the evening",
+      "ayurveda_name": "sandhykla",
+      "unani_name": "Ba waqt-e-shaam",
+      "siddha_name": "Maalai",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 12,
+      "columns": [
+        "Just before meals",
+        "prgbhakta",
+        "Qabl-e-Ghiza",
+        "Unaverkku Nun",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Just before meals",
+      "ayurveda_name": "prgbhakta",
+      "unani_name": "Qabl-e-Ghiza",
+      "siddha_name": "Unaverkku Nun",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 13,
+      "columns": [
+        "licking",
+        "lehana",
+        "Chaatna / La'q",
+        "Nakkal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "licking",
+      "ayurveda_name": "lehana",
+      "unani_name": "Chaatna / La'q",
+      "siddha_name": "Nakkal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 14,
+      "columns": [
+        "Medicinal application in the eye",
+        "ajana",
+        "Shaafah / Kaajal / Kohl",
+        "Kalikkam Anjanam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Medicinal application in the eye",
+      "ayurveda_name": "ajana",
+      "unani_name": "Shaafah / Kaajal / Kohl",
+      "siddha_name": "Kalikkam Anjanam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 15,
+      "columns": [
+        "Mixed or cooked with food",
+        "sabhakta",
+        "",
+        "Unavu Dan Serththu  allathuSammaiththu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Mixed or cooked with food",
+      "ayurveda_name": "sabhakta",
+      "unani_name": "",
+      "siddha_name": "Unavu Dan Serththu  allathuSammaiththu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 16,
+      "columns": [
+        "Mouth kept filled with medicine",
+        "gaa",
+        "Mazmazah",
+        "Vayal Adaithal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Mouth kept filled with medicine",
+      "ayurveda_name": "gaa",
+      "unani_name": "Mazmazah",
+      "siddha_name": "Vayal Adaithal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 17,
+      "columns": [
+        "Oral administration",
+        "auadhi pna",
+        "Istemaal-e Khurdani",
+        "Ul Marunthu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Oral administration",
+      "ayurveda_name": "auadhi pna",
+      "unani_name": "Istemaal-e Khurdani",
+      "siddha_name": "Ul Marunthu",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 18,
+      "columns": [
+        "Oral paint",
+        "Mukha lepa",
+        "",
+        "Vayul Thadaval",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Oral paint",
+      "ayurveda_name": "Mukha lepa",
+      "unani_name": "",
+      "siddha_name": "Vayul Thadaval",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 19,
+      "columns": [
+        "Proliferative phase including ovulation",
+        "tukla",
+        "",
+        "Ruthu Kalam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Proliferative phase including ovulation",
+      "ayurveda_name": "tukla",
+      "unani_name": "",
+      "siddha_name": "Ruthu Kalam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 20,
+      "columns": [
+        "Rubbing",
+        "Udgharsana",
+        "Malna",
+        "Azhuthi Theithal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Rubbing",
+      "ayurveda_name": "Udgharsana",
+      "unani_name": "Malna",
+      "siddha_name": "Azhuthi Theithal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 21,
+      "columns": [
+        "Snuffing",
+        "nasya",
+        "",
+        "Naasikabaranam/Nasiyam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Snuffing",
+      "ayurveda_name": "nasya",
+      "unani_name": "",
+      "siddha_name": "Naasikabaranam/Nasiyam",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 22,
+      "columns": [
+        "Vaginal pack",
+        "Yoni purana",
+        "Hashw-e-Mahbil",
+        "Yoni Marunthootal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Vaginal pack",
+      "ayurveda_name": "Yoni purana",
+      "unani_name": "Hashw-e-Mahbil",
+      "siddha_name": "Yoni Marunthootal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 23,
+      "columns": [
+        "Wearing of medicine",
+        "Ausadhi dharana",
+        "",
+        "Marunthu Anithal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Wearing of medicine",
+      "ayurveda_name": "Ausadhi dharana",
+      "unani_name": "",
+      "siddha_name": "Marunthu Anithal",
+      "common_name": ""
+    },
+    {
+      "system": "Sowa Rigpa",
+      "category": "Mode of Administration",
+      "row_index": 24,
+      "columns": [
+        "wound packing",
+        "Vrana varti",
+        "Shaafa-e-Quroohi",
+        "Pun Mel thadadal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "wound packing",
+      "ayurveda_name": "Vrana varti",
+      "unani_name": "Shaafa-e-Quroohi",
+      "siddha_name": "Pun Mel thadadal",
+      "common_name": ""
+    }
+  ]
+}

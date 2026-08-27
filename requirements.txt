@@ -1,0 +1,14 @@
+torch
+transformers
+sentence-transformers
+fastapi
+uvicorn
+pydantic
+pypdf
+pymupdf4llm
+qdrant-client
+google-genai
+python-dotenv
+rank-bm25
+httpx
+reportlab

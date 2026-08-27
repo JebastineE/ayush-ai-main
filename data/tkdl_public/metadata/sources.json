@@ -1,0 +1,22 @@
+{
+  "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/keyword.asp": {
+    "system": "Ayurveda",
+    "type": "entry_page",
+    "retrieved_at": "2026-08-27T10:33:42.758844"
+  },
+  "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/keyword.asp": {
+    "system": "Unani",
+    "type": "entry_page",
+    "retrieved_at": "2026-08-27T10:33:56.212148"
+  },
+  "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/keyword.asp": {
+    "system": "Siddha",
+    "type": "entry_page",
+    "retrieved_at": "2026-08-27T10:34:07.222019"
+  },
+  "https://www.tkdl.res.in/tkdl/langdefault/Sowarigpa/KeywordHelp/KeywordDemo/keyword.asp": {
+    "system": "Sowa Rigpa",
+    "type": "entry_page",
+    "retrieved_at": "2026-08-27T10:34:19.152437"
+  }
+}

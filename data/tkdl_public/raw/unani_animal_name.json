@@ -1,0 +1,587 @@
+{
+  "source": "TKDL",
+  "system": "Unani",
+  "category": "Animal Name",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Animal-Name.asp",
+  "retrieved_at": "2026-08-27T10:33:59.143384",
+  "total_records": 32,
+  "records": [
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 1,
+      "columns": [
+        "Adult",
+        "Vayaska",
+        "Baalig",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Adult",
+      "ayurveda_name": "Vayaska",
+      "unani_name": "Baalig",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 2,
+      "columns": [
+        "Ascaris lumbricoides",
+        "",
+        "Hayyat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Ascaris lumbricoides",
+      "ayurveda_name": "",
+      "unani_name": "Hayyat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 3,
+      "columns": [
+        "Ass",
+        "khara",
+        "Utaan/Khar/ Gadhi/Gadha",
+        "Kazhuthai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Ass",
+      "ayurveda_name": "khara",
+      "unani_name": "Utaan/Khar/ Gadhi/Gadha",
+      "siddha_name": "Kazhuthai",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 4,
+      "columns": [
+        "Camel",
+        "",
+        "Bakheeb/ Shutr-e-Aa'raabi/ Bukht",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Camel",
+      "ayurveda_name": "",
+      "unani_name": "Bakheeb/ Shutr-e-Aa'raabi/ Bukht",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 5,
+      "columns": [
+        "Cantharide",
+        "",
+        "Zaraarih/ Telni makkhi/ Ali Kochak",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Cantharide",
+      "ayurveda_name": "",
+      "unani_name": "Zaraarih/ Telni makkhi/ Ali Kochak",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 6,
+      "columns": [
+        "Castorium / Beaver",
+        "gandha mrjara/jundabedastara",
+        "Jundbedastar/Ood Belaao/ Khazmeyaan",
+        "Neernay",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Castorium / Beaver",
+      "ayurveda_name": "gandha mrjara/jundabedastara",
+      "unani_name": "Jundbedastar/Ood Belaao/ Khazmeyaan",
+      "siddha_name": "Neernay",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 7,
+      "columns": [
+        "Children",
+        "Blaka",
+        "Atfal",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Children",
+      "ayurveda_name": "Blaka",
+      "unani_name": "Atfal",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 8,
+      "columns": [
+        "Cocoon",
+        "",
+        "Aghnius/ Qirmiz/ Dood-us-sabbaagheen/ Kirm-e-rangrezaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Cocoon",
+      "ayurveda_name": "",
+      "unani_name": "Aghnius/ Qirmiz/ Dood-us-sabbaagheen/ Kirm-e-rangrezaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 9,
+      "columns": [
+        "Cow",
+        "gau",
+        "Eenak/ Mada Gao",
+        "Pasu,Komaadhaa",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Cow",
+      "ayurveda_name": "gau",
+      "unani_name": "Eenak/ Mada Gao",
+      "siddha_name": "Pasu,Komaadhaa",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 10,
+      "columns": [
+        "Crab",
+        "",
+        "Harzaan/ Sarataan-e-Nahri",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Crab",
+      "ayurveda_name": "",
+      "unani_name": "Harzaan/ Sarataan-e-Nahri",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 11,
+      "columns": [
+        "Duck",
+        "kraa",
+        "Bat/ Battakh/ Ardak",
+        "Vaatthu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Duck",
+      "ayurveda_name": "kraa",
+      "unani_name": "Bat/ Battakh/ Ardak",
+      "siddha_name": "Vaatthu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 12,
+      "columns": [
+        "Elephant",
+        "gaja/kujara",
+        "Feel/Haathi",
+        "Yaaanai,Kaliru,Kajam,Piliru",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Elephant",
+      "ayurveda_name": "gaja/kujara",
+      "unani_name": "Feel/Haathi",
+      "siddha_name": "Yaaanai,Kaliru,Kajam,Piliru",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 13,
+      "columns": [
+        "Foetus",
+        "",
+        "janeen",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Foetus",
+      "ayurveda_name": "",
+      "unani_name": "janeen",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 14,
+      "columns": [
+        "Francolin",
+        "",
+        "Aatish Khuarah / Kabak / Qabj / Chikor / Kabak Dari / Takhaa",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Francolin",
+      "ayurveda_name": "",
+      "unani_name": "Aatish Khuarah / Kabak / Qabj / Chikor / Kabak Dari / Takhaa",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 15,
+      "columns": [
+        "Goat",
+        "Vasta / Basta",
+        "Buz/ Ma'z",
+        "Vel Aadu / Aadu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Goat",
+      "ayurveda_name": "Vasta / Basta",
+      "unani_name": "Buz/ Ma'z",
+      "siddha_name": "Vel Aadu / Aadu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 16,
+      "columns": [
+        "Hen",
+        "kukkua",
+        "Maakiyaan/ Murghi/Dajaajah",
+        "Kozhi,Kukkidam,Kaalayudham,Vaaranam,Aandalaippul",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Hen",
+      "ayurveda_name": "kukkua",
+      "unani_name": "Maakiyaan/ Murghi/Dajaajah",
+      "siddha_name": "Kozhi,Kukkidam,Kaalayudham,Vaaranam,Aandalaippul",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 17,
+      "columns": [
+        "House sparrow",
+        "kalavika",
+        "Kunjashk/ Goraiyya/ Usfoor",
+        "Pen aadu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "House sparrow",
+      "ayurveda_name": "kalavika",
+      "unani_name": "Kunjashk/ Goraiyya/ Usfoor",
+      "siddha_name": "Pen aadu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 18,
+      "columns": [
+        "Intestinal worm",
+        "gapada",
+        "Kirm-e-Shikam",
+        "Naakku Poochi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Intestinal worm",
+      "ayurveda_name": "gapada",
+      "unani_name": "Kirm-e-Shikam",
+      "siddha_name": "Naakku Poochi",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 19,
+      "columns": [
+        "Mongoose",
+        "nakula",
+        "Abu-al-Vasaas/ Abul hukum/ Nevla/ Raasoo",
+        "Keeri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Mongoose",
+      "ayurveda_name": "nakula",
+      "unani_name": "Abu-al-Vasaas/ Abul hukum/ Nevla/ Raasoo",
+      "siddha_name": "Keeri",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 20,
+      "columns": [
+        "Monitor",
+        "",
+        "Anufutaanas/ Goh/ Sosmaar",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Monitor",
+      "ayurveda_name": "",
+      "unani_name": "Anufutaanas/ Goh/ Sosmaar",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 21,
+      "columns": [
+        "Ox",
+        "",
+        "Bail/ Nar gao/ Balad",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Ox",
+      "ayurveda_name": "",
+      "unani_name": "Bail/ Nar gao/ Balad",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 22,
+      "columns": [
+        "Pig",
+        "kara",
+        "Abu jahannam/ Khook/ Khinzeer/ Baarah",
+        "Pantri,Varaakam,Kidi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Pig",
+      "ayurveda_name": "kara",
+      "unani_name": "Abu jahannam/ Khook/ Khinzeer/ Baarah",
+      "siddha_name": "Pantri,Varaakam,Kidi",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 23,
+      "columns": [
+        "Pochard",
+        "",
+        "Murghaabi/ Ibn-ul-Maa/ Ivvaz/ Arooza/ Hans",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Pochard",
+      "ayurveda_name": "",
+      "unani_name": "Murghaabi/ Ibn-ul-Maa/ Ivvaz/ Arooza/ Hans",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 24,
+      "columns": [
+        "Rabbit / Hare",
+        "aa",
+        "Arnab-e-barri/ Khargosh",
+        "Muyal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Rabbit / Hare",
+      "ayurveda_name": "aa",
+      "unani_name": "Arnab-e-barri/ Khargosh",
+      "siddha_name": "Muyal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 25,
+      "columns": [
+        "Sheep / Ewe",
+        "avi",
+        "Gospand / Meesh / Bhed",
+        "Oru vagai maan",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Sheep / Ewe",
+      "ayurveda_name": "avi",
+      "unani_name": "Gospand / Meesh / Bhed",
+      "siddha_name": "Oru vagai maan",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 26,
+      "columns": [
+        "Shrimps",
+        "",
+        "Mahirubian/ Jheenga",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Shrimps",
+      "ayurveda_name": "",
+      "unani_name": "Mahirubian/ Jheenga",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 27,
+      "columns": [
+        "snail shell",
+        "",
+        "halazoon/wada'/ghongha",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "snail shell",
+      "ayurveda_name": "",
+      "unani_name": "halazoon/wada'/ghongha",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 28,
+      "columns": [
+        "Snake",
+        "sarpa/ahi",
+        "Maar/ Ibn-e-Qurah/ Saanp",
+        "Paampu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Snake",
+      "ayurveda_name": "sarpa/ahi",
+      "unani_name": "Maar/ Ibn-e-Qurah/ Saanp",
+      "siddha_name": "Paampu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 29,
+      "columns": [
+        "Swallow",
+        "",
+        "Baabwaana/ Khutaaf/ Abaabeel",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Swallow",
+      "ayurveda_name": "",
+      "unani_name": "Baabwaana/ Khutaaf/ Abaabeel",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 30,
+      "columns": [
+        "Velvety Tick, Cochineal insect",
+        "Indragopa",
+        "Beer Bahuti/Booque",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Velvety Tick, Cochineal insect",
+      "ayurveda_name": "Indragopa",
+      "unani_name": "Beer Bahuti/Booque",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 31,
+      "columns": [
+        "Wild Buffalow",
+        "",
+        "Arnah/ Jaamoos-e-Sahraai/ Mehki",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Wild Buffalow",
+      "ayurveda_name": "",
+      "unani_name": "Arnah/ Jaamoos-e-Sahraai/ Mehki",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Animal Name",
+      "row_index": 32,
+      "columns": [
+        "Woman",
+        "nr",
+        "Nisa/Aurat",
+        "Pen",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Animal-Name.asp",
+      "scientific_or_english_name": "Woman",
+      "ayurveda_name": "nr",
+      "unani_name": "Nisa/Aurat",
+      "siddha_name": "Pen",
+      "common_name": ""
+    }
+  ]
+}

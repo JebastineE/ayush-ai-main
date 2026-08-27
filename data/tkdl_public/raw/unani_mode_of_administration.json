@@ -1,0 +1,533 @@
+{
+  "source": "TKDL",
+  "system": "Unani",
+  "category": "Mode of Administration",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/KeywordHelp/KeywordDemo/F-Administration.asp",
+  "retrieved_at": "2026-08-27T10:34:05.708981",
+  "total_records": 29,
+  "records": [
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 1,
+      "columns": [
+        "Afternoon",
+        "madhyhna kla",
+        "Seh Pehar",
+        "Mathiyam ,Pirpagal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Afternoon",
+      "ayurveda_name": "madhyhna kla",
+      "unani_name": "Seh Pehar",
+      "siddha_name": "Mathiyam ,Pirpagal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 2,
+      "columns": [
+        "As directed by physician",
+        "",
+        "Hasb-e-hidayat",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "As directed by physician",
+      "ayurveda_name": "",
+      "unani_name": "Hasb-e-hidayat",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 3,
+      "columns": [
+        "At night / At bed time",
+        "Naisa / Ratri",
+        "Ba waqt-e-khuaab",
+        "Eravil Padukku poauthu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "At night / At bed time",
+      "ayurveda_name": "Naisa / Ratri",
+      "unani_name": "Ba waqt-e-khuaab",
+      "siddha_name": "Eravil Padukku poauthu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 4,
+      "columns": [
+        "Chewing",
+        "",
+        "Mazgh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Chewing",
+      "ayurveda_name": "",
+      "unani_name": "Mazgh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 5,
+      "columns": [
+        "Ear drop",
+        "Karna purana",
+        "Qutoor-e-Uzn",
+        "Kadhilidal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Ear drop",
+      "ayurveda_name": "Karna purana",
+      "unani_name": "Qutoor-e-Uzn",
+      "siddha_name": "Kadhilidal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 6,
+      "columns": [
+        "Empty stomach",
+        "abhakta",
+        "Khuloo-e-Meda",
+        "Verum Vaitril",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Empty stomach",
+      "ayurveda_name": "abhakta",
+      "unani_name": "Khuloo-e-Meda",
+      "siddha_name": "Verum Vaitril",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 7,
+      "columns": [
+        "Enemata",
+        "vasti / basti",
+        "Huqnah",
+        "Malam Kalartal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Enemata",
+      "ayurveda_name": "vasti / basti",
+      "unani_name": "Huqnah",
+      "siddha_name": "Malam Kalartal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 8,
+      "columns": [
+        "Eye drop",
+        "Aksi ascyotana",
+        "Qutoor-e-chashm",
+        "Kalikam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Eye drop",
+      "ayurveda_name": "Aksi ascyotana",
+      "unani_name": "Qutoor-e-chashm",
+      "siddha_name": "Kalikam",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 9,
+      "columns": [
+        "Gargles",
+        "kavala",
+        "Ghargharah",
+        "Koppalippu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Gargles",
+      "ayurveda_name": "kavala",
+      "unani_name": "Ghargharah",
+      "siddha_name": "Koppalippu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 10,
+      "columns": [
+        "In the evening",
+        "sandhykla",
+        "Ba waqt-e-shaam",
+        "Maalai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "In the evening",
+      "ayurveda_name": "sandhykla",
+      "unani_name": "Ba waqt-e-shaam",
+      "siddha_name": "Maalai",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 11,
+      "columns": [
+        "Insufflation",
+        "",
+        "Nafkh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Insufflation",
+      "ayurveda_name": "",
+      "unani_name": "Nafkh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 12,
+      "columns": [
+        "Just after meals",
+        "adhobhakta",
+        "Ba'd-e-Ghiza",
+        "UnavukkupPin",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Just after meals",
+      "ayurveda_name": "adhobhakta",
+      "unani_name": "Ba'd-e-Ghiza",
+      "siddha_name": "UnavukkupPin",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 13,
+      "columns": [
+        "Just before meals",
+        "prgbhakta",
+        "Qabl-e-Ghiza",
+        "Unaverkku Nun",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Just before meals",
+      "ayurveda_name": "prgbhakta",
+      "unani_name": "Qabl-e-Ghiza",
+      "siddha_name": "Unaverkku Nun",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 14,
+      "columns": [
+        "licking",
+        "lehana",
+        "Chaatna / La'q",
+        "Nakkal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "licking",
+      "ayurveda_name": "lehana",
+      "unani_name": "Chaatna / La'q",
+      "siddha_name": "Nakkal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 15,
+      "columns": [
+        "local application",
+        "",
+        "Latkh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "local application",
+      "ayurveda_name": "",
+      "unani_name": "Latkh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 16,
+      "columns": [
+        "Medicinal application in the eye",
+        "ajana",
+        "Shaafah / Kaajal / Kohl",
+        "Kalikkam Anjanam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Medicinal application in the eye",
+      "ayurveda_name": "ajana",
+      "unani_name": "Shaafah / Kaajal / Kohl",
+      "siddha_name": "Kalikkam Anjanam",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 17,
+      "columns": [
+        "Medicine applied on forehead",
+        "tilaka",
+        "Zimaad brae Peshaani",
+        "Netri Patru",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Medicine applied on forehead",
+      "ayurveda_name": "tilaka",
+      "unani_name": "Zimaad brae Peshaani",
+      "siddha_name": "Netri Patru",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 18,
+      "columns": [
+        "Mouth kept filled with medicine",
+        "gaa",
+        "Mazmazah",
+        "Vayal Adaithal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Mouth kept filled with medicine",
+      "ayurveda_name": "gaa",
+      "unani_name": "Mazmazah",
+      "siddha_name": "Vayal Adaithal",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 19,
+      "columns": [
+        "Nasal drop",
+        "",
+        "Qutoor-e-Anf",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Nasal drop",
+      "ayurveda_name": "",
+      "unani_name": "Qutoor-e-Anf",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 20,
+      "columns": [
+        "Nasal snuff",
+        "Pradhamananasya",
+        "Istinshaaq",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Nasal snuff",
+      "ayurveda_name": "Pradhamananasya",
+      "unani_name": "Istinshaaq",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 21,
+      "columns": [
+        "oral",
+        "",
+        "Dakhili Iste'maal",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "oral",
+      "ayurveda_name": "",
+      "unani_name": "Dakhili Iste'maal",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 22,
+      "columns": [
+        "Oral administration",
+        "auadhi pna",
+        "Istemaal-e Khurdani",
+        "Ul Marunthu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Oral administration",
+      "ayurveda_name": "auadhi pna",
+      "unani_name": "Istemaal-e Khurdani",
+      "siddha_name": "Ul Marunthu",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 23,
+      "columns": [
+        "Oral drop",
+        "",
+        "Wajr",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Oral drop",
+      "ayurveda_name": "",
+      "unani_name": "Wajr",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 24,
+      "columns": [
+        "Pouring",
+        "",
+        "Nutool",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Pouring",
+      "ayurveda_name": "",
+      "unani_name": "Nutool",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 25,
+      "columns": [
+        "Smearing",
+        "",
+        "Markh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Smearing",
+      "ayurveda_name": "",
+      "unani_name": "Markh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 26,
+      "columns": [
+        "Sprinkle",
+        "Parieka",
+        "Zarr",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Sprinkle",
+      "ayurveda_name": "Parieka",
+      "unani_name": "Zarr",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 27,
+      "columns": [
+        "Sprinkling",
+        "",
+        "Nushooh",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Sprinkling",
+      "ayurveda_name": "",
+      "unani_name": "Nushooh",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 28,
+      "columns": [
+        "Tooth powder",
+        "Dantamajana",
+        "Sann-al-Asnaan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Tooth powder",
+      "ayurveda_name": "Dantamajana",
+      "unani_name": "Sann-al-Asnaan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Unani",
+      "category": "Mode of Administration",
+      "row_index": 29,
+      "columns": [
+        "Vapourisation",
+        "",
+        "Inkebaab/ Bakhoor",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Unani/Utility/KeywordDemo/Administration.asp",
+      "scientific_or_english_name": "Vapourisation",
+      "ayurveda_name": "",
+      "unani_name": "Inkebaab/ Bakhoor",
+      "siddha_name": "",
+      "common_name": ""
+    }
+  ]
+}

@@ -1,0 +1,857 @@
+{
+  "source": "TKDL",
+  "system": "Siddha",
+  "category": "Drug Action / Properties",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/KeywordHelp/KeywordDemo/F-Action.asp",
+  "retrieved_at": "2026-08-27T10:34:16.896907",
+  "total_records": 47,
+  "records": [
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 1,
+      "columns": [
+        "Alleviates all diseases",
+        "Sarvarogahara",
+        "",
+        "Sarvanoi neekki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Alleviates all diseases",
+      "ayurveda_name": "Sarvarogahara",
+      "unani_name": "",
+      "siddha_name": "Sarvanoi neekki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 2,
+      "columns": [
+        "Alleviating Ama",
+        "mahara",
+        "",
+        "Mantham pokki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Alleviating Ama",
+      "ayurveda_name": "mahara",
+      "unani_name": "",
+      "siddha_name": "Mantham pokki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 3,
+      "columns": [
+        "Anabolic",
+        "dhtuvddhikara",
+        "",
+        "Udal Perukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Anabolic",
+      "ayurveda_name": "dhtuvddhikara",
+      "unani_name": "",
+      "siddha_name": "Udal Perukki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 4,
+      "columns": [
+        "Anti oxidant",
+        "rasyana",
+        "",
+        "Mudhumai Naraithirai Pokki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Anti oxidant",
+      "ayurveda_name": "rasyana",
+      "unani_name": "",
+      "siddha_name": "Mudhumai Naraithirai Pokki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 5,
+      "columns": [
+        "Anti-leprotic",
+        "kuhaghna",
+        "",
+        "Tholpini Agatri            Kuttam Pokki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Anti-leprotic",
+      "ayurveda_name": "kuhaghna",
+      "unani_name": "",
+      "siddha_name": "Tholpini Agatri            Kuttam Pokki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 6,
+      "columns": [
+        "Aphrodisiac",
+        "vya / vjkaraa",
+        "Muqawwi-e-Baah/Mubahhi/Moharrik-e-Baah",
+        "Aanmai Perukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Aphrodisiac",
+      "ayurveda_name": "vya / vjkaraa",
+      "unani_name": "Muqawwi-e-Baah/Mubahhi/Moharrik-e-Baah",
+      "siddha_name": "Aanmai Perukki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 7,
+      "columns": [
+        "Appetizer",
+        "dpana",
+        "Mushtahi/Mushahhi",
+        "Pasi thee thoondi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Appetizer",
+      "ayurveda_name": "dpana",
+      "unani_name": "Mushtahi/Mushahhi",
+      "siddha_name": "Pasi thee thoondi",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 8,
+      "columns": [
+        "Aversion to food",
+        "annadvea",
+        "",
+        "Anna Thuvesam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Aversion to food",
+      "ayurveda_name": "annadvea",
+      "unani_name": "",
+      "siddha_name": "Anna Thuvesam",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 9,
+      "columns": [
+        "Beneficial for voice",
+        "svarya",
+        "",
+        "Kural Valamundaakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Beneficial for voice",
+      "ayurveda_name": "svarya",
+      "unani_name": "",
+      "siddha_name": "Kural Valamundaakki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 10,
+      "columns": [
+        "Bitter",
+        "tikta",
+        "Murr",
+        "Kaippu,Kasappu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Bitter",
+      "ayurveda_name": "tikta",
+      "unani_name": "Murr",
+      "siddha_name": "Kaippu,Kasappu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 11,
+      "columns": [
+        "Carminative",
+        "",
+        "",
+        "Agatuvaayuvakatri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Carminative",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Agatuvaayuvakatri",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 12,
+      "columns": [
+        "Clearing vision",
+        "diprasdana",
+        "",
+        "Paarvai thetri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Clearing vision",
+      "ayurveda_name": "diprasdana",
+      "unani_name": "",
+      "siddha_name": "Paarvai thetri",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 13,
+      "columns": [
+        "Complexion promoting",
+        "varya",
+        "",
+        "Azhagu undaakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Complexion promoting",
+      "ayurveda_name": "varya",
+      "unani_name": "",
+      "siddha_name": "Azhagu undaakki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 14,
+      "columns": [
+        "Detoxification",
+        "doapcana",
+        "",
+        "Thodamakatri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Detoxification",
+      "ayurveda_name": "doapcana",
+      "unani_name": "",
+      "siddha_name": "Thodamakatri",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 15,
+      "columns": [
+        "Diuretic",
+        "Mtravirecanya / Mtrala",
+        "Mudirr-e-Baul",
+        "Siruneer Perukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Diuretic",
+      "ayurveda_name": "Mtravirecanya / Mtrala",
+      "unani_name": "Mudirr-e-Baul",
+      "siddha_name": "Siruneer Perukki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 16,
+      "columns": [
+        "Expectoration of mucous / Excision",
+        "Chedana",
+        "",
+        "Kozhaiyagatri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Expectoration of mucous / Excision",
+      "ayurveda_name": "Chedana",
+      "unani_name": "",
+      "siddha_name": "Kozhaiyagatri",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 17,
+      "columns": [
+        "Final transformation after digestion",
+        "vipka",
+        "",
+        "Serimana Pin Matram",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Final transformation after digestion",
+      "ayurveda_name": "vipka",
+      "unani_name": "",
+      "siddha_name": "Serimana Pin Matram",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 18,
+      "columns": [
+        "Hair dyer",
+        "kearajana",
+        "",
+        "Mudi Karuppaakkukindra",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Hair dyer",
+      "ayurveda_name": "kearajana",
+      "unani_name": "",
+      "siddha_name": "Mudi Karuppaakkukindra",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 19,
+      "columns": [
+        "Immobile",
+        "sthira",
+        "Ghair Mutaharrik",
+        "Salanamatra",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Immobile",
+      "ayurveda_name": "sthira",
+      "unani_name": "Ghair Mutaharrik",
+      "siddha_name": "Salanamatra",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 20,
+      "columns": [
+        "Immuno-modulator",
+        "Ojovardhaka",
+        "",
+        "Udal Thathubalamakki/ Vaseekaram Perukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Immuno-modulator",
+      "ayurveda_name": "Ojovardhaka",
+      "unani_name": "",
+      "siddha_name": "Udal Thathubalamakki/ Vaseekaram Perukki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 21,
+      "columns": [
+        "Increases kapha",
+        "kaphavardhaka",
+        "",
+        "Iyyam Migundha",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Increases kapha",
+      "ayurveda_name": "kaphavardhaka",
+      "unani_name": "",
+      "siddha_name": "Iyyam Migundha",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 22,
+      "columns": [
+        "Increasing body weight",
+        "upacayakara",
+        "",
+        "Udal Uramaakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Increasing body weight",
+      "ayurveda_name": "upacayakara",
+      "unani_name": "",
+      "siddha_name": "Udal Uramaakki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 23,
+      "columns": [
+        "Intellect promoting",
+        "medhya",
+        "",
+        "Putthi Koormai Vazharkkum",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Intellect promoting",
+      "ayurveda_name": "medhya",
+      "unani_name": "",
+      "siddha_name": "Putthi Koormai Vazharkkum",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 24,
+      "columns": [
+        "Lactogogue",
+        "",
+        "",
+        "Paarpaerukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Lactogogue",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Paarpaerukki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 25,
+      "columns": [
+        "Laxative",
+        "mduvirecana / sraka",
+        "Mulayyin",
+        "Malam Ezhakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Laxative",
+      "ayurveda_name": "mduvirecana / sraka",
+      "unani_name": "Mulayyin",
+      "siddha_name": "Malam Ezhakki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 26,
+      "columns": [
+        "Lusture promoting",
+        "kntikara / prabhkara",
+        "",
+        "Vaseekaramundaakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Lusture promoting",
+      "ayurveda_name": "kntikara / prabhkara",
+      "unani_name": "",
+      "siddha_name": "Vaseekaramundaakki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 27,
+      "columns": [
+        "Moistening",
+        "kledana",
+        "",
+        "Kulirchiunctakai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Moistening",
+      "ayurveda_name": "kledana",
+      "unani_name": "",
+      "siddha_name": "Kulirchiunctakai",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 28,
+      "columns": [
+        "Nervine tonic / Naadi uramaaki",
+        "Nibalya",
+        "",
+        "Narambu uramaakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Nervine tonic / Naadi uramaaki",
+      "ayurveda_name": "Nibalya",
+      "unani_name": "",
+      "siddha_name": "Narambu uramaakki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 29,
+      "columns": [
+        "Non-irritant",
+        "avidh",
+        "",
+        "Thadippundakkatha",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Non-irritant",
+      "ayurveda_name": "avidh",
+      "unani_name": "",
+      "siddha_name": "Thadippundakkatha",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 30,
+      "columns": [
+        "Pacifying burning sensation",
+        "dhapraamana",
+        "",
+        "Thaathu Veppagatri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Pacifying burning sensation",
+      "ayurveda_name": "dhapraamana",
+      "unani_name": "",
+      "siddha_name": "Thaathu Veppagatri",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 31,
+      "columns": [
+        "Pacifying thirst",
+        "tnigrahaa",
+        "",
+        "Thaagamagatri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Pacifying thirst",
+      "ayurveda_name": "tnigrahaa",
+      "unani_name": "",
+      "siddha_name": "Thaagamagatri",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 32,
+      "columns": [
+        "Pittadosa alleviating",
+        "pittahara",
+        "",
+        "Pithamadakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Pittadosa alleviating",
+      "ayurveda_name": "pittahara",
+      "unani_name": "",
+      "siddha_name": "Pithamadakki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 33,
+      "columns": [
+        "Promotes perspiration",
+        "svedajanana",
+        "",
+        "Viyarvai Perukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Promotes perspiration",
+      "ayurveda_name": "svedajanana",
+      "unani_name": "",
+      "siddha_name": "Viyarvai Perukki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 34,
+      "columns": [
+        "promoting discharge",
+        "srvaa / visrvaa",
+        "",
+        "Udal Kazhivagatri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "promoting discharge",
+      "ayurveda_name": "srvaa / visrvaa",
+      "unani_name": "",
+      "siddha_name": "Udal Kazhivagatri",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 35,
+      "columns": [
+        "Providing longevity",
+        "yuya",
+        "",
+        "Kayakalpa",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Providing longevity",
+      "ayurveda_name": "yuya",
+      "unani_name": "",
+      "siddha_name": "Kayakalpa",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 36,
+      "columns": [
+        "removing tiredness",
+        "lasyahara",
+        "",
+        "Kazhaippu pooki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "removing tiredness",
+      "ayurveda_name": "lasyahara",
+      "unani_name": "",
+      "siddha_name": "Kazhaippu pooki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 37,
+      "columns": [
+        "Salty",
+        "lavaa",
+        "Maaleh/Namkeen",
+        "Uwarppu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Salty",
+      "ayurveda_name": "lavaa",
+      "unani_name": "Maaleh/Namkeen",
+      "siddha_name": "Uwarppu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 38,
+      "columns": [
+        "Semen retaining",
+        "ukrastambhana",
+        "",
+        "Vinthu Adakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Semen retaining",
+      "ayurveda_name": "ukrastambhana",
+      "unani_name": "",
+      "siddha_name": "Vinthu Adakki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 39,
+      "columns": [
+        "Semenpromoting",
+        "ukrajanana",
+        "",
+        "Vinthu Perukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Semenpromoting",
+      "ayurveda_name": "ukrajanana",
+      "unani_name": "",
+      "siddha_name": "Vinthu Perukki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 40,
+      "columns": [
+        "Sexual indulgence",
+        "str sasarga",
+        "",
+        "Punaruthal,Aalinganam seithal",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Sexual indulgence",
+      "ayurveda_name": "str sasarga",
+      "unani_name": "",
+      "siddha_name": "Punaruthal,Aalinganam seithal",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 41,
+      "columns": [
+        "Sour",
+        "amla",
+        "Haamiz/ Tursh",
+        "Pulippu",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Sour",
+      "ayurveda_name": "amla",
+      "unani_name": "Haamiz/ Tursh",
+      "siddha_name": "Pulippu",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 42,
+      "columns": [
+        "Spermatogenic",
+        "",
+        "",
+        "Vindhuperukki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Spermatogenic",
+      "ayurveda_name": "",
+      "unani_name": "",
+      "siddha_name": "Vindhuperukki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 43,
+      "columns": [
+        "Strength promoting",
+        "balya",
+        "",
+        "Vanmai UndakkiUdal thetri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Strength promoting",
+      "ayurveda_name": "balya",
+      "unani_name": "",
+      "siddha_name": "Vanmai UndakkiUdal thetri",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 44,
+      "columns": [
+        "Vata kapha dosa /alleviating",
+        "vtakaphahara",
+        "",
+        "Vathakabam Kuttram  Neekki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Vata kapha dosa /alleviating",
+      "ayurveda_name": "vtakaphahara",
+      "unani_name": "",
+      "siddha_name": "Vathakabam Kuttram  Neekki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 45,
+      "columns": [
+        "Vatadosa alleviating",
+        "vtahara",
+        "",
+        "Vaathamadakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Vatadosa alleviating",
+      "ayurveda_name": "vtahara",
+      "unani_name": "",
+      "siddha_name": "Vaathamadakki",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 46,
+      "columns": [
+        "Weakness due to sexual indulgence",
+        "strka",
+        "",
+        "Adhi punarchiyaal Vanmaiyinmai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Weakness due to sexual indulgence",
+      "ayurveda_name": "strka",
+      "unani_name": "",
+      "siddha_name": "Adhi punarchiyaal Vanmaiyinmai",
+      "common_name": ""
+    },
+    {
+      "system": "Siddha",
+      "category": "Drug Action / Properties",
+      "row_index": 47,
+      "columns": [
+        "Wound healing",
+        "vraaropaa",
+        "",
+        "Viranam Pokki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Siddha/Utility/KeywordDemo/Action.asp",
+      "scientific_or_english_name": "Wound healing",
+      "ayurveda_name": "vraaropaa",
+      "unani_name": "",
+      "siddha_name": "Viranam Pokki",
+      "common_name": ""
+    }
+  ]
+}

@@ -1,0 +1,5159 @@
+{
+  "source": "TKDL",
+  "system": "Ayurveda",
+  "category": "Plant Name",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Plant-Name.asp",
+  "retrieved_at": "2026-08-27T10:33:44.263486",
+  "total_records": 286,
+  "records": [
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 1,
+      "columns": [
+        "Abrus precatorius Linn.",
+        "guj",
+        "Aninud deek/Ghonghchi/Achnata Phal",
+        "Kundrimani, Kundri",
+        "crab's eye, jequerity, pois rouge, precatory bean, rosary pea, rosarypea, tento muido, Indian liquorice"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Abrus precatorius Linn.",
+      "ayurveda_name": "guj",
+      "unani_name": "Aninud deek/Ghonghchi/Achnata Phal",
+      "siddha_name": "Kundrimani, Kundri",
+      "common_name": "crab's eye, jequerity, pois rouge, precatory bean, rosary pea, rosarypea, tento muido, Indian liquorice"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 2,
+      "columns": [
+        "Acacia arabica/nillotica Willd.",
+        "babbla",
+        "Aqaaqia/Mughilaan/Kikar/Babool/Qaraz",
+        "Karuvel",
+        "Babul, Black Babul, Indian Gum arabic tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Acacia arabica/nillotica Willd.",
+      "ayurveda_name": "babbla",
+      "unani_name": "Aqaaqia/Mughilaan/Kikar/Babool/Qaraz",
+      "siddha_name": "Karuvel",
+      "common_name": "Babul, Black Babul, Indian Gum arabic tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 3,
+      "columns": [
+        "Acacia catechu",
+        "khadira",
+        "Khair/Kath Safaid",
+        "Karungali, Kashukatti, Vodalai, Vodalam",
+        "cutch tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Acacia catechu",
+      "ayurveda_name": "khadira",
+      "unani_name": "Khair/Kath Safaid",
+      "siddha_name": "Karungali, Kashukatti, Vodalai, Vodalam",
+      "common_name": "cutch tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 4,
+      "columns": [
+        "Aconitum chasmanthum Stapf & Holmes / Aconitum ferox Wall. ex Ser.",
+        "gika via",
+        "",
+        "",
+        "Indian aconite"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Aconitum chasmanthum Stapf & Holmes / Aconitum ferox Wall. ex Ser.",
+      "ayurveda_name": "gika via",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": "Indian aconite"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 5,
+      "columns": [
+        "Aconitum ferox Wall. ex Ser.",
+        "vatsanbha bheda",
+        "Khaaniq-al-Zeb",
+        "Vasha naabi,Vidam,Pachai naabi, Vishnanuir",
+        "Indian aconite"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Aconitum ferox Wall. ex Ser.",
+      "ayurveda_name": "vatsanbha bheda",
+      "unani_name": "Khaaniq-al-Zeb",
+      "siddha_name": "Vasha naabi,Vidam,Pachai naabi, Vishnanuir",
+      "common_name": "Indian aconite"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 6,
+      "columns": [
+        "Aconitum heterophyllum Wall. ex Royle",
+        "ativi",
+        "Atees/Patees",
+        "Ahividayam,Pangurai,Madiri",
+        "indian atees"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Aconitum heterophyllum Wall. ex Royle",
+      "ayurveda_name": "ativi",
+      "unani_name": "Atees/Patees",
+      "siddha_name": "Ahividayam,Pangurai,Madiri",
+      "common_name": "indian atees"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 7,
+      "columns": [
+        "Acorus calamus Linn.",
+        "vac",
+        "Waj-e-Turki",
+        "Vasambu, Suduvaan, Uraippaan, Paersollaamarundhu, Pillaimarundhu, Vasamber",
+        "calamus, sweetflag"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Acorus calamus Linn.",
+      "ayurveda_name": "vac",
+      "unani_name": "Waj-e-Turki",
+      "siddha_name": "Vasambu, Suduvaan, Uraippaan, Paersollaamarundhu, Pillaimarundhu, Vasamber",
+      "common_name": "calamus, sweetflag"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 8,
+      "columns": [
+        "Aegle marmelos Correa ex Roxb.",
+        "bilva",
+        "Bil/ Bel / Belgiri / Bael / Safarjal Hindi / Shull / Ball / Tull /Nall",
+        "Vilvam ,koovilum,sivathurumum, Maaloram, Vilvo",
+        "Indian bael"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Aegle marmelos Correa ex Roxb.",
+      "ayurveda_name": "bilva",
+      "unani_name": "Bil/ Bel / Belgiri / Bael / Safarjal Hindi / Shull / Ball / Tull /Nall",
+      "siddha_name": "Vilvam ,koovilum,sivathurumum, Maaloram, Vilvo",
+      "common_name": "Indian bael"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 9,
+      "columns": [
+        "Alangium salviifolium",
+        "akoa",
+        "Aankola/Dhira/Anbaku",
+        "Azhinjil,Semmaram,Sei",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Alangium salviifolium",
+      "ayurveda_name": "akoa",
+      "unani_name": "Aankola/Dhira/Anbaku",
+      "siddha_name": "Azhinjil,Semmaram,Sei",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 10,
+      "columns": [
+        "Alhagi maurorum Baker Dexv / Alhagi pseudalhagi",
+        "yavsaka, dhanvaysa",
+        "Haaj / Turanjabeen/Jawaasa/Jawaansa",
+        "Thurunjibin, Tulganari",
+        "camel thorn, persian manna plant"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Alhagi maurorum Baker Dexv / Alhagi pseudalhagi",
+      "ayurveda_name": "yavsaka, dhanvaysa",
+      "unani_name": "Haaj / Turanjabeen/Jawaasa/Jawaansa",
+      "siddha_name": "Thurunjibin, Tulganari",
+      "common_name": "camel thorn, persian manna plant"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 11,
+      "columns": [
+        "Allium sativum",
+        "launa, lahasuna",
+        "Seer",
+        "Poondu, Lasunam, Ulli, Vellaippoondu, Vellulli",
+        "Garlic, cultivated garlic"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Allium sativum",
+      "ayurveda_name": "launa, lahasuna",
+      "unani_name": "Seer",
+      "siddha_name": "Poondu, Lasunam, Ulli, Vellaippoondu, Vellulli",
+      "common_name": "Garlic, cultivated garlic"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 12,
+      "columns": [
+        "Alocasia macrorrhiza",
+        "mnaka",
+        "",
+        "Merugankilangu, Ulakkai, Kandhaputpi, Musalam",
+        "Giant taro"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Alocasia macrorrhiza",
+      "ayurveda_name": "mnaka",
+      "unani_name": "",
+      "siddha_name": "Merugankilangu, Ulakkai, Kandhaputpi, Musalam",
+      "common_name": "Giant taro"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 13,
+      "columns": [
+        "Aloe barbadensis Mill.",
+        "kumr",
+        "Gheekawaar/Sibr",
+        "Katrazhai,Kumari, Chirukatrazhai, Rattabolam, Kariyabolam",
+        "Barbedos aloe, Indian aloe, Curacao aloe, Jaffarabad aloe"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Aloe barbadensis Mill.",
+      "ayurveda_name": "kumr",
+      "unani_name": "Gheekawaar/Sibr",
+      "siddha_name": "Katrazhai,Kumari, Chirukatrazhai, Rattabolam, Kariyabolam",
+      "common_name": "Barbedos aloe, Indian aloe, Curacao aloe, Jaffarabad aloe"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 14,
+      "columns": [
+        "Alstonia scholaris",
+        "saptapara",
+        "Kashim/Chatim",
+        "Ezhilai palai, Mukkampalai, Sapthaparni, Pala",
+        "Dita bark"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Alstonia scholaris",
+      "ayurveda_name": "saptapara",
+      "unani_name": "Kashim/Chatim",
+      "siddha_name": "Ezhilai palai, Mukkampalai, Sapthaparni, Pala",
+      "common_name": "Dita bark"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 15,
+      "columns": [
+        "Amomum subulatum Roxb.",
+        "sthlael bheda",
+        "Heel Kalaan/Qaaqulah Kabeer",
+        "Periya elakkai, Kaattu elam, Aruga sani",
+        "Greater or Nepal Cardamom"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Amomum subulatum Roxb.",
+      "ayurveda_name": "sthlael bheda",
+      "unani_name": "Heel Kalaan/Qaaqulah Kabeer",
+      "siddha_name": "Periya elakkai, Kaattu elam, Aruga sani",
+      "common_name": "Greater or Nepal Cardamom"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 16,
+      "columns": [
+        "Amorphophallus campanulatus",
+        "sraa",
+        "Zamin Kand Beghi/Soran",
+        "Kaaraa karunai, Karanaikilangu, Sooram",
+        "Elephant-foot Yam"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Amorphophallus campanulatus",
+      "ayurveda_name": "sraa",
+      "unani_name": "Zamin Kand Beghi/Soran",
+      "siddha_name": "Kaaraa karunai, Karanaikilangu, Sooram",
+      "common_name": "Elephant-foot Yam"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 17,
+      "columns": [
+        "Anacyclus pyrethrum DC.",
+        "krakarabha",
+        "Aaqarqarha /Oodul-Qarah",
+        "Akrakaaram, Akkirakaaram",
+        "Pellitory of Spain, Pyrethrum"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Anacyclus pyrethrum DC.",
+      "ayurveda_name": "krakarabha",
+      "unani_name": "Aaqarqarha /Oodul-Qarah",
+      "siddha_name": "Akrakaaram, Akkirakaaram",
+      "common_name": "Pellitory of Spain, Pyrethrum"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 18,
+      "columns": [
+        "Andrographis paniculata",
+        "bhnimba, klamegha",
+        "",
+        "Nila vembu,Kriyaathu,Anaariathitham,Shiratkuchi,Koganam",
+        "false waterwillow"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Andrographis paniculata",
+      "ayurveda_name": "bhnimba, klamegha",
+      "unani_name": "",
+      "siddha_name": "Nila vembu,Kriyaathu,Anaariathitham,Shiratkuchi,Koganam",
+      "common_name": "false waterwillow"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 19,
+      "columns": [
+        "Anethum sowa Roxb. ex Flem.",
+        "athv",
+        "Shibt/Soya",
+        "Sadha kuppai,Soyi keerai vidhai,Madhurikai, Sadhaputphi",
+        "Indian Dill, Sowa"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Anethum sowa Roxb. ex Flem.",
+      "ayurveda_name": "athv",
+      "unani_name": "Shibt/Soya",
+      "siddha_name": "Sadha kuppai,Soyi keerai vidhai,Madhurikai, Sadhaputphi",
+      "common_name": "Indian Dill, Sowa"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 20,
+      "columns": [
+        "Angelica glauca Edgew.",
+        "coraka",
+        "Hasheeshat-al-Malik",
+        "",
+        "angelica, wild celery"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Angelica glauca Edgew.",
+      "ayurveda_name": "coraka",
+      "unani_name": "Hasheeshat-al-Malik",
+      "siddha_name": "",
+      "common_name": "angelica, wild celery"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 21,
+      "columns": [
+        "Aquilaria malaccensis Lam. Syn.",
+        "agaru",
+        "Ood Hindi/ Agar/Ood Qimari/Ood Gharqi/Aghaloojan/ Aghalooji",
+        "Akil, Akaru, Poozhil, Kaakathundm, Aggalichandana",
+        "Aloewood, Eaglewood, Agarwood"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Aquilaria malaccensis Lam. Syn.",
+      "ayurveda_name": "agaru",
+      "unani_name": "Ood Hindi/ Agar/Ood Qimari/Ood Gharqi/Aghaloojan/ Aghalooji",
+      "siddha_name": "Akil, Akaru, Poozhil, Kaakathundm, Aggalichandana",
+      "common_name": "Aloewood, Eaglewood, Agarwood"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 22,
+      "columns": [
+        "Areca catechu Linn.",
+        "pga",
+        "Fufal/Chalia/Chikni Supaari",
+        "Paakku,Kandhi adaikkai,Kamuku",
+        "betel palm"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Areca catechu Linn.",
+      "ayurveda_name": "pga",
+      "unani_name": "Fufal/Chalia/Chikni Supaari",
+      "siddha_name": "Paakku,Kandhi adaikkai,Kamuku",
+      "common_name": "betel palm"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 23,
+      "columns": [
+        "Argyeria nervosa",
+        "vddhadruka, basttr",
+        "",
+        "Samuthirapachhai, Samuthira palai, Pey munnai, Ambagar, Sadar palai, Samuthira chogi",
+        "Elephant Creeper"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Argyeria nervosa",
+      "ayurveda_name": "vddhadruka, basttr",
+      "unani_name": "",
+      "siddha_name": "Samuthirapachhai, Samuthira palai, Pey munnai, Ambagar, Sadar palai, Samuthira chogi",
+      "common_name": "Elephant Creeper"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 24,
+      "columns": [
+        "Arundo donax Linn.",
+        "Nala",
+        "Qasab",
+        "Korukkai",
+        "giant reed, giantreed"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Arundo donax Linn.",
+      "ayurveda_name": "Nala",
+      "unani_name": "Qasab",
+      "siddha_name": "Korukkai",
+      "common_name": "giant reed, giantreed"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 25,
+      "columns": [
+        "Asparagus racemosus Willd.",
+        "atvar, Med-Mahmed",
+        "Satawar",
+        "Seemai sathaveri, Ammai kodi, Kadumulla, Mignthavanam, Varivari, Kilavari,Paniyanaku, Thanneervittankizhangu",
+        "Indian asparagus"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Asparagus racemosus Willd.",
+      "ayurveda_name": "atvar, Med-Mahmed",
+      "unani_name": "Satawar",
+      "siddha_name": "Seemai sathaveri, Ammai kodi, Kadumulla, Mignthavanam, Varivari, Kilavari,Paniyanaku, Thanneervittankizhangu",
+      "common_name": "Indian asparagus"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 26,
+      "columns": [
+        "Azadirachta indica A. Juss.",
+        "Nimba",
+        "Neem",
+        "Vembu, Arittam, Nimbam, Paripathiram, Pisumantham, Vepachetta",
+        "neem"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Azadirachta indica A. Juss.",
+      "ayurveda_name": "Nimba",
+      "unani_name": "Neem",
+      "siddha_name": "Vembu, Arittam, Nimbam, Paripathiram, Pisumantham, Vepachetta",
+      "common_name": "neem"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 27,
+      "columns": [
+        "Bacopa monnieri",
+        "Brhm",
+        "brahmi",
+        "Neerpirami, Sapthalai, Sarumam, Sambiranipoondu",
+        "coastal waterhyssop ,    herb of grace,    herb-of-grace"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Bacopa monnieri",
+      "ayurveda_name": "Brhm",
+      "unani_name": "brahmi",
+      "siddha_name": "Neerpirami, Sapthalai, Sarumam, Sambiranipoondu",
+      "common_name": "coastal waterhyssop ,    herb of grace,    herb-of-grace"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 28,
+      "columns": [
+        "Balanites aegyptiaca",
+        "Ingud",
+        "Ingad/Hingot/Allabakh",
+        "Nanjundaan",
+        "desert date"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Balanites aegyptiaca",
+      "ayurveda_name": "Ingud",
+      "unani_name": "Ingad/Hingot/Allabakh",
+      "siddha_name": "Nanjundaan",
+      "common_name": "desert date"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 29,
+      "columns": [
+        "Baliospermum montanum",
+        "Dant",
+        "Danti",
+        "Kattamanakku,Niradimuthu, Peyamanakku",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Baliospermum montanum",
+      "ayurveda_name": "Dant",
+      "unani_name": "Danti",
+      "siddha_name": "Kattamanakku,Niradimuthu, Peyamanakku",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 30,
+      "columns": [
+        "Bambusa arundinacea",
+        "Vaa, Vaalocana, Basalocana",
+        "Khumairah Bairah/Qirtas sokhtah/Tabasheer/Baans/Nae",
+        "Mungil, Mullumungil, Kazhai, Vaezhai, Thulai, Mulai",
+        "bamboo"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Bambusa arundinacea",
+      "ayurveda_name": "Vaa, Vaalocana, Basalocana",
+      "unani_name": "Khumairah Bairah/Qirtas sokhtah/Tabasheer/Baans/Nae",
+      "siddha_name": "Mungil, Mullumungil, Kazhai, Vaezhai, Thulai, Mulai",
+      "common_name": "bamboo"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 31,
+      "columns": [
+        "Barleria cristata Linn.",
+        "Sahacara",
+        "",
+        "Nilachemulli, Udamulli, Vellai neelamlbaram",
+        "crested Philippine violet"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Barleria cristata Linn.",
+      "ayurveda_name": "Sahacara",
+      "unani_name": "",
+      "siddha_name": "Nilachemulli, Udamulli, Vellai neelamlbaram",
+      "common_name": "crested Philippine violet"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 32,
+      "columns": [
+        "Barleria prionitis Linn.",
+        "Saireyaka",
+        "Pya bansa/Jhinti",
+        "Semmulli",
+        "porcupine flower"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Barleria prionitis Linn.",
+      "ayurveda_name": "Saireyaka",
+      "unani_name": "Pya bansa/Jhinti",
+      "siddha_name": "Semmulli",
+      "common_name": "porcupine flower"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 33,
+      "columns": [
+        "Barleria strigosa Willd.",
+        "Sahacara",
+        "",
+        "Nilambaram, Nili",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Barleria strigosa Willd.",
+      "ayurveda_name": "Sahacara",
+      "unani_name": "",
+      "siddha_name": "Nilambaram, Nili",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 34,
+      "columns": [
+        "Barringtonia acutangula",
+        "Nicula, samudra phala",
+        "Samandarphal",
+        "Adambu, Kadappai, Sengadambu",
+        "Indian Oak"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Barringtonia acutangula",
+      "ayurveda_name": "Nicula, samudra phala",
+      "unani_name": "Samandarphal",
+      "siddha_name": "Adambu, Kadappai, Sengadambu",
+      "common_name": "Indian Oak"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 35,
+      "columns": [
+        "Basella alba Linn.",
+        "Upodik",
+        "Poi/Bachla",
+        "Pasalikkeerai,Kodipasalikkeerai",
+        "Ceylon spinach"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Basella alba Linn.",
+      "ayurveda_name": "Upodik",
+      "unani_name": "Poi/Bachla",
+      "siddha_name": "Pasalikkeerai,Kodipasalikkeerai",
+      "common_name": "Ceylon spinach"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 36,
+      "columns": [
+        "Bauhinia variegata Linn.",
+        "Kcanra",
+        "Kachnal/Kachnar",
+        "Segapu manchori, Chemmandarai, Vellai puvathi",
+        "butterfly tree , mountain ebony,orchid tree, purple orchid tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Bauhinia variegata Linn.",
+      "ayurveda_name": "Kcanra",
+      "unani_name": "Kachnal/Kachnar",
+      "siddha_name": "Segapu manchori, Chemmandarai, Vellai puvathi",
+      "common_name": "butterfly tree , mountain ebony,orchid tree, purple orchid tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 37,
+      "columns": [
+        "Benincasa hispida",
+        "kma",
+        "Petha / Mahdayah/Kohila",
+        "Boosani, Kalyana poosani, Poosanikkai",
+        "waxgourd"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Benincasa hispida",
+      "ayurveda_name": "kma",
+      "unani_name": "Petha / Mahdayah/Kohila",
+      "siddha_name": "Boosani, Kalyana poosani, Poosanikkai",
+      "common_name": "waxgourd"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 38,
+      "columns": [
+        "Berberis aristata DC. / Berberis asiatica Roxb. / Berberis lycium Royle",
+        "druharidr",
+        "",
+        "Maramanjal, Mullu kalaa, Usi kalaa",
+        "Indian Barberry"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Berberis aristata DC. / Berberis asiatica Roxb. / Berberis lycium Royle",
+      "ayurveda_name": "druharidr",
+      "unani_name": "",
+      "siddha_name": "Maramanjal, Mullu kalaa, Usi kalaa",
+      "common_name": "Indian Barberry"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 39,
+      "columns": [
+        "Bergenia ciliata",
+        "pa bheda",
+        "Pakhan Bed/Kaasar-al-Shajr/Paashaan Bhed",
+        "",
+        "aerva ,sessile joyweed"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Bergenia ciliata",
+      "ayurveda_name": "pa bheda",
+      "unani_name": "Pakhan Bed/Kaasar-al-Shajr/Paashaan Bhed",
+      "siddha_name": "",
+      "common_name": "aerva ,sessile joyweed"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 40,
+      "columns": [
+        "Bombax ceiba Linn.",
+        "lmali",
+        "Saimul/Sembhal/Mocharas/Salmali",
+        "Mullilavu, Pulai,Poorani,Pongar,Mosam",
+        "red silk cottontree, Silk Cotton Tree, Red Cotton Tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Bombax ceiba Linn.",
+      "ayurveda_name": "lmali",
+      "unani_name": "Saimul/Sembhal/Mocharas/Salmali",
+      "siddha_name": "Mullilavu, Pulai,Poorani,Pongar,Mosam",
+      "common_name": "red silk cottontree, Silk Cotton Tree, Red Cotton Tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 41,
+      "columns": [
+        "Carum carvi Linn.",
+        "kajraka",
+        "Karoya / Qirdmana / Qirtmann / Kamoon Kirmaani/ Zeerah Siyaah",
+        "Seemai sombu, kekku vidhai,Seemai sombu",
+        "caraway , cumin caraway"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Carum carvi Linn.",
+      "ayurveda_name": "kajraka",
+      "unani_name": "Karoya / Qirdmana / Qirtmann / Kamoon Kirmaani/ Zeerah Siyaah",
+      "siddha_name": "Seemai sombu, kekku vidhai,Seemai sombu",
+      "common_name": "caraway , cumin caraway"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 42,
+      "columns": [
+        "Cassia fistula Linn.",
+        "ragvadha",
+        "Amaltaas/Kheyaar shanbar",
+        "Kondrai, Aragoram, Idhali, Mathalai,Kiruthaamalam,Aakkuvadham, Konnei, Sarakonrai, Sarakonraipuli",
+        "golden shower"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cassia fistula Linn.",
+      "ayurveda_name": "ragvadha",
+      "unani_name": "Amaltaas/Kheyaar shanbar",
+      "siddha_name": "Kondrai, Aragoram, Idhali, Mathalai,Kiruthaamalam,Aakkuvadham, Konnei, Sarakonrai, Sarakonraipuli",
+      "common_name": "golden shower"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 43,
+      "columns": [
+        "Cassia occidentalis Linn.",
+        "ksamarda",
+        "Kasondi",
+        "Nattam takarai, Ponavirai, Peyavirai",
+        "coffee senna,septicweed"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cassia occidentalis Linn.",
+      "ayurveda_name": "ksamarda",
+      "unani_name": "Kasondi",
+      "siddha_name": "Nattam takarai, Ponavirai, Peyavirai",
+      "common_name": "coffee senna,septicweed"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 44,
+      "columns": [
+        "Cedrela toona Roxb.",
+        "tu, nandvka",
+        "Tun",
+        "Sandhana vembu, Tunumaram",
+        "Red Cedar, Toon, Indian\nMahogany tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cedrela toona Roxb.",
+      "ayurveda_name": "tu, nandvka",
+      "unani_name": "Tun",
+      "siddha_name": "Sandhana vembu, Tunumaram",
+      "common_name": "Red Cedar, Toon, Indian\nMahogany tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 45,
+      "columns": [
+        "Cedrus deodara",
+        "devadru",
+        "Deodar",
+        "Devataaru,Iru thaaru,Thoon,Pathira tharugam,Thevatha surar maram, Tevadari",
+        "pinus deodara, himalayan cedar"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cedrus deodara",
+      "ayurveda_name": "devadru",
+      "unani_name": "Deodar",
+      "siddha_name": "Devataaru,Iru thaaru,Thoon,Pathira tharugam,Thevatha surar maram, Tevadari",
+      "common_name": "pinus deodara, himalayan cedar"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 46,
+      "columns": [
+        "Celastrus paniculatus Willd.",
+        "jyotimat",
+        "Malkangni/Nammilnaraa",
+        "Athi parichan, Vaaluluvai, Kangkuni",
+        "staff tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Celastrus paniculatus Willd.",
+      "ayurveda_name": "jyotimat",
+      "unani_name": "Malkangni/Nammilnaraa",
+      "siddha_name": "Athi parichan, Vaaluluvai, Kangkuni",
+      "common_name": "staff tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 47,
+      "columns": [
+        "Chenopodium album Linn.",
+        "vstka, cill",
+        "Bathwa/Qataf/ Sarmaq",
+        "Kattasambadam, Parupukkeerai",
+        "common lambsquarters, lambsquarters, lambsquarters goosefoot, white goosefoot"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Chenopodium album Linn.",
+      "ayurveda_name": "vstka, cill",
+      "unani_name": "Bathwa/Qataf/ Sarmaq",
+      "siddha_name": "Kattasambadam, Parupukkeerai",
+      "common_name": "common lambsquarters, lambsquarters, lambsquarters goosefoot, white goosefoot"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 48,
+      "columns": [
+        "Chlorophytum tuberosum Baker / Asparagus adscendens Roxb.",
+        "mual veta",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Chlorophytum tuberosum Baker / Asparagus adscendens Roxb.",
+      "ayurveda_name": "mual veta",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 49,
+      "columns": [
+        "Cinnamomum camphora",
+        "karpra",
+        "Kafoor",
+        "Karpooram, Kanagasaram, Kuruvikodi, Palidam, Sasi,. Sandiran, Soman, Soodan, Indu",
+        "camphor laurel, camphor tree, camphortree, Camphor"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cinnamomum camphora",
+      "ayurveda_name": "karpra",
+      "unani_name": "Kafoor",
+      "siddha_name": "Karpooram, Kanagasaram, Kuruvikodi, Palidam, Sasi,. Sandiran, Soman, Soodan, Indu",
+      "common_name": "camphor laurel, camphor tree, camphortree, Camphor"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 50,
+      "columns": [
+        "Cinnamomum cassia",
+        "tvak",
+        "Qirfah",
+        "Lavangapattai",
+        "cassia"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cinnamomum cassia",
+      "ayurveda_name": "tvak",
+      "unani_name": "Qirfah",
+      "siddha_name": "Lavangapattai",
+      "common_name": "cassia"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 51,
+      "columns": [
+        "Cinnamomum tamala Nees",
+        "tejapatra, nalik",
+        "Sazaj Hindi/ Patraj",
+        "Lavangapathri,Kattu karuvapattai, Kattu kirambu, Perialavangapattai, Thalisapatri",
+        "indian bark"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cinnamomum tamala Nees",
+      "ayurveda_name": "tejapatra, nalik",
+      "unani_name": "Sazaj Hindi/ Patraj",
+      "siddha_name": "Lavangapathri,Kattu karuvapattai, Kattu kirambu, Perialavangapattai, Thalisapatri",
+      "common_name": "indian bark"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 52,
+      "columns": [
+        "Cinnamomum zeylanicum Blume",
+        "tvak",
+        "Daarchini",
+        "Ilavangapattai,Karuvappattai",
+        "cinnamon"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cinnamomum zeylanicum Blume",
+      "ayurveda_name": "tvak",
+      "unani_name": "Daarchini",
+      "siddha_name": "Ilavangapattai,Karuvappattai",
+      "common_name": "cinnamon"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 53,
+      "columns": [
+        "Cissampelos pareira Linn.",
+        "ph",
+        "Paatha/Fareed Booti",
+        "Appatta, Puniaittitta, Sina, Titta, Tuvan, Vattattiruppi",
+        "pareira brava"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cissampelos pareira Linn.",
+      "ayurveda_name": "ph",
+      "unani_name": "Paatha/Fareed Booti",
+      "siddha_name": "Appatta, Puniaittitta, Sina, Titta, Tuvan, Vattattiruppi",
+      "common_name": "pareira brava"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 54,
+      "columns": [
+        "Cissus quadrangularis Linn.",
+        "asthisahta, asthikhal",
+        "",
+        "Pirandai, Vajravalli, Indiravalli, Utthanasanjeevi,Uchiradam",
+        "Square Stalked Vine, Adamant Creeper"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cissus quadrangularis Linn.",
+      "ayurveda_name": "asthisahta, asthikhal",
+      "unani_name": "",
+      "siddha_name": "Pirandai, Vajravalli, Indiravalli, Utthanasanjeevi,Uchiradam",
+      "common_name": "Square Stalked Vine, Adamant Creeper"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 55,
+      "columns": [
+        "Citrullus colocynthis",
+        "indravru",
+        "Hanzal",
+        "Pei kummatti,Kalingam,Pichi kaay,Vari thummatti",
+        "colocynth"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Citrullus colocynthis",
+      "ayurveda_name": "indravru",
+      "unani_name": "Hanzal",
+      "siddha_name": "Pei kummatti,Kalingam,Pichi kaay,Vari thummatti",
+      "common_name": "colocynth"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 56,
+      "columns": [
+        "Citrus limon",
+        "jambra phala, nimbu",
+        "Utraj/Lemoon",
+        "Periya elumichai",
+        "lemon"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Citrus limon",
+      "ayurveda_name": "jambra phala, nimbu",
+      "unani_name": "Utraj/Lemoon",
+      "siddha_name": "Periya elumichai",
+      "common_name": "lemon"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 57,
+      "columns": [
+        "Citrus medica Linn.",
+        "bjapra",
+        "Beej Purah/Bajoorah/Turanj/ Naaranj",
+        "Elumichai, Kadaranarathai, Kogilacham, Maruchagam,Pazham, Kommatti madulai, Narattampazham",
+        "citron"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Citrus medica Linn.",
+      "ayurveda_name": "bjapra",
+      "unani_name": "Beej Purah/Bajoorah/Turanj/ Naaranj",
+      "siddha_name": "Elumichai, Kadaranarathai, Kogilacham, Maruchagam,Pazham, Kommatti madulai, Narattampazham",
+      "common_name": "citron"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 58,
+      "columns": [
+        "Cleome gynandra Linn.",
+        "ajagandh, tilapar?",
+        "",
+        "Thai velai, Nalvelai, Kadugu",
+        "spider whisp, spiderflower, spiderwisp"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cleome gynandra Linn.",
+      "ayurveda_name": "ajagandh, tilapar?",
+      "unani_name": "",
+      "siddha_name": "Thai velai, Nalvelai, Kadugu",
+      "common_name": "spider whisp, spiderflower, spiderwisp"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 59,
+      "columns": [
+        "Clerodendrum divaricatum Jack Syn.",
+        "bhrag",
+        "Baharangi/Bharangi",
+        "Ankaravalli, Siruthekku, Kanduparangi, Vathamadakki",
+        "Turks Turban, Tube-flower"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Clerodendrum divaricatum Jack Syn.",
+      "ayurveda_name": "bhrag",
+      "unani_name": "Baharangi/Bharangi",
+      "siddha_name": "Ankaravalli, Siruthekku, Kanduparangi, Vathamadakki",
+      "common_name": "Turks Turban, Tube-flower"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 60,
+      "columns": [
+        "Clerodendrum indicum",
+        "bhrag",
+        "Baharangi",
+        "Kavalai, Narivalai",
+        "turk's turbin"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Clerodendrum indicum",
+      "ayurveda_name": "bhrag",
+      "unani_name": "Baharangi",
+      "siddha_name": "Kavalai, Narivalai",
+      "common_name": "turk's turbin"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 61,
+      "columns": [
+        "Clerodendrum multiflorum",
+        "agnimantha laghu, tarkr",
+        "Taankal/Taankli/Arnie",
+        "Thaluthazhai, Vathamadakki",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Clerodendrum multiflorum",
+      "ayurveda_name": "agnimantha laghu, tarkr",
+      "unani_name": "Taankal/Taankli/Arnie",
+      "siddha_name": "Thaluthazhai, Vathamadakki",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 62,
+      "columns": [
+        "Clitoria ternatea Linn.",
+        "aparjit, akhapup",
+        "Abrajita",
+        "Kakkarattan,Sangu pushbam,Kakkanam,Kakkanathi, Minni, Kumarimani",
+        "Asian pigeonwings"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Clitoria ternatea Linn.",
+      "ayurveda_name": "aparjit, akhapup",
+      "unani_name": "Abrajita",
+      "siddha_name": "Kakkarattan,Sangu pushbam,Kakkanam,Kakkanathi, Minni, Kumarimani",
+      "common_name": "Asian pigeonwings"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 63,
+      "columns": [
+        "Coccinia grandis",
+        "bimb",
+        "Kandoori/Bambi",
+        "Kovai, Kuwai",
+        "ivy gourd, scarlet-fruited gourd"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Coccinia grandis",
+      "ayurveda_name": "bimb",
+      "unani_name": "Kandoori/Bambi",
+      "siddha_name": "Kovai, Kuwai",
+      "common_name": "ivy gourd, scarlet-fruited gourd"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 64,
+      "columns": [
+        "Cocos nucifera Linn.",
+        "nrikela",
+        "Narjeel/Naryal",
+        "Thenkaai, Naalikeram, Poologakarpaga vritcham, Mudiyarasan, Mukkannan,Ilaangali,Thennai",
+        "coconut palm"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cocos nucifera Linn.",
+      "ayurveda_name": "nrikela",
+      "unani_name": "Narjeel/Naryal",
+      "siddha_name": "Thenkaai, Naalikeram, Poologakarpaga vritcham, Mudiyarasan, Mukkannan,Ilaangali,Thennai",
+      "common_name": "coconut palm"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 65,
+      "columns": [
+        "Coleus vettiveroides K.C. Jacob / Valeriana jatamansii Jones Syn.",
+        "hrbera, blaka",
+        "",
+        "Guru ver,Vetriver,Vizhal ver,Viranam,Iruveli",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Coleus vettiveroides K.C. Jacob / Valeriana jatamansii Jones Syn.",
+      "ayurveda_name": "hrbera, blaka",
+      "unani_name": "",
+      "siddha_name": "Guru ver,Vetriver,Vizhal ver,Viranam,Iruveli",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 66,
+      "columns": [
+        "Commiphora myrrha",
+        "bola",
+        "Mur Makki / Beja Baul",
+        "Vellaippapolam, Valendrapolam, Kungkumatheepam, Meeru",
+        "Actiniopteris"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Commiphora myrrha",
+      "ayurveda_name": "bola",
+      "unani_name": "Mur Makki / Beja Baul",
+      "siddha_name": "Vellaippapolam, Valendrapolam, Kungkumatheepam, Meeru",
+      "common_name": "Actiniopteris"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 67,
+      "columns": [
+        "Commiphora wightii Bhandari Syn.",
+        "guggulu",
+        "Muqil",
+        "Maisaatchi kungilium, Gukkulu, Poonaikkan kungilium",
+        "Indian Bdellium, Gum Guggul"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Commiphora wightii Bhandari Syn.",
+      "ayurveda_name": "guggulu",
+      "unani_name": "Muqil",
+      "siddha_name": "Maisaatchi kungilium, Gukkulu, Poonaikkan kungilium",
+      "common_name": "Indian Bdellium, Gum Guggul"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 68,
+      "columns": [
+        "Convolvulus microphyllus Sieb. ex Spreng. Syn.",
+        "akhapup",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Convolvulus microphyllus Sieb. ex Spreng. Syn.",
+      "ayurveda_name": "akhapup",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 69,
+      "columns": [
+        "Corallocarpus epigaeus Benth. ex Hook. f.",
+        "ukans, nahik",
+        "",
+        "Aakaasa karudan,Kollankovai,Pei seendhil",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Corallocarpus epigaeus Benth. ex Hook. f.",
+      "ayurveda_name": "ukans, nahik",
+      "unani_name": "",
+      "siddha_name": "Aakaasa karudan,Kollankovai,Pei seendhil",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 70,
+      "columns": [
+        "Coriandrum sativum Linn.",
+        "dhnyaka",
+        "Kishneez",
+        "Kottha malli,Urularisi,Dhaniya",
+        "Chinese parsley, Chinese-parsley, coriander"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Coriandrum sativum Linn.",
+      "ayurveda_name": "dhnyaka",
+      "unani_name": "Kishneez",
+      "siddha_name": "Kottha malli,Urularisi,Dhaniya",
+      "common_name": "Chinese parsley, Chinese-parsley, coriander"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 71,
+      "columns": [
+        "Crateva nurvala Buch. -Ham.",
+        "varua",
+        "Barna.",
+        "Mavilingam, Kumaarakam, Varani, Maralingam",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Crateva nurvala Buch. -Ham.",
+      "ayurveda_name": "varua",
+      "unani_name": "Barna.",
+      "siddha_name": "Mavilingam, Kumaarakam, Varani, Maralingam",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 72,
+      "columns": [
+        "Crinum latifolium Linn.",
+        "sudarana",
+        "Sukh Darshan",
+        "Vishamoongil",
+        "Wide-leaved Crinum"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Crinum latifolium Linn.",
+      "ayurveda_name": "sudarana",
+      "unani_name": "Sukh Darshan",
+      "siddha_name": "Vishamoongil",
+      "common_name": "Wide-leaved Crinum"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 73,
+      "columns": [
+        "Crocus sativus Linn.",
+        "kukuma",
+        "Zafran/Gumr/ Gumrah",
+        "Kungumapoo,Gnalal poo,Kashmiram",
+        "saffron crocus, Saffron"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Crocus sativus Linn.",
+      "ayurveda_name": "kukuma",
+      "unani_name": "Zafran/Gumr/ Gumrah",
+      "siddha_name": "Kungumapoo,Gnalal poo,Kashmiram",
+      "common_name": "saffron crocus, Saffron"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 74,
+      "columns": [
+        "Croton tiglium Linn.",
+        "jayapla",
+        "Habb-al- Mulook/Maahudaana",
+        "Nervaalam, Naganam, Saiyabalam,Nigumbam, Thendi, Chiduram, Shobi, Nagathenthi",
+        "purging croton"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Croton tiglium Linn.",
+      "ayurveda_name": "jayapla",
+      "unani_name": "Habb-al- Mulook/Maahudaana",
+      "siddha_name": "Nervaalam, Naganam, Saiyabalam,Nigumbam, Thendi, Chiduram, Shobi, Nagathenthi",
+      "common_name": "purging croton"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 75,
+      "columns": [
+        "Cryptolepis buchanani",
+        "kasriv, jambpatr sriv",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cryptolepis buchanani",
+      "ayurveda_name": "kasriv, jambpatr sriv",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 76,
+      "columns": [
+        "Cucumis melo Linn.",
+        "ervru",
+        "Kakri/Kheyaarzah/Qissa",
+        "Vellarikkai, Kakkarikkai",
+        "Snake Cucumber"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cucumis melo Linn.",
+      "ayurveda_name": "ervru",
+      "unani_name": "Kakri/Kheyaarzah/Qissa",
+      "siddha_name": "Vellarikkai, Kakkarikkai",
+      "common_name": "Snake Cucumber"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 77,
+      "columns": [
+        "Cuminum cyminum Linn.",
+        "vetajraka",
+        "Zeerah",
+        "Seerakam, Asai, Seeri, Posanakudori,Upakumba peesam,Pittha naasini,Prathivikaa,Methiyam",
+        "cumin, Cumin seed"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cuminum cyminum Linn.",
+      "ayurveda_name": "vetajraka",
+      "unani_name": "Zeerah",
+      "siddha_name": "Seerakam, Asai, Seeri, Posanakudori,Upakumba peesam,Pittha naasini,Prathivikaa,Methiyam",
+      "common_name": "cumin, Cumin seed"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 78,
+      "columns": [
+        "Curculigo orchioides Gaertn.",
+        "tlaml, mual",
+        "Musli Siyah",
+        "Nilappanankizhanku,Vaaraagi,Kurathi,Chithi,Thalai thathu,Nila velumi,Thaalamooli,Thirana rasan",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Curculigo orchioides Gaertn.",
+      "ayurveda_name": "tlaml, mual",
+      "unani_name": "Musli Siyah",
+      "siddha_name": "Nilappanankizhanku,Vaaraagi,Kurathi,Chithi,Thalai thathu,Nila velumi,Thaalamooli,Thirana rasan",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 79,
+      "columns": [
+        "Curcuma amada Roxb.",
+        "haridr mragandhi",
+        "Aamba Haldi",
+        "Maankaai inji, Mamediallam, Arukamilaka",
+        "mango ginger"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Curcuma amada Roxb.",
+      "ayurveda_name": "haridr mragandhi",
+      "unani_name": "Aamba Haldi",
+      "siddha_name": "Maankaai inji, Mamediallam, Arukamilaka",
+      "common_name": "mango ginger"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 80,
+      "columns": [
+        "Curcuma zedoaria",
+        "a, karcra",
+        "Tumiri/Kacchuri/ Kachuri/Zarambad",
+        "Kichili kizhangu, Pulan kizhangu,Kacholam,Kachoram",
+        "zedoary"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Curcuma zedoaria",
+      "ayurveda_name": "a, karcra",
+      "unani_name": "Tumiri/Kacchuri/ Kachuri/Zarambad",
+      "siddha_name": "Kichili kizhangu, Pulan kizhangu,Kacholam,Kachoram",
+      "common_name": "zedoary"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 81,
+      "columns": [
+        "Cymbopogon martini",
+        "rohiata",
+        "Teen-e-Makkah",
+        "Kaavattampullu",
+        "rosha grass"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cymbopogon martini",
+      "ayurveda_name": "rohiata",
+      "unani_name": "Teen-e-Makkah",
+      "siddha_name": "Kaavattampullu",
+      "common_name": "rosha grass"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 82,
+      "columns": [
+        "Cynodon dactylon",
+        "drv",
+        "Doob / Najm",
+        "Arukan pull, Patham, Moothandam, Dhurvaathi, Megari, Ganapathi pathiram",
+        "Bermudagrass, chiendent pied-de-poule, common bermudagrass, devilgrass, grama-seda, manienie, motie molulu"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cynodon dactylon",
+      "ayurveda_name": "drv",
+      "unani_name": "Doob / Najm",
+      "siddha_name": "Arukan pull, Patham, Moothandam, Dhurvaathi, Megari, Ganapathi pathiram",
+      "common_name": "Bermudagrass, chiendent pied-de-poule, common bermudagrass, devilgrass, grama-seda, manienie, motie molulu"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 83,
+      "columns": [
+        "Cyperus rotundus Linn. / Cyperus scariosus R. Br. / Cyperus arundinaceum Baker",
+        "mustaka, gaadrv",
+        "Nager motha/Saad Kufi / Sad Kufi",
+        ",muthakasu ,varaga patchani,korai kizhangu",
+        "chaguan humatag, cocograss, kili'o'opu, nutgrass, pakopako, purple nutsedge"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Cyperus rotundus Linn. / Cyperus scariosus R. Br. / Cyperus arundinaceum Baker",
+      "ayurveda_name": "mustaka, gaadrv",
+      "unani_name": "Nager motha/Saad Kufi / Sad Kufi",
+      "siddha_name": ",muthakasu ,varaga patchani,korai kizhangu",
+      "common_name": "chaguan humatag, cocograss, kili'o'opu, nutgrass, pakopako, purple nutsedge"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 84,
+      "columns": [
+        "Datura metel Linn. / Datura inoxia Mill. / Datura stramonium Linn.",
+        "dhattra",
+        "",
+        "Vel oomatthai, Ponoomathai",
+        "Thornapple, Downy Datura"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Datura metel Linn. / Datura inoxia Mill. / Datura stramonium Linn.",
+      "ayurveda_name": "dhattra",
+      "unani_name": "",
+      "siddha_name": "Vel oomatthai, Ponoomathai",
+      "common_name": "Thornapple, Downy Datura"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 85,
+      "columns": [
+        "Dendrophthoe falcata",
+        "bandka, sahar, vkdan",
+        "",
+        "Ottunni,Pulluruvi, Ottu, Maravotti",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Dendrophthoe falcata",
+      "ayurveda_name": "bandka, sahar, vkdan",
+      "unani_name": "",
+      "siddha_name": "Ottunni,Pulluruvi, Ottu, Maravotti",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 86,
+      "columns": [
+        "Desmodium gangeticum",
+        "lapar",
+        "Patraheen/Salparni",
+        "Pulladi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Desmodium gangeticum",
+      "ayurveda_name": "lapar",
+      "unani_name": "Patraheen/Salparni",
+      "siddha_name": "Pulladi",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 87,
+      "columns": [
+        "Desmostachya bipinnata",
+        "kua",
+        "Daab",
+        "Tharuppai, Kumudham, Visuvaamiththiram, Kusaippul",
+        "Sacrificial Grass"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Desmostachya bipinnata",
+      "ayurveda_name": "kua",
+      "unani_name": "Daab",
+      "siddha_name": "Tharuppai, Kumudham, Visuvaamiththiram, Kusaippul",
+      "common_name": "Sacrificial Grass"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 88,
+      "columns": [
+        "Dichrostachys cinerea",
+        "vrataru",
+        "",
+        "Vidatthalai",
+        "aroma"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Dichrostachys cinerea",
+      "ayurveda_name": "vrataru",
+      "unani_name": "",
+      "siddha_name": "Vidatthalai",
+      "common_name": "aroma"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 89,
+      "columns": [
+        "Diospyros discolor Willd.",
+        "tinduka",
+        "",
+        "",
+        "mabolo"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Diospyros discolor Willd.",
+      "ayurveda_name": "tinduka",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": "mabolo"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 90,
+      "columns": [
+        "Eclipta prostrata",
+        "bhgarja",
+        "Bhangra",
+        "Kaiyanthakarai, Vellai karisalai",
+        "eclipta, false daisy"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Eclipta prostrata",
+      "ayurveda_name": "bhgarja",
+      "unani_name": "Bhangra",
+      "siddha_name": "Kaiyanthakarai, Vellai karisalai",
+      "common_name": "eclipta, false daisy"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 91,
+      "columns": [
+        "Elaeocarpus sphaericus",
+        "rudrka",
+        "",
+        "Uruthiraatcham",
+        "Utrasum Bead tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Elaeocarpus sphaericus",
+      "ayurveda_name": "rudrka",
+      "unani_name": "",
+      "siddha_name": "Uruthiraatcham",
+      "common_name": "Utrasum Bead tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 92,
+      "columns": [
+        "Elettaria cardamomum",
+        "skmail",
+        "Heel Khurd/Qaaqulah Sagheer",
+        "Yaelakkai,Aanji,Dhudi,Korangam",
+        "cardamom, Lesser Cardamom"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Elettaria cardamomum",
+      "ayurveda_name": "skmail",
+      "unani_name": "Heel Khurd/Qaaqulah Sagheer",
+      "siddha_name": "Yaelakkai,Aanji,Dhudi,Korangam",
+      "common_name": "cardamom, Lesser Cardamom"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 93,
+      "columns": [
+        "Embelia ribes Burm. f. / Embelia tsjeriam-cottam A. Dc Syn. E. robusta C.B Clarke",
+        "viaga",
+        "Baobarang/Babrang/Bakaj Kabuli/Abranj/Barnaq",
+        "Vaayvidangam, Keralam, Varnanai, Vellal",
+        "Embelia."
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Embelia ribes Burm. f. / Embelia tsjeriam-cottam A. Dc Syn. E. robusta C.B Clarke",
+      "ayurveda_name": "viaga",
+      "unani_name": "Baobarang/Babrang/Bakaj Kabuli/Abranj/Barnaq",
+      "siddha_name": "Vaayvidangam, Keralam, Varnanai, Vellal",
+      "common_name": "Embelia."
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 94,
+      "columns": [
+        "Erythrina variegata Linn.",
+        "pribhadra",
+        "Mandara",
+        "Kalyana murungai, Parisatham, Mullu murungai, Muchi, Savuchayam, Vallai, Kinjugam",
+        "tiger's claw"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Erythrina variegata Linn.",
+      "ayurveda_name": "pribhadra",
+      "unani_name": "Mandara",
+      "siddha_name": "Kalyana murungai, Parisatham, Mullu murungai, Muchi, Savuchayam, Vallai, Kinjugam",
+      "common_name": "tiger's claw"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 95,
+      "columns": [
+        "Euphorbia dracunculoides Lam.",
+        "saptal",
+        "",
+        "Tillakada",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Euphorbia dracunculoides Lam.",
+      "ayurveda_name": "saptal",
+      "unani_name": "",
+      "siddha_name": "Tillakada",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 96,
+      "columns": [
+        "Euphorbia neriifolia Linn.",
+        "snuh",
+        "Thuhar",
+        "Ilaikalli, Manchevi kalli, Naynakki, Nadangi",
+        "Indian spurgetree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Euphorbia neriifolia Linn.",
+      "ayurveda_name": "snuh",
+      "unani_name": "Thuhar",
+      "siddha_name": "Ilaikalli, Manchevi kalli, Naynakki, Nadangi",
+      "common_name": "Indian spurgetree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 97,
+      "columns": [
+        "Euphorbia thomsoniana Boiss. / Argemone mexicana Linn.",
+        "svarakr",
+        "",
+        "Kudiyotti, Biramathandu, Brahmmathandu, Kurukkumchedi",
+        "Argemone mexicana-Prickly Poppy, Mexican Poppy"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Euphorbia thomsoniana Boiss. / Argemone mexicana Linn.",
+      "ayurveda_name": "svarakr",
+      "unani_name": "",
+      "siddha_name": "Kudiyotti, Biramathandu, Brahmmathandu, Kurukkumchedi",
+      "common_name": "Argemone mexicana-Prickly Poppy, Mexican Poppy"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 98,
+      "columns": [
+        "Euphorbia thymifolia Linn.",
+        "dugdhik",
+        "",
+        "Chithirapaalaadai, Chiru ammaan pacharisi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Euphorbia thymifolia Linn.",
+      "ayurveda_name": "dugdhik",
+      "unani_name": "",
+      "siddha_name": "Chithirapaalaadai, Chiru ammaan pacharisi",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 99,
+      "columns": [
+        "Fagonia cretica Linn. / Alhagi pseudalhagi",
+        "dhanvaysa",
+        "Dhamaya/Dhamasa/Shukaai'",
+        "Ootagamul or Korandimul.",
+        "Camel Thorn, Persian Manna Plant"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Fagonia cretica Linn. / Alhagi pseudalhagi",
+      "ayurveda_name": "dhanvaysa",
+      "unani_name": "Dhamaya/Dhamasa/Shukaai'",
+      "siddha_name": "Ootagamul or Korandimul.",
+      "common_name": "Camel Thorn, Persian Manna Plant"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 100,
+      "columns": [
+        "Feronia limonia",
+        "kapittha",
+        "Hab habu",
+        "Ootagamul or Korandimul, Narivila, Kuttivila, Nilavila, Vilanga",
+        "Wood Apple"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Feronia limonia",
+      "ayurveda_name": "kapittha",
+      "unani_name": "Hab habu",
+      "siddha_name": "Ootagamul or Korandimul, Narivila, Kuttivila, Nilavila, Vilanga",
+      "common_name": "Wood Apple"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 101,
+      "columns": [
+        "Ferula foetida regel",
+        "higu",
+        "Hilteet/Heeng/Anjodaan",
+        "Perungayam;Gayam,Pothanasam,Ingu,Santhunasam,Athiyakirakaram,Valeegam, Sagasthirabedhi",
+        "asafetida"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Ferula foetida regel",
+      "ayurveda_name": "higu",
+      "unani_name": "Hilteet/Heeng/Anjodaan",
+      "siddha_name": "Perungayam;Gayam,Pothanasam,Ingu,Santhunasam,Athiyakirakaram,Valeegam, Sagasthirabedhi",
+      "common_name": "asafetida"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 102,
+      "columns": [
+        "Ficus benghalensis Linn.",
+        "nyagrodha, vaa",
+        "",
+        "Aalamaram, Vadam, Pootham, Vanongi, Iyakkurotham, Pudavritcham, Vadavirukam, Palu maram, thol m",
+        "Indian banyan"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Ficus benghalensis Linn.",
+      "ayurveda_name": "nyagrodha, vaa",
+      "unani_name": "",
+      "siddha_name": "Aalamaram, Vadam, Pootham, Vanongi, Iyakkurotham, Pudavritcham, Vadavirukam, Palu maram, thol m",
+      "common_name": "Indian banyan"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 103,
+      "columns": [
+        "Ficus carica Linn.",
+        "phalgu, bhadrodumbara",
+        "Injeer/Teen",
+        "Seemaiatthi, Thaen atthi",
+        "common fig, edible fig, fiku, piku"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Ficus carica Linn.",
+      "ayurveda_name": "phalgu, bhadrodumbara",
+      "unani_name": "Injeer/Teen",
+      "siddha_name": "Seemaiatthi, Thaen atthi",
+      "common_name": "common fig, edible fig, fiku, piku"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 104,
+      "columns": [
+        "Ficus hispid Linn.f.",
+        "kkodumbara, phalgu malay",
+        "Teen-e-Banghali",
+        "Paeyatti, Sonatti, Kattatti, Ottannalam,Malaiatti,Asamandham",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Ficus hispid Linn.f.",
+      "ayurveda_name": "kkodumbara, phalgu malay",
+      "unani_name": "Teen-e-Banghali",
+      "siddha_name": "Paeyatti, Sonatti, Kattatti, Ottannalam,Malaiatti,Asamandham",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 105,
+      "columns": [
+        "Ficus racemosa Linn.",
+        "udumbara",
+        "Gular/ Jummaiz/Alaf Hindi",
+        "Atthi, Atham, Athavu, Uthumbaram, Koli, Supirathashtam",
+        "clustertree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Ficus racemosa Linn.",
+      "ayurveda_name": "udumbara",
+      "unani_name": "Gular/ Jummaiz/Alaf Hindi",
+      "siddha_name": "Atthi, Atham, Athavu, Uthumbaram, Koli, Supirathashtam",
+      "common_name": "clustertree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 106,
+      "columns": [
+        "Ficus religiosa Linn.",
+        "avattha",
+        "Peepal",
+        "Arasu, Aswatham, Bodi, Kanavam, Pippilam, Megathurumam, Narayanam, , Vanagandhi, Thiru maram",
+        "peepul tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Ficus religiosa Linn.",
+      "ayurveda_name": "avattha",
+      "unani_name": "Peepal",
+      "siddha_name": "Arasu, Aswatham, Bodi, Kanavam, Pippilam, Megathurumam, Narayanam, , Vanagandhi, Thiru maram",
+      "common_name": "peepul tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 107,
+      "columns": [
+        "Ficus virens Ait.",
+        "plaka",
+        "",
+        "Kurugu",
+        "White Fig"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Ficus virens Ait.",
+      "ayurveda_name": "plaka",
+      "unani_name": "",
+      "siddha_name": "Kurugu",
+      "common_name": "White Fig"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 108,
+      "columns": [
+        "Foeniculum vulgare Mill.",
+        "madhurik, mirey",
+        "Baadiyaan/Saunf/Baadiyaan Barri/Shivmaar/Shoomar/ Raazeyaana",
+        "Shombu, Perungeeram, Sohikeerai",
+        "sweet fennel, Fennel"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Foeniculum vulgare Mill.",
+      "ayurveda_name": "madhurik, mirey",
+      "unani_name": "Baadiyaan/Saunf/Baadiyaan Barri/Shivmaar/Shoomar/ Raazeyaana",
+      "siddha_name": "Shombu, Perungeeram, Sohikeerai",
+      "common_name": "sweet fennel, Fennel"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 109,
+      "columns": [
+        "Fritillaria roylei Hook. / Withania somnifera",
+        "krakkol? kukku",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Fritillaria roylei Hook. / Withania somnifera",
+      "ayurveda_name": "krakkol? kukku",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 110,
+      "columns": [
+        "Fumaria indica Pugsley Syn.",
+        "parpaa bheda",
+        "Shaahtara / Shaahtraj",
+        "Tharaa,Tusa, Tura,Pamba tharaa,Madhugam",
+        "fine-leaf fumitory, fineleaf fumitory, Small Flowered Fumitory"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Fumaria indica Pugsley Syn.",
+      "ayurveda_name": "parpaa bheda",
+      "unani_name": "Shaahtara / Shaahtraj",
+      "siddha_name": "Tharaa,Tusa, Tura,Pamba tharaa,Madhugam",
+      "common_name": "fine-leaf fumitory, fineleaf fumitory, Small Flowered Fumitory"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 111,
+      "columns": [
+        "Fumaria vaillantii Loisel.",
+        "parpaa",
+        "",
+        "Thura",
+        "earthsmoke"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Fumaria vaillantii Loisel.",
+      "ayurveda_name": "parpaa",
+      "unani_name": "",
+      "siddha_name": "Thura",
+      "common_name": "earthsmoke"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 112,
+      "columns": [
+        "Garcinia cambogia Desr.",
+        "vkmla bheda",
+        "",
+        "Kodukkapuli, Aradal",
+        "Gamboge tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Garcinia cambogia Desr.",
+      "ayurveda_name": "vkmla bheda",
+      "unani_name": "",
+      "siddha_name": "Kodukkapuli, Aradal",
+      "common_name": "Gamboge tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 113,
+      "columns": [
+        "Garcinia indica Chois.",
+        "vkmla",
+        "",
+        "Murgal",
+        "garcinia"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Garcinia indica Chois.",
+      "ayurveda_name": "vkmla",
+      "unani_name": "",
+      "siddha_name": "Murgal",
+      "common_name": "garcinia"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 114,
+      "columns": [
+        "Garcinia morella",
+        "kakuha, tamla",
+        "Seyaam Taal/Tamaal/Kaala Taad/Farfiraan-e-Hindi",
+        "Makki  ,Solai puli, Iravel sinni, Korag puli",
+        "Indian Gamboge"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Garcinia morella",
+      "ayurveda_name": "kakuha, tamla",
+      "unani_name": "Seyaam Taal/Tamaal/Kaala Taad/Farfiraan-e-Hindi",
+      "siddha_name": "Makki  ,Solai puli, Iravel sinni, Korag puli",
+      "common_name": "Indian Gamboge"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 115,
+      "columns": [
+        "Garcinia pedunculata Roxb.",
+        "amlavetasa",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Garcinia pedunculata Roxb.",
+      "ayurveda_name": "amlavetasa",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 116,
+      "columns": [
+        "Gentiana kurroo Royle",
+        "tryama, tryant",
+        "Neel Kanthi/Pashanbheda/Utparbahi",
+        "Nilavembu",
+        "Himalayan Gentian, Indian\nGentian Root"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Gentiana kurroo Royle",
+      "ayurveda_name": "tryama, tryant",
+      "unani_name": "Neel Kanthi/Pashanbheda/Utparbahi",
+      "siddha_name": "Nilavembu",
+      "common_name": "Himalayan Gentian, Indian\nGentian Root"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 117,
+      "columns": [
+        "Gloriosa superba Linn.",
+        "lgal",
+        "",
+        "Kalappaikizhangu,Karthikai kizhangu,Kandhal kizhangu,Ven thondri kizhangu,Ilangali kizhangu",
+        "flame lily"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Gloriosa superba Linn.",
+      "ayurveda_name": "lgal",
+      "unani_name": "",
+      "siddha_name": "Kalappaikizhangu,Karthikai kizhangu,Kandhal kizhangu,Ven thondri kizhangu,Ilangali kizhangu",
+      "common_name": "flame lily"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 118,
+      "columns": [
+        "Glycyrrhiza glabra Linn.",
+        "yaimadhu, kltaka",
+        "Rubb-al-Soos/Asl-al-Soos",
+        "Athimathuram, Athingam, Atti, Mathugam, Kundri vaer",
+        "cultivated licorice"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Glycyrrhiza glabra Linn.",
+      "ayurveda_name": "yaimadhu, kltaka",
+      "unani_name": "Rubb-al-Soos/Asl-al-Soos",
+      "siddha_name": "Athimathuram, Athingam, Atti, Mathugam, Kundri vaer",
+      "common_name": "cultivated licorice"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 119,
+      "columns": [
+        "Gmelina arborea Roxb.",
+        "gambhr",
+        "",
+        "Gumuaduteku, Gumadi, Kattanam",
+        "gumhar"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Gmelina arborea Roxb.",
+      "ayurveda_name": "gambhr",
+      "unani_name": "",
+      "siddha_name": "Gumuaduteku, Gumadi, Kattanam",
+      "common_name": "gumhar"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 120,
+      "columns": [
+        "Gossypium herbaceum Linn.",
+        "krpsa",
+        "Panbah Daanah/Habb-al-Qutn",
+        "Paruthi, Karpasam, Panchu,Samuthrandam, Tulavam,Uttri, Pari,Aachada nabalai",
+        "Levant cotton"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Gossypium herbaceum Linn.",
+      "ayurveda_name": "krpsa",
+      "unani_name": "Panbah Daanah/Habb-al-Qutn",
+      "siddha_name": "Paruthi, Karpasam, Panchu,Samuthrandam, Tulavam,Uttri, Pari,Aachada nabalai",
+      "common_name": "Levant cotton"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 121,
+      "columns": [
+        "Grewia asiatica Linn.",
+        "paruaka",
+        "Phaalsah",
+        "Palisa, Tadachi,Unnu",
+        "phalsa"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Grewia asiatica Linn.",
+      "ayurveda_name": "paruaka",
+      "unani_name": "Phaalsah",
+      "siddha_name": "Palisa, Tadachi,Unnu",
+      "common_name": "phalsa"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 122,
+      "columns": [
+        "Grewia tiliifolia Vahl",
+        "dhanvana",
+        "",
+        "Unnu,Sadachi, Tada, Tarra, Una",
+        "Dhaman"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Grewia tiliifolia Vahl",
+      "ayurveda_name": "dhanvana",
+      "unani_name": "",
+      "siddha_name": "Unnu,Sadachi, Tada, Tarra, Una",
+      "common_name": "Dhaman"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 123,
+      "columns": [
+        "Gymnema sylvestre",
+        "meag,  madhunin",
+        "Gurmar Buti/ Gurmar Booti",
+        "Sirukurinjan,Athigam, Sakkaraikkolli, Amuthu pushpam, Ayagam, Kogilam, Shagacharam",
+        "miracle fruit"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Gymnema sylvestre",
+      "ayurveda_name": "meag,  madhunin",
+      "unani_name": "Gurmar Buti/ Gurmar Booti",
+      "siddha_name": "Sirukurinjan,Athigam, Sakkaraikkolli, Amuthu pushpam, Ayagam, Kogilam, Shagacharam",
+      "common_name": "miracle fruit"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 124,
+      "columns": [
+        "Habenaria intermedia D. Don / Dioscorea bulbifera Linn.",
+        "ddhi-vddhi bheda",
+        "",
+        "Vetrilai valli,Kaai vallikodi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Habenaria intermedia D. Don / Dioscorea bulbifera Linn.",
+      "ayurveda_name": "ddhi-vddhi bheda",
+      "unani_name": "",
+      "siddha_name": "Vetrilai valli,Kaai vallikodi",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 125,
+      "columns": [
+        "Hedychium spicatum Buch.- Ham.",
+        "a",
+        "",
+        "Seemaikichilikizhangu",
+        "Spiked Ginger Lily"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Hedychium spicatum Buch.- Ham.",
+      "ayurveda_name": "a",
+      "unani_name": "",
+      "siddha_name": "Seemaikichilikizhangu",
+      "common_name": "Spiked Ginger Lily"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 126,
+      "columns": [
+        "Helianthus annuus Linn.",
+        "sryvarta",
+        "Surajmukhi/ Dowaar-al-Shamsh/ Abbaad-al-Shamsh/ Ain-al-Shamsh/ Hasheesh-al-Aqrab/ Saamir Yauma/ Tarishool",
+        "Suriyakanthi",
+        "annual sunflower, common sunflower, sunflower, wild sunflower"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Helianthus annuus Linn.",
+      "ayurveda_name": "sryvarta",
+      "unani_name": "Surajmukhi/ Dowaar-al-Shamsh/ Abbaad-al-Shamsh/ Ain-al-Shamsh/ Hasheesh-al-Aqrab/ Saamir Yauma/ Tarishool",
+      "siddha_name": "Suriyakanthi",
+      "common_name": "annual sunflower, common sunflower, sunflower, wild sunflower"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 127,
+      "columns": [
+        "Hemidesmus indicus",
+        "sriv",
+        "Ushbah Hindi / Anant Mol",
+        "Nannaari,Ankaari mooli,Paadhala mooli,Krishna valli,Kaama valli,Neerundi,Saariyam,Saaribam,Paarkkodi",
+        "Indian Sarsaparilla"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Hemidesmus indicus",
+      "ayurveda_name": "sriv",
+      "unani_name": "Ushbah Hindi / Anant Mol",
+      "siddha_name": "Nannaari,Ankaari mooli,Paadhala mooli,Krishna valli,Kaama valli,Neerundi,Saariyam,Saaribam,Paarkkodi",
+      "common_name": "Indian Sarsaparilla"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 128,
+      "columns": [
+        "Holarrhena antidysenterica",
+        "kuaja, indrayava",
+        "Inderjao Talkh/Teewaj-e-Khatai",
+        "Kudasapaalai,Kulappalai,Kasappu vetpalai",
+        "tellicherry bark"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Holarrhena antidysenterica",
+      "ayurveda_name": "kuaja, indrayava",
+      "unani_name": "Inderjao Talkh/Teewaj-e-Khatai",
+      "siddha_name": "Kudasapaalai,Kulappalai,Kasappu vetpalai",
+      "common_name": "tellicherry bark"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 129,
+      "columns": [
+        "Holoptelea integrifolia",
+        "ptikaraja",
+        "",
+        "Aya, Ayil, Kanci, Vellaya",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Holoptelea integrifolia",
+      "ayurveda_name": "ptikaraja",
+      "unani_name": "",
+      "siddha_name": "Aya, Ayil, Kanci, Vellaya",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 130,
+      "columns": [
+        "Hordeum vulgare Linn.",
+        "yava",
+        "Jau/Sha'eer",
+        "Barley arici",
+        "Barley, cereal barley, common barley"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Hordeum vulgare Linn.",
+      "ayurveda_name": "yava",
+      "unani_name": "Jau/Sha'eer",
+      "siddha_name": "Barley arici",
+      "common_name": "Barley, cereal barley, common barley"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 131,
+      "columns": [
+        "Hugonia mystax",
+        "kasamra",
+        "",
+        "Agori,Motirakkanni",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Hugonia mystax",
+      "ayurveda_name": "kasamra",
+      "unani_name": "",
+      "siddha_name": "Agori,Motirakkanni",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 132,
+      "columns": [
+        "Hybanthus enneaspermus",
+        "sthalapadma",
+        "",
+        "Purusharathnam,Suria gandhai,Oridhazh thamarai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Hybanthus enneaspermus",
+      "ayurveda_name": "sthalapadma",
+      "unani_name": "",
+      "siddha_name": "Purusharathnam,Suria gandhai,Oridhazh thamarai",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 133,
+      "columns": [
+        "Imperata cylindrica Beauv./ Imperata arundinacea Cyr.",
+        "darbha",
+        "Kookha",
+        "Tharbaipul, Inanga pul,Varlipul, Naanal",
+        "thatch grass,alang-alang, blady grass, cogon grass, cogongrass, kunai, paillotte, santintail"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Imperata cylindrica Beauv./ Imperata arundinacea Cyr.",
+      "ayurveda_name": "darbha",
+      "unani_name": "Kookha",
+      "siddha_name": "Tharbaipul, Inanga pul,Varlipul, Naanal",
+      "common_name": "thatch grass,alang-alang, blady grass, cogon grass, cogongrass, kunai, paillotte, santintail"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 134,
+      "columns": [
+        "Indigofera tinctoria Linn.",
+        "nl",
+        "Neel/Wasmah/Neelaj/Leenaj/Shaal Khatee/Katam/Neelaj janglee/Andgo/Wargamma/Kereneli",
+        "Neeli, Avuri, Madhuparunigai, Karuntholi, Irasani, Chamundi, Atthipurasatam, Neelam",
+        "common indigo, indian indigo"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Indigofera tinctoria Linn.",
+      "ayurveda_name": "nl",
+      "unani_name": "Neel/Wasmah/Neelaj/Leenaj/Shaal Khatee/Katam/Neelaj janglee/Andgo/Wargamma/Kereneli",
+      "siddha_name": "Neeli, Avuri, Madhuparunigai, Karuntholi, Irasani, Chamundi, Atthipurasatam, Neelam",
+      "common_name": "common indigo, indian indigo"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 135,
+      "columns": [
+        "Inula helenium Linn./ Inula racemosa Hook.",
+        "pukara",
+        "Raasan",
+        "",
+        "Elecampane"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Inula helenium Linn./ Inula racemosa Hook.",
+      "ayurveda_name": "pukara",
+      "unani_name": "Raasan",
+      "siddha_name": "",
+      "common_name": "Elecampane"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 136,
+      "columns": [
+        "Jasminum officinale Linn.",
+        "jt",
+        "Chemeli/Yasmeen/Yasman",
+        "Mullai, Pichchi, Padarmalligai, Manmathapaanam",
+        "poet's jasmine"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Jasminum officinale Linn.",
+      "ayurveda_name": "jt",
+      "unani_name": "Chemeli/Yasmeen/Yasman",
+      "siddha_name": "Mullai, Pichchi, Padarmalligai, Manmathapaanam",
+      "common_name": "poet's jasmine"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 137,
+      "columns": [
+        "Jatropha glandulifera",
+        "dravant, vyghrairaa",
+        "",
+        "Adalai, Eliyamanakku, Udalai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Jatropha glandulifera",
+      "ayurveda_name": "dravant, vyghrairaa",
+      "unani_name": "",
+      "siddha_name": "Adalai, Eliyamanakku, Udalai",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 138,
+      "columns": [
+        "Juniperus communis Linn.",
+        "hapu, hubera",
+        "Abhal/A'ra'r/Sarw Koohi",
+        "",
+        "common juniper, dwarf juniper"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Juniperus communis Linn.",
+      "ayurveda_name": "hapu, hubera",
+      "unani_name": "Abhal/A'ra'r/Sarw Koohi",
+      "siddha_name": "",
+      "common_name": "common juniper, dwarf juniper"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 139,
+      "columns": [
+        "Justicia adhatoda Linn.",
+        "vs",
+        "",
+        "Adathodai,vasai",
+        "Malabar nut"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Justicia adhatoda Linn.",
+      "ayurveda_name": "vs",
+      "unani_name": "",
+      "siddha_name": "Adathodai,vasai",
+      "common_name": "Malabar nut"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 140,
+      "columns": [
+        "Lagenaria siceraria",
+        "tumbin, kautumb, albu",
+        "Kadu-e-Daraaz/ Lauki",
+        "Surakkai",
+        "Bottle gourd, Calbash gourd"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Lagenaria siceraria",
+      "ayurveda_name": "tumbin, kautumb, albu",
+      "unani_name": "Kadu-e-Daraaz/ Lauki",
+      "siddha_name": "Surakkai",
+      "common_name": "Bottle gourd, Calbash gourd"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 141,
+      "columns": [
+        "Leea macrophylla Roxb. ex Horn.",
+        "hastikarapala, hastkanda",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Leea macrophylla Roxb. ex Horn.",
+      "ayurveda_name": "hastikarapala, hastkanda",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 142,
+      "columns": [
+        "Lens culinaris Medic",
+        "masra",
+        "Adas/Masoor",
+        "Misurparuppu",
+        "Lentil"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Lens culinaris Medic",
+      "ayurveda_name": "masra",
+      "unani_name": "Adas/Masoor",
+      "siddha_name": "Misurparuppu",
+      "common_name": "Lentil"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 143,
+      "columns": [
+        "Leonotis nepetiaefolia",
+        "granthipar",
+        "",
+        "",
+        "Christmas candlestick"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Leonotis nepetiaefolia",
+      "ayurveda_name": "granthipar",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": "Christmas candlestick"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 144,
+      "columns": [
+        "Leptadenia reticulata Wight & Arn.",
+        "jvant",
+        "Jeevanti",
+        "Palaikodi, Pala kudai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Leptadenia reticulata Wight & Arn.",
+      "ayurveda_name": "jvant",
+      "unani_name": "Jeevanti",
+      "siddha_name": "Palaikodi, Pala kudai",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 145,
+      "columns": [
+        "Leucas cephalotes Spreng.",
+        "droapup",
+        "Tumba",
+        "Thumbai keeri",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Leucas cephalotes Spreng.",
+      "ayurveda_name": "droapup",
+      "unani_name": "Tumba",
+      "siddha_name": "Thumbai keeri",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 146,
+      "columns": [
+        "Lilium polyphyllum D. Don / Withania somnifera",
+        "kakol, krakkol",
+        "Kaakoli",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Lilium polyphyllum D. Don / Withania somnifera",
+      "ayurveda_name": "kakol, krakkol",
+      "unani_name": "Kaakoli",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 147,
+      "columns": [
+        "Luffa aegyptiaca Mill.",
+        "dhmrgava, mahkotak",
+        "",
+        "Pikku, Pichuku, Kutti pira, Tureippirku",
+        "Sponge gourd, Vegetable sponge"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Luffa aegyptiaca Mill.",
+      "ayurveda_name": "dhmrgava, mahkotak",
+      "unani_name": "",
+      "siddha_name": "Pikku, Pichuku, Kutti pira, Tureippirku",
+      "common_name": "Sponge gourd, Vegetable sponge"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 148,
+      "columns": [
+        "Luffa echinata Roxb.",
+        "jimtaka, devadl",
+        "Daab / Daangri/Leef/Lof-e-Misri",
+        "Mozhukupirkankai",
+        "Bristly Luffa"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Luffa echinata Roxb.",
+      "ayurveda_name": "jimtaka, devadl",
+      "unani_name": "Daab / Daangri/Leef/Lof-e-Misri",
+      "siddha_name": "Mozhukupirkankai",
+      "common_name": "Bristly Luffa"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 149,
+      "columns": [
+        "Lygodium flexuosum",
+        "rudraja",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Lygodium flexuosum",
+      "ayurveda_name": "rudraja",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 150,
+      "columns": [
+        "Malaxis acuminata D. Don Syn.",
+        "abhaka",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Malaxis acuminata D. Don Syn.",
+      "ayurveda_name": "abhaka",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 151,
+      "columns": [
+        "Malaxis muscifera",
+        "jvaka",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Malaxis muscifera",
+      "ayurveda_name": "jvaka",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 152,
+      "columns": [
+        "Mallotus philippensis Muell.-Arg.",
+        "kampilla",
+        "Kamila/Qimbeel",
+        "Kapli, Kungumam, Kurangumanjanathi,Kamalaa,Kambillam, Kamela",
+        "Kamala tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Mallotus philippensis Muell.-Arg.",
+      "ayurveda_name": "kampilla",
+      "unani_name": "Kamila/Qimbeel",
+      "siddha_name": "Kapli, Kungumam, Kurangumanjanathi,Kamalaa,Kambillam, Kamela",
+      "common_name": "Kamala tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 153,
+      "columns": [
+        "Malva rotundifolia Linn.",
+        "suvarcal",
+        "",
+        "Kattu kadalai",
+        "Round-leaved Mallow,\nDrawfMallow, Cheese Cake Flower"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Malva rotundifolia Linn.",
+      "ayurveda_name": "suvarcal",
+      "unani_name": "",
+      "siddha_name": "Kattu kadalai",
+      "common_name": "Round-leaved Mallow,\nDrawfMallow, Cheese Cake Flower"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 154,
+      "columns": [
+        "Mangifera indica Linn.",
+        "mra",
+        "Anba/Aam",
+        "Maa, Kokku, Sootham, Kuthirai, Aambhiram, Maanthi, Maazhai",
+        "Mango"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Mangifera indica Linn.",
+      "ayurveda_name": "mra",
+      "unani_name": "Anba/Aam",
+      "siddha_name": "Maa, Kokku, Sootham, Kuthirai, Aambhiram, Maanthi, Maazhai",
+      "common_name": "Mango"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 155,
+      "columns": [
+        "Marsdenia tenacissima Wight. & Arn. / Chonemorpha fragrans",
+        "mrv",
+        "",
+        "",
+        "White Turpeth/Wood Vine"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Marsdenia tenacissima Wight. & Arn. / Chonemorpha fragrans",
+      "ayurveda_name": "mrv",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": "White Turpeth/Wood Vine"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 156,
+      "columns": [
+        "Martynia annua Linn.",
+        "kkans?",
+        "Bakhoor-e-Maryam/Panja-e-Maryam/Haathajori",
+        "Thelkodukkukai, Pulinagam",
+        "Devil's claw, Tiger clw"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Martynia annua Linn.",
+      "ayurveda_name": "kkans?",
+      "unani_name": "Bakhoor-e-Maryam/Panja-e-Maryam/Haathajori",
+      "siddha_name": "Thelkodukkukai, Pulinagam",
+      "common_name": "Devil's claw, Tiger clw"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 157,
+      "columns": [
+        "Melia azedarach Linn.",
+        "mahnimba, kaiarya",
+        "Bakayin/Khasi-ud-deek",
+        "Thylukkanivembu, Malaivembu",
+        "Persian liliac, Bead tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Melia azedarach Linn.",
+      "ayurveda_name": "mahnimba, kaiarya",
+      "unani_name": "Bakayin/Khasi-ud-deek",
+      "siddha_name": "Thylukkanivembu, Malaivembu",
+      "common_name": "Persian liliac, Bead tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 158,
+      "columns": [
+        "Mesua ferrea Linn.",
+        "ngakeara",
+        "Narmushk/Nagkesar",
+        "Chirunagappu, Nangu, Nagakesara, Nagachembakam,Aadagam,Kaanchanam,Kesaram",
+        "Mesua"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Mesua ferrea Linn.",
+      "ayurveda_name": "ngakeara",
+      "unani_name": "Narmushk/Nagkesar",
+      "siddha_name": "Chirunagappu, Nangu, Nagakesara, Nagachembakam,Aadagam,Kaanchanam,Kesaram",
+      "common_name": "Mesua"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 159,
+      "columns": [
+        "Michelia champaca Linn.",
+        "campaka",
+        "Champa",
+        "Shenbagam, Amariyam, Vandumarmalar, Shampangi",
+        "Champak"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Michelia champaca Linn.",
+      "ayurveda_name": "campaka",
+      "unani_name": "Champa",
+      "siddha_name": "Shenbagam, Amariyam, Vandumarmalar, Shampangi",
+      "common_name": "Champak"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 160,
+      "columns": [
+        "Mimosa pudica Linn.",
+        "lajjlu",
+        "Chhuee Muee",
+        "Thottalvadi, Lachagi",
+        "Sensitive plant"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Mimosa pudica Linn.",
+      "ayurveda_name": "lajjlu",
+      "unani_name": "Chhuee Muee",
+      "siddha_name": "Thottalvadi, Lachagi",
+      "common_name": "Sensitive plant"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 161,
+      "columns": [
+        "Mimusops elengi Linn.",
+        "bakula",
+        "Mulsari",
+        "Magilam, Ilangi, Vagulam, Mogadam",
+        "Bulletwood"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Mimusops elengi Linn.",
+      "ayurveda_name": "bakula",
+      "unani_name": "Mulsari",
+      "siddha_name": "Magilam, Ilangi, Vagulam, Mogadam",
+      "common_name": "Bulletwood"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 162,
+      "columns": [
+        "Momordica charantia Linn.",
+        "kravellik",
+        "Karela",
+        "Pavakkai,Kaaravalli,Kooram,Koolam",
+        "Bitter gourd, carilla fruit"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Momordica charantia Linn.",
+      "ayurveda_name": "kravellik",
+      "unani_name": "Karela",
+      "siddha_name": "Pavakkai,Kaaravalli,Kooram,Koolam",
+      "common_name": "Bitter gourd, carilla fruit"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 163,
+      "columns": [
+        "Momordica dioca Roxb.",
+        "vandhykarkoak",
+        "Kakoda / Baqla-e-Yahoodia",
+        "Tholoopavai,Pazhupagal, Mithi pagal, Egaravalli, Kattuppakkal",
+        "Small Bitter Gourd, Bur\nCucumber"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Momordica dioca Roxb.",
+      "ayurveda_name": "vandhykarkoak",
+      "unani_name": "Kakoda / Baqla-e-Yahoodia",
+      "siddha_name": "Tholoopavai,Pazhupagal, Mithi pagal, Egaravalli, Kattuppakkal",
+      "common_name": "Small Bitter Gourd, Bur\nCucumber"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 164,
+      "columns": [
+        "Moringa pterygosperma C.F. Gaertn.",
+        "igru veta",
+        "Shajana/Sohanjana",
+        "Murungai",
+        "Drumstick tree, Horse radish tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Moringa pterygosperma C.F. Gaertn.",
+      "ayurveda_name": "igru veta",
+      "unani_name": "Shajana/Sohanjana",
+      "siddha_name": "Murungai",
+      "common_name": "Drumstick tree, Horse radish tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 165,
+      "columns": [
+        "Mucuna pruriens",
+        "tmagupt",
+        "Konch/Koonch",
+        "Poonaikkali, Kandothi, Markadi",
+        "Common cowitch, Cowhage"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Mucuna pruriens",
+      "ayurveda_name": "tmagupt",
+      "unani_name": "Konch/Koonch",
+      "siddha_name": "Poonaikkali, Kandothi, Markadi",
+      "common_name": "Common cowitch, Cowhage"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 166,
+      "columns": [
+        "Musa paradisiaca Linn.",
+        "kadal",
+        "Kela/Mouz",
+        "Vazhai, Arambai, Kadhali, Thayai kondravan",
+        "Edible banana, Plantain, Banana"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Musa paradisiaca Linn.",
+      "ayurveda_name": "kadal",
+      "unani_name": "Kela/Mouz",
+      "siddha_name": "Vazhai, Arambai, Kadhali, Thayai kondravan",
+      "common_name": "Edible banana, Plantain, Banana"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 167,
+      "columns": [
+        "Myrica esculenta Buch.-Ham. ex D. Don Syn.",
+        "kaphla",
+        "Kaaifal/Daar-e-Sheeshaan",
+        "marutham",
+        "Box myrtle"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Myrica esculenta Buch.-Ham. ex D. Don Syn.",
+      "ayurveda_name": "kaphla",
+      "unani_name": "Kaaifal/Daar-e-Sheeshaan",
+      "siddha_name": "marutham",
+      "common_name": "Box myrtle"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 168,
+      "columns": [
+        "Myristica fragrans Houtt.",
+        "jtphala, jtipatr",
+        "Bisbasa / javetri / Jauzbuwa",
+        "Jathikai ,kulakkai,Vasuvaasi ,jathipathri",
+        "Nutmeg tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Myristica fragrans Houtt.",
+      "ayurveda_name": "jtphala, jtipatr",
+      "unani_name": "Bisbasa / javetri / Jauzbuwa",
+      "siddha_name": "Jathikai ,kulakkai,Vasuvaasi ,jathipathri",
+      "common_name": "Nutmeg tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 169,
+      "columns": [
+        "Nardostachys Jatamansi",
+        "jams, mur",
+        "Sunbul-al-Teeb/Baalchhar",
+        "Sadamangil,Sadachi,Pysaasi,Maamisi,Bootha kesini,Sadilai",
+        "Spikenard, Indian nard"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Nardostachys Jatamansi",
+      "ayurveda_name": "jams, mur",
+      "unani_name": "Sunbul-al-Teeb/Baalchhar",
+      "siddha_name": "Sadamangil,Sadachi,Pysaasi,Maamisi,Bootha kesini,Sadilai",
+      "common_name": "Spikenard, Indian nard"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 170,
+      "columns": [
+        "Nelumbo nucifera Gaertn.",
+        "kamala, prapauarka",
+        "Padam Kesar/Kanwal gatta.",
+        "Ambal, Thamarai,Kamalam,Sooriya natpu,Aravindham,Mundagam,Pankajam,Padhumam,Sivapputamarai",
+        "Sacred lotus, Indian lotus, Chinese water lily"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Nelumbo nucifera Gaertn.",
+      "ayurveda_name": "kamala, prapauarka",
+      "unani_name": "Padam Kesar/Kanwal gatta.",
+      "siddha_name": "Ambal, Thamarai,Kamalam,Sooriya natpu,Aravindham,Mundagam,Pankajam,Padhumam,Sivapputamarai",
+      "common_name": "Sacred lotus, Indian lotus, Chinese water lily"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 171,
+      "columns": [
+        "Nigella sativa Linn.",
+        "upakucik, magaraila",
+        "Kalonji/Shooneez",
+        "Karunjeerakam,Aranam,Uba kunjikai",
+        "Small fennel, Black cumin"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Nigella sativa Linn.",
+      "ayurveda_name": "upakucik, magaraila",
+      "unani_name": "Kalonji/Shooneez",
+      "siddha_name": "Karunjeerakam,Aranam,Uba kunjikai",
+      "common_name": "Small fennel, Black cumin"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 172,
+      "columns": [
+        "Nyctanthes arbor-tristis Linn.",
+        "prijtaka, ephlik",
+        "Har Singhar",
+        "Manjapu, Pavalamalligai,Paarijaatham",
+        "Night jasmine, Coral jasmine"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Nyctanthes arbor-tristis Linn.",
+      "ayurveda_name": "prijtaka, ephlik",
+      "unani_name": "Har Singhar",
+      "siddha_name": "Manjapu, Pavalamalligai,Paarijaatham",
+      "common_name": "Night jasmine, Coral jasmine"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 173,
+      "columns": [
+        "Nymphaea alba Linn.",
+        "kumuda",
+        "Nilofer/ Full",
+        "Neidhal kizhangu,Aambal,Kumutham,Kayiravam",
+        "European white water-lily, Water Lily"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Nymphaea alba Linn.",
+      "ayurveda_name": "kumuda",
+      "unani_name": "Nilofer/ Full",
+      "siddha_name": "Neidhal kizhangu,Aambal,Kumutham,Kayiravam",
+      "common_name": "European white water-lily, Water Lily"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 174,
+      "columns": [
+        "Nymphaea stellata Willd.",
+        "utpala",
+        "",
+        "Karu neithal, Neelorpalam, Alli",
+        "Indian blue water-lily"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Nymphaea stellata Willd.",
+      "ayurveda_name": "utpala",
+      "unani_name": "",
+      "siddha_name": "Karu neithal, Neelorpalam, Alli",
+      "common_name": "Indian blue water-lily"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 175,
+      "columns": [
+        "Ocimum basilicum Linn.",
+        "barbar",
+        "Firanjmushk/Bilu  Gandi/Slosamber  /Slosambar / Sisambar/ Susur",
+        "Thiruneetruppachai, Karandai",
+        "Sweet basil, Common basil"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Ocimum basilicum Linn.",
+      "ayurveda_name": "barbar",
+      "unani_name": "Firanjmushk/Bilu  Gandi/Slosamber  /Slosambar / Sisambar/ Susur",
+      "siddha_name": "Thiruneetruppachai, Karandai",
+      "common_name": "Sweet basil, Common basil"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 176,
+      "columns": [
+        "Ocimum canum Sims",
+        "vanatulas",
+        "Nammaam Bustani/Arqals/Kali Tulsi",
+        "Naay thulasi, Kanjangorai",
+        "Hoary basil"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Ocimum canum Sims",
+      "ayurveda_name": "vanatulas",
+      "unani_name": "Nammaam Bustani/Arqals/Kali Tulsi",
+      "siddha_name": "Naay thulasi, Kanjangorai",
+      "common_name": "Hoary basil"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 177,
+      "columns": [
+        "Ocimum sanctum Linn.",
+        "tulas, suras",
+        "Raihan/Shahasfaram/Tulsi/Zeemraan",
+        "Krishna thulasi, Nal thulasi, Thulasi, Alangai, Mal  murugu, Mudi, Suvi, Surasam, Thulavu,Malalangal",
+        "Sacred basil, Holy basil"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Ocimum sanctum Linn.",
+      "ayurveda_name": "tulas, suras",
+      "unani_name": "Raihan/Shahasfaram/Tulsi/Zeemraan",
+      "siddha_name": "Krishna thulasi, Nal thulasi, Thulasi, Alangai, Mal  murugu, Mudi, Suvi, Surasam, Thulavu,Malalangal",
+      "common_name": "Sacred basil, Holy basil"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 178,
+      "columns": [
+        "Operculina petaloidea",
+        "vddhadrka, ym",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Operculina petaloidea",
+      "ayurveda_name": "vddhadrka, ym",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 179,
+      "columns": [
+        "Operculina turpethum",
+        "trivta",
+        "Turbud/Nisoot",
+        "Sivathai",
+        "Indian jalap, Turpeth"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Operculina turpethum",
+      "ayurveda_name": "trivta",
+      "unani_name": "Turbud/Nisoot",
+      "siddha_name": "Sivathai",
+      "common_name": "Indian jalap, Turpeth"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 180,
+      "columns": [
+        "Oroxylum indicum",
+        "yonka",
+        "Kharbaque Safed/Arloo",
+        "Achi, Per ilanthai, Vangamaram",
+        "Indian Trumpet Flower"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Oroxylum indicum",
+      "ayurveda_name": "yonka",
+      "unani_name": "Kharbaque Safed/Arloo",
+      "siddha_name": "Achi, Per ilanthai, Vangamaram",
+      "common_name": "Indian Trumpet Flower"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 181,
+      "columns": [
+        "Oryza sativa Linn.",
+        "li",
+        "Biranj/Chaawal/Aruzz",
+        "Nellu , Arisi, Vari,Saali,Thorai,Vai, Virigi",
+        "Rice, Paddy"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Oryza sativa Linn.",
+      "ayurveda_name": "li",
+      "unani_name": "Biranj/Chaawal/Aruzz",
+      "siddha_name": "Nellu , Arisi, Vari,Saali,Thorai,Vai, Virigi",
+      "common_name": "Rice, Paddy"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 182,
+      "columns": [
+        "Oxalis corniculata Linn.",
+        "cger",
+        "",
+        "Puliyarai,Puliakkeerai",
+        "Indian sorrel"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Oxalis corniculata Linn.",
+      "ayurveda_name": "cger",
+      "unani_name": "",
+      "siddha_name": "Puliyarai,Puliakkeerai",
+      "common_name": "Indian sorrel"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 183,
+      "columns": [
+        "Paederia foetida Linn.",
+        "prasra, gandha prasra",
+        "Gandaliya/Icchhi Patrika",
+        "Penarisangai, Pichulati ilai",
+        "skunk vine,stinkvine"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Paederia foetida Linn.",
+      "ayurveda_name": "prasra, gandha prasra",
+      "unani_name": "Gandaliya/Icchhi Patrika",
+      "siddha_name": "Penarisangai, Pichulati ilai",
+      "common_name": "skunk vine,stinkvine"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 184,
+      "columns": [
+        "Papaver somniferum Linn.",
+        "ahiphena",
+        "Khashkhaash /",
+        "Abini, Kasakasa, Posthakkai",
+        "Opium poppy, white poppy"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Papaver somniferum Linn.",
+      "ayurveda_name": "ahiphena",
+      "unani_name": "Khashkhaash /",
+      "siddha_name": "Abini, Kasakasa, Posthakkai",
+      "common_name": "Opium poppy, white poppy"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 185,
+      "columns": [
+        "Phoenix dactylifera Linn.",
+        "kharjra",
+        "Khurma/Khajoor/Chohara/Jumaar/Kofarraa/Qiqus/Guncha-e-Khurma/Balh",
+        "Perichankai, Ichi, Karchooram, Kuravam, Titti, Perindu",
+        "Date palm"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Phoenix dactylifera Linn.",
+      "ayurveda_name": "kharjra",
+      "unani_name": "Khurma/Khajoor/Chohara/Jumaar/Kofarraa/Qiqus/Guncha-e-Khurma/Balh",
+      "siddha_name": "Perichankai, Ichi, Karchooram, Kuravam, Titti, Perindu",
+      "common_name": "Date palm"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 186,
+      "columns": [
+        "Phragmites karka Trin. ex. Steud Syn. P. roxburghii",
+        "nala, narakula",
+        "Nal",
+        "Perunaanal",
+        "tall reed"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Phragmites karka Trin. ex. Steud Syn. P. roxburghii",
+      "ayurveda_name": "nala, narakula",
+      "unani_name": "Nal",
+      "siddha_name": "Perunaanal",
+      "common_name": "tall reed"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 187,
+      "columns": [
+        "Phyllanthus acidus",
+        "laval, haraphreva",
+        "",
+        "Arunelli",
+        "Tahitian gooseberry tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Phyllanthus acidus",
+      "ayurveda_name": "laval, haraphreva",
+      "unani_name": "",
+      "siddha_name": "Arunelli",
+      "common_name": "Tahitian gooseberry tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 188,
+      "columns": [
+        "Phyllanthus emblica Linn. Syn.",
+        "malak",
+        "Aamla",
+        "Nelli",
+        "emblic, Emblic Myrobalan"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Phyllanthus emblica Linn. Syn.",
+      "ayurveda_name": "malak",
+      "unani_name": "Aamla",
+      "siddha_name": "Nelli",
+      "common_name": "emblic, Emblic Myrobalan"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 189,
+      "columns": [
+        "Phyllanthus fraternus Webster Syn.",
+        "tmalak, bhmymalak",
+        "Achhata/Bhuin Amla",
+        "Keezha nelli",
+        "gulf leaf-flower"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Phyllanthus fraternus Webster Syn.",
+      "ayurveda_name": "tmalak, bhmymalak",
+      "unani_name": "Achhata/Bhuin Amla",
+      "siddha_name": "Keezha nelli",
+      "common_name": "gulf leaf-flower"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 190,
+      "columns": [
+        "Picrorhiza kurroa",
+        "kauk, kuak",
+        "Kutki",
+        "Kadukurogini, Kadakarohini",
+        "Picrorhiza"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Picrorhiza kurroa",
+      "ayurveda_name": "kauk, kuak",
+      "unani_name": "Kutki",
+      "siddha_name": "Kadukurogini, Kadakarohini",
+      "common_name": "Picrorhiza"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 191,
+      "columns": [
+        "Pinus roxburghii Sarg.",
+        "sarala, kilima, dhpasarala",
+        "Behroza/Biroza/Gandah Behrozah/Habb-e-Sanobar / Lab",
+        "Seemai devadaru",
+        "Chir Pine,Himalayan Long Leaved Pine, Pine"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Pinus roxburghii Sarg.",
+      "ayurveda_name": "sarala, kilima, dhpasarala",
+      "unani_name": "Behroza/Biroza/Gandah Behrozah/Habb-e-Sanobar / Lab",
+      "siddha_name": "Seemai devadaru",
+      "common_name": "Chir Pine,Himalayan Long Leaved Pine, Pine"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 192,
+      "columns": [
+        "Piper betle Linn.",
+        "ngavall, cavya bheda",
+        "Tambol/Paan",
+        "Vetrilai, Thamboolavalli, Nagavalli, Melladagu, Vellilai, Ilaikodi, Sivanagini, Nirvalli, Pachadam",
+        "Betel"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Piper betle Linn.",
+      "ayurveda_name": "ngavall, cavya bheda",
+      "unani_name": "Tambol/Paan",
+      "siddha_name": "Vetrilai, Thamboolavalli, Nagavalli, Melladagu, Vellilai, Ilaikodi, Sivanagini, Nirvalli, Pachadam",
+      "common_name": "Betel"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 193,
+      "columns": [
+        "Piper cubeba Linn. f.",
+        "kakola",
+        "Kababchini/Kankol",
+        "Vaalmilaku, Thakkoolam, Ilathai, Thoorikai",
+        "Cubebs,Tailed Pepper"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Piper cubeba Linn. f.",
+      "ayurveda_name": "kakola",
+      "unani_name": "Kababchini/Kankol",
+      "siddha_name": "Vaalmilaku, Thakkoolam, Ilathai, Thoorikai",
+      "common_name": "Cubebs,Tailed Pepper"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 194,
+      "columns": [
+        "Piper longum Linn.",
+        "pippal",
+        "Filfil Moya/Fasiwarees/Filfil Daraz",
+        "Thippili, Pippili",
+        "Indian Long Pepper, Long Pepper"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Piper longum Linn.",
+      "ayurveda_name": "pippal",
+      "unani_name": "Filfil Moya/Fasiwarees/Filfil Daraz",
+      "siddha_name": "Thippili, Pippili",
+      "common_name": "Indian Long Pepper, Long Pepper"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 195,
+      "columns": [
+        "Piper nigrum Linn.",
+        "marica",
+        "Filfil",
+        "Milagu",
+        "Black Pepper"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Piper nigrum Linn.",
+      "ayurveda_name": "marica",
+      "unani_name": "Filfil",
+      "siddha_name": "Milagu",
+      "common_name": "Black Pepper"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 196,
+      "columns": [
+        "Piper retrofractum Vahl Syn.",
+        "cavya",
+        "Peepal Chab/Chavika",
+        "Chavyam",
+        "Java Long Pepper"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Piper retrofractum Vahl Syn.",
+      "ayurveda_name": "cavya",
+      "unani_name": "Peepal Chab/Chavika",
+      "siddha_name": "Chavyam",
+      "common_name": "Java Long Pepper"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 197,
+      "columns": [
+        "Pistacia integerrima J.L.Stewart ex Brandis",
+        "karkaag",
+        "",
+        "Kakkatashingi",
+        "pistache, pistacia"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Pistacia integerrima J.L.Stewart ex Brandis",
+      "ayurveda_name": "karkaag",
+      "unani_name": "",
+      "siddha_name": "Kakkatashingi",
+      "common_name": "pistache, pistacia"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 198,
+      "columns": [
+        "Pistacia lentiscus Linn.",
+        "rmakundar, rm mastag",
+        "I'lk-al-Butm/Gond-e-Butm/Saqaz/Qarabiyoon/ Gandaroon / Mastagi Roomi / Dirw",
+        "Vellaik kungiliyam, Roomimasthagi",
+        "mastic tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Pistacia lentiscus Linn.",
+      "ayurveda_name": "rmakundar, rm mastag",
+      "unani_name": "I'lk-al-Butm/Gond-e-Butm/Saqaz/Qarabiyoon/ Gandaroon / Mastagi Roomi / Dirw",
+      "siddha_name": "Vellaik kungiliyam, Roomimasthagi",
+      "common_name": "mastic tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 199,
+      "columns": [
+        "Pluchea lanceolata Oliv.",
+        "rsn",
+        "Rasna",
+        "",
+        "camphorweed"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Pluchea lanceolata Oliv.",
+      "ayurveda_name": "rsn",
+      "unani_name": "Rasna",
+      "siddha_name": "",
+      "common_name": "camphorweed"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 200,
+      "columns": [
+        "Plumbago indica Linn.",
+        "citraka rakta",
+        "",
+        "Chithiramoolam,Sengodi veli, Akkini",
+        "leadwort"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Plumbago indica Linn.",
+      "ayurveda_name": "citraka rakta",
+      "unani_name": "",
+      "siddha_name": "Chithiramoolam,Sengodi veli, Akkini",
+      "common_name": "leadwort"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 201,
+      "columns": [
+        "Plumbago zeylanica Linn.",
+        "citraka",
+        "Sheetraj Hindi/Chita Lakdi/ Cheeta",
+        "Chithiramoolam, Venkodi veli, Sittragam",
+        "leadwort, Ceylon Lead Wort"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Plumbago zeylanica Linn.",
+      "ayurveda_name": "citraka",
+      "unani_name": "Sheetraj Hindi/Chita Lakdi/ Cheeta",
+      "siddha_name": "Chithiramoolam, Venkodi veli, Sittragam",
+      "common_name": "leadwort, Ceylon Lead Wort"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 202,
+      "columns": [
+        "Polyalthia longifolia Thwaites",
+        "devadru, khadru",
+        "Aashok/Asoka",
+        "Nettilingam, Asoagm, Kagoli, Kolikudi, Saribam, Vansulam, Kasubam, Selai, Sendu, Tevadaram, Vansulam, Saribam, Pundi",
+        "mast tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Polyalthia longifolia Thwaites",
+      "ayurveda_name": "devadru, khadru",
+      "unani_name": "Aashok/Asoka",
+      "siddha_name": "Nettilingam, Asoagm, Kagoli, Kolikudi, Saribam, Vansulam, Kasubam, Selai, Sendu, Tevadaram, Vansulam, Saribam, Pundi",
+      "common_name": "mast tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 203,
+      "columns": [
+        "Polygonatum cirrhifolium Royle / Asparagus racemosus Willd.",
+        "mahmed, med",
+        "Maida Kalan",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Polygonatum cirrhifolium Royle / Asparagus racemosus Willd.",
+      "ayurveda_name": "mahmed, med",
+      "unani_name": "Maida Kalan",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 204,
+      "columns": [
+        "Pongamia pinnata",
+        "karaja, naktamla, udakrya",
+        "Karanj",
+        "Pungu, Poondhi, Karanjakam, Karanjam",
+        "pongame oiltree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Pongamia pinnata",
+      "ayurveda_name": "karaja, naktamla, udakrya",
+      "unani_name": "Karanj",
+      "siddha_name": "Pungu, Poondhi, Karanjakam, Karanjam",
+      "common_name": "pongame oiltree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 205,
+      "columns": [
+        "Premna mucronata Roxb.",
+        "agnimantha",
+        "",
+        "",
+        "premna"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Premna mucronata Roxb.",
+      "ayurveda_name": "agnimantha",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": "premna"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 206,
+      "columns": [
+        "Prunus avium",
+        "elavluka",
+        "",
+        "",
+        "sweet cherry"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Prunus avium",
+      "ayurveda_name": "elavluka",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": "sweet cherry"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 207,
+      "columns": [
+        "Prunus cerasoides D. Don",
+        "padmaka",
+        "Padhmaakh",
+        "",
+        "birdcherry"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Prunus cerasoides D. Don",
+      "ayurveda_name": "padmaka",
+      "unani_name": "Padhmaakh",
+      "siddha_name": "",
+      "common_name": "birdcherry"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 208,
+      "columns": [
+        "Psoralea corylifolia Linn.",
+        "bkuc",
+        "Babchi",
+        "Kaarboga arisi,Baakusi,Kaarpuva arisi",
+        "psoralea fruit"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Psoralea corylifolia Linn.",
+      "ayurveda_name": "bkuc",
+      "unani_name": "Babchi",
+      "siddha_name": "Kaarboga arisi,Baakusi,Kaarpuva arisi",
+      "common_name": "psoralea fruit"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 209,
+      "columns": [
+        "Pterocarpus santalinus Linn. f.",
+        "raktacandana",
+        "Sandal Surkh",
+        "Senchandanam,Atti",
+        "red sandal wood"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Pterocarpus santalinus Linn. f.",
+      "ayurveda_name": "raktacandana",
+      "unani_name": "Sandal Surkh",
+      "siddha_name": "Senchandanam,Atti",
+      "common_name": "red sandal wood"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 210,
+      "columns": [
+        "Pueraria tuberosa DC.",
+        "vidr, abhaka-jvaka",
+        "Qissa-al-Himaar/Bandaal",
+        "",
+        "indian kudzu"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Pueraria tuberosa DC.",
+      "ayurveda_name": "vidr, abhaka-jvaka",
+      "unani_name": "Qissa-al-Himaar/Bandaal",
+      "siddha_name": "",
+      "common_name": "indian kudzu"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 211,
+      "columns": [
+        "Randia uliginosa DC.",
+        "pitaka",
+        "",
+        "Perunkarai,Wagatta, Vargarai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Randia uliginosa DC.",
+      "ayurveda_name": "pitaka",
+      "unani_name": "",
+      "siddha_name": "Perunkarai,Wagatta, Vargarai",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 212,
+      "columns": [
+        "Raphanus sativus Linn.",
+        "mlaka",
+        "Fujl/Mooli/Mulaka",
+        "Mullangi",
+        "radish"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Raphanus sativus Linn.",
+      "ayurveda_name": "mlaka",
+      "unani_name": "Fujl/Mooli/Mulaka",
+      "siddha_name": "Mullangi",
+      "common_name": "radish"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 213,
+      "columns": [
+        "Rhus parviflora Roxb.",
+        "tintika",
+        "Samandarphal",
+        "",
+        "Sumach"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Rhus parviflora Roxb.",
+      "ayurveda_name": "tintika",
+      "unani_name": "Samandarphal",
+      "siddha_name": "",
+      "common_name": "Sumach"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 214,
+      "columns": [
+        "Ricinus communis Linn.",
+        "eraa",
+        "Bedanjeer/Arand",
+        "Aamanakku, Kottai muthu, Sitramanakku, Aerandam,Sithiram,Talabodam",
+        "castor,Palmachristi, Castor Plant"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Ricinus communis Linn.",
+      "ayurveda_name": "eraa",
+      "unani_name": "Bedanjeer/Arand",
+      "siddha_name": "Aamanakku, Kottai muthu, Sitramanakku, Aerandam,Sithiram,Talabodam",
+      "common_name": "castor,Palmachristi, Castor Plant"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 215,
+      "columns": [
+        "Rumex vesicarius Linn.",
+        "cukrama",
+        "Ambadah/Amratak/Ambadi/Hummaz",
+        "Shukkan keerai,Shukku keerai",
+        "dock, Sorrel, Bladder Dock"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Rumex vesicarius Linn.",
+      "ayurveda_name": "cukrama",
+      "unani_name": "Ambadah/Amratak/Ambadi/Hummaz",
+      "siddha_name": "Shukkan keerai,Shukku keerai",
+      "common_name": "dock, Sorrel, Bladder Dock"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 216,
+      "columns": [
+        "Saccharum officinarum Linn.",
+        "iku",
+        "Ganna",
+        "Poovan karumbu, Ikku, Vei, Punarpusam",
+        "sugarcane"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Saccharum officinarum Linn.",
+      "ayurveda_name": "iku",
+      "unani_name": "Ganna",
+      "siddha_name": "Poovan karumbu, Ikku, Vei, Punarpusam",
+      "common_name": "sugarcane"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 217,
+      "columns": [
+        "Saccharum spontaneum Linn.",
+        "ka",
+        "",
+        "Naanal",
+        "ahlek, loa, wild cane, wild sugarcane"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Saccharum spontaneum Linn.",
+      "ayurveda_name": "ka",
+      "unani_name": "",
+      "siddha_name": "Naanal",
+      "common_name": "ahlek, loa, wild cane, wild sugarcane"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 218,
+      "columns": [
+        "Salacia chinensis Linn.",
+        "saptarag, saptacakr",
+        "",
+        "",
+        "bittersweet"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Salacia chinensis Linn.",
+      "ayurveda_name": "saptarag, saptacakr",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": "bittersweet"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 219,
+      "columns": [
+        "Salix caprea Linn.",
+        "vajula, vetasa",
+        "Bed Mushk",
+        "",
+        "goat willow"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Salix caprea Linn.",
+      "ayurveda_name": "vajula, vetasa",
+      "unani_name": "Bed Mushk",
+      "siddha_name": "",
+      "common_name": "goat willow"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 220,
+      "columns": [
+        "Santalum album Linn.",
+        "candana",
+        "Sandal Safaid/Sandal Zard",
+        "Sandhanam, Ulocadam, Kulavuri, Ingam",
+        "sandalwood"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Santalum album Linn.",
+      "ayurveda_name": "candana",
+      "unani_name": "Sandal Safaid/Sandal Zard",
+      "siddha_name": "Sandhanam, Ulocadam, Kulavuri, Ingam",
+      "common_name": "sandalwood"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 221,
+      "columns": [
+        "Saussurea lappa Clarke",
+        "kuha",
+        "",
+        "Koshtam, Jathi koshtam, Chagal koshtam, Putchuk",
+        "saw-wort"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Saussurea lappa Clarke",
+      "ayurveda_name": "kuha",
+      "unani_name": "",
+      "siddha_name": "Koshtam, Jathi koshtam, Chagal koshtam, Putchuk",
+      "common_name": "saw-wort"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 222,
+      "columns": [
+        "Schleichera oleosa",
+        "komra",
+        "Ahreez/Muasfar/Range-e- Zafraan",
+        "Karanchi, Kula,Pulachi,Puvathi puvam, Pumaram, Kolama",
+        "lac tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Schleichera oleosa",
+      "ayurveda_name": "komra",
+      "unani_name": "Ahreez/Muasfar/Range-e- Zafraan",
+      "siddha_name": "Karanchi, Kula,Pulachi,Puvathi puvam, Pumaram, Kolama",
+      "common_name": "lac tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 223,
+      "columns": [
+        "Schrebera swientenioides Roxb.",
+        "pal, vetamokaka",
+        "",
+        "Mahalingam",
+        "Weavers Beam tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Schrebera swientenioides Roxb.",
+      "ayurveda_name": "pal, vetamokaka",
+      "unani_name": "",
+      "siddha_name": "Mahalingam",
+      "common_name": "Weavers Beam tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 224,
+      "columns": [
+        "Scindapsus officinalis Schott",
+        "gajapippal",
+        "Gaj peepal",
+        "Aanai thippili",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Scindapsus officinalis Schott",
+      "ayurveda_name": "gajapippal",
+      "unani_name": "Gaj peepal",
+      "siddha_name": "Aanai thippili",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 225,
+      "columns": [
+        "Scirpus kysoor",
+        "kaeru",
+        "",
+        "Gundatungagaddi",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Scirpus kysoor",
+      "ayurveda_name": "kaeru",
+      "unani_name": "",
+      "siddha_name": "Gundatungagaddi",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 226,
+      "columns": [
+        "Semecarpus anacardium Linn.f.",
+        "bhalltaka",
+        "Baladur/Bhilavan",
+        "Chenkottai,Vallaathi,Erimugi, Nandhi vidai, Poothanasanam, Sombalam, Virasagi, Tembarai, Kalagam",
+        "markingnut tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Semecarpus anacardium Linn.f.",
+      "ayurveda_name": "bhalltaka",
+      "unani_name": "Baladur/Bhilavan",
+      "siddha_name": "Chenkottai,Vallaathi,Erimugi, Nandhi vidai, Poothanasanam, Sombalam, Virasagi, Tembarai, Kalagam",
+      "common_name": "markingnut tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 227,
+      "columns": [
+        "Sesamum indicum Linn.",
+        "tila",
+        "Kunjad Siyah/Til/Sheeraj",
+        "Ellu,Thilam",
+        "sesame"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Sesamum indicum Linn.",
+      "ayurveda_name": "tila",
+      "unani_name": "Kunjad Siyah/Til/Sheeraj",
+      "siddha_name": "Ellu,Thilam",
+      "common_name": "sesame"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 228,
+      "columns": [
+        "Sesbania grandiflora",
+        "muni, agastya",
+        "Agasti",
+        "Agathi, Acham, Muni, Kareeram, Chevvagathi, Peragathi",
+        "vegetable hummingbird"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Sesbania grandiflora",
+      "ayurveda_name": "muni, agastya",
+      "unani_name": "Agasti",
+      "siddha_name": "Agathi, Acham, Muni, Kareeram, Chevvagathi, Peragathi",
+      "common_name": "vegetable hummingbird"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 229,
+      "columns": [
+        "Sesbania sesban Merril Syn. S. aegyptiaca Pers. / Sesbania aegyptiaca Poir",
+        "jayant",
+        "Rawasan/Qurratulain/Saisabaan",
+        "Sitrakathi,Karunsembai, Sembai",
+        "Egyptian riverhemp"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Sesbania sesban Merril Syn. S. aegyptiaca Pers. / Sesbania aegyptiaca Poir",
+      "ayurveda_name": "jayant",
+      "unani_name": "Rawasan/Qurratulain/Saisabaan",
+      "siddha_name": "Sitrakathi,Karunsembai, Sembai",
+      "common_name": "Egyptian riverhemp"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 230,
+      "columns": [
+        "Shorea robusta Gaertn.",
+        "la",
+        "Saal/Sakhu",
+        "Saalakkunkiliyam, Karumaruthu,Saruvarasam,Kungilium",
+        "the sal tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Shorea robusta Gaertn.",
+      "ayurveda_name": "la",
+      "unani_name": "Saal/Sakhu",
+      "siddha_name": "Saalakkunkiliyam, Karumaruthu,Saruvarasam,Kungilium",
+      "common_name": "the sal tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 231,
+      "columns": [
+        "Sida",
+        "ngabal, bhmibal",
+        "",
+        "Pazham paasi",
+        "heartleaf fanpetals"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Sida",
+      "ayurveda_name": "ngabal, bhmibal",
+      "unani_name": "",
+      "siddha_name": "Pazham paasi",
+      "common_name": "heartleaf fanpetals"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 232,
+      "columns": [
+        "Sida cordifolia Linn.",
+        "bal",
+        "",
+        "Nilathuthi,Paniarthuthi, Chitramutti, Arival",
+        "llima"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Sida cordifolia Linn.",
+      "ayurveda_name": "bal",
+      "unani_name": "",
+      "siddha_name": "Nilathuthi,Paniarthuthi, Chitramutti, Arival",
+      "common_name": "llima"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 233,
+      "columns": [
+        "Solanum indicum Linn.",
+        "bhat",
+        "Badanjan Hindi",
+        "Mulli,Papparamulli,Karimulli, Siru valuthunai, Kandal, Kuttuchadikkandangathiri, Mundagam, Varttagi, Kari",
+        "nightshade"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Solanum indicum Linn.",
+      "ayurveda_name": "bhat",
+      "unani_name": "Badanjan Hindi",
+      "siddha_name": "Mulli,Papparamulli,Karimulli, Siru valuthunai, Kandal, Kuttuchadikkandangathiri, Mundagam, Varttagi, Kari",
+      "common_name": "nightshade"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 234,
+      "columns": [
+        "Solanum nigram Linn.",
+        "kkamc",
+        "Inab-us-Salab / Makoh / Mako",
+        "Mana thakkaali, Milagu thakkali,Ulaka maatha,Kaaka maasi,Vidai gandham,Vaayasam, Karuppumanathakkali",
+        "black nightshade, deadly nightshade, garden nightshade"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Solanum nigram Linn.",
+      "ayurveda_name": "kkamc",
+      "unani_name": "Inab-us-Salab / Makoh / Mako",
+      "siddha_name": "Mana thakkaali, Milagu thakkali,Ulaka maatha,Kaaka maasi,Vidai gandham,Vaayasam, Karuppumanathakkali",
+      "common_name": "black nightshade, deadly nightshade, garden nightshade"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 235,
+      "columns": [
+        "Solanum surattense Burm.",
+        "kaakr",
+        "Katai",
+        "Kandangatthiri, Sutturam, Udaravani, Udavani, Mullikkai",
+        "nightshade"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Solanum surattense Burm.",
+      "ayurveda_name": "kaakr",
+      "unani_name": "Katai",
+      "siddha_name": "Kandangatthiri, Sutturam, Udaravani, Udavani, Mullikkai",
+      "common_name": "nightshade"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 236,
+      "columns": [
+        "Sphaeranthus indicus Linn.",
+        "muitik, bhkadamba, rva",
+        "Gorakh Mundi/Mundi/ Baloot-al-Arz/",
+        "Kotta karanthai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Sphaeranthus indicus Linn.",
+      "ayurveda_name": "muitik, bhkadamba, rva",
+      "unani_name": "Gorakh Mundi/Mundi/ Baloot-al-Arz/",
+      "siddha_name": "Kotta karanthai",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 237,
+      "columns": [
+        "Spinacia oleracea Linn.",
+        "plaky",
+        "palak/akhinoos",
+        "Vasayley keerai, Pasalai keerai",
+        "spinach"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Spinacia oleracea Linn.",
+      "ayurveda_name": "plaky",
+      "unani_name": "palak/akhinoos",
+      "siddha_name": "Vasayley keerai, Pasalai keerai",
+      "common_name": "spinach"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 238,
+      "columns": [
+        "Spondias pinnata",
+        "mrtaka",
+        "Amrah",
+        "Mari man chedi, kattamara,Manpulichi, Nalini, Ambalam,Ibangam, Kattuma, Malai, Marima, Pulima, Sudam",
+        "Hog-Plum, Wild Mango"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Spondias pinnata",
+      "ayurveda_name": "mrtaka",
+      "unani_name": "Amrah",
+      "siddha_name": "Mari man chedi, kattamara,Manpulichi, Nalini, Ambalam,Ibangam, Kattuma, Malai, Marima, Pulima, Sudam",
+      "common_name": "Hog-Plum, Wild Mango"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 239,
+      "columns": [
+        "Stereospermum chelonoides",
+        "pal",
+        "Padal/Patila",
+        "Paathiri, Patali maram, Ambu, Ambuvahini, Appu, Padiri, Pumbadiri, Pyuppadiri",
+        "Trumpet Flower, Yellow Snake tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Stereospermum chelonoides",
+      "ayurveda_name": "pal",
+      "unani_name": "Padal/Patila",
+      "siddha_name": "Paathiri, Patali maram, Ambu, Ambuvahini, Appu, Padiri, Pumbadiri, Pyuppadiri",
+      "common_name": "Trumpet Flower, Yellow Snake tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 240,
+      "columns": [
+        "Strychnos nuxvomica Linn.",
+        "viamui, kraskara",
+        "Azaraqi/Kuchla",
+        "Etti,Kaanchiram,Vidamutti, Kiruttinapanam, Maduragam, Suvasagam, Kobagundam",
+        "strychnine tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Strychnos nuxvomica Linn.",
+      "ayurveda_name": "viamui, kraskara",
+      "unani_name": "Azaraqi/Kuchla",
+      "siddha_name": "Etti,Kaanchiram,Vidamutti, Kiruttinapanam, Maduragam, Suvasagam, Kobagundam",
+      "common_name": "strychnine tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 241,
+      "columns": [
+        "Strychnos potatorum Linn. f.",
+        "kataka",
+        "",
+        "Thetraan kottai, Illam, Akkolam, Sillam, Teru, Kadali",
+        "Clearing Nut tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Strychnos potatorum Linn. f.",
+      "ayurveda_name": "kataka",
+      "unani_name": "",
+      "siddha_name": "Thetraan kottai, Illam, Akkolam, Sillam, Teru, Kadali",
+      "common_name": "Clearing Nut tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 242,
+      "columns": [
+        "Swertia chirayita",
+        "kirtatikta",
+        "Chiraitah/Qasab-al-Zareerah",
+        "Shiratkuchi, Nilavembu",
+        "chirayata, Chirata"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Swertia chirayita",
+      "ayurveda_name": "kirtatikta",
+      "unani_name": "Chiraitah/Qasab-al-Zareerah",
+      "siddha_name": "Shiratkuchi, Nilavembu",
+      "common_name": "chirayata, Chirata"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 243,
+      "columns": [
+        "Swertia ciliata",
+        "kirtatikta bheda",
+        "",
+        "",
+        "chirayata"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Swertia ciliata",
+      "ayurveda_name": "kirtatikta bheda",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": "chirayata"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 244,
+      "columns": [
+        "Symplocos racemosa Roxb.",
+        "lodhra",
+        "Lodh Pathani",
+        "Vellilatthi, Velliloththiram, Thillakam",
+        "sweetleaf, symplocos"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Symplocos racemosa Roxb.",
+      "ayurveda_name": "lodhra",
+      "unani_name": "Lodh Pathani",
+      "siddha_name": "Vellilatthi, Velliloththiram, Thillakam",
+      "common_name": "sweetleaf, symplocos"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 245,
+      "columns": [
+        "Syzygium aromaticum",
+        "lavaga",
+        "Qaranful/Laung",
+        "Kiraambu,Lavangam,Anjugam,Urkadam,Thirali,Varaangam,Karuvai, Karuvapoo",
+        "clove"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Syzygium aromaticum",
+      "ayurveda_name": "lavaga",
+      "unani_name": "Qaranful/Laung",
+      "siddha_name": "Kiraambu,Lavangam,Anjugam,Urkadam,Thirali,Varaangam,Karuvai, Karuvapoo",
+      "common_name": "clove"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 246,
+      "columns": [
+        "Syzygium cuminii",
+        "jamb",
+        "Jamun",
+        "Naaval,Neradam,Suradhi pathirai,Saambal,Shaattu valam",
+        "jambolan plum, Java plum, kavika ni India, mesegerak"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Syzygium cuminii",
+      "ayurveda_name": "jamb",
+      "unani_name": "Jamun",
+      "siddha_name": "Naaval,Neradam,Suradhi pathirai,Saambal,Shaattu valam",
+      "common_name": "jambolan plum, Java plum, kavika ni India, mesegerak"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 247,
+      "columns": [
+        "Syzygium jambos",
+        "jamb",
+        "Gulabjamun",
+        "Peru naaval,Sambu naaval,Panneer koyyaa",
+        "kavika ni India, kavika ni vavalangi, Malabar plum, rose-apple"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Syzygium jambos",
+      "ayurveda_name": "jamb",
+      "unani_name": "Gulabjamun",
+      "siddha_name": "Peru naaval,Sambu naaval,Panneer koyyaa",
+      "common_name": "kavika ni India, kavika ni vavalangi, Malabar plum, rose-apple"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 248,
+      "columns": [
+        "Tamarindus indica Linn.",
+        "imal",
+        "Tamar Hindi /Imli",
+        "Puli,Amilam, ambiram, Sinduram",
+        "tamarind"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Tamarindus indica Linn.",
+      "ayurveda_name": "imal",
+      "unani_name": "Tamar Hindi /Imli",
+      "siddha_name": "Puli,Amilam, ambiram, Sinduram",
+      "common_name": "tamarind"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 249,
+      "columns": [
+        "Tecomella undulata",
+        "rohitaka",
+        "Yardook",
+        "",
+        "Rohida tree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Tecomella undulata",
+      "ayurveda_name": "rohitaka",
+      "unani_name": "Yardook",
+      "siddha_name": "",
+      "common_name": "Rohida tree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 250,
+      "columns": [
+        "Tephrosia purpurea",
+        "sarapokh, arapukh",
+        "Sarphuka",
+        "Kolinji, Paavali,Kollukaaivelai, Mullukkai, Katkolingi",
+        "purple tephrosia wild indigo, Purple Tephrosia"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Tephrosia purpurea",
+      "ayurveda_name": "sarapokh, arapukh",
+      "unani_name": "Sarphuka",
+      "siddha_name": "Kolinji, Paavali,Kollukaaivelai, Mullukkai, Katkolingi",
+      "common_name": "purple tephrosia wild indigo, Purple Tephrosia"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 251,
+      "columns": [
+        "Teramnus labialis",
+        "mapar",
+        "Jangali Urd / Ban Urd / Maash Parni",
+        "Kaattualandu",
+        "blue wiss"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Teramnus labialis",
+      "ayurveda_name": "mapar",
+      "unani_name": "Jangali Urd / Ban Urd / Maash Parni",
+      "siddha_name": "Kaattualandu",
+      "common_name": "blue wiss"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 252,
+      "columns": [
+        "Terminalia arjuna",
+        "arjuna",
+        "Arjun",
+        "Vellai marudhu",
+        "arjuna"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Terminalia arjuna",
+      "ayurveda_name": "arjuna",
+      "unani_name": "Arjun",
+      "siddha_name": "Vellai marudhu",
+      "common_name": "arjuna"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 253,
+      "columns": [
+        "Terminalia bellirica",
+        "bibhtaka",
+        "Balela/Bahera",
+        "Thaandri",
+        "myrobalan, Beleric Myrobalan"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Terminalia bellirica",
+      "ayurveda_name": "bibhtaka",
+      "unani_name": "Balela/Bahera",
+      "siddha_name": "Thaandri",
+      "common_name": "myrobalan, Beleric Myrobalan"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 254,
+      "columns": [
+        "Terminalia chebula Retz.",
+        "hartak",
+        "Halelah",
+        "Kadukkaai",
+        "myrobalan,"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Terminalia chebula Retz.",
+      "ayurveda_name": "hartak",
+      "unani_name": "Halelah",
+      "siddha_name": "Kadukkaai",
+      "common_name": "myrobalan,"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 255,
+      "columns": [
+        "Tinospora cordifolia Miers",
+        "guc",
+        "Gilo",
+        "Seendhil,Amirdhavalli, Somavalli, Sagadundam, Kundali, Sagamuli, Vallikandam, Sadi, Padalamulam",
+        "tinospora"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Tinospora cordifolia Miers",
+      "ayurveda_name": "guc",
+      "unani_name": "Gilo",
+      "siddha_name": "Seendhil,Amirdhavalli, Somavalli, Sagadundam, Kundali, Sagamuli, Vallikandam, Sadi, Padalamulam",
+      "common_name": "tinospora"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 256,
+      "columns": [
+        "Trachyspermum ammi",
+        "yavn",
+        "Ajwayin",
+        "Omam,",
+        "Ajowan caraway"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Trachyspermum ammi",
+      "ayurveda_name": "yavn",
+      "unani_name": "Ajwayin",
+      "siddha_name": "Omam,",
+      "common_name": "Ajowan caraway"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 257,
+      "columns": [
+        "Trachyspermum roxburghianum",
+        "ajamod",
+        "",
+        "Asamodhagam, Ashamtagam",
+        "Ajmud"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Trachyspermum roxburghianum",
+      "ayurveda_name": "ajamod",
+      "unani_name": "",
+      "siddha_name": "Asamodhagam, Ashamtagam",
+      "common_name": "Ajmud"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 258,
+      "columns": [
+        "Tragia involucrata Linn.",
+        "vcikl, durlabh",
+        "",
+        "Poonai kaanchori, Siru kanchori, Ambu, Kunasagam,, Samuthirandam, senthotti, Kurunthotti, Turalobam, Kankudi, Kannichi",
+        "noseburh, noseburn"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Tragia involucrata Linn.",
+      "ayurveda_name": "vcikl, durlabh",
+      "unani_name": "",
+      "siddha_name": "Poonai kaanchori, Siru kanchori, Ambu, Kunasagam,, Samuthirandam, senthotti, Kurunthotti, Turalobam, Kankudi, Kannichi",
+      "common_name": "noseburh, noseburn"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 259,
+      "columns": [
+        "Tribulus terrestris Linn.",
+        "gokura",
+        "Khaar-e- Khasak /Hasak",
+        "Nerunjil, Siru nerunjil, Thirikandam, Yanai vanangi,Kamarasi,Suvathattam,Asuvasattiram,Kokandam,Sudham",
+        "bullhead, caltrop, goathead, Mexican sandbur, puncture vine, Small Caltrops"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Tribulus terrestris Linn.",
+      "ayurveda_name": "gokura",
+      "unani_name": "Khaar-e- Khasak /Hasak",
+      "siddha_name": "Nerunjil, Siru nerunjil, Thirikandam, Yanai vanangi,Kamarasi,Suvathattam,Asuvasattiram,Kokandam,Sudham",
+      "common_name": "bullhead, caltrop, goathead, Mexican sandbur, puncture vine, Small Caltrops"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 260,
+      "columns": [
+        "Tricholepis angustifolia",
+        "brahamada bheda",
+        "Brahmdandi",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Tricholepis angustifolia",
+      "ayurveda_name": "brahamada bheda",
+      "unani_name": "Brahmdandi",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 261,
+      "columns": [
+        "Trichosanthes bracteata",
+        "vil, mahkla",
+        "",
+        "Koratti, Savuri pazham, Ankurattai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Trichosanthes bracteata",
+      "ayurveda_name": "vil, mahkla",
+      "unani_name": "",
+      "siddha_name": "Koratti, Savuri pazham, Ankurattai",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 262,
+      "columns": [
+        "Trichosanthes dioica Roxb.",
+        "paola",
+        "",
+        "Kombu pudalai",
+        "pointed gourd"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Trichosanthes dioica Roxb.",
+      "ayurveda_name": "paola",
+      "unani_name": "",
+      "siddha_name": "Kombu pudalai",
+      "common_name": "pointed gourd"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 263,
+      "columns": [
+        "Trigonella foenum-graecum Linn.",
+        "meth",
+        "Hulba/Methi",
+        "Vendhayam, Methi, Vendhai, Uluva",
+        "sicklefruit fenugreek"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Trigonella foenum-graecum Linn.",
+      "ayurveda_name": "meth",
+      "unani_name": "Hulba/Methi",
+      "siddha_name": "Vendhayam, Methi, Vendhai, Uluva",
+      "common_name": "sicklefruit fenugreek"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 264,
+      "columns": [
+        "Triticum aestivum Linn.",
+        "godhma",
+        "Gandum",
+        "Kodhumai, Yavai",
+        "common wheat, Wheat"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Triticum aestivum Linn.",
+      "ayurveda_name": "godhma",
+      "unani_name": "Gandum",
+      "siddha_name": "Kodhumai, Yavai",
+      "common_name": "common wheat, Wheat"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 265,
+      "columns": [
+        "Typha austrails Schum. & Thonn.",
+        "guha, gundra",
+        "Halfa/Pateera/Bardi",
+        "",
+        "Lesser Indian Reed-Mace"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Typha austrails Schum. & Thonn.",
+      "ayurveda_name": "guha, gundra",
+      "unani_name": "Halfa/Pateera/Bardi",
+      "siddha_name": "",
+      "common_name": "Lesser Indian Reed-Mace"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 266,
+      "columns": [
+        "Uraria picta",
+        "pnipar",
+        "",
+        "Chithirapaladai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Uraria picta",
+      "ayurveda_name": "pnipar",
+      "unani_name": "",
+      "siddha_name": "Chithirapaladai",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 267,
+      "columns": [
+        "Valeriana hardwickii Wall.",
+        "tagara, blaka",
+        "",
+        "",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Valeriana hardwickii Wall.",
+      "ayurveda_name": "tagara, blaka",
+      "unani_name": "",
+      "siddha_name": "",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 268,
+      "columns": [
+        "Valeriana jatamansii Jones Syn.",
+        "tagara, blaka",
+        "Farasiyun/Faristariun/Tagar / Balahhar",
+        "Kiranthithakaram",
+        "Indian Valerian"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Valeriana jatamansii Jones Syn.",
+      "ayurveda_name": "tagara, blaka",
+      "unani_name": "Farasiyun/Faristariun/Tagar / Balahhar",
+      "siddha_name": "Kiranthithakaram",
+      "common_name": "Indian Valerian"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 269,
+      "columns": [
+        "Vallaris solanacea",
+        "sphot, sariv, utpala",
+        "Aasphoota/Veeroomal",
+        "Kattupalai",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Vallaris solanacea",
+      "ayurveda_name": "sphot, sariv, utpala",
+      "unani_name": "Aasphoota/Veeroomal",
+      "siddha_name": "Kattupalai",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 270,
+      "columns": [
+        "Vernonia cinerea",
+        "sahadev, daotpal",
+        "Sehdevi/Utpila Naunhiya",
+        "Mookkuthi poondu,Sahadevi,Poovankoondhal,Neichetti, Sirasengaluneer,Thevagandham,Sitrilai, Neernochi",
+        "little ironweed"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Vernonia cinerea",
+      "ayurveda_name": "sahadev, daotpal",
+      "unani_name": "Sehdevi/Utpila Naunhiya",
+      "siddha_name": "Mookkuthi poondu,Sahadevi,Poovankoondhal,Neichetti, Sirasengaluneer,Thevagandham,Sitrilai, Neernochi",
+      "common_name": "little ironweed"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 271,
+      "columns": [
+        "Vetiveria zizanioides",
+        "ura",
+        "Khas",
+        "Vetri ver, Guru ver, Viranam, Iruvaeli, Vizhalver",
+        "vetivergrass, Cuscus, Vetiver"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Vetiveria zizanioides",
+      "ayurveda_name": "ura",
+      "unani_name": "Khas",
+      "siddha_name": "Vetri ver, Guru ver, Viranam, Iruvaeli, Vizhalver",
+      "common_name": "vetivergrass, Cuscus, Vetiver"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 272,
+      "columns": [
+        "Vigna mungo",
+        "ma",
+        "Urd/ Maash",
+        "Ulundhu,Maasam,Maadam, Satheenagam, Satheenam",
+        "Black gram"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Vigna mungo",
+      "ayurveda_name": "ma",
+      "unani_name": "Urd/ Maash",
+      "siddha_name": "Ulundhu,Maasam,Maadam, Satheenagam, Satheenam",
+      "common_name": "Black gram"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 273,
+      "columns": [
+        "Vigna radiata",
+        "mudga",
+        "Moong",
+        "Paasi payaru,Pachai payiru, Murkam, Panippayaru, Ulundu",
+        "Green gram, Golden gram"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Vigna radiata",
+      "ayurveda_name": "mudga",
+      "unani_name": "Moong",
+      "siddha_name": "Paasi payaru,Pachai payiru, Murkam, Panippayaru, Ulundu",
+      "common_name": "Green gram, Golden gram"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 274,
+      "columns": [
+        "Vigna trilobata",
+        "mudagapar",
+        "",
+        "Panipayar, Naripayar, Elippayar, Kattuppayar",
+        "Wild Gram"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Vigna trilobata",
+      "ayurveda_name": "mudagapar",
+      "unani_name": "",
+      "siddha_name": "Panipayar, Naripayar, Elippayar, Kattuppayar",
+      "common_name": "Wild Gram"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 275,
+      "columns": [
+        "Vigna unguiculata",
+        "kulattha",
+        "",
+        "Kaanam,Mudhirai, Kaaramani, Kollu",
+        "catjang"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Vigna unguiculata",
+      "ayurveda_name": "kulattha",
+      "unani_name": "",
+      "siddha_name": "Kaanam,Mudhirai, Kaaramani, Kollu",
+      "common_name": "catjang"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 276,
+      "columns": [
+        "Vitex agnus-castus Linn. / Vitex negundo Linn.",
+        "reuk",
+        "Panjangusht/Panjkisht",
+        "",
+        "chaste tree, lilac chastetree"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Vitex agnus-castus Linn. / Vitex negundo Linn.",
+      "ayurveda_name": "reuk",
+      "unani_name": "Panjangusht/Panjkisht",
+      "siddha_name": "",
+      "common_name": "chaste tree, lilac chastetree"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 277,
+      "columns": [
+        "Vitis vinifera Linn.",
+        "drk",
+        "Angoor / Angoor Siyah / Kishmish / Maweez/ Karm",
+        "Thiraatsai, Kodi mundhiri, Madhurasam, Paloothamai, Kottani",
+        "wine grape"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Vitis vinifera Linn.",
+      "ayurveda_name": "drk",
+      "unani_name": "Angoor / Angoor Siyah / Kishmish / Maweez/ Karm",
+      "siddha_name": "Thiraatsai, Kodi mundhiri, Madhurasam, Paloothamai, Kottani",
+      "common_name": "wine grape"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 278,
+      "columns": [
+        "Wedelia chinensis",
+        "bhgarja pta, kearja",
+        "",
+        "Manjal karisalankanni, Porthalai kyan",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Wedelia chinensis",
+      "ayurveda_name": "bhgarja pta, kearja",
+      "unani_name": "",
+      "siddha_name": "Manjal karisalankanni, Porthalai kyan",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 279,
+      "columns": [
+        "Withania somnifera",
+        "avagandh",
+        "Asgand",
+        "Nattuamukira Irulichevi, Kidichevi, nagudaver, Varagakarni, Asubam, Amukkra",
+        "Winter Cherry"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Withania somnifera",
+      "ayurveda_name": "avagandh",
+      "unani_name": "Asgand",
+      "siddha_name": "Nattuamukira Irulichevi, Kidichevi, nagudaver, Varagakarni, Asubam, Amukkra",
+      "common_name": "Winter Cherry"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 280,
+      "columns": [
+        "Woodfordia fruticosa",
+        "dhtak",
+        "Dhaatekee/ Dhaat Pushpi / Dhaae",
+        "Velakkai, Kattathi",
+        "Fire-flame Bush, Shiranjitea"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Woodfordia fruticosa",
+      "ayurveda_name": "dhtak",
+      "unani_name": "Dhaatekee/ Dhaat Pushpi / Dhaae",
+      "siddha_name": "Velakkai, Kattathi",
+      "common_name": "Fire-flame Bush, Shiranjitea"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 281,
+      "columns": [
+        "Xeromphis spinosa",
+        "madana, mainaphala",
+        "",
+        "Marukkallankay, Madkarai, Karai",
+        "emetic nut"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Xeromphis spinosa",
+      "ayurveda_name": "madana, mainaphala",
+      "unani_name": "",
+      "siddha_name": "Marukkallankay, Madkarai, Karai",
+      "common_name": "emetic nut"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 282,
+      "columns": [
+        "Zanthoxylum armatum DC. Syn.",
+        "tejovat",
+        "Kabab-e-Khandan/Kabaaba",
+        "",
+        "Toothache tree, Indian\nPrickly Ash"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Zanthoxylum armatum DC. Syn.",
+      "ayurveda_name": "tejovat",
+      "unani_name": "Kabab-e-Khandan/Kabaaba",
+      "siddha_name": "",
+      "common_name": "Toothache tree, Indian\nPrickly Ash"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 283,
+      "columns": [
+        "Zingiber officinale Roscoe",
+        "rdraka, uh",
+        "Adrak/Zanjabeel/Sindhi/ Sonth",
+        "Inji, chukku",
+        "garden ginger, Ginger"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Zingiber officinale Roscoe",
+      "ayurveda_name": "rdraka, uh",
+      "unani_name": "Adrak/Zanjabeel/Sindhi/ Sonth",
+      "siddha_name": "Inji, chukku",
+      "common_name": "garden ginger, Ginger"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 284,
+      "columns": [
+        "Ziziphus jujuba Mill.",
+        "kola, sauvra",
+        "",
+        "Illanthi, Elladu",
+        "Chinese Tsao"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Ziziphus jujuba Mill.",
+      "ayurveda_name": "kola, sauvra",
+      "unani_name": "",
+      "siddha_name": "Illanthi, Elladu",
+      "common_name": "Chinese Tsao"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 285,
+      "columns": [
+        "Zizyphus mauritiana Lam.",
+        "badara, kola",
+        "",
+        "Ilandhai, Aditharam, Iradi, Koli, Kullari, Sivagam, Veyam, Padari",
+        ""
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Zizyphus mauritiana Lam.",
+      "ayurveda_name": "badara, kola",
+      "unani_name": "",
+      "siddha_name": "Ilandhai, Aditharam, Iradi, Koli, Kullari, Sivagam, Veyam, Padari",
+      "common_name": ""
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Plant Name",
+      "row_index": 286,
+      "columns": [
+        "Zizyphus nummularia",
+        "karkandhu",
+        "Ghangher / Gangeri",
+        "Korkodi, Parpallikida",
+        "Wild Jujube"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/Utility/KeywordDemo/Plant-Name.asp",
+      "scientific_or_english_name": "Zizyphus nummularia",
+      "ayurveda_name": "karkandhu",
+      "unani_name": "Ghangher / Gangeri",
+      "siddha_name": "Korkodi, Parpallikida",
+      "common_name": "Wild Jujube"
+    }
+  ]
+}

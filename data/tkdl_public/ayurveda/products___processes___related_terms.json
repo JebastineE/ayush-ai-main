@@ -1,0 +1,94 @@
+{
+  "source": "TKDL",
+  "system": "Ayurveda",
+  "category": "Products / Processes / Related Terms",
+  "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Product.asp",
+  "parent_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Product.asp",
+  "retrieved_at": "2026-08-27T10:33:51.147719",
+  "total_records": 5,
+  "records": [
+    {
+      "system": "Ayurveda",
+      "category": "Products / Processes / Related Terms",
+      "row_index": 1,
+      "columns": [
+        "Products / Processes / Related Terms"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Product.asp"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Products / Processes / Related Terms",
+      "row_index": 2,
+      "columns": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Product.asp"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Products / Processes / Related Terms",
+      "row_index": 3,
+      "columns": [
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Product.asp"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Products / Processes / Related Terms",
+      "row_index": 4,
+      "columns": [
+        "Scientific NameAyurveda NameUnani NameSiddha NameCommon Name",
+        "Scientific Name",
+        "Ayurveda Name",
+        "Unani Name",
+        "Siddha Name",
+        "Common Name"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Product.asp"
+    },
+    {
+      "system": "Ayurveda",
+      "category": "Products / Processes / Related Terms",
+      "row_index": 5,
+      "columns": [
+        "Scientific Name",
+        "Ayurveda Name",
+        "Unani Name",
+        "Siddha Name",
+        "Common Name"
+      ],
+      "source_url": "https://www.tkdl.res.in/tkdl/langdefault/Ayurveda/KeywordHelp/KeywordDemo/F-Product.asp",
+      "scientific_or_english_name": "Scientific Name",
+      "ayurveda_name": "Ayurveda Name",
+      "unani_name": "Unani Name",
+      "siddha_name": "Siddha Name",
+      "common_name": "Common Name"
+    }
+  ]
+}
