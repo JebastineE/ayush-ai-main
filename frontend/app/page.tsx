@@ -6,6 +6,7 @@ import { ToolTabs }              from "@/components/ToolTabs";
 import { ChatInterface }         from "@/components/ChatInterface";
 import { PdfViewer }             from "@/components/PdfViewer";
 import { BiopiracyScanner }      from "@/components/BiopiracyScanner";
+import { ResearchExplorer }      from "@/components/ResearchExplorer";
 import { ChevronDown, Zap }      from "lucide-react";
 import { cn }                    from "@/lib/utils";
 import { API_BASE_URL }            from "@/lib/config";
@@ -24,6 +25,7 @@ interface DemoScenario {
   // Payload fields set when button is clicked
   chatQuery?:        string;
   biopiracyClaim?:   string;
+  researchQuery?:    string;
 }
 
 const DEMO_SCENARIOS: DemoScenario[] = [
@@ -63,6 +65,7 @@ export default function Dashboard() {
   const [demoOpen,          setDemoOpen]          = useState(false);
   const [demoQuery,         setDemoQuery]         = useState<string | null>(null);
   const [demoClaim,         setDemoClaim]         = useState<string | null>(null);
+  const [demoResearch,      setDemoResearch]      = useState<string | null>(null);
 
   // ── Resizer ────────────────────────────────────────────────────────────
   const resizerRef = useRef<HTMLDivElement>(null);
@@ -127,6 +130,7 @@ export default function Dashboard() {
     // Reset all demo state so repeated clicks re-fire effects
     setDemoQuery(null);
     setDemoClaim(null);
+    setDemoResearch(null);
 
     setActiveTab(scenario.tab);
 
@@ -134,6 +138,7 @@ export default function Dashboard() {
     setTimeout(() => {
       if (scenario.chatQuery)        setDemoQuery(scenario.chatQuery);
       if (scenario.biopiracyClaim)   setDemoClaim(scenario.biopiracyClaim);
+      if (scenario.researchQuery)    setDemoResearch(scenario.researchQuery);
     }, 80);
   };
 
@@ -207,6 +212,9 @@ export default function Dashboard() {
             </div>
             <div className={cn("flex-1 overflow-hidden flex flex-col", activeTab !== "biopiracy" && "hidden")}>
               <BiopiracyScanner demoClaim={demoClaim} />
+            </div>
+            <div className={cn("flex-1 overflow-hidden flex flex-col", activeTab !== "research" && "hidden")}>
+              <ResearchExplorer demoQuery={demoResearch} />
             </div>
           </div>
         </section>

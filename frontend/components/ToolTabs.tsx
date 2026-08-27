@@ -1,4 +1,4 @@
-import { MessageSquare, Shield } from "lucide-react";
+import { MessageSquare, Shield, BookOpen } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 interface ToolTabsProps {
@@ -10,6 +10,7 @@ export function ToolTabs({ activeTab, onTabChange }: ToolTabsProps) {
   const tabs = [
     { id: "chat",     label: "Legal Assistant (RAG)",  icon: MessageSquare },
     { id: "biopiracy", label: "Biopiracy Scanner",     icon: Shield },
+    { id: "research", label: "Research Explorer",     icon: BookOpen },
   ];
 
 

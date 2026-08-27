@@ -81,3 +81,30 @@
  GET / 200 in 49ms (next.js: 7ms, application-code: 42ms)
  GET / 200 in 58ms (next.js: 9ms, application-code: 49ms)
  GET / 200 in 72ms (next.js: 19ms, application-code: 53ms)
+ GET / 200 in 28ms (next.js: 5ms, application-code: 23ms)
+ GET / 200 in 55ms (next.js: 6ms, application-code: 49ms)
+ GET / 200 in 63ms (next.js: 6ms, application-code: 57ms)
+ GET / 200 in 135ms (next.js: 25ms, application-code: 110ms)
+[browser] Error: Server returned 404
+    at handleSearch (components/ResearchExplorer.tsx:43:15)
+  41 |
+  42 |       if (!res.ok) {
+> 43 |         throw new Error(`Server returned ${res.status}`);
+     |               ^
+  44 |       }
+  45 |
+  46 |       const data: ResearchSearchResult = await res.json(); (components/ResearchExplorer.tsx:49:15)
+[browser] Error: Server returned 404
+    at handleSearch (components/ResearchExplorer.tsx:43:15)
+  41 |
+  42 |       if (!res.ok) {
+> 43 |         throw new Error(`Server returned ${res.status}`);
+     |               ^
+  44 |       }
+  45 |
+  46 |       const data: ResearchSearchResult = await res.json(); (components/ResearchExplorer.tsx:49:15)
+ GET / 200 in 20ms (next.js: 6ms, application-code: 13ms)
+✓ Compiled in 86ms
+ GET / 200 in 34ms (next.js: 8ms, application-code: 26ms)
+✓ Compiled in 148ms
+[?25h

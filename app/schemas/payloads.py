@@ -117,3 +117,25 @@ class EscalationRequest(BaseModel):
     messages:           List[MessageItem]
     citations:          Optional[List[CitationItem]]  = None
     session_id:         Optional[str]                 = None
+
+# ── Research Explorer Schemas ───────────────────────────────────────────────
+
+class ResearchSearchRequest(BaseModel):
+    query: str
+
+class PublicationRecord(BaseModel):
+    title: str
+    authors: List[str]
+    year: Optional[int] = None
+    journal: Optional[str] = None
+    abstract: str
+    url: str
+    doi: str
+    source: str
+    sources: List[str] = Field(default_factory=list)
+    source_urls: Dict[str, str] = Field(default_factory=dict)
+    open_access: bool = False
+
+class ResearchSearchResult(BaseModel):
+    query_analyzed: str
+    records: List[PublicationRecord]

@@ -10,6 +10,8 @@ from app.schemas.payloads import (
     PatentSearchResult,
     EscalationRequest,
     ActionItem,
+    ResearchSearchRequest,
+    ResearchSearchResult,
 )
 from app.middleware.cache import process_chat_with_cache
 from app.middleware.dpdp import scrub_pii
@@ -21,6 +23,7 @@ from app.db.sqlite_cache import get_cache_stats
 from app.services.memory import memory_manager
 from app.services.action_selector import suggest_actions
 from app.services.action_resources import get_action_suggestions
+from app.services.research_explorer import search_research_literature
 
 router = APIRouter()
 
@@ -143,6 +146,18 @@ async def patent_search(request: PatentSearchRequest):
     clean_claim, _ = scrub_pii(request.claim_text)
     result = search_patents_bigquery(clean_claim)
     return PatentSearchResult(**result)
+
+
+# ── Research Explorer ──────────────────────────────────────────────────
+
+@router.post("/research-search", response_model=ResearchSearchResult)
+async def research_search(request: ResearchSearchRequest):
+    """
+    Search across multiple academic databases concurrently.
+    """
+    clean_query, _ = scrub_pii(request.query)
+    result = await search_research_literature(clean_query)
+    return result
 
 
 # ── Human IP Facilitator Escalation ───────────────────────────────────

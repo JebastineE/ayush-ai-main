@@ -31,6 +31,58 @@ export interface ChatResponse {
   actions?: ActionItem[];
 }
 
+export interface ClassificationResult {
+  category:             string;
+  regulatory_path:      string;
+  ip_status:            string;
+  abs_requirement:      string;
+  gemini_explanation:   string;
+  needs_review:         boolean;
+}
+
+export interface TriageChatRequest {
+  session_id:     string;
+  current_step:   number;
+  answers:        Record<string, string>;
+  latest_answer?: string;
+}
+
+export interface TriageChatResponse {
+  session_id:              string;
+  is_complete:             boolean;
+  current_step:            number;
+  total_steps:             number;
+  next_question?:          string;
+  next_step?:              number;
+  classification_result?:  ClassificationResult;
+  answers:                 Record<string, string>;
+}
+
+// ── Research Explorer Types ──────────────────────────────────────────────
+
+export interface ResearchSearchRequest {
+  query: string;
+}
+
+export interface PublicationRecord {
+  title: string;
+  authors: string[];
+  year?: number;
+  journal?: string;
+  abstract: string;
+  url: string;
+  doi: string;
+  source: string;
+  sources?: string[];
+  source_urls?: Record<string, string>;
+  open_access?: boolean;
+}
+
+export interface ResearchSearchResult {
+  query_analyzed: string;
+  records: PublicationRecord[];
+}
+
 // ── TKDL Biopiracy Scanner Types ─────────────────────────────────────────
 
 export interface TKDLScanRequest {
