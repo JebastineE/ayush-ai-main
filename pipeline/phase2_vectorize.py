@@ -8,7 +8,7 @@ from qdrant_client import QdrantClient
 from qdrant_client.http.models import Distance, VectorParams, PointStruct
 
 from .config import (
-    MODEL_NAME, QDRANT_PATH, LEGAL_CHUNKS, TKDL_CHUNKS,
+    MODEL_NAME, QDRANT_PATH, LEGAL_CHUNKS, TKDL_CHUNKS, JSON_CHUNKS, CSV_CHUNKS,
     LEGAL_COLLECTION, TKDL_COLLECTION, EMBEDDING_DIM, BATCH_SIZE_EMBED
 )
 from .utils import setup_logging
@@ -105,7 +105,7 @@ def _process_batch(batch: list[dict], model: SentenceTransformer, client: Qdrant
 def run_vectorization() -> None:
     logger.info("Starting Phase 2: Vectorization...")
     
-    if not LEGAL_CHUNKS.exists() and not TKDL_CHUNKS.exists():
+    if not LEGAL_CHUNKS.exists() and not TKDL_CHUNKS.exists() and not JSON_CHUNKS.exists() and not CSV_CHUNKS.exists():
         logger.warning("No chunk files found. Did you run Phase 1?")
         return
         
@@ -123,7 +123,21 @@ def run_vectorization() -> None:
         logger.info("Vectorizing TKDL chunks...")
         tkdl_iter = read_jsonl(TKDL_CHUNKS)
         tkdl_upserts = embed_and_upsert(tkdl_iter, model, client, TKDL_COLLECTION)
+
+    json_upserts = 0
+    if JSON_CHUNKS.exists():
+        logger.info("Vectorizing JSON chunks...")
+        json_iter = read_jsonl(JSON_CHUNKS)
+        json_upserts = embed_and_upsert(json_iter, model, client, LEGAL_COLLECTION)
+
+    csv_upserts = 0
+    if CSV_CHUNKS.exists():
+        logger.info("Vectorizing CSV chunks...")
+        csv_iter = read_jsonl(CSV_CHUNKS)
+        csv_upserts = embed_and_upsert(csv_iter, model, client, LEGAL_COLLECTION)
         
     logger.info(f"✅ Vectorization complete.")
     logger.info(f"legal_docs: {legal_upserts} points upserted/verified.")
     logger.info(f"tkdl_records: {tkdl_upserts} points upserted/verified.")
+    logger.info(f"json_chunks: {json_upserts} points upserted/verified.")
+    logger.info(f"csv_chunks: {csv_upserts} points upserted/verified.")

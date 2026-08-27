@@ -1,11 +1,12 @@
 import json
+import csv
 import re
 from pathlib import Path
 from transformers import AutoTokenizer
 import pymupdf4llm
 
 from .config import (
-    CORPUS_DIR, TK_DIR, LEGAL_CHUNKS, TKDL_CHUNKS, INGESTION_LOG,
+    CORPUS_DIR, TK_DIR, LEGAL_CHUNKS, TKDL_CHUNKS, JSON_CHUNKS, CSV_CHUNKS, INGESTION_LOG,
     MODEL_NAME, CHUNK_SIZE_TOKENS, CHUNK_OVERLAP_TOKENS,
     LEGAL_COLLECTION, TKDL_COLLECTION
 )
@@ -81,7 +82,7 @@ def process_legal_corpus(log: dict) -> tuple[list[dict], dict]:
         
     doc_meta_map = load_document_metadata()
 
-    for file_path in CORPUS_DIR.glob("*"):
+    for file_path in CORPUS_DIR.rglob("*"):
         if file_path.suffix.lower() not in ['.pdf', '.txt']:
             continue
             
@@ -123,6 +124,7 @@ def process_legal_corpus(log: dict) -> tuple[list[dict], dict]:
                 new_chunks.append({
                     "chunk_id": chunk_id,
                     "source_file": filename,
+                    "source_type": "pdf",
                     "page_number": page_num,
                     "chunk_index": c_idx,
                     "text": c_text,
@@ -238,6 +240,144 @@ def process_tkdl_data() -> list[dict]:
         logger.critical(f"Failed to decode public TKDL dataset: {e}")
         
     return tkdl_chunks
+
+def process_json_file(file_path: Path, log: dict, collection: str = LEGAL_COLLECTION) -> tuple[list[dict], dict]:
+    """
+    Dedicated JSON dataset ingestion and chunking path.
+    1. Safely loads JSON file.
+    2. Detects structure (list of records, object with records array, or dictionary).
+    3. Normalizes structured records into textual documents.
+    4. Preserves source_type="json", source_file, record_id, and metadata.
+    5. Chunks resulting text using existing tokenization strategy if large.
+    """
+    new_chunks = []
+    if not file_path.exists():
+        logger.error(f"JSON file not found: {file_path}")
+        return new_chunks, log
+
+    file_hash = compute_sha256(file_path)
+    filename = file_path.name
+    if log.get(filename) == file_hash:
+        logger.info(f"Skipping {filename} (already processed)")
+        return new_chunks, log
+
+    logger.info(f"Processing JSON file {filename}...")
+
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except Exception as e:
+        logger.error(f"Could not read JSON file {filename}: {e}")
+        return new_chunks, log
+
+    records = []
+    if isinstance(data, list):
+        records = data
+    elif isinstance(data, dict):
+        for key in ["records", "items", "data", "documents", "chunks"]:
+            if key in data and isinstance(data[key], list):
+                records = data[key]
+                break
+        if not records:
+            records = [data]
+
+    stem_slug = slugify(file_path.stem)
+
+    for idx, rec in enumerate(records, 1):
+        rec_id = str(rec.get("id", rec.get("record_id", f"rec_{idx}"))) if isinstance(rec, dict) else f"rec_{idx}"
+        
+        if isinstance(rec, dict):
+            parts = []
+            for k, v in rec.items():
+                if v is not None and v != "":
+                    if isinstance(v, (dict, list)):
+                        v_str = json.dumps(v, ensure_ascii=False)
+                    else:
+                        v_str = str(v).strip()
+                    parts.append(f"{k}: {v_str}")
+            text_content = "\n".join(parts)
+        else:
+            text_content = str(rec).strip()
+
+        if not text_content:
+            continue
+
+        chunks_str = chunk_text(text_content, CHUNK_SIZE_TOKENS, CHUNK_OVERLAP_TOKENS)
+        for c_idx, c_text in enumerate(chunks_str):
+            rec_id_slug = slugify(rec_id) or f"rec_{idx}"
+            chunk_id = f"{stem_slug}_{rec_id_slug}_c{c_idx}"
+            new_chunks.append({
+                "chunk_id": chunk_id,
+                "source_file": filename,
+                "source_type": "json",
+                "record_id": rec_id,
+                "page_number": None,
+                "chunk_index": c_idx,
+                "text": c_text,
+                "collection": collection,
+                "sha256": file_hash
+            })
+
+    log[filename] = file_hash
+    return new_chunks, log
+
+
+def process_csv_file(file_path: Path, log: dict, collection: str = LEGAL_COLLECTION) -> tuple[list[dict], dict]:
+    """
+    Dedicated CSV dataset ingestion and chunking path.
+    1. Parses CSV rows using csv.DictReader.
+    2. Normalizes each row into structured key-value text.
+    3. Preserves source_type="csv", source_file, row_number, and metadata.
+    4. Chunks large text fields using existing tokenization strategy if large.
+    """
+    new_chunks = []
+    if not file_path.exists():
+        logger.error(f"CSV file not found: {file_path}")
+        return new_chunks, log
+
+    file_hash = compute_sha256(file_path)
+    filename = file_path.name
+    if log.get(filename) == file_hash:
+        logger.info(f"Skipping {filename} (already processed)")
+        return new_chunks, log
+
+    logger.info(f"Processing CSV file {filename}...")
+
+    try:
+        with open(file_path, 'r', encoding='utf-8', errors='replace') as f:
+            reader = csv.DictReader(f)
+            stem_slug = slugify(file_path.stem)
+            
+            for row_idx, row in enumerate(reader, 1):
+                parts = []
+                for col_name, val in row.items():
+                    if val and str(val).strip():
+                        parts.append(f"{col_name}: {str(val).strip()}")
+                
+                text_content = " | ".join(parts)
+                if not text_content:
+                    continue
+
+                chunks_str = chunk_text(text_content, CHUNK_SIZE_TOKENS, CHUNK_OVERLAP_TOKENS)
+                for c_idx, c_text in enumerate(chunks_str):
+                    chunk_id = f"{stem_slug}_row{row_idx}_c{c_idx}"
+                    new_chunks.append({
+                        "chunk_id": chunk_id,
+                        "source_file": filename,
+                        "source_type": "csv",
+                        "row_number": row_idx,
+                        "page_number": None,
+                        "chunk_index": c_idx,
+                        "text": c_text,
+                        "collection": collection,
+                        "sha256": file_hash
+                    })
+
+        log[filename] = file_hash
+    except Exception as e:
+        logger.error(f"Could not parse CSV file {filename}: {e}")
+
+    return new_chunks, log
 
 def append_jsonl(file_path: Path, records: list[dict]):
     if not records:

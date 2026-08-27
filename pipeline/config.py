@@ -9,6 +9,8 @@ QDRANT_PATH     = BASE_DIR / "data" / "qdrant_store"
 INGESTION_LOG   = PROCESSED_DIR / "ingestion_log.json"
 LEGAL_CHUNKS    = PROCESSED_DIR / "legal_chunks.jsonl"
 TKDL_CHUNKS     = PROCESSED_DIR / "tkdl_chunks.jsonl"
+JSON_CHUNKS     = PROCESSED_DIR / "json_chunks.jsonl"
+CSV_CHUNKS      = PROCESSED_DIR / "csv_chunks.jsonl"
 
 MODEL_NAME             = "law-ai/InLegalBERT"
 EMBEDDING_DIM          = 768
