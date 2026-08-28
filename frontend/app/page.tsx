@@ -7,6 +7,7 @@ import { ChatInterface }         from "@/components/ChatInterface";
 import { PdfViewer }             from "@/components/PdfViewer";
 import { BiopiracyScanner }      from "@/components/BiopiracyScanner";
 import { ResearchExplorer }      from "@/components/ResearchExplorer";
+import { FormulationClassifier } from "@/components/FormulationClassifier";
 import { ChevronDown, Zap }      from "lucide-react";
 import { cn }                    from "@/lib/utils";
 import { API_BASE_URL }            from "@/lib/config";
@@ -215,6 +216,12 @@ export default function Dashboard() {
             </div>
             <div className={cn("flex-1 overflow-hidden flex flex-col", activeTab !== "research" && "hidden")}>
               <ResearchExplorer demoQuery={demoResearch} />
+            </div>
+            <div className={cn("flex-1 overflow-hidden flex flex-col", activeTab !== "classifier" && "hidden")}>
+              <FormulationClassifier
+                onCitationClick={handleCitationClick}
+                onNavigateTab={setActiveTab}
+              />
             </div>
           </div>
         </section>

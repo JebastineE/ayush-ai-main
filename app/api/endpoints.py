@@ -1,5 +1,5 @@
 from fastapi import APIRouter, HTTPException, Response
-from fastapi.responses import StreamingResponse
+from fastapi.responses import StreamingResponse, FileResponse
 import io
 from app.schemas.payloads import (
     ChatRequest,
@@ -12,6 +12,8 @@ from app.schemas.payloads import (
     ActionItem,
     ResearchSearchRequest,
     ResearchSearchResult,
+    ClassifyFormulationRequest,
+    ClassifyFormulationResponse,
 )
 from app.middleware.cache import process_chat_with_cache
 from app.middleware.dpdp import scrub_pii
@@ -24,6 +26,7 @@ from app.services.memory import memory_manager
 from app.services.action_selector import suggest_actions
 from app.services.action_resources import get_action_suggestions
 from app.services.research_explorer import search_research_literature
+from app.services.formulation_classifier import classify_formulation
 
 router = APIRouter()
 
@@ -192,6 +195,62 @@ async def escalate(request: EscalationRequest):
             "Content-Length": str(len(pdf_bytes)),
         },
     )
+
+
+# ── Formulation Classifier ────────────────────────────────────────────────
+
+@router.post("/classify-formulation", response_model=ClassifyFormulationResponse)
+async def classify_formulation_endpoint(request: ClassifyFormulationRequest):
+    """
+    Classify a formulation as classical/generic, possible match, or no match.
+    Uses deterministic threshold-based classification — never defaults to "proprietary."
+    """
+    clean_name = ""
+    if request.formulation_name:
+        clean_name, _ = scrub_pii(request.formulation_name)
+
+    clean_indication, _ = scrub_pii(request.claimed_indication)
+
+    ingredients_dicts = [
+        {"name": ing.name, "part": ing.part or "", "proportion": ing.proportion or ""}
+        for ing in request.ingredients
+    ]
+
+    result = classify_formulation(
+        formulation_name=clean_name,
+        ingredients=ingredients_dicts,
+        method=request.method or "",
+        claimed_indication=clean_indication,
+        cited_source_text=request.cited_source_text or "",
+        route=request.route or "oral",
+    )
+    return ClassifyFormulationResponse(**result)
+
+
+# ── Document Serving ────────────────────────────────────────────────────────
+import mimetypes
+
+@router.get("/document/{filename}")
+async def serve_document(filename: str):
+    """Serve PDF documents for the citation viewer."""
+    from pathlib import Path
+    docs_dir = Path(__file__).parent.parent.parent / "data" / "legal_corpus"
+    
+    # URL decode and sanitize the filename
+    from urllib.parse import unquote
+    clean_filename = unquote(filename)
+    
+    docs_dir = docs_dir.resolve()
+    file_path = (docs_dir / clean_filename).resolve()
+    
+    if not file_path.is_relative_to(docs_dir) or not file_path.exists() or not file_path.is_file():
+        raise HTTPException(status_code=404, detail="Document not found")
+        
+    content_type, _ = mimetypes.guess_type(str(file_path))
+    if not content_type:
+        content_type = "application/pdf"
+        
+    return FileResponse(path=file_path, media_type=content_type)
 
 
 # ── Cache Diagnostics ──────────────────────────────────────────────────────

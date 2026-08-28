@@ -1,6 +1,8 @@
 import asyncio
 import httpx
 import logging
+import re
+import html
 from typing import List, Dict, Any
 from app.schemas.payloads import PublicationRecord, ResearchSearchResult
 
@@ -25,6 +27,16 @@ def normalize_query(query: str) -> str:
             query += f" OR \"{scientific}\""
     return query
 
+def clean_html(text: str) -> str:
+    """Remove HTML tags and decode HTML entities from text."""
+    if not text:
+        return text
+    # First unescape HTML entities (&lt; -> <, &gt; -> >, etc.)
+    text = html.unescape(text)
+    # Then strip HTML tags
+    text = re.sub(r'<[^>]+>', '', text)
+    return text.strip()
+
 async def fetch_europe_pmc(query: str, client: httpx.AsyncClient) -> List[PublicationRecord]:
     url = "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
     params = {
@@ -39,12 +51,11 @@ async def fetch_europe_pmc(query: str, client: httpx.AsyncClient) -> List[Public
         data = response.json()
         results = data.get("resultList", {}).get("result", [])
         
-        import re as _re
         records = []
         for item in results:
-            title = item.get("title", "Unknown Title")
+            title = clean_html(item.get("title", "Unknown Title"))
             raw_abstract = item.get("abstractText", "")
-            abstract = _re.sub(r'<[^>]+>', '', raw_abstract).strip() if raw_abstract else "No abstract available."
+            abstract = clean_html(raw_abstract) if raw_abstract else "No abstract available."
             doi = item.get("doi", "")
             url = f"https://doi.org/{doi}" if doi else f"https://europepmc.org/article/MED/{item.get('pmid', '')}"
             
@@ -88,7 +99,7 @@ async def fetch_openalex(query: str, client: httpx.AsyncClient) -> List[Publicat
         
         records = []
         for item in results:
-            title = item.get("title") or "Unknown Title"
+            title = clean_html(item.get("title") or "Unknown Title")
             abstract_inverted = item.get("abstract_inverted_index")
             abstract = "No abstract available."
             if abstract_inverted:
@@ -152,12 +163,8 @@ async def fetch_crossref(query: str, client: httpx.AsyncClient) -> List[Publicat
         records = []
         for item in results:
             title_list = item.get("title", [])
-            title = title_list[0] if title_list else "Unknown Title"
-            abstract = item.get("abstract", "No abstract available.")
-            
-            # Crossref abstracts often contain JATS XML tags. Strip simple ones.
-            import re
-            abstract = re.sub(r'<[^>]+>', '', abstract)
+            title = clean_html(title_list[0]) if title_list else "Unknown Title"
+            abstract = clean_html(item.get("abstract", "No abstract available."))
             
             doi = item.get("DOI", "")
             url = item.get("URL", f"https://doi.org/{doi}")

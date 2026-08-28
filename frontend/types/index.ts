@@ -146,3 +146,74 @@ export interface EscalationRequest {
   citations?:          CitationItem[];
   session_id?:         string;
 }
+
+// ── Formulation Classifier Types ─────────────────────────────────────────
+
+export interface IngredientInput {
+  name: string;
+  part?: string;
+  proportion?: string;
+}
+
+export interface ClassifyFormulationRequest {
+  formulation_name?: string;
+  ingredients: IngredientInput[];
+  method?: string;
+  claimed_indication: string;
+  cited_source_text?: string;
+  route?: string;
+  claim_type?: string;
+}
+
+export interface IngredientMatchResult {
+  input: string;
+  matched: boolean;
+  canonical_name: string;
+  botanical_name?: string;
+  ayurveda_name?: string;
+  system?: string;
+  category?: string;
+  confidence: number;
+}
+
+export interface MatchedClassicalSource {
+  formula_name: string;
+  source: string;
+  page: number;
+  volume: string;
+  similarity: number;
+  method?: string;
+}
+
+export interface MatchedTKDLRecord {
+  formulation_name?: string;
+  tkrc_code: string;
+  ipc_code: string;
+  similarity: number;
+}
+
+export interface RegulatoryCitation {
+  source: string;
+  page: number | null;
+  snippet: string;
+}
+
+export interface SuggestedAction {
+  label: string;
+  route: string;
+  prefill: Record<string, unknown>;
+}
+
+export interface ClassifyFormulationResponse {
+  category: string;
+  confidence: string;
+  ingredient_matches: IngredientMatchResult[];
+  unmatched_ingredients: string[];
+  matched_classical_source?: MatchedClassicalSource | null;
+  matched_tkdl_record?: MatchedTKDLRecord | null;
+  ip_posture_explanation: string;
+  regulatory_citations: RegulatoryCitation[];
+  suggested_actions: SuggestedAction[];
+  traditional_uses: string;
+  disclaimer: string;
+}

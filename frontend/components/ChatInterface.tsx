@@ -137,7 +137,7 @@ export function ChatInterface({
 
   const handleCitationClick = (filename: string, pageNum: number) => {
     // Route into the right-hand PdfViewer pane via the parent handler
-    onCitationClick(`${API_BASE_URL}/docs/${encodeURIComponent(filename)}`, pageNum);
+    onCitationClick(`${API_BASE_URL}/api/v1/document/${encodeURIComponent(filename)}`, pageNum);
   };
 
   const handleNewChat = () => {

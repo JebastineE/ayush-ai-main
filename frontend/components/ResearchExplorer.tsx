@@ -199,12 +199,6 @@ export function ResearchExplorer({ demoQuery }: ResearchExplorerProps) {
                           DOI: {record.doi}
                         </span>
                       )}
-                      
-                      {record.open_access && (
-                        <span className="flex items-center gap-1 text-xs font-medium text-green-700 bg-green-50 border border-green-200 px-2 py-1 rounded ml-auto">
-                          <Unlock className="w-3.5 h-3.5" /> Open Access
-                        </span>
-                      )}
                     </div>
                   </div>
                 ))}

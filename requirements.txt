@@ -13,3 +13,4 @@ python-dotenv
 rank-bm25
 httpx
 reportlab
+rapidfuzz
