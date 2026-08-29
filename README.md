@@ -1,44 +1,19 @@
-<div align="center">
+# IP-SAKTI Sahayak 🌿⚖️
 
-# 🌿⚖️ IP-SAKTI Sahayak
-
-**A multilingual, RAG-based AI assistant for Intellectual Property and regulatory guidance in Ayurveda**
-
-*Developed for Smart India Hackathon (SIH) under Problem Statement ID 26045, Ministry of Ayush*
-
-[![SIH 2024](https://img.shields.io/badge/SIH-2024-DFA53A?style=flat-square)](#)
-[![Problem Statement](https://img.shields.io/badge/Problem%20Statement-26045-B6402E?style=flat-square)](#)
-[![Ministry of Ayush](https://img.shields.io/badge/Ministry%20of-Ayush-8FA878?style=flat-square)](#)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-18%2B-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-Academic%20%2F%20Public%20Interest-lightgrey?style=flat-square)](#-license)
-
-</div>
+> **A multilingual, RAG-based AI assistant for Intellectual Property and regulatory guidance in Ayurveda** — developed for Smart India Hackathon (SIH) under Problem Statement ID 26045, Ministry of Ayush.
 
 ---
 
-**Sahayak** (सहायक) — "helper" in Sanskrit — is an intelligent assistant that guides Ayurvedic practitioners, AYUSH startups, MSMEs, researchers, and cultivators through the complex landscape of:
+## 🧭 Overview
 
-- 🏛️ **Intellectual Property Rights (IPR)** — patents, GI, trademarks, copyright, designs, trade secrets, and plant-variety rights
-- 🌱 **Access and Benefit Sharing (ABS)** — Biological Diversity Act (2023 amendment) and the Nagoya Protocol
-- 💊 **Drug Regulation** — classification under the Drugs and Cosmetics Act, FSSAI Ayurveda-Aahar rules
-- 🌐 **International Frameworks** — TRIPS, CBD, WIPO GRATK Treaty, PCT, Madrid/Hague systems
+**IP-SAKTI Sahayak** (_Sahayak_ = "helper" in Sanskrit) is an intelligent assistant that guides Ayurvedic practitioners, AYUSH startups, MSMEs, researchers, and cultivators through the complex landscape of:
+
+- **Intellectual Property Rights (IPR)** — patents, GI, trademarks, copyright, designs, trade secrets, and plant-variety rights
+- **Access and Benefit Sharing (ABS)** — Biological Diversity Act (2023 amendment) and the Nagoya Protocol
+- **Drug Regulation** — classification under the Drugs and Cosmetics Act, FSSAI Ayurveda-Aahar rules
+- **International Frameworks** — TRIPS, CBD, WIPO GRATK Treaty, PCT, Madrid/Hague systems
 
 Every answer is **source-cited**, **jurisdiction-aware**, and augmented with a **hallucination-minimising RAG pipeline** — so users can trace each response back to a specific statute, rule, treaty article, or registry record.
-
-## 📑 Contents
-
-- [Key features](#-key-features)
-- [Architecture](#️-architecture)
-- [Project structure](#-project-structure)
-- [Getting started](#-getting-started)
-- [API reference](#-api-reference)
-- [Safety & compliance design](#-safety--compliance-design)
-- [Corpus sources](#-corpus-sources)
-- [Tech stack](#️-tech-stack)
-- [Contributing](#-contributing)
-- [Disclaimer](#️-disclaimer)
-- [License](#-license)
 
 ---
 
@@ -62,58 +37,50 @@ Every answer is **source-cited**, **jurisdiction-aware**, and augmented with a *
 
 ## 🏗️ Architecture
 
-```mermaid
-flowchart TB
-    subgraph FE["Next.js Frontend"]
-        F1["React 19 · TypeScript · TailwindCSS<br/>Framer Motion · Lucide Icons · react-markdown"]
-    end
-
-    subgraph BE["FastAPI Backend (Python)"]
-        direction LR
-        RAG["RAG Engine<br/>Qdrant + InLegalBERT + Gemini"]
-        FC["Formulation Classifier<br/>(deterministic rules)"]
-        BS["Biopiracy Scanner<br/>(TKDL)"]
-        BQ["BigQuery<br/>Patent DB"]
-        BH["Bhashini<br/>Translation"]
-        MW["DPDP / Cache<br/>Middleware"]
-    end
-
-    subgraph VS["Qdrant Vector Store (local)"]
-        V1["legal_docs"]
-        V2["classical_formulations"]
-        V3["tkdl_formulations"]
-    end
-
-    FE -- "HTTP · port 3000 → 8000" --> BE
-    RAG --> VS
-    FC --> VS
-    BS --> VS
+```
+┌─────────────────────────────────────────────────────┐
+│                  Next.js Frontend                   │
+│  (React 19 · TypeScript · TailwindCSS · Framer      │
+│   Motion · Lucide Icons · react-markdown)           │
+└──────────────────────┬──────────────────────────────┘
+                       │ HTTP (port 3000 → 8000)
+┌──────────────────────▼──────────────────────────────┐
+│              FastAPI Backend (Python)               │
+│                                                     │
+│  ┌─────────────┐  ┌──────────────┐  ┌───────────┐  │
+│  │  RAG Engine │  │  Formulation │  │  Biopiracy│  │
+│  │ (Qdrant +   │  │  Classifier  │  │  Scanner  │  │
+│  │  InLegalBERT│  │  (det. rules)│  │  (TKDL)   │  │
+│  │  + Gemini)  │  └──────────────┘  └───────────┘  │
+│  └─────────────┘                                    │
+│                                                     │
+│  ┌────────────┐  ┌───────────┐  ┌────────────────┐  │
+│  │  BigQuery  │  │ Bhashini  │  │  DPDP / Cache  │  │
+│  │  Patent DB │  │Translation│  │  Middleware    │  │
+│  └────────────┘  └───────────┘  └────────────────┘  │
+└──────────────────────┬──────────────────────────────┘
+                       │
+┌──────────────────────▼──────────────────────────────┐
+│              Qdrant Vector Store (local)            │
+│  • legal_docs  • classical_formulations             │
+│  • tkdl_formulations                               │
+└─────────────────────────────────────────────────────┘
 ```
 
 ### Data Pipeline
 
-```mermaid
-flowchart LR
-    A["Raw PDFs /<br/>Legal Corpus"] --> P1
-    subgraph P1["Phase 1 — Ingestion"]
-        direction TB
-        I1["PyMuPDF / pypdf parsing"]
-        I2["Metadata extraction"]
-    end
-    P1 --> P2
-    subgraph P2["Phase 2 — Vectorization"]
-        direction TB
-        V1b["law-ai/InLegalBERT embeddings<br/>(SentenceTransformers)"]
-        V2b["Qdrant upsert"]
-    end
 ```
-
-```bash
-python run_pipeline.py --phase all
-
-# Or run phases individually
-python run_pipeline.py --phase 1   # Ingest PDFs
-python run_pipeline.py --phase 2   # Vectorize into Qdrant
+Raw PDFs / Legal Corpus
+        │
+        ▼
+  Phase 1: Ingestion  (run_pipeline.py --phase 1)
+  • PyMuPDF / pypdf parsing
+  • Metadata extraction
+        │
+        ▼
+  Phase 2: Vectorization  (run_pipeline.py --phase 2)
+  • law-ai/InLegalBERT embeddings (SentenceTransformers)
+  • Qdrant upsert
 ```
 
 ---
@@ -133,7 +100,7 @@ ayush-ai-main/
 │   ├── schemas/
 │   │   └── payloads.py         # Pydantic request/response models
 │   ├── services/
-│   │   ├── rag.py                     # Core RAG pipeline
+│   │   ├── rag.py              # Core RAG pipeline
 │   │   ├── formulation_classifier.py  # Deterministic formulation classification
 │   │   ├── biopiracy_scanner.py       # TKDL prior-art scan
 │   │   ├── patent_search_bigquery.py  # BigQuery patent search
@@ -182,18 +149,14 @@ ayush-ai-main/
 - A Gemini API key ([get one here](https://aistudio.google.com/apikey))
 - Google Cloud credentials (for BigQuery patent search, optional)
 
-<details>
-<summary><b>1. Clone the repository</b></summary>
+### 1. Clone the Repository
 
 ```bash
 git clone <repo-url>
 cd ayush-ai-main
 ```
 
-</details>
-
-<details>
-<summary><b>2. Set up the Python backend</b></summary>
+### 2. Set Up the Python Backend
 
 ```bash
 # Create and activate a virtual environment
@@ -205,10 +168,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-</details>
-
-<details>
-<summary><b>3. Configure environment variables</b></summary>
+### 3. Configure Environment Variables
 
 ```bash
 cp .env.example .env
@@ -225,10 +185,7 @@ HF_TOKEN=your_huggingface_token  # suppresses HF warnings
 
 > ⚠️ **Never commit `.env` to version control.**
 
-</details>
-
-<details>
-<summary><b>4. Build the data pipeline</b></summary>
+### 4. Build the Data Pipeline
 
 Place your source PDFs inside `data/legal_corpus/`, then run:
 
@@ -241,10 +198,7 @@ python run_pipeline.py --phase 1   # Ingest PDFs
 python run_pipeline.py --phase 2   # Vectorize into Qdrant
 ```
 
-</details>
-
-<details>
-<summary><b>5. Start the backend</b></summary>
+### 5. Start the Backend
 
 ```bash
 uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
@@ -252,10 +206,7 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 
 API docs available at: [http://localhost:8000/docs](http://localhost:8000/docs)
 
-</details>
-
-<details>
-<summary><b>6. Start the frontend</b></summary>
+### 6. Start the Frontend
 
 ```bash
 cd frontend
@@ -265,8 +216,6 @@ npm run dev
 
 Frontend available at: [http://localhost:3000](http://localhost:3000)
 
-</details>
-
 ---
 
 ## 🔌 API Reference
@@ -274,7 +223,7 @@ Frontend available at: [http://localhost:3000](http://localhost:3000)
 All endpoints are prefixed with `/api/v1`.
 
 | Method | Endpoint | Description |
-|:---|:---|:---|
+|---|---|---|
 | `GET` | `/api/health` | Health check |
 | `POST` | `/api/v1/chat` | RAG legal chat with jurisdiction filter |
 | `POST` | `/api/v1/classify-formulation` | Deterministic formulation classification |
@@ -285,8 +234,7 @@ All endpoints are prefixed with `/api/v1`.
 | `GET` | `/api/v1/document/{filename}` | Serve corpus PDF for citation viewer |
 | `GET` | `/api/v1/cache/stats` | Shadow cache diagnostics |
 
-<details>
-<summary><b>Example — Chat request</b></summary>
+### Example: Chat Request
 
 ```json
 POST /api/v1/chat
@@ -298,10 +246,7 @@ POST /api/v1/chat
 }
 ```
 
-</details>
-
-<details>
-<summary><b>Example — Formulation classification</b></summary>
+### Example: Formulation Classification
 
 ```json
 POST /api/v1/classify-formulation
@@ -317,8 +262,6 @@ POST /api/v1/classify-formulation
   "route": "oral"
 }
 ```
-
-</details>
 
 ---
 
@@ -347,12 +290,7 @@ The legal corpus can be assembled from these open, authoritative public sources:
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Backend**
-
+### Backend
 | Library | Purpose |
 |---|---|
 | `fastapi` | REST API framework |
@@ -366,11 +304,7 @@ The legal corpus can be assembled from these open, authoritative public sources:
 | `pymupdf4llm` | PDF text extraction |
 | `python-dotenv` | Environment variable management |
 
-</td>
-<td valign="top" width="50%">
-
-**Frontend**
-
+### Frontend
 | Library | Purpose |
 |---|---|
 | `next` | React framework (App Router) |
@@ -380,10 +314,6 @@ The legal corpus can be assembled from these open, authoritative public sources:
 | `lucide-react` | Icon library |
 | `react-markdown` | Render markdown responses |
 | `uuid` | Session ID generation |
-
-</td>
-</tr>
-</table>
 
 ---
 
